@@ -1,0 +1,85 @@
+
+
+
+
+Data om signatur og prokura
+
+Sist oppdatert: 13. april 2023.
+
+
+
+
+
+I denne tenesta kan du sjekke kven som har signatur og prokura.
+
+Tenesta består av to API: Oppslagstenesta og kontrolltenesta
+Opplysningane om signatur og prokura er henta frå Einingsregisteret og Føretaksregisteret og er strukturert etter tolking basert på 17 ulike register med grunnlag i dei mest bruke signatur- og prokurabestemmingane.
+Oppslagstenesta
+I denne tenesta får du namn og fødselsdato på dagleg leiar, styret og på dei som har signatur og prokura i verksemda.
+APIet for oppslagstenesta er opent og gratis å bruke.
+Offentlege myndigheiter og kredittopplysningsføretak vil, ved bruk av verksemdssertifikat, i tillegg få fødselsnummer på dei som har signatur og prokura.
+Kontrolltenesta
+Kontrolltenesta krev bruk av verksemdssertifikat, men er gratis å bruke og tilgjengeleg for alle. Her legg du inn fødselsnummer og organisasjonsnummer og får informasjon om personen har rett til å signere på vegner av verksemda.
+API-dokumentasjon og informasjon om korleis du får tilgang, finn du her.
+ 
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

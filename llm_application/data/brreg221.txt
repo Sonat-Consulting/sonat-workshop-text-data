@@ -1,0 +1,157 @@
+
+
+
+
+Abonnement på roller i virksomheter
+
+Sist oppdatert: 9. september 2021.
+
+
+
+
+
+Du kan abonnere på oversikt over hvem som har roller i virksomheter i Enhetsregisteret og Foretaksregisteret. 
+
+Du kan velge om du vil ha opplysninger om roller fra både Enhetsregisteret og Foretaksregisteret eller bare ett av disse. Dette leveres i to ulike filer. Filene viser totalbestanden av roller, det er ikke mulig å abonnere på rolleendringer for en spesiell periode.
+Filene inneholder opplysninger om fødselsdato. Har du konsesjon fra Datatilsynet for kredittopplysningsvirksomhet, kan vi levere filene med opplysninger om fødselsnummer og kjønn.
+Opplysninger som inngår er: Organisasjonsnummer, foretaksnavn, fødselsdato/fødselsnummer/organisasjonsnummer, navn, rolle, adresse, postnummer, poststed, land, valgt av, ansvar, kjønn og dato.
+Du kan få levert rolleopplysninger daglig, ukentlig eller månedlig. Vi kan avtale sjeldnere levering hvis ønskelig.
+ 
+
+
+
+
+
+
+
+ 
+                                Priser og vilkår                            
+
+
+
+
+Månedlig levering med rolleopplysninger fra ett register: 5000,- (60 000,- per år)
+Månedlig levering med rolleopplysninger fra begge registrene: 10 000,- (120 000,- per år)
+Daglig/ukentlig levering med rolleopplysninger fra ett register: 10 000,- (120 000,- per år)
+Daglig/ukentlig levering med rolleopplysninger fra begge registrene: 15 000,- (180 000,- per år)
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Avtaler                            
+
+
+
+
+Vilkår for abonnement på roller fra Enhets- og Foretaksregisteret reguleres av standard rammeavtale.
+Du må signere og sende inn både rammeavtale og underavtale for å få tilgang til tjenesten.
+Du kan sende avtalen til oss enten via e-post eller post.
+
+Rammeavtale (PDF)
+Underavtale roller (PDF)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Teknisk beskrivelse                            
+
+
+
+Filene er kolonnebasert og leveres i tekstformat. Filene kan åpnes i Excel eller i en god teksteditor. Levering foregår ved at det opprettes en sftp-konto for deg. Vi legger filene på denne kontoen etter avtalt leveringshyppighet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+For mer informasjon om tjenesten, vennligst ta kontakt med oss på e-post.
+
+
+
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

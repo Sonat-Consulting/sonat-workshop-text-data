@@ -1,0 +1,38 @@
+
+
+
+
+About the organisation number
+
+Last updated: 22 February 2023.
+
+
+
+
+
+Every enterprise is registered in the Central Coordinating Register for Legal Entities and the Register of Business Enterprises is assigned an organisation number. 
+
+The organisation number identifies legal persons etc. and is the key to find the enterprise’s registered information at the Brønnøysund Register Centre. Everyone registered in the Central Coordinating Register for Legal Entities must make sure that the organisation number is included in the business documents. If you are registered in the Value Added Tax register, your VAT-number is the same as the organisation number.
+Technical composition of the organisation number
+The organisation number consists of 9 digits whereof the last digit is a check digit based on a standard weighted code, modulus 11.  The weighted codes 3, 2, 7, 6, 5, 4, 3 and 2 are used from the first digit onwards.
+Modulus 11
+Example:
+Fields without check digits:    1  2  3  4  5  6  7  8
+Weighted codes:                           3  2  7  6  5  4  3  2
+Result:                                               3 + 4 + 21 + 24 + 25 + 24 + 21 + 16 = 138
+Division:                                           138 : 11 = 12 and a remaining number of 6
+Check digit:                                     11 – 6 = 5
+Fields including check digit:   1  2  3  4  5  6  7  8  5
+ 
+
+
+The digits in the field are multiplied with the credits 2, 3, 4, 5, 6, 7, 2, 3 etc. from the right to the left. The product (in this example 138) is divided with 11. The remaining number after division (in this case 6) is subtracted from 11, and the result is the check digit (in this case 5).
+If the division works out (the result = 0), the check digit will be 0. If the check digit is 10 (the result = 1), it will be replaced by a minus (-).
+A minus (-) cannot be used as a check digit in an organisation number.
+ 
+
+
+
+
+
+

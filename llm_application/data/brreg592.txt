@@ -1,0 +1,244 @@
+
+
+
+
+Attachment when reporting information about sub-entities
+
+Last updated: 25 April 2022.
+
+
+
+
+
+Enterprises that are to report information about several sub-entities, must report this in a separate attachment. 
+
+You can fill in and use the Form for sub-entities – activity at multiple addresses as attachment.
+Different requirements for content in attachments
+There are different requirements for the content of the attachment, depending on whether you are reporting a new sub-entity, changing information about an existing one, or registering closure. Here you will find an overview of the various requirements.
+ 
+
+
+
+
+
+
+
+ 
+                                Attachment when reporting a new sub-entity                            
+
+
+
+
+
+
+Type of informationInformation to be reported
+
+
+
+
+Organisation number- the main entity's organisation number in the field for main entity
+
+
+The sub-entity's name- the sub-entity's full name
+
+
+The starting date of the activity- date for when the activity was or will start
+
+
+The sub-entity's location address- street name, house number or place (if the street address does not exist)
+- postal code and postal area
+- municipality (postal code or name)
+
+
+The sub-entity's activity or branch-description of the type of activity being conducted in the sub-entity
+
+
+The sub-entity's postal address- Post Office Box, street name, house number or place
+- postal code and postal area
+- municipality (number or name)
+
+
+
+Other information- telepone number, email address, web address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Attachment when reporting change of information for the sub-entity                            
+
+
+
+The attachment must contain information about
+
+the sub-entity’s name
+organisation number
+what information is to be registered
+
+If the organisation number is unknown, you can search in the key information from the Central Coordinated Register for Legal Entities.
+Information you also need to state
+
+
+
+Type of informationInformation to be reported
+
+
+
+
+Organisation number-the main entity's organisation number in the field of main entity
+
+
+The sub-entity's name-the sub-entity's full name
+
+
+The enterprise has taken over a sub-entity from another enterprise-organisation number of the enterprise that the sub-entity has been taken over from
+-name and address to previous owner
+-date for when the sub-entity was taken over
+
+
+The enterprise has transferred the sub-entity to another enterprise-organisation number of the enterprise that the sub-entity has been transferred to
+-name and address to previous owner
+-date for when the sub-entity was transferred
+
+
+The sub-entity's location address- street name, house number or place (if the street address does not exist)
+- postal code and postal area
+- municipality (postal code or name)
+
+
+The sub-entity's postal address- Post Office Box, street name, house number or place
+- postal code and postal area
+- municipality (number or name)
+
+
+The sub-entity's activity or branch-description of the type of activity being conducted in the sub-entity
+
+
+Other information- telepone number, email address, web address
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Attachment when reporting closure of the sub-entity                            
+
+
+
+The attachment must contain information about
+
+the sub-entity’s name
+organisation number
+what information is to be registered
+
+If the organisation number is unknown, you can search in the key information from the Central Coordinated Register for Legal Entities.
+Information you also need to state
+
+
+
+Type of informationInformation to be reported
+
+
+
+
+Organisation number- the main entity's organisation number in the field for main entity
+
+
+The sub-entity's name- the sub-entity's full name
+
+
+Closure- date for when the activity was or will be closed
+
+
+The enterprise has transferred the sub-entity to another enterprise-organisation number of the enterprise that the sub-entity has been transferred to
+-name and address of the new owner
+-date for when the sub-entity was or will be transferred
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

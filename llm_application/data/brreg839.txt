@@ -1,0 +1,236 @@
+
+
+
+
+Veileder i beregning av administrative kostnader
+
+Sist oppdatert: 16. desember 2022.
+
+
+
+
+
+Denne veilederen viser hvordan du beregner administrative kostnader for virksomheter ved nye eller endrede regelverk.
+
+
+
+
+
+
+
+Utredningsinstruksen
+
+Regjeringen.no
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sektorveilederen, pdf
+
+Regjeringen.no
+
+
+
+
+
+
+
+
+
+Veilederen viser hvordan du beregner administrative kostnader for å oppfylle informasjonskrav i regelverk. Du bruker metodikken når du skal rapportere informasjon til Oppgaveregisteret (OR) eller Kommunalt rapporteringsregister (KOR). Du bør bruke den i forbindelse med forhåndsutredninger og evalueringer, men også se den i sammenheng med utredningsinstruksen punkt 2-2 når det gjelder omfang og grundighet. Veilederen er ment som et supplement til utredningsinstruksen og sektorveilederen fra Nærings- og fiskeridepartementet.
+Hvem kan bruke veilederen?
+Veilederen er laget for ansatte i departement eller etater som krever at andre skal gi fra seg informasjon (rapporteringsplikt). Veiledningsmateriellet er også relevant for statsansatte som jobber med utredning av nye lover eller eksisterende lovverk, hvor administrative kostnader er identifisert.
+Krav i utredningsinstruksen
+Minimumskravene er seks spørsmål som skal besvares i alle utredninger:
+
+Hva er problemet, og hva vil vi oppnå?
+Hvilke tiltak er relevante?
+Hvilke prinsipielle spørsmål reiser tiltakene?
+Hva er de positive og negative virkningene av tiltakene, hvor varige er de, og hvem blir berørt?
+Hvilket tiltak anbefales, og hvorfor?
+Hva er forutsetningene for en vellykket gjennomføring?
+
+Beregning av administrative kostnader skal inngå i en større analyse som utredningsinstruksen punkt 2-2 krever. Særlig under spørsmål 4 i utredningsinstruksen er denne veiledningen aktuell. I tillegg til administrative kostnader, kan regelverk påføre næringslivet øvrige etterlevelseskostnader. Beregning av slike kostnader er ikke en del av denne veilederen.
+ 
+Innhold i veilederen
+Identifisere og kartlegge informasjonskrav
+Identifisere og kartlegge administrative aktiviteter
+Beregne administrative kostnader
+Hvordan du går frem for å tallfeste variablene i ligningen
+Kilder for å identifisere antall aktiviteter per år
+Eksempler på beregning av tidsbruk
+Eksempel på beregning av antall årlige innsendelser
+Eksempler på beregning av administrative kostnader
+Beregne administrative kostnader av et regelverk i Oppgaveregisteret
+Beregne endring i administrativ kostnader som følge av endring i lovverk
+ 
+Identifisere og kartlegge informasjonskrav
+Administrative kostnader per aktivitet er definert som kostnaden knyttet til de administrative aktivitetene næringslivet er pålagt å gjennomføre for å etterleve et myndighetspålagt informasjonskrav. Et informasjonskrav er en lov- eller forskrift, som pålegger målgruppen å finne frem til, dokumentere, lagre, gjøre tilgjengelig eller rapportere informasjon til det offentlige eller tredjepart. Et regelverk kan inneholde flere informasjonskrav. Og ett informasjonskrav kan omfatte flere opplysningskrav eller aktiviteter som virksomhetene er pålagt å gjennomføre for å oppfylle kravene i regelverket. Den samlede administrative kostnaden er summen av kostnader knyttet til interne aktiviteter og kjøp av tjenester, samt eventuelle anskaffelser som det må investeres i for å oppfylle de administrative kravene. Sammenhengen mellom begrepene er illustrert i figuren lenger ned.
+Det er viktig å skille mellom informasjonskrav og krav knyttet til andre etterlevelseskostnader. Dersom en virksomhet er pålagt å installere et renseanlegg, er kostnadene som følger av installering en etterlevelseskostnad, som ikke er en del av informasjonskravet. Dersom samme regelverk stiller krav om at årlige utslipp skal rapporteres til myndighetene eller lagres internt, vil dette være en del av et informasjonskrav. Eksempler på administrative kostnader knyttet til et slikt informasjonskrav kan være anskaffelse av måleinstrumenter og tid brukt på rapportering av informasjon. Generelt skiller vi mellom tre ulike typer informasjonskrav:
+
+Informasjonskrav som en virksomhet er pålagt å dokumentere.
+Informasjonskrav som en virksomhet er pålagt å innrapportere.
+Informasjonskrav som en virksomhet er pålagt å stille til rådighet overfor en tredje part.
+
+Det er informasjon knyttet til informasjonskrav som målgruppen er pålagt å rapportere, som skal registreres i OR eller KOR.
+ 
+Figuren viser prosessen som kobler identifisering og kartlegging av informasjonskrav med beregning av administrative kostnader.
+
+
+Identifisere og kartlegge administrative aktiviteter
+For å få en oversikt over hvilke arbeidsoppgaver virksomheten må foreta for å oppfylle et informasjonskrav, må du kartlegge de administrative aktivitetene. Disse kan være beskrevet i beslutningsgrunnlaget som følger av lovforslaget. Hvis du utreder et lovforslag er det mulig å søke hjelp fra eksperter, eller intervju og diskusjon med berørte virksomheter.
+Som et utgangspunkt i kartleggingen kan det være nyttig å ta utgangspunkt i de 11 standardiserte aktivitetene som er beskrevet i tabellen under. Flere av disse kan være aktiviteter som må bli gjennomført for å oppfylle informasjonskravet.
+Oversikt over standardiserte aktiviteter virksomhetene gjennomfører for å oppfylle informasjonskrav i lovverket
+
+
+
+NummerStandardisert aktivitetBeskrivelse
+
+
+
+
+1Sette seg inn i informasjonskravetForetakets ressursforbruk i forbindelse med å sette seg inn i reglene for et gitt informasjonskrav
+
+
+2Informasjonsinnsamlingopplysninger som er påkrevet for å etterleve et gitt informasjonskrav
+
+
+3VurderingVurdering av hvilke tall og opplysninger som er nødvendige for at offentlige myndigheter aksepterer at kravet er oppfylt
+
+
+4BeregningUtførelse av relevante beregninger som er nødvendige for at offentlige myndigheter aksepterer at kravet er oppfylt
+
+
+5KontrollKontroll av tall, for eksempel gjennom avstemming med andre data
+
+
+6KorreksjonHvis virksomhetens egen kontroll påviser feil i beregningene, foretas etterfølgende korreksjoner
+
+
+7TekstbeskrivelseUtarbeidelse av tekstbeskrivelse, for eksempel årsberetning eller skaderapport
+
+
+8Avregning eller innbetalingInnbetaling av avgifter, gebyrer eller lignende
+
+
+9Interne møterMøter som avholdes internt mellom personene som er involvert i å oppfylle informasjonsforpliktelsen
+
+
+10Eksterne møterMøter som avholdes i de tilfeller hvor oppfyllelse av informasjonskravet krever møter med revisor, advokat eller lignende
+
+
+11Kontroll fra offentlige myndigheterBistand til eksterne kontrollører i forbindelse med gjennomføringen av deres kontroll i virksomheten
+
+
+
+
+ 
+Beregne administrative kostnader
+Den administrative kostnaden av et regelverk er summen av administrative kostnader per aktivitet. Når det er kartlagt n aktiviteter blir formelen
+Administrativ kostnad = Aktivitet_1 + Aktivitet_2 + ⋯ + Aktivitet_n
+Administrative kostnader per aktivitet er det mest hensiktsmessige analysenivå. Formelen for å beregne disse er
+Administrative kostnader per aktivitet=P×Q=(T×W)×(N×F)
+P = Pris per aktivitet
+Q = Antall aktiviteter i året
+T = Antall timer som medgår
+W = Lønnskostnad per time
+N = Populasjon, antall berørte virksomheter
+F = Frekvens, antall ganger aktivitet utføres per år
+ 
+Hvordan du går frem for å tallfeste variablene i ligningen
+Pris (P)
+Pris er kostnad per år. Ved beregning av pris er de to komponentene tid og lønnskostnad utgangspunktet. Imidlertid kan det ved bruk av eksterne tjenester være hensiktsmessig å benytte en gjennomsnittlig enhetspris i stedet for å beregne T x W.
+Tid (T)
+Tid er antall timer det tar for en virksomhet å gjennomføre de aktiviteter som kreves for å etterleve informasjonskravet, inkludert forarbeid. Tidsbruken vil variere mellom virksomhetene. Det må kartlegges et gjennomsnitt for normalt effektive virksomheter, eventuelt splitte opp i størrelseskategorier dersom relevant. Det er flere praktiske tilnærminger som kan brukes:
+
+Undersøke om det allerede finnes tidsestimater for lignende lovgivning, kontakt Oppgaveregisteret eller Kommunalt rapporteringsregister.
+Beregne gjennomsnittlig tidsbruk ved å innhente tall fra tre til fire virksomheter. Ved forventninger om stor variasjon, for eksempel mellom store og små virksomheter, bør dette påvirke antallet virksomheter og sammensettingen av utvalget det innhentes tidsestimater fra.
+I mangel på annet vil bransjeorganisasjoner kunne gi gode skjønnsmessige estimater.
+
+Tidsbruk er normalt det som er mest vanskelig å beregne. Usikkerheten i et estimat blir normalt redusert med antall observasjoner estimatet bygger på. Normalt vil tall fra 15–20 virksomheter gi et godt grunnlag. Men en slik grundig og ressurskrevende analysemetode bør i følge utredningsinstruksen forbeholdes de største tiltakene. Det er imidlertid viktig at det redegjøres for hvordan estimatet er innhentet.
+Timepris (W)
+Ved beregning av timepris (W) må du skille mellom interne og eksterne kostnader. Den interne timeprisen er brutto reallønn, det vil si lønn inklusiv skatt, arbeidsgiveravgift og sosiale kostnader, per time for den personen i virksomheten som utfører arbeidet. Dersom det allerede finnes informasjon vedrørende timepris for den aktuelle aktiviteten som gir en god indikasjon, skal du benytte denne. Om dette ikke er tilfelle, benytter du en gjennomsnittlig månedslønn for de ulike personalkategoriene omregnet til timelønn, basert på SSBs lønnsstatistikk.
+Den eksterne timeprisen er kostnader per time for en person utenfor organisasjonen som arbeider på virksomhetens regning. Disse kostnadene skal være markedspris eksklusiv merverdiavgift.
+Antall aktiviteter per år
+Antall aktiviteter per år kan være basert på en fast frekvens eller være hendelsesbasert.
+Populasjon og segmentering (N)
+Populasjon (N) brukes i denne sammenheng om antall direkte berørte aktive norske virksomheter eller antall hendelser som reguleringen gjelder for.
+For å ta hensyn til vesentlige forskjeller mellom typer virksomheter når det gjelder administrativ ressursbruk, kan det foretas en segmentering. Segmentering innebærer at populasjonen blir inndelt i grupper etter de kriterier som blir vurdert til å være av størst betydning for ressursbruken. Det kan for eksempel segmenteres etter bransje eller virksomhetsstørrelse målt ved omsetning eller antall ansatte. Slik segmentering er relevant hvis det er vesentlige forskjeller i etterlevelseskostnadene for et gitt informasjonskrav på tvers av de berørte virksomhetene. Hvis det er relevant å segmentere etter bransje, kan du bruke standard for næringsgruppering som SSB forvalter. Hvis det er relevant å segmentere etter størrelse på virksomhet kan man gruppere etter antall ansatte. Å segmentere bidrar til å øke presisjonsnivået på beregningen av de samlede administrative kostnadene.
+Frekvens (F)
+En fast frekvens betyr antall ganger aktiviteten utføres av en virksomhet per år. Frekvens er relevant for krav som skal etterleves med en gitt regularitet. Hvor ofte vil fremgå av regelverksforslaget. Enkelte informasjonskrav skal ikke oppfylles hvert år, men kanskje hvert andre  eller hvert tredje år. I slike tilfeller skal det beregnes en gjennomsnittlig årlig frekvens. Periodiske informasjonskrav som gjelder hvert andre år får da en årlig frekvens på 0,5. For hendelsesbaserte aktiviteter, for eksempel knyttet til søknader eller markedstransaksjoner, settes frekvens til 1 siden antallet hendelser er gitt direkte ved populasjonstallet, dvs. Q = N × 1.
+ 
+Kilder for å identifisere antall aktiviteter per år
+Du kan bruke følgende kilder for å identifisere populasjon, populasjonssegment og frekvens:
+
+Fagdepartementene, de underliggende etatene og andre offentlige myndigheter vil gjennom egne registre og saksbehandling kunne ha tilgjengelig informasjon for en del informasjonskrav knyttet til det regelverket disse myndighetene forvalter.
+Statistisk sentralbyrå, Brønnøysundregistrene, Altinn, bransjeorganisasjoner eller andre institusjoner kan ha tilgjengelig statistisk materiale som kan benyttes for å avgrense og identifisere relevante populasjoner og hyppighet.
+For noen informasjonskrav kan det være nødvendig å gjennomføre en spørreundersøkelse for å finne ut hvor mange virksomheter som er berørt. Dette kan blant annet være hvor stor andel av virksomhetene som benytter seg av ulike valgmuligheter i regelverket. Det kan for eksempel gjelde en andel som setter ut en aktuell oppgave til eksterne, kontra en andel som håndterer oppgaven selv.
+I noen tilfeller kan det være nødvendig å bruke skjønn. Det kan for eksempel være vanskelig å identifisere hvor mange virksomheter som har krav om å informere kundene i forbindelse med avtaler/kontrakter (informasjonskrav i forhold til tredjepart).
+Dersom informasjonskravet er hendelsesbasert kan det være nødvendig med en dypere analyse for å identifisere populasjon. Det kan også være aktuelt å gå i dialog med berørte virksomheter for å avdekke hyppighet.
+
+ 
+Eksempler på beregning av tidsbruk
+Her kan du se fire eksempler på hvordan du kan estimere og registrere tidsbruken under ulike forutsetninger.
+Se regneeksempler (Excel) på beregningene av tidsbruk som er beskrevet i disse eksemplene.
+Estimere tidsbruk per innsendelse
+Estimatet for tidsbruk er gjennomsnittlig antall minutt målgruppen bruker per innsending eller skjema. Dette er summen av minutt brukt på forarbeid og minutt brukt til selve innrapporteringen. Hvis du kan sende inn skjema både elektronsikt og via papir skal tidsestimat for begge formene sendes inn. Elektronisk betyr alle tekniske løsninger hvor data kan tas ut i maskinlesbar form både hos sender og mottaker. Papir inkluderer også pdf som må fylles ut manuelt og som ikke kan bli behandlet elektronisk ved innkomst.
+Deler av målgruppen rapporterer via et system
+En digital innrapportering av et skjema kan skje både som en manuell innsendelse og gjennom et system som for eksempel maskin-til-maskin kommunikasjon eller fagsystem. Tidsbruken for selve innrapporteringen kan variere stort avhengig av hvilken innsendelsesform som blir brukt. Tidsbruken ved forarbeidet kan være den samme.
+Hvis etaten har definert ulike skjema avhengig av innsendelsesform, skal disse skjemaene registreres, med tilhørende estimat for tidsbruk. Eksempel på slike skjema kan være A-meldingen, som er registrert med ett skjema for system innsending og ett for manuell innsending i Altinn. Når samme skjema blir brukt uavhengig av innsendelsesform, skal tidsbruken estimeres som et veid gjennomsnitt av antall årlige innsendelser for de ulike innsendelsesformene.
+Hver forsendelse av data som oversendes fra en virksomhet via et system skal telles som en innsendelse.
+Målgruppen består av flere undergrupper med ulik tidsbruk
+En målgruppe kan bestå av flere ulike undergrupper som hver for seg bruker ulik tid på en rapportering. Eksempel på dette kan være små, mellomstore og store virksomheter som kan ha svært ulik ressursbruk ved en rapportering.
+Estimatet for tidsbruk som skal registreres er et veid gjennomsnitt av antall innsendelser per undergruppe. Du finner eksempel på utfylling som en del av regneeksemplene i Excel.
+Deler av arbeidet blir gjennomført av eksterne
+Enkelte virksomheter har valgt å sette bort deler av rapporteringsarbeidet til eksterne. Eksempel på dette kan være bruk av regnskapsførere eller juridiske eksperter som utfører deler av forarbeidet. Tidsbruken kan variere mellom virksomheter som har valgt å benytte eksterne og virksomheter som selv gjennomfører oppgavene. Målgruppen bør derfor deles inn i to undergrupper med hver sin tidsbruk og tilhørende antall årlige innsendelser.
+Estimatet for samlet tidsbruken som registreres i Oppgaveregisteret er dermed et gjennomsnitt basert på undergruppenes tidsbruk veid over antall innsendelser for de ulike undergruppene.
+ 
+Eksempel på beregning av antall årlige innsendelser
+Et informasjonskrav kan pålegge virksomheter å rapportere hvis en bestemt hendelse inntreffer. For å finne ut antall årlige innsendelser må du først finne ut hvor stor målgruppen er. Det neste du må gjøre er å finne frekvens, det vil si hvor ofte hendelsen inntreffer for en gjennomsnittlig virksomhet per år. Antall årlige innsendelser blir da størrelse på målgruppen ganget med frekvensen. Hvis du vet antallet for faktiske innsendelser kan du også bruke det.
+Hvis en hendelse inntreffer 4 ganger i året blir årlige frekvensen 4. Hvis en hendelse inntreffer hvert fjerde år blir den årlige frekvensen 0,25.
+ 
+Eksempler på beregning av administrative kostnader
+Her finner du eksempler på hvordan du kan beregne administrativ kostnad som følge av eksisterende informasjonskrav og ved endring i et eksisterende informasjonskrav.
+Beregning av pris per aktivitet (P)
+En virksomhet er pålagt å utarbeide en skattemelding for hvert inntektsår. Virksomheten benytter et regnskapsbyrå som er leid inn. Regnskapsføreren i det aktuelle tilfellet har en brutto reallønn på 1000 kroner per time. Det tar regnskapsføreren totalt 20 timer å gjennomføre arbeidet. Virksomheten på sin side må forsyne regnskapsføreren med informasjon som kreves for arbeidet. Dette tar 2 timer med en timepris på 500 kroner per time.
+Pris per aktivitet = (500 kroner x 2 timer) +(1000 kroner x 20t) = 21 000 kroner
+Antall ganger den administrative aktiviteten utføres
+Hvis kravet om å utarbeide skattemeldingen omfatter 200 000 virksomheter og rapporteringen skal gjøres en gang per år blir antall ganger aktiviteten utføres lik 200 000.
+Antall ganger aktiviteten utføres = 200 000 Virksomheter x 1 = 200 000 virksomheter
+Årlig administrativ kostnad
+Den samlede administrative kostnaden per år av å oppfylle kravet om å utarbeide skattemelding blir dermed:
+Årlig administrativ kostnad = 21 000 kroner x 200 000 virksomheter = 4 200 000 000 kroner
+ 
+Beregne administrative kostnader av et regelverk i Oppgaveregisteret
+Ta utgangspunkt i et skjema i Oppgaveregisteret. Med utgangspunkt i volum, tidsbruk, frekvens og timelønn beregner du årlig administrativ kostnad.
+Tidsbruk ved innrapportering for en normalt effektiv bedrift er 20 minutter. All innrapportering skjer med bruk av papirskjema. Antall innsendelser per år er 800. Gjennomsnittlig timelønn i Norge setter du til 500 kroner. Ta utgangspunkt i at det ikke medfører anskaffelser knyttet til etterlevelse av informasjonskravet og at arbeidet blir gjennomført internt i virksomhetene. Nå kan du beregne summen av administrative kostnader knyttet til informasjonskravet.
+Årlig administrativ kostnad = (20 min/60) timer x 500 kroner x 800 = 133 333 kroner
+ 
+Beregne endring i administrativ kostnader som følge av endring i lovverk
+Forenkling av lovverk har ført til at et aktivitetskrav frafaller og at et annet forenkles til å gjelde en mindre populasjon. Ett aktivitetskrav blir borte og ett får mindre populasjon.
+Eksempelvis hadde et informasjonskrav 5000 elektroniske innsendelser i 2017, der en normalt effektiv virksomhet benytter 30 minutter per innsendelse. Gå ut fra forenkling i lovverket som medfører at færre må etterleve informasjonskravet, og forenkling i regelverk som for eksempel frafalt vedleggskrav, slik at mindre informasjon må rapporteres. 3000 virksomheter slipper å etterleve informasjonskravet, de resterende 2000 har et enklere regelverk å forholde seg til. Ta utgangspunkt i besparelse på 10 minutter for virksomheter som må forholde seg til forenklet regelverk, og at skjema sendes inn en gang i året.
+Administrativ kostnad før forenkling
+Den årlige administrative kostnaden før regelendring finner sted, kan beregnes ved følgende formel:
+Administrativ kostnad før regelverksendringer = (30 min/60) timer x timelønn x 5000 x1
+Virkning 1 = besparelse for virksomheter som slipper å rapportere informasjon. Du kan beregne slik:
+Virkning 1 = (30 min/60) timer x timelønn x populasjon x 1 (hyppighet)
+Virkning 2 =besparelse for foretak virksomheter som får enklere regler. Du kan beregne slik:
+Virkning 2 = (10/60) timer x timelønn x populasjon x 1 (hyppighet)
+Den totale administrative kostnaden for populasjonen etter lovendringer kan utrykkes ved følgende formel:
+Administrativ kostnad etter regelverksendringa = administrativ kostnad før regelverksendring – virkning 1 – virkning 2
+ 
+
+
+
+
+
+

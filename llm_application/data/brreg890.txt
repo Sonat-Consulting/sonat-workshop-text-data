@@ -1,0 +1,180 @@
+
+
+
+
+Subscription to announcements in XML format
+
+Last updated: 18 January 2023.
+
+
+
+
+
+You may subscribe to daily registrations of announcements.
+
+You will be supplied with announcements from the Register of Business Enterprises, the Register of Bankruptcies, the Register of Company Accounts, the Register of Political Parties and the Foundation Authority. These announcements are available in XML format, and you can decide which type of announcement you wish to subscribe to.
+If you want to build a database with the same advertising texts that are covered by the announcement solution, you can subscribe to this.
+ 
+
+
+
+
+
+
+
+ 
+                                How to place an order                            
+
+
+
+You can take out a subscription by ticking off for the announcement types you wish to include in the subscription. The subscription list can be found under “Agreements” along with the Standard agreement which must be completed and submitted. The delivery begins when we have received a completed/signed agreement.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Fees and terms                            
+
+
+
+The fee depends on the number of announcement types in the subscription list.
+The subscription list is enclosed in the agreement between the Brønnøysund Register Centre and the subscriber.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Agreements                            
+
+
+
+
+Terms of subscription are regulated by the standard agreement
+You need to sign and submit both the standard agreement and Appendix 1 to access the service
+You can submit the agreements via e-mail or mail.
+
+Standard agreement announcements (PDF) – in Norwegian
+Subscription list (PDF) – in Norwegian
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Tecnical description                            
+
+
+
+
+A zip file containing one file per announcement for each announcement type will be delivered. If ten new companies are announced registered, you will be supplied with ten new registration (NYFR)files.
+The delivery takes place by creating an sftp account
+
+If you want a technical description of how the files are built up, we can send you XSD files and XML showing this.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Contact us                            
+
+
+
+For further details about the service, please send us an e-mail.
+
+
+
+
+
+
+
+
+
+Useful links
+
+Announcements/Creditor notices
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

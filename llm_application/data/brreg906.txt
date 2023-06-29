@@ -1,0 +1,472 @@
+
+
+
+
+Veiledning – Forenklet registermelding for enkeltpersonforetak
+
+Sist oppdatert: 26. januar 2023.
+
+
+
+
+
+Veiledning til fellesskjema for enkeltpersonforetak,  BR1025, for registrering i
+
+Enhetsregisteret
+Foretaksregisteret
+NAV Aa-registeret
+Statistisk sentralbyrås Virksomhets- og foretaksregister
+
+Slik fyller du ut skjemaet:
+ 
+
+
+
+
+
+
+
+ 
+                                1 Navn/foretaksnavn                            
+
+
+
+1.1 Enkeltpersonforetakets fullstendige navn/foretaksnavn
+Feltet skal alltid fylles ut.
+Her oppgir du enkeltpersonforetakets fullstendige foretaksnavn og organisasjonsnummer. Gjelder det nyregistrering, tildeler Enhetsregisteret organisasjonsnummer.
+Foretaksnavn på enkeltpersonforetak skal inneholde innehaverens etternavn, for eksempel Lars Holm, Holms Bilskadeservice eller Bilskadeservice Holm.
+Du kan lese mer om valg av navn og hvilke hensyn du må ta på siden Hvordan velger jeg navn på selskapet mitt?
+1.2 Eventuelt nytt navn/foretaksnavn
+Feltet skal du bare fylle ut hvis du skal melde endring av registrert foretaksnavn. Husk at det tidligere registrerte foretaksnavnet skal oppgis i felt 1.1 sammen med organisasjonsnummeret. Hvis enkeltpersonforetaket er registrert i Foretaksregisteret, er endring av foretaksnavn gebyrbelagt. Se oversikt over gebyr.
+1.3 Eget navn på underenheten
+Feltet skal bare fylles ut hvis foretaket driver underenhet under et annet navn enn foretakets navn. Hvis for eksempel det fullstendige foretaksnavnet er Lars Holms Pølsebu, og du bare bruker Grillbua i markedsføring, korrespondanse og lignende, er det bare sistnevnte navn som skal fylles inn her.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Meldingen gjelder                            
+
+
+
+En melding kan gjelde ett av følgende forhold:
+
+2.1 Registrering av enkeltpersonforetak som ikke er registrert fra før
+2.2 Endring av registrerte opplysninger eller nye opplysninger
+2.3 Sletting av enkeltpersonforetak
+
+Skal du melde overdragelse, overtakelse eller sletting av underenheten din, fyller du ut felt 8 og 9 i skjema.
+2.1 Enkeltpersonforetak som ikke er registrert tidligere
+Her skal du bare krysse av hvis enkeltpersonforetaket ikke er registrert i Enhetsregisteret tidligere.
+Du må oppgi dato for start av aktivitet i felt 8a. Overtar du en eksisterende underenhet, må du i tillegg krysse av for kjøp/overtakelse av underenhet i felt 8a. Felt 9a skal fylles ut med opplysninger om underenhetens tidligere eier.
+2.2 Endringer/nye opplysninger
+Kryss av her hvis du ønsker å gjøre endringer i de registrerte opplysningene. Registrering eller sletting i ett eller flere av Enhetsregisterets tilknyttede register er å betrakte som en endring.
+Du fyller kun ut feltene for de opplysningene som skal endres. Ønsker du å slette registrerte opplysninger, må du merke disse feltene i skjema med «utgår». Vi gjør oppmerksom på at endring av foretaksnavn for enkeltpersonforetak som er registrert i Foretaksregisteret er gebyrbelagt. Se oversikt over gebyr.
+2.3 Sletting av enkeltpersonforetak
+Kryss av her hvis enkeltpersonforetaket skal slettes fra alle registrene (Enhetsregisteret og de tilknyttede registrene).
+Husk å oppgi i felt 8b hva som skjer med den underenheten som enkeltpersonforetaket er registrert med.
+Sletting bare fra tilknyttede registre
+Det er fullt mulig å melde sletting fra andre tilknyttede register uten å bli slettet fra Enhetsregisteret.
+Sletting i Foretaksregisteret
+Et enkeltpersonforetak som ikke har registreringsplikt i Foretaksregisteret, kan melde sletting i Foretaksregisteret i felt 15.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registrering i andre registre                            
+
+
+
+Du fyller ut felt 3 hvis enkeltpersonforetaket skal registreres i et tilknyttet register det ikke er registrert i fra før. Felt 3.3 og 3.4 gjelder registrering av opplysninger i henholdsvis NAV Aa-registeret og Statistisk sentralbyrås Virksomhets- og foretaksregister.
+3.1. Foretaksregisteret
+Du har plikt til å registrere ditt enkeltpersonforetak i Foretaksregisteret hvis du
+
+driver handel med varer som er innkjøpt for videre salg
+skal drive som statsautorisert regnskapsfører
+skal drive som statsautorisert revisor
+har flere enn fem ansatte i stilling hvor de jobber mer enn 20 timer per uke, eller
+skal foreta pant i varelager, motorvogner og annet der det kreves at pantsetter er næringsdrivende
+
+Har du ikke plikt kan du likevel registrere foretaket i Foretaksregisteret. Registreringen vil medføre gebyr. Se oversikt over gebyr.
+3.2 Har eller venter å få arbeidstakere
+Som arbeidstaker regnes enhver som er ansatt i annens tjeneste for lønn eller annen godtgjørelse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Hovedkontorets adresse                            
+
+
+
+Du må oppgi norsk forretningsadresse med navn på gate eller vei og husnummer samt bokstav hvis det finnes, eventuelt stedsnavn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Postadresse                            
+
+
+
+Hvis du ønsker posten sendt til en annen adresse enn forretningsadressen, kan du oppgi den som postadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Underenhetens beliggenhetsadresse                            
+
+
+
+Fyll ut dette feltet hvis aktiviteten foregår på en annen adresse enn forretningsadressen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Innsender/gebyransvarlig                            
+
+
+
+Innsenderen er mottaker av alle typer tilbakemeldinger som gjelder meldingen. Innsender er også ansvarlig for å betale eventuelt gebyr til Foretaksregisteret.
+Hvis innsender-feltet ikke er utfylt, blir tilbakemeldinger og eventuelt krav om gebyr sendt til enkeltpersonforetaket adresse.
+Hvis du tidligere har fått tildelt kundenummer av oss, oppgir du dette nummeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Overtakelse/overdragelse                            
+
+
+
+For at en aktivitet skal regnes som overtatt eller overdratt, skal samme aktivitet fortsette, men med en annen hovedenhet som eier/driver.
+Disse vilkårene må være oppfylt:
+De aktiva som inngår som nødvendige bestanddeler i aktiviteten, for eksempel råvarer, produksjonsutstyr, varelager, kontrakter og annet, må i sin helhet eller i det alt vesentlige overdras under ett. Om de aktiva som inngår i aktiviteten selges særskilt, slik at aktiviteten ikke kan fortsette, melder du nedleggelse av aktiviteten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8a Nyregistrering eller overtakelse av underenhet                            
+
+
+
+Nyregistrering av underenhet
+Ved nyregistrering av underenhet, må du oppgi dato for når aktiviteten startet eller skal starte.
+Overtakelse av underenhet
+Gjelder meldingen overtakelse av underenhet – for eksempel ved at enkeltpersonforetaket ditt overtar et gårdsbruk eller en kiosk fra annet foretak, oppgir du dato for overtakelsen her.
+Her kan du lese mer om nyregistrering eller overtakelse av underenhet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8b Overdragelse eller sletting av underenhet                            
+
+
+
+Overdragelse av underenhet
+Gjelder meldingen overdragelse av underenhet, for eksempel ved at et enkeltpersonforetak overdrar en skobutikk eller frisørsalong til annet foretak, oppgir du dato for overtakelsen her.
+Sletting av underenhet
+Gjelder meldingen sletting av underenhet, kryss av for nedleggelse av aktiviteten og oppgi dato for dette.
+En underenhet blir slettet hvis produksjon av varer og/eller tjenester av en eller annen grunn opphører fullstendig.
+Underenheten opphører også hvis:
+
+en ny eier starter en helt ny aktivitet i de samme lokalene
+en ny eier flytter hele den tidligere aktiviteten til en ny adresse i en annen kommune
+aktiviteten blir flyttet til en annen kommune og det startes en helt ny aktivitet med samme eier
+
+Vær oppmerksom på at melding om sletting av underenhet ikke betyr at foretaket blir slettet. Om du ønsker å slette foretaket, må du krysse av for Sletting av enkeltpersonforetak i felt 2.3.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9a Overtakelse av underenhet                            
+
+
+
+Her gir du opplysninger om den tidligere eieren/driveren. Oppgi den tidligere eierens/driverens organisasjonsnummer hvis det finnes.
+Her kan du lese mer om overtakelse av underenhet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9b Overdragelse av underenhet                            
+
+
+
+Her gir du opplysninger om den nye eieren/driveren. Oppgi den nye eierens/driverens organisasjonsnummer hvis det finnes.
+Her kan du lese mer overdragelse av underenhet.
+Husk at det bør ryddes i innboksen til underenheten i Altinn før overdragelse. Sensitiv informasjon, som sykemeldinger m.m, bør lagres i eget sak-/arkivsystem før overdragelsen blir registrert. Slik unngår du at overtaker får tilgang til sensitiv informasjon som ligger i innboksen til underenheten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Aktivitet/bransje                            
+
+
+
+10.1 Opplysninger om aktivitet
+Opplysningene om virksomhetens aktivitet er grunnlaget for å tildele næringskode. Næringskoden tildeles etter Standard for næringsgruppering (SN2007). Næringskoden blir blant annet brukt til å lage statistikk der norsk næringsliv/arbeidsmarked blir beskrevet etter næring/bransje.
+Du må gi en så nøyaktig beskrivelse som mulig av den aktiviteten som utføres eller skal utføres. Vær oppmerksom på at det ikke er nok å oppgi et generelt overordnet formål. Du må oppgi hva som eventuelt produseres/selges og/eller hvilke tjenester/aktiviteter som utføres. Pass spesielt på å få klart fram hvilken bransje aktiviteten tilhører.
+Her er noen eksempler på hvor detaljert beskrivelsen må være:
+• Jordbruk: Dyrking av korn. Melkeproduksjon på storfe.
+• Transport: Godstransport på vei. Drosjebiltransport.
+• Industri: Produksjon av husholdnings-, sanitær- og toalettartikler av papir. Produksjon av byggevarer av plast.
+• Handel: Agenturhandel med tømmer, trelast og byggevarer. Engroshandel med elektriske husholdningsapparater. Butikkhandel med kjøtt og kjøttvarer.
+• Bygg og anlegg: Grunnarbeid. Oppføring av bygninger.
+• Konsulentvirksomhet: Bedriftsrådgivning. Konsulenttjenester innen programutvikling av kundespesifiserte programmer.
+Hvis enkeltpersonforetaket driver aktivitet i flere bransjer, må du oppgi hver enkelt av dem i rekkefølge etter størrelsen på omsetning eller sysselsetting. Sett hovedaktiviteten først da denne bestemmer hvilken næringskode du vil få.
+Ved endring må du oppgi den nye aktiviteten, og dato for start av denne. Hvis du starter annen aktivitet i tillegg til den aktiviteten som drives fra før, må du føre opp begge i skjema.
+10.2 Bekreftelse på næringsaktivitet
+Du må bekrefte at aktiviteten oppfyller kravene til næringsaktivitet. Et enkeltpersonforetak driver næringsaktivitet når aktiviteten:
+
+har omsetning som over tid kan gi overskudd
+har en viss varighet, vanligvis lengre enn ett år
+ikke er hobbyvirksomhet eller enkeltstående oppdrag
+
+Les mer om kravene for å drive næringsaktivitet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Innehaver, daglig leder, forretningsfører                            
+
+
+
+I et enkeltpersonforetak skal du alltid oppgi innehaver. Med innehaver mener vi den personen som har ubegrenset personlig ansvar for enkeltpersonforetakets forpliktelser. Oppgi også daglig leder og/eller forretningsfører hvis ditt enkeltpersonforetak har det.
+Oppgi navn, bostedsadresse og fødselsnummer eller d-nummer for de personer som skal registreres.
+D-nummer er et nummer som kan tildeles utenlandske personer som ikke har norsk fødselsnummer, men har et behov for identifisering overfor norske myndigheter. Her finner du mer informasjon om d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Revisor                            
+
+
+
+Dette feltet fyller du bare ut hvis enkeltpersonforetaket har revisor.
+Små enkeltpersonforetak har normalt ikke revisjonsplikt. Revisjonsplikt starter først når:
+
+omsetningen er på mer enn 6 millioner kroner og
+balansen viser eiendeler på over 23 millioner, eller
+gjennomsnittlig antall ansatte er på over 10 årsverk.
+
+Revisjonsplikten trer i kraft året etter at foretaket blir revisjonspliktig.
+Noen bransjer har revisjonsplikt gjennom særregler.
+Revisoren må være godkjent av Finanstilsynet og registrert i Revisorregisteret.
+Oppgi revisorens navn eller foretaksnavn, adresse og organisasjonsnummer.
+Merk at feltet har plass for revisorens underskrift. Hvis revisoren skriver under i dette feltet, er det ikke nødvendig å legge ved særskilt villighetserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Regnskapsfører                            
+
+
+
+Dette feltet fyller du bare ut hvis enkeltpersonforetaket har regnskapsfører. 
+Regnskapsføreren må være autorisert av Finanstilsynet og registrert i Regnskapsførerregisteret.
+Feltet må fylles ut med regnskapsførerens navn eller foretaksnavn, adresse og organisasjonsnummer.
+Merk at feltet har plass for regnskapsførers underskrift. Hvis regnskapsføreren skriver under i dette feltet, er det ikke nødvendig å legge ved særskilt villighetserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Prokura                            
+
+
+
+Prokura er en fullmakt til å opptre og underskrive på vegne av foretaket i forbindelse med den daglige driften.
+Her oppgir du hvem som er tildelt prokura. Når du som innehaver av et enkeltpersonforetak tildeler prokura, gir du andre fullmakt til å opptre på vegne av enkeltpersonforetaket. Du kan gi prokura til daglig leder eller andre personer.
+Hvis flere har prokura må det gå klart fram om de har retten hver for seg eller i fellesskap. Begrensninger utover dette kan ikke registreres. Ved endring av prokura må du oppgi alle prokurister.
+Oppgi navn, bostedsadresse og fødselsnummer eller d-nummer for de personer som skal registreres.
+D-nummer er et nummer som kan tildeles utenlandske personer som ikke har norsk fødselsnummer, men har et behov for identifisering overfor norske myndigheter. Her kan du lese mer om d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Andre merknader/opplysninger                            
+
+
+
+Her melder du opplysninger som ikke kan meldes i de andre feltene i skjema.
+
+Egenfratreden. Angi hvilke(n) rolle(r) som fratres.
+Særskilt sletting fra Foretaksregisteret, se veiledningen til felt 2.3
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Ønsket målform                            
+
+
+
+Velg om skriftlig kommunikasjon med enkeltpersonforetaket skal foregå på nynorsk eller bokmål.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Varslingsadresse                            
+
+
+
+Varslingsadresse er en pliktig opplysning.
+Varslingsadresse skal bare legges inn på nye foretak.
+Varslingsadressene vil bli brukt av det offentlige for å varsle foretaket når viktige meldinger er tilgjengelige i Altinn. Opplysningene er bare tilgjengelige for offentlige myndigheter. Skal du endre disse opplysningene senere, gjør du det under foretakets profil i Altinn. Foretaket må ha minst én varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Underskrifter                            
+
+
+
+Meldingen må være underskrevet av deg som innehaver for at den skal bli godkjent.
+Når du skriver under meldingen, bekrefter du at opplysningene som er gitt er riktige, og at du er kjent med at det er straffbart å gi uriktige opplysninger.
+
+
+
+
+
+
+
+
+
+
+

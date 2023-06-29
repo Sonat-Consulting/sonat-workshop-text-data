@@ -1,0 +1,254 @@
+
+
+
+
+Bestillingsparametre
+
+Sist oppdatert: 13. juli 2018.
+
+
+
+
+
+Bestillingsparametre
+
+
+
+RegisterProduktnummerProduktnavnLovlig leveringsmåte
+
+
+
+
+Løsøreregisteret1100Pantattest motorvogn 26
+
+
+Løsøreregisteret1104Pantattest fødselsnummer 26
+
+
+Løsøreregisteret1108Pantattest foretak organisasjonsnummer 26
+
+
+Foretaksregisteret2000Firmaattest 26
+
+
+Foretaksregisteret2001Firmaattest med tidligere foretaksnavn 26
+
+
+Enhetsregisteret 
+
+2087Rolleoversikt organisasjonsnummer 26
+
+
+Enhetsregisteret 2088Rolleoversikt fødselsnummer
+26
+
+
+Foretaksregisteret 
+2089Firmaattest signert 34
+
+
+Foretaksregisteret 
+2090Firmaattest signert, notarial 34
+
+
+Foretaksregisteret 
+2091Firmaattest på engelsk, signert 
+34
+
+
+Foretaksregisteret 
+2092Firmaattest på engelsk, signert og notar 
+34
+
+
+Regnskapsregisteret3001Årsregnskap, komplett 26
+
+
+Konkursregisteret4012 Bekreftelse fra Konkursregisteret (org.nr/f.nr) 
+26
+
+
+Enhetsregisteret 
+5121Registerutskrift uten bedrifter/virksomheter 26
+
+
+Enhetsregisteret 5040 Registerutskrift inkl. bedrifter/virksomheter 26
+
+
+
+
+Leveringsparametre
+
+
+
+LeveringsmåtenavnLeveringsmåtenrBeskrivelse
+
+
+
+
+Post1 Sendes per post neste virkedag
+
+
+
+E-post (FTP-PDF)26Sendes per e-post, normalt innen 1 min
+
+
+
+E-post (FTP-PDF), manuell etterbehandling 34 Sendes per e-post neste virkedag 
+
+
+
+
+Pass på at korrekt leveringsadresse er oppgitt ved bestilling! Signerte produkter som leveres per e-post sendes også normalt automatisk ut per post. Oppgi derfor alltid en gyldig postadresse. Øvrige produkter kan også bestilles for levering per post (leveringsmåte 1), men vær oppmerksom på at de fleste produkter som sendes per post er gebyrbelagte.
+ Statusparametre
+
+
+
+Status 
+Bestillings-/leveringsstatus
+Beskrivelse
+
+
+
+
+1Under innleggingBestilling under innlegging
+
+
+
+2InnlagtInnlagt bestilling, klar for produksjon
+
+
+
+3AvbruttKontrollert avbrutt bestilling
+
+
+4Under produksjonBestillingen er under produksjon
+
+
+5ProdusertBestillingen er produsert
+
+
+6Under leveringBestillingen er under levering
+
+
+7Delvis levertDelvis levert bestilling
+
+
+8Levert
+Levert bestilling
+
+
+9FeiletProduksjon av bestilling feilet 
+
+
+11Ikke fakturertBestillingen er ikke fakturert
+
+
+10Under faktureringBestillingen er under fakturering
+
+
+12Innlagt, til kontroll Bestilling er innlagt, men må kontrolleres
+
+
+20Innlagt for reportserviceInnlagt bestilling, produseres av reportservice
+
+
+21Lagt i kø for java-produksjonLagt i kø for java-produksjon
+
+
+30Manuell produksjonInnlagt for manuell produksjon
+
+
+31FakturertFakturert
+
+
+
+
+Forklaring til XML
+
+Attributtet bestref til elementet bestilling og attributtene navn, pris, status og feiltekst til elementet produkt er felter som kan være utfylt når de kommer tilbake fra web servicen, men som ikke skal ha verdi når XMLen blir sendt inn til web servicen.
+Elementet kunde må minimum inneholde nr-elementet med attributtet ident og elementet passord. Dersom kundenummeret ditt er 1000-1 vil nr-elementet være 1000 og ident attributtet 1.
+Elementet levAdr må inneholde informasjon som overensstemmer med leveringsmåten på produktene som blir bestilt. Dersom det for eksempel blir bestilt et produkt med leveringsmåte 26, må email-elementet ha verdi.
+Elementet linjer kan inneholde ett eller flere linje-elementer. Hvert linje-element inneholder et produkt som skal bestilles. Linje-elementet har attributtet nr som inkrementerer for hvert produkt.
+Elementet produkt inneholder attributtene nr, leveringsmaate, param1 som skal ha innhold. Nr og leveringsmaate er beskrevet i tabellform over, mens param1 kan være et organisasjonsnummer, fødselsnummer eller registreringsnummer. Param2 er årstallet produktet skal hentes fra, dersom det er et produkt som er avhengig av å vite årstallet, for eksempel årsregnskap.
+
+ 
+
+
+
+
+Nyttige lenker
+
+Teknisk dokumentasjon for maskinell tilgang til Enhetsregisteret
+
+
+
+
+Informasjons- og behandlingstyper i Enhetsregisteret
+
+
+
+
+Oppbygging GrunndataWS
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

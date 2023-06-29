@@ -1,0 +1,280 @@
+
+
+
+
+Om søk på kunngjeringar
+
+Sist oppdatert: 28. oktober 2021.
+
+
+
+
+
+Du kan søke etter kunngjeringar på organisasjonsnummer, føretaksnamn, fødselsnummer, bestemt dato eller tidsperiode.
+
+Du kan søke på bestemte kunngjeringstypar, aktive kreditorvarsel eller registrerte prospekt. Du kan også kombinere søk på dato og periode, landsdel og kunngjeringstype.
+ 
+
+
+
+
+
+
+
+ 
+                                Søk på organisasjonsnummer eller føretaksnamn                            
+
+
+
+Når du søker på organisasjonsnummer får du ei treffliste over dei ulike kunngjeringane. Lista er sortert etter dato, med dei nyaste kunngjeringane øvst.
+Du får meir informasjon om den enkelte kunngjeringa ved å klikke på ho, eller vel Vis alle kunngjeringar i føretaket og få meir informasjon i fulltekst om alle kunngjeringane.
+Søk på føretaksnamn
+Når du søker på føretaksnamn får du ei treffliste på fleire tilnærma like føretaksnamn. Vel det føretaket du vil ha kunngjeringar for, da får du ei liste over alle kunngjeringane som gjeld dette føretaket. Lista er sortert etter dato, med nyaste dato øvst.
+Sletta føretak vil du berre få fram dersom du hukar av i boksen Søk i sletta føretak. Søker du på organisasjonsnummeret får du fram føretaket sine historiske kunngjeringar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk på fødselsnummer eller d-nummer                            
+
+
+
+Skal du søke på fødselsnummer eller d-nummer, må du logge inn via ID-porten. Søk på fødselsnummer og d-nummer gir berre treff ved konkursar knytt til person.
+Etter innlogging vil du få opp resultat av søket ditt, som er alle kunngjeringar på det aktuelle fødsels- eller d-nummeret. Kunngjeringar på fødselsnummer og d-nummer:
+
+opning av konkurs
+oppheving av konkurs
+innstilling av konkurs
+avslutning av konkurs
+fortsetting av bubehandling
+
+Les meir på informasjonssida for konkurskunngjering.
+Du kan avgrense søket til ein bestemt dato eller periode, eit grafisk område og/eller ein kunngjeringstype.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med avgrensing på dato                            
+
+
+
+Bruk kalenderen du finn i søketenesta til å velje dato, eller skriv inn datoen sjølv.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med geografisk avgrensing                            
+
+
+
+Den geografiske avgrensinga er delt inn i tre:
+
+landsdel
+fylke
+kommune
+
+For å kunne avgrensa på fylke, må du først ha valt landsdel. For å kunne avgrense til kommune, må du første ha valt landsdel og fylke.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med avgrensing på kunngjeringstype                            
+
+
+
+Moglegheitene for avgrensing på kunngjeringstype er delt i tre. Kunngjeringstypen du vel i den første boksen avgjer moglegheitene i boksane under. Om du ikkje legg inn avgrensing på kunngjeringstype, vil alle kunngjeringane automatisk bli vald.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med avgrensing på bransje                            
+
+
+
+Denne avgrensinga kan berre gjerast dersom du har valt kunngjeringstype konkurs/tvangsavvikling.
+Moglegheitene for avgrensing etter bransje er delt inn i tre. Valet du gjer i den første boksen avgjer moglegheitene du har i andre og tredje boks.
+Dersom du ikkje legg inn avgrensing på kunngjeringstype vil alle bransjar automatisk bli vald.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Treffliste etter kombinert søk                            
+
+
+
+I hovudtrekk vil trefflista her vere sortert etter følgande kriterier:
+
+fylke
+namn i alfabetisk rekkefølge
+dato, nyaste først
+kunngjeringstype
+
+Frå trefflista får du meir informasjon om den enkelte kunngjeringa ved å klikke på ho.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Avgrensingar ved omfattande søkved omfattende søk                            
+
+
+
+Det er lagt ei grense på talet over treff i søketenesta vår. Grensa er 5000 treff per søk. Dersom søket ditt genererer meir enn 5000 treff, vil du få beskjed om å avgrense søket ditt enda meir.
+Eit godt tips for å unngå for store søk, er å søke på korte tidsperiodar, ikkje meir enn 3-4 dagar, og avgrense søket etter kunngjeringstypar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk på aktive kreditorvarsel                            
+
+
+
+Aktive kreditorvarsel er dei tilfella der kreditorfristen ikkje er gått ut. Eit søk her gir deg ei treffliste som viser talet på aktive kreditorvarsel. Når du vel type varsel, får du ei liste over føretaka som har aktive kreditorvarsel og når fristen går ut. Lista er sortert etter fylke, og føretaka står i alfabetisk rekkefølge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk på registrerte prospekt                            
+
+
+
+Søker du på registrerte prospekt får du ein oversikt over prospekta som er registrert i Føretaksregisteret.
+
+
+
+
+Spesielle avgrensingar
+Alle kunngjeringane om konkursopning/tvangsavvikling frå tingrettane i Oslo, Bergen, Trondheim og Stavanger som er registrert i tidsrommet 1. november 19999 til 1. juni 2001, blei lagt inn i databasen 3. februar 2002. Desse kunngjeringane har derfor kunngjeringsdato 3.2.2002. Kunngjeringane etter 1. juni 2001 har korrekt kunngjeringsdato.
+Engelsk versjon av kunngjeringane finst berre frå 21. august 2006. Kunngjeringar før denne datoen finst berre på norsk.
+ 
+
+
+
+
+Nyttige lenker
+
+Søk i kunngjeringar
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

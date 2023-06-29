@@ -1,0 +1,99 @@
+
+
+
+
+Enklere deling av tilsynsdata med Tilda
+
+Sist oppdatert: 14. september 2021.
+
+
+
+
+
+Tilda er en datadelingstjeneste fra Brønnøysundregistrene tilrettelagt for de rundt 80 tilsynsmyndighetene i Norge og utvalgte fagsystemleverandører.
+
+Tjenesten kobler tilsyns-Norge bedre sammen og gir god informasjonsflyt mellom tilsynene, der målet er koordinerte, effektive og mer målrettede tilsyn.
+Informasjon i sanntid direkte fra datakildene
+Tilda gjør tilsynsinformasjon tilgjengelig i digitalt, maskinlesbart format, slik at det er raskt og enkelt å få oversikt over hva andre tilsyn har gjennomført og planlagt av tilsynsaktiviteter. Tilda henter data fra de respektive tilsynsmyndigheters fagsystem og ulike registre via et felles standard grensesnitt.
+Hva er fordelene med Tilda?
+
+norske tilsynsmyndigheter får tilgang på informasjon om andres tilsynsvirksomhet
+tilsynene blir effektive og målrettede
+forhindrer at de private virksomhetene opplever tilsyn som en unødig belastning
+informasjonen vises i sanntid, dermed kan tilsyn koordineres
+
+ 
+
+
+
+
+
+
+
+ 
+                                Hvem står bak tjenesten?                            
+
+
+
+Tilda er utviklet i samarbeid mellom ulike tilsynsmyndigheter og Brønnøysundregistrene, med støtte fra Digitaliseringsdirektoratet. Arbeidstilsynet har ledet innledende prosjekt og Brønnøysundregistrene har forvaltningsansvaret for tjenesten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvem kan bruke tjenesten?                            
+
+
+
+Alle norske tilsynsmyndigheter og utvalgte fagsystemleverandører kan bruke tjenesten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan komme i gang?                            
+
+
+
+Detaljert informasjon om tjenesten.
+Har du spørsmål om Tilda, eller et ønske om å ta i bruk tjenesten, kontakt oss via kontaktskjema.
+Har du tekniske spørsmål, se utviklingsguide for Tilda i Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+Du kan kontakte oss via kontaktskjema.
+
+
+
+
+
+
+
+
+
+
+

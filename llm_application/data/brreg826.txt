@@ -1,0 +1,303 @@
+
+
+
+
+Guide to the supplement form for registration in the Register of Non-Profit Organisations
+
+Last updated: 2 December 2022.
+
+
+
+
+
+How to fill in the form
+ 
+
+
+
+
+
+
+
+ 
+                                1 Submitter                            
+
+
+
+The submitter will be used as a contact person for feedback connected to the notification.
+If the field for the submitter is not filled in, all types of feedback will be sent to the association’s address.
+If the submitter has previously been assigned a customer number by the Brønnøysund Register Centre, this must be stated.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 The enterprise's name                            
+
+
+
+Here you enter the full name and the organisation number of the association.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Type of notification                            
+
+
+
+3.1 Registration of a new enterprise
+Tick here if the enterprise is not previously registered in the Register of Non-Profit Organisations, but would like to register there.
+3.2 Changes/new information
+If the enterprise wishes to report changes to any of the registered information or has additional information, you tick  for “Changes/new information”. You must always fill in the enterprise’s organisation number and registered name in field 2.1, and the fields of the current changes. If you want registered information to be removed without being replaced with new information, write “expired” in the appropriate field.
+3.3 Closure
+If you only want to strike off the enterprise from the Register of Non-Profit Organisations, tick here. Should, on the other hand, the enterprise be struck off from the Central Coordinated Register for Legal Entities, the Register of Business Enterprises or the Foundation Register, you need to use the Coordinated register notification part 1 – Main form or the Simplified register notification part 1 – Form for striking off an enterprise. In case of closure in the Central Coordinated Register for Legal Entities, the enterprise will also be struck off from all the affiliated registers, included the Foundation Register and the Register of Business Enterprises.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Categories                            
+
+
+
+In this field you must provide information about the type of category that fits the activity of the association.
+You need to enter category code, see available categories under Useful links to the right.
+Note: It is not sufficient to state the main code, for example, code 1 “Culture and recreation”. Information must be given at subcode level, for example: Code 1 100, “Art and culture”.
+If the association operates in several types of activities, it is possible to report up to three ICNPO categories. The categories must be ranked according to the scope of activity.
+Example
+A community group is operating in various activities related to the local community in which it belongs, almost as a residents’ association. In addition, they arrange quite a lof of theatre performances.
+They report category like this:
+
+6 100, Local development, ranked as number 1
+1 100, Art and culture, ranked as number 2
+
+If you want to change category information, you must state all categories that are to be registered. That is to say, categories previously reported and which are to remain registered, need to be re-entered.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5.1 Registrering av vedtekter                            
+
+
+
+Tick off if you wish to register the association’s articles of association. It is important to note that a commitment to register the articles of association, leads to an obligation to register all future changes of these. You can report this by submitting a notification about a change and enclose a new and updated set of the articles of association. This obligation can be undertaken and waived later on.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5.2 Current articles of association are changed                            
+
+
+
+If the association has chosen to register its statutes, they have at the same time undertaken an obligation to register changes/updates of these. Upon submission of a notification about changes of the registered information, you must inform us that the current statutes have been changed/updated here.
+The updated articles of association must be enclosed.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 The annual accounts in the Register of Non-Profit Organisations                            
+
+
+
+Associations can undertake the obligation to submit annual accounts. One reason for doing this may be the desire to make their accounts available for others. Enterprises that have undertaken a reporting obligation for annual accounts, will appear as open and tidy, since the accounting information will be available to anyone through the Register of Company Accounts.
+Associations that choose to report its annual accounts, must submit these annually to the Register of Company Accounts.
+The requirements for submitting annual accounts are different and simpler than what is laid down in the Accounting Act. Further information about these rules is available in the regulations regarding the Register of Non-Profit Organisations. Note that associations with ordinary statutory duty according to the Accounting Act cannot make use of these special regulations. These associations are obliged to submit the annual accounts to the Register of Company Accounts according to ordinary regulations.
+If you answer “Yes” to the question of whether the association takes on reporting annual accounts, you need to state the end date of the financial year.
+If the accounting period changes, you must specify from which accounting year the change applies and the new closing date.
+If the association no longer wishes to oblige themselves to submitting annual accounts, they can submit a notification about this to the Register of Non-Profit Organisations.
+In Altinn you can download the form for submission of annual accounts.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 The Grassroot allotment programme                            
+
+
+
+Registration in the Register of Non-Profit Organisations is a prerequisite for receiving funds through the Grassroot allotment programme.
+Players using services from Norsk Tipping, may decide that up to five percent of the stake is to go to a particular association or another non-profit organisation.
+The player can only choose between those registered in the Register of Non-Profit Organisations. So registration in the Register of Non-Profit Organisations can provide new income for the association. If the association wants to participate in the Grassroot allotment programme, tick “Yes” in this field.
+Note the following: If you tick “Yes” in this field, you confirm at the same time that your association is running an activity only at a local or regional level. Associations which are umbrella organisations for local associations cannot participate in the Grassroot allotment programme.
+Associations that do not wish to participate in the Grassroot allotment programme, can be reserved by ticking “No” in this field.
+In addition, in order to participate in the Grassroot allotment programme, the activity being conducted must be of a certain type. The limitations are mostly, but not exclusively, based on the categorisation registered with the Register of Non-Profit Registrations.
+Detailed regulations
+Associations with activity within at least one of the following categories, cannot participate in the Grassroot allotment programme:
+1 – Education and Research
+2 – Health
+Organisations which run hospitals, psychiatric institutions, nursing homes or any kind of private health clinics.
+3 – Housing and local community
+Charities where the acitivity does not benefit private financial interests, can still participate.
+4 – Political- and non-governmental organisations
+Organisations which are political parties. However, political youth organisations can participate.
+5 – Business and professional associations, trade unions
+Exceptions apply to student organisations, which have the right to participate.
+Cannot make use of paid advertising
+Association receiving grassroot funds cannot use paid advertising to get players to give share to their association, cf. section 9, b of the Grassroot regulations. Nevertheless, everyone has the opportunity to publish in their own channels, stick up posters and distribute promotional cards and letters.
+Fictious association
+It is not allowed to establish an association only to get paid grassroot funds, see section 9, c of the Grassroot regulations. In such cases, this kind of association can be required to repay the grassroot shares.
+The Grassroot allotment programme is managed by Norsk Tipping, which can provide you with more information about this arrangement.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Account number                            
+
+
+
+If you have ticked for the association to participate in the Grassroot allotment programme, you must state the association’s account number, see section 3, e.
+If the account number is incorrect, resulting in the payment from Norsk Tipping failing, the association will lose its right to receive accrued funds, see section 4, third paragraph, of the Grassroot regulations.
+Others may choose to register their account number in the Register of Non-Profit Organisations. This makes it possible for those who may need it, for instance contributors, to easily find the association’s account number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Signatures                            
+
+
+
+The notification must be signed if it is to be approved. Those who sign the notification confirm that the information provided is correct.
+The notification must be signed by either the general manager, the business manager or the contact person, or by the chair of the board.
+
+
+
+
+For initial registration in the Register of Non-Profit Organisations, you need to enclose
+
+articles of association
+
+When  changing information, you need to enclose
+
+updated articles of association, if you are to register amendments of the statutes
+updated articles of association, if you are applying for participaation in the Grassroot allotment programme
+
+ 
+
+
+
+
+Useful links
+
+Available categories of the activity
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+
+
+
+
+Vil du bidra til at landet vårt funker enda bedre?
+
+Sist oppdatert: 20. juni 2023.
+
+
+
+
+
+ 
+
+
+Visste du at Brønnøysundregistrenes IT-miljø utvikler banebrytende løsninger? Og at det vi utvikler gjør en stor forskjell i samfunnet?
+
+IT-gjengen vår nærmer seg nå hundre personer og vokser raskt. Det er fordi vi drifter og lager tjenester og digitale løsninger som er helt avgjørende for å opprettholde rettsikkerheten og tilliten i samfunnet. Litt store ord kanskje, men vi er ganske sikre på at AS Norge funker ganske dårlig uten oss.
+Høres dette ut som et sted du kunne tenke deg å jobbe? Litt for rett på? Du vil kanskje ha noen konkrete eksempler på hva vi faktisk jobber med først? OK, here you go!
+ 
+
+
+Case 1: Felles registerplattform
+Brønnøysundregistrene utvikler en egen, moderne og skalerbar registerplattform. Denne brukte vi for å drive kompensasjonsordningen for næringslivet under koronakrisen. Etter kun ni uker kunne folk legge inn nøkkeltall, få de godkjent av regnskapsfører og få pengene på konto samme dag.
+Vi har 17 ulike registre, og allerede nå kjører Løsøreregistret på denne nye plattformen. Det betyr at saksbehandlingstiden har gått fra flere dager til sekunder. Snart kjører flere registre på denne moderne plattformen. På denne måten sparer vi samfunnet for millioner. Les mer: Forenklingsgrep gir svar umiddelbart
+ 
+
+Case 2: Teknisk plattform BASE
+Vi ønsker at teamene våre skal ha de beste verktøyene for å utvikle og kjøre applikasjonene sine på en sikker måte. Vi har derfor hatt et utviklingssamarbeid med RedHat Linux for å skape en splitter ny teknisk plattform for utviklerne våre. Vi kaller den BASE.
+
+
+
+ 
+
+
+
+
+
+Nok om oss, hva med deg?
+Vil du også utvikle innovative og banebrytende løsninger som påvirker hverdagen til millioner av mennesker? Eller vil du kanskje bidra til å sikre den neste livbøyen for norsk næringsliv?
+Akkurat nå har vi ingen ledige stillinger, men så snart det blir en ledig finner du den på siden vår Jobb hos oss.
+
+ 
+
+

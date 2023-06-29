@@ -1,0 +1,508 @@
+
+
+
+
+Teknisk dokumentasjon for maskinell tilgang til Enhetsregisteret
+
+Sist oppdatert: 30. november 2022.
+
+
+
+
+
+Hvis du skal hente ut data fra Enhetsregisterets database, må du utvikle en kode som kan gjøre spørringer mot våre web services.
+
+Hvilke spørringer du kan gjøre, hvordan formatet på disse må være og URL-en for å koble seg opp, er beskrevet i WSDL-ene under. WDSL-ene er å regne som en teknisk kontrakt for hvordan spørringer og resultat skal se ut, og må bli fulgt for å minimalisere sjansen for at oppgraderinger hos oss skal kunne påvirke din tjeneste.
+Web services gjenbruk av grunndata finner du som kryptert overføring her:
+
+Enhetsregisteret og Foretaksregisteret
+Frivillighetsregisteret
+Historiske grunndata
+
+Har du «Begrenset tilgang til Enhetsregisteret» kan du benytte følgende tjenester:
+ 
+
+
+
+
+
+
+
+ 
+                                Basisdata - mini                            
+
+
+
+Inneholder organisasjonsnummer med registreringsdato, navn, forretningsadresse, postadresse og organisasjonsform.
+Basisdata – mini (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontaktdata                            
+
+
+
+Inneholder telefonnummer, mobilnummer, e-postadresse og hjemmeside til enheten.
+Kontaktdata (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Navnesøk                            
+
+
+
+For å kunne gjøre oppslag gjennom våre Web Services mot Enhetsregisteret, må du bruke organisasjonsnummer.
+Gjennom tjenesten «Navnesøk» kan du finne organisasjonsnummeret ved å søke på navn/foretaksnavn, direkte fra egne applikasjoner.
+Navnesøk (XML)
+Teknisk beskrivelse
+Denne tjenesten avviker litt fra de andre tjenestene med hensyn til input. Parametrene til denne tjenesten er
+• brukernavn
+• passord
+• searchRequest
+Brukernavn og passord er som på de andre tjenestene, mens searchRequest skal inneholde en xml-streng, tilsvarende <BrAixXmlRequest> i XML-schemaet. Det som ikke går frem av XML-schemaet er at i forkant av elementet ovenfor, bør det tilføyes en encoding som forteller hvilket tegnsett som benyttes: <?xml version=’1.0′ encoding=’xxx’?>. Det må med andre ord være samsvar mellom det som er angitt som tegnsett, og hva som faktisk befinner seg i xml-strengen.
+Eksempler
+< ?xml version=’1.0′ encoding=’ISO-8859-1′?><BrAixXmlRequest>….</BrAixXmlRequest>
+Hvis encoding er satt til ISO-8859-1 må teksten som står i xmlen ha dette tegnsettet.
+< ?xml version=’1.0′ encoding=’UTF-8′?><BrAixXmlRequest>….</BrAixXmlRequest>
+Hvis encoding er satt til UTF-8 må teksten som står i xmlen ha dette tegnsettet.
+Hvis <?xml version=’1.0′ encoding=’xxx’?> sløyfes vil xml-strengen bli tolket default som UTF-8.
+Hvis det er uoverensstemmelse mellom encoding og hva som faktisk befinner seg i xml-strengen, kan man få uventede svar. Dette gjelder først og fremst ved bruk av æ, ø og å, men kan også gi problemer ved søk på andre spesialtegn.
+Eksempel på en anbefalt searchrequest
+<![CDATA[<?xml version = «1.0» encoding = «ISO-8859-1» standalone = «no» ?>
+<BrAixXmlRequest RequestName=’BrErfrSok’>
+<BrErfrSok>
+<BrSokeStreng>ørn</BrSokeStreng>
+<MaxTreffReturneres>1000</MaxTreffReturneres>
+<ReturnerIngenHvisMax>true</ReturnerIngenHvisMax>
+<RequestingIPAddr>010.001.052.011</RequestingIPAddr>
+<RequestingTjeneste>SOAP</RequestingTjeneste>
+<MedUnderenheter>true</MedUnderenheter>
+</BrErfrSok>
+</BrAixXmlRequest>]]>
+ 
+Beskrivelse av de ulike elementene står under annotation på hvert element i XML-schemaet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Særlige opplysninger                            
+
+
+
+Inneholder særlige opplysninger, status og statuskode med registreringsdato til enheten.
+Særlige opplysninger (XML)
+Statuskoder med beskrivelse
+
+R-FR Registrert i Foretaksregisteret
+PLFR Ikke registrert i Foretaksregisteret
+R-MV Registrert i Merverdiavgiftsregisteret
+R-AA Registrert i NAV Registerforvaltning
+R-SR Registrert i Stiftelsesregisteret
+R-PR Registrert i Partiregisteret
+R-FV Registrert i Frivillighetsregisteret
+KMOR Inngår i konsern
+FGRP Inngår i foretaksgruppe
+ÅRSO Siste innsendte årsregnskap
+KONK Konkurs
+AKKO Meldt akkord
+OPPL Under avvikling
+TVOP Tvangsoppløst
+TVUK Tvangsoppløst etter konkurslovens regler
+TVDL Tvangsavvikling ifbm daglig leder
+TVRE Tvangsavvikling ifbm revisor
+TVST Tvangsavvikling ifbm styre
+TVRR Tvangsavvikling ifbm årsregnskap
+TVKA Tvangsavvikling ifbm kapital < 100 000
+TVOV Tvangsavvikling – Overtatt av tingretten
+USL Under sletting
+OSKP Oversendt til tingretten fra Foretaksregisteret pga kapital
+OSST Oversendt til tingretten fra Foretaksregisteret pga styre
+OSRE Oversendt til tingretten fra Foretaksregisteret pga revisor
+OSDL Oversendt til tingretten fra Foretaksregisteret pga daglig leder
+OSEF Oversendt til tingretten fra Foretaksreg. pga EØFG forretningsfører
+OSEV Oversendt til tingretten fra Foretaksregisteret pga EØFG varighet
+OSED Oversendt til tingretten fra Foretaksregisteret pga EØFG deltakere
+OSKA Oversendt til tingretten fra Foretaksregisteret pga kapital < 100 000
+OSOP Oversendt til tingretten fra FR pga oppløst mer enn 1 år
+SKRR Oversendt til tingretten fra Regnskapsregisteret
+FUSJ Fusjon
+FISJ Fisjon
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Tilknyttet register                            
+
+
+
+Inneholder opplysninger hentet fra tilknyttede registre som næringskoder, institusjonell sektorkode, ansvarskapital og antall ansatte.
+Tilknyttet register (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Opplysninger fra Frivillighetsregisteret                            
+
+
+
+Tjeneste som gir tilgang til opplysningene i Frivillighetsregisteret, blant annet registreringsdato, kategori, kontonummer, dato for vedtekter, dato for sist innsendte årsregnskap og om enheten deltar eller ikke deltar i grasrotandelordningen.
+Opplysninger fra Frivillighetsregisteret (XML)
+
+
+
+
+Har du «Full tilgang til Enhetsregisteret» kan du i tillegg benytte følgende tjenester:
+ 
+
+
+
+
+
+
+
+ 
+                                Basisdata                            
+
+
+
+Inneholder organisasjonsnummer med registreringsdato, navn, forretningsadresse, postadresse, organisasjonsform, virksomhetens art eller bransje, vedtektsfestet formål, stiftelsesdato, målform, kontaktperson, daglig leder, forretningsfører, innehaver og informasjon om hovedforetak for Norskregistrert utenlandsk foretak (NUF).
+Basisdata (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Roller                            
+
+
+
+Inneholder opplysninger om kontaktperson, deltakere, komplementar, sameiere, styre, revisor, regnskapsfører og/eller eierkommune.
+Roller (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Prokura og signatur                             
+
+
+
+Inneholder opplysninger om hvem som har prokura og signatur i enheten.
+Prokura og signatur (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Konsern                            
+
+
+
+Inneholder opplysninger om konsernnivå, med informasjon om organisasjonsnummer, navn, relasjon og eierandel på mor, og informasjon om organisasjonsnummer og navn på datter.
+Konsern (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Flere bedrifter/virksomheter                            
+
+
+
+Inneholder organisasjonsnummer, virksomhetsnavn, beliggenhetsadresse, postadresse og næringskode på alle bedrifter og virksomheter knyttet til en juridisk enhet.
+Bedrifter/virksomheter (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                En bedrift/virksomhet                            
+
+
+
+Inneholder informasjon om bedriften/virksomheten som virksomhetens organisasjonsnummer, virksomhetens navn, adresse, næringskode, oppstartsdato, eierskiftedato, antall ansatte, særlige opplysninger, kontaktinformasjon og informasjon om juridisk enhet.
+Bedrift/virksomhet (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Oppdateringer fra Enhetsregisteret                            
+
+
+
+Tjeneste som gjør det mulig å hente ut alle endringene som er foretatt i Enhetsregisteret i løpet av det siste døgnet, både nyregistreringer, endringer og slettinger.
+Oppdateringer fra Enhetsregisteret (XML)
+Informasjons- og behandlingstyper i Enhetsregisteret
+Enhetsregisteret og Foretaksregisteret behandler daglig meldinger om nyregistreringer, endringer og slettinger for mellom 2 000 og 2 500 enheter. Én gang per måned blir Enhetsregisteret oppdatert med antall ansatte i disse enhetene mot NAV Registerforvaltning. Dette medfører endringer på ca. 90 000 – 100 000 enheter.
+Den enkelte bruker må selv definere hvilke enheter (organisasjonsnummer) og hvilke opplysninger som skal overvåkes. Hvis enhetene og opplysningene som inngår i den daglige oppdateringsfilen er definert, kan brukeren via Web Services hente ut de gjeldende opplysningene som er registrert på enheten. Brukeren kan dermed holde egen database oppdatert til enhver tid.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Rolleoversikt                            
+
+
+
+Rolleoversikt er en sammenstilling av en persons tilknytning til næringsvirksomhet.
+Rolleoversikt (XML)
+Rolleoversikt innhenter du både på person (fødselsnummer) og enhet (organisasjonsnummer). Det er mer sjelden at rollesøk på organisasjonsnummer gir treff. Vær oppmerksom på at du ikke får klientoversikt for regnskapsfører og revisor ved søk på organisasjonsnummer til regnskapsfører eller revisor.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Bestillingsløsning                            
+
+
+
+Fra oss kan du blant annet bestille utskrifter, attester, årsregnskap, dokumentkopier. De fleste av våre standardprodukter er nå tilgjengelig via Web Services. Gjennom denne tjenesten kan du bestille våre produkter elektronisk, og du slipper å kontakte oss eller logge deg på vår bestillingsløsning.
+Hvilke produkter vi kan levere fra bestillingsløsningen finner du i oversikten under. Her står det også hvilket register som leverer produktet.
+
+
+
+ProduktnavnFra
+
+
+
+
+Pantattest motorvognLøsøreregisteret
+
+
+Pantattest fødselsnummerLøsøreregisteret
+
+
+Pantattest organisasjonsnummerLøsøreregisteret
+
+
+Firmaattest på norskForetaksregisteret
+
+
+Firmaattest på norsk med tidligere foretaksnavnForetaksregisteret
+
+
+Firmaattest på engelsk, notarialbekreftetForetaksregisteret
+
+
+Årsregnskap, komplettRegnskapsregisteret
+
+
+Bekreftelse fra Konkursregisteret (org.nr/f.nr)Konkursregisteret
+
+
+Registerutskrift inkl. bedrifter/virksomheterEnhetsregisteret
+
+
+Registerutskrift på norsk fra FrivillighetsregisteretFrivillighetsregisteret
+
+
+Registerutskrift på engelsk fra FrivillighetsregisteretFrivillighetsregisteret
+
+
+Rolleoversikt fødselsnummerEnhetsregisteret
+
+
+Rolleoversikt organisasjonsnummerEnhetsregisteret
+
+
+
+
+For å koble seg til denne tjenesten med Web Services, må du gjøre oppkoblingen med følgende krypterte URL hvor WSDL-filen ligger:
+https://ws.brreg.no/nlagsys/bestsysws/Bestilling?WSDL
+
+
+
+
+
+
+
+
+
+
+ 
+                                Historiske grunndata                            
+
+
+
+Inneholder historiske opplysninger på alle registrerte enheter i Enhetsregisteret. Den er delt opp i tre tjenester:
+1. Historisk oversikt over godkjente endringssaker og saksopplysninger på en enhet eller et foretak.
+2. Historisk registerutskrift med fullt fødselsnummer.
+3. Historisk registerutskrift med fødselsdato.
+Den første tjenesten viser alle registrerte saksopplysninger på en gitt hovedenhet. Vi leverer ikke historiske opplysninger på underenheter. Fra oversikten med saksopplysninger vises dato for når endringene er innført. Denne datoen, sammen med organisasjonsnummer, benyttes som søkeidentifikator for å få opp historiske opplysninger presentert i en registerutskrift.
+Offentlige etater og aktører som har konsesjon til å drive kredittopplysningsvirksomhet kan få tilgang til fullt fødselsnummer. Andre aktører kan gjøre oppslag i historisk registerutskrift med fødselsdato.
+Servicen er bygd opp med JAX-WS og benytter seg av WS-security for å etablere en sikker kobling mellom klient og Web Service. Klienten må ta i bruk SOAPHandler<SOAPMessageContext>, og implementere metoder denne tilbyr. I handlerklassen må det bygges opp en SOAPHeader med et element «UsernameToken». I det elementet legges to elementer «Username» og «Password» som inneholder henholdsvis klientens brukernavn og passord. Handlerklassen må deklareres i en SOAP Handler XML file, og serviceklassen annoteres med @Handlerchain. Annoteringen må inneholde et filattributt som peker til handler-chain.xml.
+For å koble seg til tjenestene «Saksopplysninger» og «Historiske opplysninger» med Web Services, gjøres oppkoblingen mot følgende URL hvor WSDL-filen ligger:
+https://ws.brreg.no/grunndata-ws/GrunndataService?WSDL
+Saksopplysninger (XML)
+Historisk registerutskrift (XML)
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Bestillingsparametre
+
+
+
+
+Informasjons- og behandlingstyper i Enhetsregisteret
+
+
+
+
+Oppbygging GrunndataWS
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

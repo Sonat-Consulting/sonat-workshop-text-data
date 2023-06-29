@@ -1,0 +1,125 @@
+
+
+
+
+Industrial codes
+
+Last updated: 31 May 2023.
+
+
+
+
+
+The industrial code indicates the main activity of the enterprise, and is primarily needed by Statistics Norway (SSB) for statistical purposes.
+
+Registering an industrial code
+The Central Coordinating Register for Legal Entities assigns an industrial code to a new enterprise and changes the code when an enterprise changes the description of its activity. For enterprises within finance, large companies/corporations and enterprises within the public sector, Statistics Norway assigns the codes, which are later transferred to the Central Coordinating Register for Legal Entities.
+Most enterprises will only be assigned one code, and this code indicates the main activity of the enterprise.
+Changing the industrial code – incorrect industrial code
+If your industrial code is incorrect, you can change the description of the activity using the form Coordinated register notification in Altinn. Remember to describe the main activity first, as this will determine which code the enterprise is given.
+Industrial codes
+The industrial codes are primarily needed by Statistics Norway (SSB) for statistical purposes. The industrial code indicates the main activity of the enterprises, and is based on the Standard Industrial Classification. As from 2008 the standard in force is called SN2007 and is based on the EU  standard NACE Rev.2.
+The standard is first of all a statistical standard. It forms the basis of the encoding of enterprises in the Business Register of Statistics Norway, and the Central Coordinating Register for Legal Entities, showing the enterprise’s most important activity. It is one of the most important standards in financial statistics, and makes it possible to compare and analyse statistical information both nationally and internationally, over time.
+The structure of NACE
+Main industrial area    – the first level identified by a letter code
+Activity                           – the second level identified by a two-digit code
+Main industrial group – the third level identified by a three-digit code
+Industrial group           – the fourth level identified by a four-digit code (NACE code)
+Industrial code             – the fifth level identified by a five-digit code
+Example of the composition of the industrial codes
++ F Construction
+–41 Construction of buildings
+–41.1 Development of building projects
+–41.10 Development of building projects
+–41.101 House building cooperative
+–41.109 Other development and sale of real estate
+The letter code identifying the main industrial area is not part of the NACE code. In addition to the four-digit NACE code (the EU’s four-digit code) many codes are on a national level split by the use of a fifth digit.
+The five-digit code used in Norway is called industrial code.
+ 
+
+
+
+
+
+
+Company search
+
+
+
+
+
+
+
+
+
+Useful links
+
+Overview of industrial codes
+
+
+
+
+
+Coordinated Register Notification
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

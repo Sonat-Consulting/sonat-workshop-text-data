@@ -1,0 +1,99 @@
+
+
+
+
+Enklare deling av tilsynsdata med Tilda
+
+Sist oppdatert: 2. desember 2021.
+
+
+
+
+
+Tilda er ei datadelingsteneste frå Brønnøysundregistera tilrettelagt for dei rundt 80 tilsynsmyndigheitene i Noreg og utvalde fagsystemleverandørar.
+
+Tenesta koplar tilsyns-Noreg betre saman og gir god informasjonsflyt mellom tilsyna, der målet er koordinerte, effektive og meir målretta tilsyn.
+Informasjon i sanntid direkte frå datakjeldene
+Tilda gjer tilsynsinformasjon tilgjengeleg i digitalt, maskinlesbart format, slik at det er raskt og enkelt å få oversikt over kva andre tilsyn har gjennomført og planlagt av tilsynsaktivitetar. Tilda hentar data frå dei respektive tilsynsmyndigheitene sine fagsystem og ulike register via eit felles standard grensesnitt.
+Kva er fordelane med Tilda?
+
+norske tilsynsmyndigheiter får tilgang på informasjon om andre si tilsynsverksemd
+tilsyna blir effektive og målretta
+forhindrar at dei private verksemdene opplever tilsyn som ei unødig belasting
+informasjonen blir vist i sanntid, dermed kan tilsyn koordinerast
+
+ 
+
+
+
+
+
+
+
+ 
+                                Kven står bak tenesta?                            
+
+
+
+Tilda er utvikla i samarbeid mellom ulike tilsynsmyndigheiter og Brønnøysundregistera, med støtte frå Digitaliseringsdirektoratet. Arbeidstilsynet har leia innleiande prosjekt og Brønnøysundregistera har forvaltningsansvaret for tenesta.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kven kan bruke tenesta?                            
+
+
+
+Alle norske tilsynsmyndigheiter og utvalde fagsystemleverandørar kan bruke tenesta.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis kome i gang?                            
+
+
+
+Detaljert informasjon om tenesta.
+Har du spørsmål om Tilda, eller eit ønske om å ta tenesta i bruk, ta kontakt med oss via kontaktskjema.
+Har du tekniske spørsmål, sjå utviklingsguide for Tilda i Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+Du kan ta kontakt med oss via kontaktskjema.
+
+
+
+
+
+
+
+
+
+
+

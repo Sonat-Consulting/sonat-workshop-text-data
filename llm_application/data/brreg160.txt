@@ -1,0 +1,157 @@
+
+
+
+
+Subscription to roles in businesses
+
+Last updated: 12 August 2021.
+
+
+
+
+
+You can subscribe to overviews of roles in operating businesses in the Central Coordinating Register for Legal Entities and the Register of.Business Enterprises. 
+
+You can compile information from the Central Coordinating Register for Legal Entities and the Register of Business Enterprises or just one of these. This information will be delivered as two separate files showing the complete overview of roles. It is not possible to subscribe to role changes for a specific period.
+The files contain information about the birth date. In order to be provided with files containing information about national identity number and gender, you will need a license for credit information services from the Data Protection Authority.
+The information consists of: Organisation number, business date, birth date/national identity number/organisation number, name, role, address, postal code, postal area, country, elected by, liability, gender, date.
+The role overview can be delivered daily, weekly or every month. If desired, we can agree upon less frequent delivery.
+ 
+
+
+
+
+
+
+
+ 
+                                Fees and conditions                            
+
+
+
+
+Monthly delivery with information about roles from one register: NOK 5,000.00 (NOK 60,000.00 per year)
+Monthly delivery with information about roles from both registers: NOK 10,000.00 (NOK 120,000.00 per year)
+Daily/weekly delivery with role information from one register: NOK 10,000.00 (NOK 120,000.00 per year)
+Daily/weekly delivery with role information from both registers: NOK 15,000.00 (NOK 180,000.00 per year)
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Agreements                            
+
+
+
+
+Terms of subscription about roles from the Central Coordinating Register for Legal Entities and the Register of Business Enterprises are regulated by the standard framework agreement
+You need to sign and submit both a framework agreement and a sub-agreement to access the service.
+You can submit the agreement to us by way of e-mail or post.
+
+Framework agreement (PDF) – in Norwegian
+Sub-agreement announcements (PDF) – in Norwegian
+
+
+
+
+
+
+
+
+
+
+ 
+                                Technical description                            
+
+
+
+The files are column-based and are delivered in text format. The files can be opened in excel or in a good text editor. Delivery takes place through an SFTP account that has been created for you. We add the files to this account according to the agreed delivery frequency.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Contact us                            
+
+
+
+For further details about the service, please send us an e-mail.
+
+
+
+
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

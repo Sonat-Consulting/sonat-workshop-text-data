@@ -1,0 +1,736 @@
+
+
+
+
+Skjema og rettleiing for NUF
+
+Sist oppdatert: 10. februar 2023.
+
+
+
+
+
+Alle nyregistreringar av NUF må meldast på papirskjema.
+
+Endringar på allereie registrerte opplysningar, kan du registrere elektronisk via Samordna registermelding. Det krev at føretaket ditt oppfyller krava for å gjere dette. Du finn meir informasjon under Nyttige lenker til høgre på denne sida.
+Papirskjema for nedlasting
+Samordna registermelding, for norskregistrert utanlandsk føretak (NUF) – BR1080B, bokmål (PDF)
+Rettleiing til enkeltpostar i skjemaet
+ 
+
+
+
+
+
+
+
+ 
+                                1 Innsendar/gebyransvarleg                            
+
+
+
+Innsendaren vil bli brukt som mottakar for tilbakemeldingar om saka – det vil seie stadfestingar, brev, registerutskrift og liknande. Innsendaren er også ansvarleg for å betale gebyr til Føretaksregisteret.
+Dersom feltet ikkje er fylt ut, blir tilbakemeldingar, krav om gebyr og liknande sende til eininga. Dersom innsendaren tidlegare har fått tildelt kundenummer av Brønnøysundregistera, gir du opp dette nummeret.
+Saksreferanse/attention for innsendar:
+Her kan du gi opp eigen referanse for saka dersom det er ønskeleg.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Meldinga gjeld                            
+
+
+
+I dette feltet angir du kva meldinga gjeld. Ei melding kan gjelde eitt av desse forholda:
+2.1 Eining som ikkje er registrert tidlegare
+2.2 Endringar/nye opplysningar
+2.3 Sletting av eining
+2.1 Eining som ikkje er registrert tidlegare
+Her skal du krysse av dersom eininga ikkje er registrert i Einingsregisteret tidlegare.
+2.2 Endringar/nye opplysningar
+Dersom eininga er registrert i Einingsregisteret frå før, skal du i dei fleste tilfella krysse av i felt 2.2, «Endringar/nye opplysningar». Dette gjeld sjølv om eininga gjennom meldinga søker registrering i eitt av registra som er knytt til Einingsregisteret.
+Du må alltid gi opp organisasjonsnummeret til eininga og registrerte namn/føretaksnamn i felt 4.1. Fyll elles berre ut dei felta endringa gjeld. Du skriv «utgår» i det aktuelle feltet dersom endringa inneber at ei registrert opplysning skal slettast utan at ho blir erstatta med ei ny opplysning. For einingar registrert i Føretaksregisteret er det gebyr på endring av føretaksnamn for føretaket si verksemd i Noreg, sjå forskrift om gebyr for tenester frå Brønnøysundregistera, §6.
+2.3 Sletting av eining
+Kryss av dersom eininga skal slettast frå alle register (Einingsregisteret og dei registera som er knytte til det).
+Sletting berre frå tilknytte registre
+Det er fullt mogleg å slette eininga frå eitt av registera knytt til Einingsregisteret utan å slette eininga frå Einingsregisteret og/eller andre tilknytte registre.
+Sletting i Føretaksregisteret
+Eininga har verken plikt eller rett til å vere registrert i Føretaksregisteret dersom ho ikkje lengre driv næringsverksemd i Noreg. Dersom eininga framleis ønsker, eller må vere registrert i Einingsregisteret, må du melde særskild sletting frå Føretaksregisteret i felt 27 – «Andre merknadar/opplysningar». Du skal i så fall ikkje krysse av for sletting.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registrering i Noreg                            
+
+
+
+Når eininga skal registrerast i eit tilknytta register ho ikkje er registrert i frå før, skal du fylle ut dette feltet. 3.1 gjeld registrering i Føretaksregisteret. Felt 3.2 gjeld spørsmål om eininga har omsetning som kjem inn under meirverdiavgiftslova sine reglar. Felt 3.3 gjeld registrering av opplysningar i NAV Aa-registeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.1 Registrering i Føretaksregisteret                            
+
+
+
+Føretaksregisteret er i hovudsak eit register for næringsdrivande føretak i Noreg. Det kjem gebyr på registrering i Føretaksregisteret. Satsane er fastsette i forskrift av 16.12.2003 nr. 1551, om gebyr for tenester frå Brønnøysundregistera.
+Vilkår for registreringsplikt eller -rett i Føretaksregisteret
+
+at eininga driv næringsverksemd
+at denne verksemda blir driven i Noreg eller på norsk kontinentalsokkel
+
+Næringsverksemd
+Verksemda må ha ein økonomisk karakter og kunne gi avkastning for at ho reknast som næringsverksemd. Verksemda må også ha ei viss varigheit og omfang. Det vil i utgangspunktet seie at verksemda må vare i meir enn 90 dagar og omsetninga må vere på minimum NOK 50 000 i løpet av ein periode på 12 månader.
+Bli verksemda driven i Noreg?
+For å avgjere om verksemda blir driven i Noreg, må ein gjere ei heilskapsvurdering. Moment som kan leggast til grunn for dette er mellom anna:
+
+Blir verksemda utført frå ein driftsstad i Noreg?
+Blir verksemda utført på norsk jord, til dømes innan byggebransjen eller helsesektoren?
+Har kunden inntrykk av å handle med eit føretak i Noreg?
+Kvar blir det inngått kontraktar?
+Kvar blir varebehaldninga lagra?
+Kvar skjer betalinga?
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.2 Har omsetning som kjem under meirverdiavgiftslova sine reglar                            
+
+
+
+Ei eining som har omsetning som kjem inn under meirverdiavgiftslova sine reglar og som ikkje har fast forretningsadresse/driftsstad i Noreg, må melde ein norsk representant. Norsk representant skal meldast i felt 19 i skjemaet. Dette kravet gjeld ikkje for føretak som høyrer heime i ein EØS-stat eller Storbritannia, som Noreg har inngått avtale med om utveksling av opplysningar og gjensidig bistand til innkrevjing av meirverdiavgiftskrav.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.3 Arbeidstakarar – registrering i NAV Aa-registeret                            
+
+
+
+Alle som er tilsett i andre si teneste for løn eller anna godtgjering blir rekna som arbeidstakar. Her skal det kryssast ja om eininga forventar å få eigne tilsette eller kjem til å engasjere andre som skal få lønn eller honorar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Namn/ føretaksnamn i heimlandet                            
+
+
+
+4.1 Fullstendig namn/føretaksnamn på eininga
+Feltet skal alltid fyllast ut.
+Før opp det fullstendige namnet/føretaksnamnet og det norske organisasjonsnummeret til eininga. Ved nyregistrering tildeler Einingsregisteret eit organisasjonsnummer. Namn/føretaksnamn for verksemda i Noreg fører du opp i felt 16.
+4.2 Eventuelt nytt namn/føretaksnamn
+Feltet skal berre fyllast ut dersom eininga melder inn endring av registrert namn/føretaksnamn.
+Hugs at namnet/føretaksnamnet før endring skal førast opp i felt 4.1 saman med organisasjonsnummeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Hovudkontoret si adresse i heimlandet (forretningsadresse/besøksadresse)                            
+
+
+
+Gi opp forretningsadresse/besøksadresse. Med dette meiner vi gateadressa eller stadadressa til hovudkontoret. Her melder du også telefonnummer, telefaksnummer, mobiltelefonnummer og heimeside i heimlandet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Postadresse i heimlandet                            
+
+
+
+Einingar som har særskild postadresse, til dømes postboks, gir den opp i tillegg til forretningsadressa/besøksadressa til hovudkontoret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Stiftelse av eining                            
+
+
+
+Her gir du opp stiftelsesdatoen til eininga. For eldre einingar som ikkje har nøyaktige opplysningar om dato for stiftelse er det tilstrekkeleg å føre opp året for stiftelse.
+Feltet skal ikkje fyllast ut av andre enn einingar som har krav om stiftelse i høve til lovgivinga i heimlandet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Eininga sine gjeldande vedtekter                            
+
+
+
+Gi opp dato for når vedtektene vart fastsette eller endra. Fyllast berre ut dersom eininga skal registrerast eller er registrert i Føretaksregisteret.
+Ved nyregistrering må vedtektene leggast ved. Legg ved eit oppdatert eksemplar om det er endringar av desse.
+Berre einingar som har krav om vedtekter etter lovgivinga i heimlandet skal fylle ut dette feltet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Kapital i aksjeselskap                            
+
+
+
+Dersom eininga er eit aksjeselskap, gir du opp aksjekapitalen og kor mykje av han som er betalt inn. Gi opp kapitalen i valutaen til landet.
+Feltet skal du berre fylle ut dersom eininga skal registrerast i Føretaksregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10  Organisasjonsforma til eininga i heimlandet                            
+
+
+
+Gi opp offisiell nemning for organisasjonsforma i heimlandet, og kryss av for om organisasjonsforma har avgrensa ansvar, uavgrensa ansvar, blanda ansvar eller om eininga er eit enkeltpersonsføretak.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Registrering i heimlandet                            
+
+
+
+11.1 Namn og adresse til føretaksregister i heimlandet
+Dersom eininga er registrert i eit offentleg føretaksregister i heimlandet skal du føre opp namn og adresse.
+11.2 Registreringsnummer/ID-nummer i heimlandet
+Gi opp eininga sitt registreringsnummer/ID-nummer i føretaksregisteret i heimlandet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Eigarforhold                            
+
+
+
+Gi opp om føretaket er heileigd av norske personar eller føretak.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Utøving av aktivitet                            
+
+
+
+Gi opp om eininga berre driv verksemd i Noreg.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Innehavar, styre, deltakarar og anna i heimlandet                            
+
+
+
+Feltet skal fyllast ut dersom eininga har innehavar, styre, deltakarar, komplementar eller andre roller.
+Innehavar i eit enkeltpersonføretak skal gi opp namn, adresse og fødselsnummer/d-nummer (11 siffer). Informasjon om d-nummer finn du under Nyttige lenker.
+Har eininga styre
+Gi opp heile styret (leiar, nestleiar, varamedlemmar og observatør) med namn, adresse og fødselsdato, både ved nyregistrering og ved endring.
+Har eininga deltakarar
+Gi opp alle deltakarar med namn, adresse og fødselsdato, både ved nyregistrering og ved endring.
+Om eininga har delt deltakaransvar, skal du gi opp ansvarsdel i prosent eller brøk.
+Har eininga rolleinnehavarar
+Gi opp namn, adresse (postnummer og -stad) og organisasjonsnummer. Rolleinnehavarar kan vere personar eller i enkelte tilfelle juridiske personar. Eksempel på juridiske personar er aksjeselskap, allmennaksjeselskap og ansvarleg selskap.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Andre merknader/opplysningar frå heimlandet                            
+
+
+
+Her melder du opplysningar som ikkje kan meldast i dei andre felta i blanketten. Døme på slike opplysningar er oppløysing og opning av konkurs.
+Legg ved eige ark om det blir for liten plass.
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Namn/føretaksnavn i Noreg                            
+
+
+
+16.1 Eininga sitt fullstendige namn/føretaksnamn
+Feltet skal alltid fyllast ut.
+Gi opp eininga sitt fullstendige namn/føretaksnamn i Noreg. Eininga kan ha særskild namn/føretaksnamn i Noreg, eller nytte same namn/føretaksnamn som i heimlandet.
+16.2 Eventuelt nytt namn/føretaksnamn
+Feltet skal berre fyllast ut dersom du melder endring av registrert namn/føretaksnamn. Hugs at du skal gi opp namnet/føretaksnamnet før endring i felt 16.1.
+For einingar registrert i Føretaksregisteret er det gebyr på endring av føretaksnamn i Noreg, sjå forskrift om gebyr for tenester frå Brønnøysundregistera, § 6.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Adresse i Noreg                            
+
+
+
+Gi opp forretnings-/besøksadresse i Noreg. Dersom eininga ikkje har eigen forretningsstad i Noreg skal du krysse av for dette.
+Her melder du også telefonnummer, telefaksnummer, mobiltelefonnummer og heimeside i Noreg.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Postadresse i Noreg                            
+
+
+
+Einingar som har særskild postadresse, for eksempel postboks, gir opp denne i tillegg til forretnings-/besøksadresse til hovudkontoret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19 Norsk representant                            
+
+
+
+Meirverdiavgiftspliktig eining som ikkje har eigen forretningsstad i Noreg skal melde norsk representant. Kravet til å ha norsk representant gjeld ikkje for einingar heimehøyrande i ein EØS-stat som Noreg har avtale med om utveksling av opplysningar og gjensidig hjelp til inndriving av meirverdiavgiftskrav. Frå 1. juli 2021 har også Storbritannia, på same måte som einingar heimehøyrande i ein EØS-stat, unntak til krav om representant. Andre utanlandske føretak utan fast forretningsadresse i Noreg kan også melde norsk representant.
+Feltet må fyllast ut med namn/føretaksnamn, adresse og fødsels-/organisasjonsnummer til representanten. Norsk representant må ha bustad /forretningsstad i Noreg. Merk at feltet har plass for underskrifta til representanten. Dersom representanten skriv under i dette feltet, er det ikkje nødvendig å legge ved ei eiga viljeserklæring. Den utanlandske eininga bekreftar oppnemning av representanten enten i eige vedlegg eller ved å skrive under i felt 29. Dersom representanten er ein juridisk person, gir du i tillegg opp ein kontaktperson i blankettfelt 20.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20 Dagleg leiar, kontaktperson eller forretningsførar                            
+
+
+
+Dersom eininga har dagleg leiar for verksemda i Noreg, skal du gi opp denne. Du skal gi opp kontaktperson dersom eininga ikkje har dagleg leiar eller forretningsførar, eller at forretningsførar er ein juridisk person.
+Enkeltpersonar må føre opp fødselsnummer/d-nummer, namn og bustadsadresse.
+Juridiske personar må føre opp organisasjonsnummer, namn og forretningsadresse.
+Når du melder ein kontaktperson, må det utanlandske føretaket stadfeste kontaktpersonen si tilknyting til det utanlandske føretaket i eit eige vedlegg.
+Om du melder eller det er registrert ein norsk representant, og den melde kontaktpersonen er tilsett hos representanten, kan representanten stadfeste kontaktpersonen si tilknyting til det utanlandske føretaket.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21 Aktivitet/bransje                            
+
+
+
+Gi ei så nøyaktig beskriving som mogleg av den verksemda som blir utført eller skal utførast i Noreg, eventuelt kva som er grunnlaget for registreringa. Ver merksam på at det ikkje er nok å gi opp eit generelt overordna formål. Gi derfor opp kva som eventuelt produserast/seljast og/eller kva for tenester/aktivitetar som blir utført. Pass spesielt på å få klart fram kva bransje verksemda høyrer til.
+Her er det gitt døme på kor detaljert beskrivinga må vere:
+Bygg og anlegg:
+
+Grunnarbeid
+Oppføring av bygningar
+VVS-arbeid
+
+Transport:
+
+Godstransport på veg
+Drosjebiltransport
+
+Handel:
+
+Agenturhandel med tømmer, trelast og byggevarer
+Engroshandel med elektriske hushaldsapparat
+Butikkhandel med kjøtt og kjøttvarer
+
+Konsulentverksemd:
+
+Bedriftsrådgiving
+Konsulenttenester innan programutvikling av kundespesifiserte program
+Konsulenttenester knytte til utvinning av råolje og naturgass
+
+Dersom eininga driv verksemd/aktivitet i fleire bransjar, må du gi opp kvar enkelt av dei i rekkefølge etter storleiken på omsetting eller sysselsetting.
+Einingar som ikkje driv næringsverksemd fører opp den aktiviteten som blir utøva. Døme på dette er einingar med fast eigedom i Noreg, eigarar med norske verdipapir, rolleinnehavarar i selskap med meir.
+Ved endring gir du opp den nye verksemda og dato for då ho tredde i kraft. Dersom eininga har starta med tilleggsverksemd, gir du også opp verksemda som blir utøvd frå før.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22 Signatur                            
+
+
+
+Før opp kven som er tildelt signatur. Signatur er ei fullmakt til å opptre og skrive under på vegner av eininga i forretningsforhold. Det kan berre registrerast signatur som er tildelt dagleg leiar, styret for føretaket si verksemd i Noreg eller namngjevne personar. Er signatur tildelt namngjevne personar, må du føre opp namn, adresse og fødselsnummer/d-nummer til den/dei som er tildelt signatur.
+Dersom fleire har signaturrett, må det gå klart fram om dei har retten kvar for seg eller i fellesskap. Avgrensingar ut over dette kan ikkje registrerast. For eksempel tidsmessige avgrensingar, beløpsavgrensingar eller at retten berre gjeld for verksemda i Noreg.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23 Prokura                            
+
+
+
+Før opp kven som er tildelt prokura.
+Prokura er ei fullmakt på same måten som signatur, men er ikkje like omfattande. Prokuristen kan ikkje utan uttrykkjeleg fullmakt overdra eller hefte på eininga sin faste eigedom eller lausøyre som kan registrerast i skipsregisteret eller luftfartøyregisteret, eller opptre på eininga sine vegner i søksmål.
+Det kan berre registrerast prokura som er tildelt dagleg leiar, styre for føretaket si verksemd i Noreg eller namngjevne personar. Er prokura tildelt namngjevne personar, må du føre opp namn, adresse og fødselsnummer eller d-nummer til den som er tildelt prokura.
+Om fleire har prokura, må det gå fram om det gjeld kvar for seg eller i fellesskap. Andre avgrensingar kan ikkje registrerast. For eksempel tidsmessige avgrensingar, beløpsavgrensingar eller at retten berre gjeld for verksemda i Noreg.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24 Revisor                            
+
+
+
+Du må fylle ut feltet dersom eininga har revisor. Fyll ut med namn/føretaksnamn, adresse og organisasjonsnummer til revisor, sjå  einingsregisterlova § 7.
+Spesielle krav:
+Revisor må vere godkjend av Finanstilsynet og registrert i Revisorregisteret.
+Merk at feltet har plass for underskrifta til revisor. Dersom revisor skriv under i dette feltet, er det ikkje nødvendig å legge ved særskild viljeserklæring. Dersom det er nødvendig med stadfesting av innbetalt kapital, må du likevel legge ved eigen erklæring om dette.
+
+
+
+
+
+
+
+
+
+
+ 
+                                25 Rekneskapsførar                            
+
+
+
+Du må fylle ut feltet dersom eininga har rekneskapsførar. Fyll ut med namn/føretaksnamn, adresse og organisasjonsnummer til rekneskapsførar.
+Spesielle krav:
+Rekneskapsførar må vere autorisert av Finanstilsynet og registrert i Rekneskapsførarregisteret.
+Merk at feltet har plass for underskrifta til rekneskapsførar. Dersom rekneskapsførar skriv under i dette feltet, er det ikkje nødvendig å legge ved viljeserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                26 Styre i Noreg                            
+
+
+
+Feltet skal fyllast ut dersom eininga har særskild styre for verksemda i Noreg. Før opp heile styret med fullt fødselsnummer/d-nummer, namn og adresse. Informasjon om d-nummer finn du under nyttige lenker.
+
+
+
+
+
+
+
+
+
+
+ 
+                                27 Andre merknader/opplysningar                            
+
+
+
+Her melder du opplysningar som ikkje kan meldast i dei andre felta i blanketten. Legg ved eige ark om det blir for liten plass. Døme på opplysningar som skal meldast er:
+
+Eigenfråtreding i høve til føretaksregisterlova 4-6. Før opp kva for rolle(r) som blir fråtredde.
+Særskild sletting frå Føretaksregisteret. Sjå rettleiing til felt 2.3.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                28 Varslingsadresser                            
+
+
+
+Varslingsadresse er ei pliktig opplysning.
+Varslingsadresse skal berre leggast inn på nye verksemder.
+Varslingsadressene vil bli brukt av det offentlege for å varsle verksemda når viktige meldingar er tilgjengelege i Altinn. Opplysningane er berre tilgjengelege for offentlege myndigheiter.
+Skal du endre desse opplysningane seinare, gjer du det under profilen til verksemda i Altinn.
+Verksemda må ha minst ei varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                29 Underskrifter                            
+
+
+
+Meldinga må være underskriven om ho skal bli godkjend. Den/dei som skriv under meldinga, må stadfeste at opplysningane som er gjevne er riktige, og at dei er kjend med at det er straffbart å gi uriktige opplysningar, sjå straffelova § 189.
+Kven som skal skrive under meldinga, avheng av kor eininga skal registrerast, eller er registrert.
+Dersom meldinga berre gjeld Einingsregisteret, skal ho underskrivast av styret, den som har signaturrett, dagleg leiar, forretningsførar eller annan kontaktperson. Om norsk representant er ein fysisk person, kan også denne skrive under.
+Melding til Føretaksregisteret skal skrivast under av den som har signaturrett eller av meldepliktige. Meldepliktige er styret for den norske verksemda. Dersom slikt styre ikkje finst, er det dagleg leiar i den norske verksemda som skal skrive under meldinga.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Norskregistrert utanlandsk føretak (NUF)
+
+
+
+
+Registrere eit NUF
+
+
+
+
+
+
+
+
+
+Endre opplysningar for eit NUF
+
+
+
+
+D-nummer
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

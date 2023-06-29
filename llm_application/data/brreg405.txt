@@ -1,0 +1,269 @@
+
+
+
+
+Konsernmelding
+
+Sist oppdatert: 1. februar 2022.
+
+
+
+
+
+Konsernmelding skal bare leveres hvis virksomheten inngår i konsern eller foretaksgruppe.
+
+Vi gjør oppmerksom på at dersom morforetaket sender inn en felles konsernmelding, så trenger ikke datterselskapene å sende inn en egen konsernmelding.
+ 
+
+
+
+
+
+Registrer opplysninger
+Samordnet registermelding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registrer opplysninger
+Samordnet registermelding
+
+
+
+
+
+
+
+
+Papirskjema for nedlastning
+Konsernmelding – BR1019 (PDF)
+ 
+Slik fyller du ut skjemaet
+
+ 
+
+
+
+
+
+
+
+ 
+                                1. Innsender                            
+
+
+
+Oppgi innsender hvis det er en annen enn virksomheten som er oppført i felt 2. Innsender vil få tilbakemelding om registreringene i Enhetsregisteret. Det samme vil også de andre virksomhetene i konsernstrukturen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2. Melding for                            
+
+
+
+Her oppgir du organisasjonsnummer og navn på den virksomheten meldingen gjelder.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3. Opplysninger om morselskap                            
+
+
+
+Hvis virksomheten har et morselskap, oppgi morselskapet her med organisasjonsnummer, navn og eierforhold.
+Kryss av i rubrikken for «ny virksomhet i konsern» hvis meldingen gjelder nye virksomheter i eksisterende konsern eller nytt konsern som ikke er registrert i Enhetsregisteret tidligere.
+Kryss av i rubrikken for «endring i konsernforhold» hvis meldingen gjelder andre endringer i konsernstrukturen, for eksempel endret eierandel eller grunnlag.
+Kryss av i rubrikken for «konsernforholdet er opphørt» hvis virksomheten har gått ut av konsernet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4. Opplysninger om datterselskap                            
+
+
+
+Hvis virksomheten har datterselskap, oppgir du dette med organisasjonsnummer, navn og eierforhold. Bruk flere skjema hvis det er for få felt. Hvis virksomheten også skal melde datterdatter og eventuelt flere nivå i nedadstigende rekkefølge, må du bruke et nytt skjema for hvert nivå.
+Kryss av i rubrikken for «ny virksomhet i konsern» hvis meldingen gjelder nye virksomheter i eksisterende konsern eller nytt konsern som ikke er registrert i Enhetsregisteret tidligere.
+Kryss av i rubrikken for «endring i konsernforhold» hvis meldingen gjelder andre endringer i konsernstrukturen, for eksempel endret eierandel eller grunnlag.
+Kryss av i rubrikken for «konsernforholdet er opphørt» hvis virksomheten har gått ut av konsernet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5. Andre merknader                            
+
+
+
+Plass for eventuelle merknader, for eksempel opplysninger om indirekte eierforhold eller avtale.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6. Underskrift                            
+
+
+
+Meldingen skal underskrives av daglig leder, forretningsfører eller annen kontaktperson for den virksomheten som er oppført i felt 2 i skjemaet.
+Skjemaet må enten sendes inn per post med original signatur, eller lastes opp som vedlegg i Samordnet registermelding. Vi kan ikke godta en kopi, eller at skjemaet er signert digitalt.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Virksomheter uten organisasjonsnummer                            
+
+
+
+Hvis mor- eller datterselskap ikke er registrert i Enhetsregisteret og heller ikke er pliktig til å registrere seg, for eksempel utenlandsk virksomhet som ikke driver aktivitet i Norge, må følgende opplysninger meldes i felt 5 i skjema eller på eget ark:
+
+navn/foretaksnavn
+forretningsadresse
+organisasjonsform
+stiftelsesdato
+formål (aktivitet/bransje)
+daglig leder, forretningsfører eller annen kontaktperson med fødselsnummer eller d-nummer
+
+Informasjon om d-nummer finner du under nyttige lenker på denne siden.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Vedlegg                            
+
+
+
+Hvis virksomheten har et organisasjonskart som viser konsernstrukturen, kan du legge ved dette istedenfor å fylle ut skjemaet.
+Husk å føre opp virksomhetens organisasjonsnummer og eierforhold eller andeler på organisasjonskartet.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+D-nummer
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

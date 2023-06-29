@@ -1,0 +1,617 @@
+
+
+
+
+Guideline to Coordinated register notification – simplified form for associations
+
+Last updated: 23 May 2022.
+
+
+
+
+
+How to fill in the form
+ 
+
+
+
+
+
+
+
+ 
+                                1 The association's name                            
+
+
+
+1.1 The association’s complete name 
+The field must always be filled in.
+Enter the association’s complete name and organisation number. If it applies to new registration, the Central Coordinating Register of Legal Entities will assign the organisation number. If changing the association’s name, you must enter the registered name in field 1.1.
+1.2 Any new name of the association
+This field is only to be filled in if the association is reporting a change of the registered name. If the association is registered in the Register of Business Enterprises, a change of the business name will be charged with a fee.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Type of notification                            
+
+
+
+A notification can be made about the following matters:
+2.1 Registration in the Central Coordinated Register for Legal Entities
+You tick here only if the association is not previously registered.
+2.2 Registration in the Register of Non-Profit Organisations
+You tick here only if the association is to be registered with the Register of Non-Profit Organisations.
+2.3 Registration in the Register of Business Enterprises
+You tick here only if the association is to be registered with the Register of Business Enterprise.
+Registration in the Register of Business Enterprises is subject to a fee.
+2.4 Changes/new information
+If the association previously is registered in one of the registers and wishes to report changes in any of the registered information or have additional information, tick in “Changes/new information”.
+Always fill in the association’s organisation number and registered name in field 1.1. In the rest of the form you only need to fill in the fields that apply for the change.
+If you want registered information to be deleted without replacing it with new information, please mark “to be omitted” in the appropriate field.
+2.5 Closure from all registers
+If you want to close down the association in the Central Coordinated Register for Legal Entities, it will also be closed in all the affiliated registers, including the Register of Non-Profit Organisations and the Register of Business Enterprises.
+2.6 Striking off from the Register of Non-Profit Organisations
+Tick here if you wish to close down the association only from the Register of Non-Profit Organisations.
+2.7 Striking off from the Register of Business Enterprises
+If you want to close down the association only from the Register of Business Enterprises, please tick here. Associations shall be struck off from this register if they no longer are running business activities. That is, associations that have previously run business activity and who have terminated this kind of activity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registration in the NAV Aa-register                            
+
+
+
+Does the association have or expect to have employees, or do you intend to engage others who will receive a salary or remuneration?
+
+
+
+
+
+
+
+
+
+
+ 
+                                4. Association's address                            
+
+
+
+Here you state the association’s business/visiting address. This means the street address where the association is located, or location address in smaller places. Associations undertaking business must have a business/visiting address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Postal address                            
+
+
+
+Here you state the association’s postal address. The correct address is important for the mail to arrive quickly and efficiently. Read more about this at Posten Norge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Submitter/chargeable                            
+
+
+
+The submitter will be used as the addressee for all types of feedback on the notification, which means that confirmation and other letters, register printouts and the like will be sent to the submitter. This person is also responsible for paying fees to the Register of Business Enterprises.
+If the field for the submitter has not been filled in, feedbacks, fee requests and the like will be sent directly to the association’s address. If the submitter has previously been assigned a customer number by the Brønnøysund Register Centre, this must be stated.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Foundation of association                            
+
+
+
+Date of foundation
+State the starting date of the association.
+If you do not have exact information about the date of foundation, please enter the foundation year.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 The association's activities                            
+
+
+
+Information about the activity of the association is the basis for assigning an industrial code.
+The industrial code is assigned pursuant to Standard Industrial Classification (SN2007). The industrial code is used to prepare statistics describing the Norwegian business and industry/ labour market according to business/trade.
+Give as accurate a description as possible of the activities carried out or to be carried out.
+Examples can be marching band, sports team and so on.
+If the association is operating in several activities, you must specify each of them in order, after for example, time and scope.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9  Contact person, general manager or business manager                            
+
+
+
+If the association does not have a general manager/business manager, please state a contact person.
+By general manager/business manager we mean the person who has the administrative management of the association and who has the authority to represent the association in conditions that fall within the day-to-day management.
+If the business manager is a legal person, you also need to state a contact person.
+National identity number/d-number/organisation number
+Inidividuals: Make sure that the national identity number is entered in addition to the person’s name and residence
+Legal persons: State the organisation number and the business address
+Foreign persons: Persons without a Norwegian national identity number must state a d-number.
+Read more about assignment of d-number
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Requested type of written language                            
+
+
+
+Written communication to the enterprise will be in the selected form of the Norwegian language (there are two official Norwegian languages, nynorsk and bokmål).
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 The association's statutes                             
+
+
+
+This field should only be used if the association is to be registered in the Register of Business Enterprises.
+Enter the date when the articles of association was set or changed.
+The articles of association must always be enclosed by initial registration. A change must be accompanied by an updated copy.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 The association's board                            
+
+
+
+Registration in the Central Coordinated Register for Legal Entities
+If the association has a board, all members, with the exception of the deputies, must be listed here.
+Registration in the Register of Non-Profit Organisations
+If the association is to be registered in the Register of Non-Profit Organisations, a board is required, cf. section 5 of the Register of Non-Profit Organisations Act.
+Registration in the Register of Business Enterprises
+The association must state a board, see section 3-6 of the Business Enterprise Registration Act. Enter the whole board (chair, deputy chair, board members and deputy board members) in the form.
+You need to state the members’ full national identity number, name and address regardless of which register the association is to register in. Persons without a Norwegian national identity number must enter a d-number.
+To confirm that those listed in the form have been elected, you must attach minutes showing the election. All the board members must be stated both by initial registration and changes.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Signature right                            
+
+
+
+If someone has been granted such a power of attorney, you must state this here. This assignment must be documentable and added to the notification. The power of attorney may be stated in the association’s statutes or as a separate minutes. Make sure that the reported signature right is in accordance with this.
+That someone has a signature right for the association, means that they are authorised to act and sign on behalf of the association, for example, by raising loans, selling real estate or similar important decisions. If someone has been granted such a power of attorney, you must state this here.
+The right to sign can either be assigned to role holders or named persons. If none of the standard options in the form fits, you can enter the signature agreement under “Other signature agreement”.
+If the signature rights has been assigned to named persons, you must enter their name, address and national identity number/d-number in the field «Other signature agreement».
+If several persons have the right to sign, it must be clear whether they hold this right separately or jointly. In case of changes of the registered information about signature rights, all those who are empowered to sign after the change, must be stated.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Power of procuration                            
+
+
+
+If someone has been granted a power of procuration, you must state it here. This assignment must be documentable and added to the notification. The authorisation may be stated in the statute’s articles or as a separate document. Make sure that the reported information about power of procuration is in accordance with this.
+Power of procuration comprises matters realating to the day-to-day operations of the association. It is an authorisation to act and sign on behalf of the association. Power of procuration is usually used by a few business associations, and is a more limited authorisation than a signature right.
+Power of procuration can either be assigned to role holders or named persons. If none of the standard options in the form fits, you can enter the power of procuration under “Other agreement relating to power of procuration”.
+If the power of procuration has been assigned to named persons, you must enter their name, address and national identity number/d-number in the field “Other agreement relating to power of procuration”.
+If several persons have been granted power of procuration, it must be clear whether they hold this right separately or jointly. In case of changes of the registered information about the power of procuration, all persons who are empowered to have the power of procuration after the change, must be stated.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Auditor                            
+
+
+
+If the association has an auditor approved by the Financial Supervisory Authority of Norway and registered in the Register of Auditors, information about this must be reported here.
+As far as registration in the Register of Business Enterprises is concerned, the association has an auditing obligation if the operating revenues of the total business exceeds NOK 5 million, and in addition either has more than 20 employees or the value of the total assets exceeds a value of NOK 20 million, cf. The Auditor Act section 2-1 and The Accounting Act section 1-2.
+The auditor must confirm that he/she has taken on the assignment, either by signing in this field or enclose a separate declaration of acceptance.
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Accountant                            
+
+
+
+If the association has an accountant that is approved by the Financial Supervisory Authority of Norway and registered in the Register of Accountants, the information about this must be reported here.
+The auditor must confirm that he/she has taken on the assignment, either by signing in this field or enclose a separate declaration of acceptance.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The fields 17-21 concern information to the Register of Non-Profit Organisations                            
+
+
+
+Please note that those who wish to register the association in the Register of Non-Profit Organisations must fill in the fields 17-21.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Category                            
+
+
+
+In this field you must provide information about the type of category that fits the activity of the association.
+You need to enter a category code, see available categories under Useful links to the right. Note: It is not sufficient to state the main code, for example, code 1 “Culture and recreation”. Information must be given at subcode level, for example, code 1 100, “Art and Culture”.
+If the association operates in several types of activities, it is possible to report up to three ICNP categories. The categories must be ranked according to the scope of activity.
+Example:
+A community group is operating in various activities related to the local community in which it belongs, almost as a charity association. In addition, they perform quite a lof of theatre arrangements.
+They report category like this:
+6 100,Local development, ranked as number 1
+1 100, Art and culture, ranked as number 2
+If you want to change category information, you must state all categories that are to be registered. That is to say, categories previously reported and which are to remain registered, need to be re-entered.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Registration of articles of association                            
+
+
+
+When the association is to be registered in the Register of Non-Profit Organisations for the first time, the articles of association must always be enclosed. The information in the statutes will be used to consider wether the association has the right to be registered.
+Associations can choose to register their statutes. By doing this, others can easily gain access to the current statutes. This can help increase the association’s confidence.
+If the association has chosen to register its statutes, a minimum of items of information is required:
+
+the name of the association
+objective
+annual meeting
+election of the board
+change of articles of association
+termination
+
+Requirements for content can be found in section 6, second paragraph of the Register of Non-Profit Organisations Act.
+Please note that there are separate rules for foundations and limited companies in this connection.
+18.1 Registration of the articles of association
+Tick off if you wish to register the association’s statutes. It is important to note that a commitment to register the articles of association, leads to an obligation to register all future changes of these. You can report this by submitting a notification about a change and enclose a new and updated articles of association. This obligation can be undertaken and waived later on.
+18.2 Current articles of association is changed
+If the association has chosen to register its articles, they have also undertaken an obligation to register changes/updates of these. When submitting a notification about changes of the registered information, please inform us that the current statutes have been changed/ updated here.
+The updated articles of association must be enclosed.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19 The annual accounts in the Register of Non-Profit Organisations                            
+
+
+
+Associations can oblige themselves to submit annual accounts. One reason to do this may be the desire to make their accounts available for others. Enterprises that have undertaken a reporting obligation for annual accounts, will appear as open and tidy, since the accounting information will be available to anyone through the Register of Annual Accounts.
+Associations that choose to report its annual accounts, must submit these annually to the Register of Annual Accounts.
+The requirements for submitting annual accounts are different and simpler than what is laid down in the Accounting Act. Further information about these rules is available in the regulations regarding the Register of Non-Profit Organisations. Note that associations with ordinary statutory duty according to the Accounting Act cannot make use of these special regulations. These associations are obliged to submit the annual accounts to the Register of Annual Accounts according to ordinary regulations.
+If your  answer is  “Yes” to the question of whether the association takes on reporting annual accounts, you need to state the end date of the financial year.
+If the accounting period changes, you must specify from which accounting year the change applies and the new closing date.
+If the association no longer wishes to oblige themselves to submit annual accounts, they can submit a notification about this to the Register of Non-Profit Organisations.
+In Altinn you can download the form for submission of annual accounts.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20 The grassroot allotment programme                            
+
+
+
+Registration in the Register of Non-Profit Organisations is a prerequisite for receiving funds through the grassroot allotment programme.
+Players using services from Norsk Tipping, may decide that up to five percent of the stake is to go to a particular association or another non-profit organisation.
+The player can only choose between those registered in the Register of Non-Profit Organisations. If the association wants to participate in the grassroot allotment programme, tick “Yes” in this field.
+Please note the following: If you tick “Yes” in this field, you confirm at the same time that your association is running an activity only at a local or regional level. Association which are umbrella organisations for local associations cannot participate in the grassroot allotment programme.
+Associations that do not wish to participate in the grassroot allotment programme, can be reserved by ticking “No” in this field.
+In addition, in order to participate in the grassroot allotment programme, the activity being conducted must be of a certain type. The limitations are mostly, but not exclusively, based on the categorisation registered with the Register of Non-Profit Organisations.
+Detailed regulations
+Associations with activity within at least one of the following categories can participate in the grassroot allotment programme
+1 – Culture and recreation
+2 – Education and Research
+Organisations whose activity is solely within the main category education and research cannot participate in the grassroot allotment programme.
+3 – Health
+Can participate in the programme, but not organisations which run hospitals, psychiatric institutions, nursing homes or any kind of private health clinics.
+4 – Social services
+5 – Nature and environmental conservation
+6 – Housing and local community
+Cannot participate in the programme. Exceptions apply to charities that still have the right to participate
+7 – Political- and non-governmental organisations
+Can participate in the programme, but not organisations which are political parties. However, political youth organisations can participate.
+8 – Foundations and promotion of voluntary work
+9 – International organisations
+10 – Religious and life stance organisations
+11 – Business and professional associations, unions
+Cannot participate in the programme. Exceptions apply to student organisations, which have the right to participate.
+12 – Not elsewhere classified
+13 – Children and youth organisations
+14 – Diversity and inclusion
+Activity within several categories
+Organisations with activity within at least one of these categories can participate in the grassroot allotment programme. If the enterprise is registered in one or more categories which cannot participate in the programme, this is of no significance.
+Cannot make use of paid advertising
+Association receiving grassroot funds cannot use paid advertising to get players to give share to their association, cf. section 9, d of the Grassroot regulations. Nevertheless, all clubs and associations have the opportunity to publish in their own channels, stick up posters and distribute promotional cards and letters.
+Fictitious association
+It is not allowed to establish an association only to get paid grassroot funds, see section 9, e of the Grassroot regulations. In such cases, this kind of association can be required to repay the grassroot shares.
+The grassroot allotment programme is managed by Norsk Tipping which can provide you with more information about this arrangement.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21 Account number                            
+
+
+
+If you have ticked for the association to participate in the grassroot allotment programme, you must state the association’s account number, see section 3, e.
+If the account number is not stated or incorrect, resulting in the payment from Norsk Tipping failing, the association will lose its right to receive accrued funds, see section 4, third paragraph, of the Grassroot regulations.
+Others may choose to register their account number in the Register of Non-Profit Organisations. This makes it possible for those who may need it, for instance contributors, to easily find the association’s account number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22 Other remarks                            
+
+
+
+Here you enter information that cannot be reported in the other field of the form. Add a separate sheet if there is inadequate space.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23 Notification address                            
+
+
+
+It is obligatory to register a notification address.
+Only new enterprises have to register a notification address.
+The notification addresses will be used by public authorities to notify the enterprise whenever important information is available in Altinn. The addresses will only be available for public authorities.
+If you are going to change this information later, you have to do so in the enterprise’s profile in Altinn.
+The enterprise must have at least one notification address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24 Signatures                            
+
+
+
+The notification must be signed if it is to be approved. Those who sign the notification confirm that the information provided is correct.
+The decision of who is to sign this notification is made according to where the association is to be registered. If the notification only relates to the Central Coordinating Register for Legal Entities or the Register of Non-Profit Organisations, it must be signed by the general manager, the business manager, the contact person or the entire board.
+If the notification concerns the Register of Business Enterprises, it must be signed by a person authorised to sign or all the members of the board. Newly elected board members who have not signed the notification, must attach a declaration of acceptance, confirming that they have taken on the assignment.
+
+
+
+
+
+
+
+
+
+Useful links
+
+Guideline to Coordinated register notification – simplified form for associations
+
+
+
+
+Fully electronic case processing
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

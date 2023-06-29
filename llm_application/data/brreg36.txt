@@ -1,0 +1,146 @@
+
+
+
+
+Beskrivelse av tjenesten Data fra Enhetsregisteret
+
+Sist oppdatert: 17. februar 2020.
+
+
+
+
+
+Tjenesten tilbyr et utvalg av opplysninger om alle registrerte virksomheter i Enhetsregisteret.
+
+Ved søk på et organisasjonsnummer som er slettet presenteres navn, organisasjonsform og dato for sletting. Slettede virksomheter blir ikke presentert når du søker på navn.
+I tjenesten kan du
+
+gjøre enkle og avanserte søk mot Enhetsregisteret
+filtrere på navn i et søkeresultatet ved bruk avanserte søkekriterier
+laste ned komplette datasett med utvalgt informasjon om alle virksomheter i Enhetsregisteret (JSON-format)
+
+Filene som inneholder komplett datasett produseres hver natt, mens søk og oppslag gjøres direkte mot våre databaser. Dette betyr at du til enhver tid kan finne oppdaterte opplysninger fra Enhetsregisteret. Vi gjør oppmerksom på at hvis et søk gir treff på flere enn 10 000 virksomheter, vil bare de 10 000 første virksomhetene vises.
+Lisensvilkår
+Dataene i tjenesten er lisensiert med Norsk lisens for offentlige data (NLOD). Ved å bruke informasjon som er gjort tilgjengelig i tjenesten vår, aksepterer du vilkårene i denne lisensen. Du kan lese mer om vilkårene på Difis sider om åpne offentlige data i Norge.
+Datasett
+Tjenesten inneholder foreløpig to datasett fra Enhetsregisteret:
+
+hovedenheter og organisasjonsledd (Enhetsregisteret)
+underenheter
+
+Vi viser koblingen mellom hovedenheter og underenheter.
+I feltet for «Overordnet enhet», er det mulig å legge inn organisasjonsnummeret til hovedenheter i offentlig sektor og få oversikt over underliggende organisasjonsledd, kommunale foretak og fylkeskommunale foretak.
+Du kan velge å laste ned komplette datasett ved å bruke lenken «Last ned komplett datasett».
+Mulighet for å gi tilbakemelding
+Vi ønsker å forbedre og videreutvikle tjenesten for åpne data, og vi tar gjerne imot innspill. Derfor har vi laget en mulighet for å gi tilbakemelding til oss. Det kan være ris eller ros, innspill til forbedringer eller andre ønsker. Dette vil være til stor hjelp for oss i det videre arbeidet med å gjøre tjenesten enda bedre. Send oss en e-post med dine innspill.
+Sentrale begrep i tjenesten
+
+
+
+BegrepBegrepsbeskrivelse
+
+
+
+
+
+
+
+BeliggenhetsadresseAdressen der (nærings)aktiviteten foregår.
+
+
+EnhetAlle hovedenheter, underenheter og organisasjonsledd som er identifisert med et organisasjonsnummer.
+
+
+EnhetsregisteretRegister over grunndata om juridiske personer og andre virksomheter. Enhetsregisteret tildeler organisasjonsnummer for entydig identifisering av virksomheter. 
+
+
+Status  Opplysning om spesielle forhold ved virksomheten. For eksempel om virksomheten er under avvikling eller under bobehandling.
+
+
+ForetaksregisteretRegister over næringsdrivende norske og utenlandske foretak i Norge. Inneholder også ikke-næringsdrivende foretak som har registreringsplikt etter særlov.
+
+
+ForretningsadresseHovedkontorets gate- eller stedsadresse.
+
+
+FrivillighetsregisteretRegister over virksomheter som driver frivillig virksomhet. Har også oversikt over hvem som mottar midler fra Grasrotordningen.
+
+
+HovedenhetEnkeltpersonforetak, foreninger, selskap, sameier og andre som er registrert i Enhetsregisteret. Identifiseres med organisasjonsnummer.
+
+
+Institusjonell sektorkodeStatistisk standard som deler inn alle institusjonelle virksomheter etter samfunnsøkonomisk funksjon og institusjonelle forhold. Basert på EUs nasjonalregnskapssystem og tilpasset nasjonale forhold.
+
+
+KonkursregisteretRegister over konkursbo og tvangsavviklingsbo. Inneholder også opplysninger om personer som har konkurskarantene.
+
+
+MerverdiavgiftsregisteretRegister over alle næringsdrivende med avgiftspliktig omsetning over en viss størrelse. En del av Skatteetaten.
+
+
+NAV Aa-registeretNAV Arbeidsgiver/arbeidstakerregisteret. Register over arbeidsforhold i Norge.  
+
+
+NavnNavn på virksomhet som er registrert i Enhetsregisteret.
+
+
+NæringskodeFemsifret kode som tildeles på bakgrunn av virksomhetens aktivitet/bransje. Bygger på EU sin næringsstandard (NACE) som består av fire siffer. Det femte sifferet er nasjonalt nivå.
+
+
+OrganisasjonsformInndeling av virksomheter ut fra hvordan disse er organisert (eierform, ansvarsforhold, regelverk og lignende).
+
+
+OrganisasjonsleddOrganisasjonsform som brukes for offentlig sektor. Virksomhet som alltid er knyttet til organisasjonsformen staten, kommune, fylkeskommune eller annet organisasjonsledd.  
+
+
+OrganisasjonsnummerNisifret nummer som entydig identifiserer virksomheter i Enhetsregisteret.
+
+
+PostadresseAdresse som post sendes til.
+
+
+Registreringsdato i EnhetsregisteretDato virksomheten ble registrert i Enhetsregisteret.
+
+
+Skattedirektoratets register over upersonlige skattytereRegister over upersonlige skattytere som for eksempel aksjeselskaper, verdipapirfond og banker som skal betale forskuddsskatt.
+
+
+Statistisk Sentralbyrås Virksomhets- og foretaksregisterRegister over virksomheter og underenheter i privat og offentlig sektor. Registeret skal utgjøre en felles populasjon for den økonomiske og næringsmessige statistikken, samt personstatistikken.
+
+
+StiftelsesdatoDato da virksomheten ble stiftet.
+
+
+StiftelsesregisteretRegister over alle stiftelser i Norge. Det er Stiftelsestilsynet som har ansvar for Stiftelsesregisteret.
+
+
+Tilknyttet registerRegister som samarbeider med Enhetsregisteret om å utveksle opplysninger om virksomheter. Samarbeidet er regulert av enhetsregisterloven. Før registrering i tilknyttede registre må virksomheten være registrert i Enhetsregisteret. Tilknyttede registre er Foretaksregisteret, Merverdiavgiftsregisteret, Arbeidsgiverdelen av Arbeidsgiver/arbeidstakerregisteret, Stiftelsesregisteret, Konkursregisteret, Statistisk sentralbyrås Virksomhets- og foretaksregister, Skattedirektoratets register over upersonlige skattytere.    
+
+
+Tvangsavvikling/tvangsoppløsningTingretten beslutter oppløsning av foretak, eller overtar ansvaret for tidligere besluttet oppløsning av foretak, etter nærmere vilkår i særlovgivning (for eksempel aksjeloven § 16-15). Slik beslutning har virkning som kjennelse om konkursåpning iht. konkursloven kapittel 8, og den videre behandlingen følger konkurslovens bestemmelser.
+
+
+Under avviklingNår hovedenheter blir registrert oppløst i Foretaksregisteret, vil de få status "under avvikling" frem til endelig sletting. Dette gjelder organisasjonsformer som ikke kan slettes direkte i Foretaksregisteret. 
+
+
+UnderenhetVirksomhet på laveste nivå i registreringsstrukturen i Enhetsregisteret. En underenhet kan ikke eksistere alene og har alltid knytning til en hovedenhet eller et organisasjonsledd. Identifiseres med organisasjonsnummer. 
+
+
+Under konkursbehandlingOpplysning om at det er åpnet konkurs i hovedenheten. 
+
+
+Under slettingNår en virksomhet melder sletting og er registrert i Merverdiavgiftsregisteret, blir endelig sletting utsatt. Dermed kan registrering av den avgiftspliktige virksomheten avsluttes i Merverdiavgiftsregisteret før endelig sletting.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

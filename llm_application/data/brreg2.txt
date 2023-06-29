@@ -1,0 +1,255 @@
+
+
+
+
+Feltnavn og feltbeskrivelser
+
+Sist oppdatert: 12. september 2016.
+
+
+
+
+
+
+
+
+
+NrFeltnavnBeskrivelseFeltnavn datafilOverskrifter/ledetekster skjermbilder
+
+
+
+
+Støttemottaker
+Mottaker av offentlig støtteStøttemottaker
+
+
+
+1Støttemottaker organisasjonsnummer
+Identifikasjonsnummer for støttemottakerstottemottakerOrganisasjonsnummer
+Organisasjonsnummer
+
+
+
+2Støttemottaker navn
+Støttemottakers navn registrert i Enhetsregisteret
+stottemottakerNavnStøttemottaker
+
+
+
+Spesifisert støttemottaker
+En støttemottaker kan ha flere virksomheter som er geografisk atskilt og som driver innenfor ulike næringssektorer, disse kaller vi for spesifiserte støttemottakere. Det kan for eksempel være en avdeling eller et fakultet o.l.  Spesifiserte støttemottakere som ikke har organisasjonsnummer blir kun identifisert med navn. Spesifisert støttemottaker
+
+
+
+3Spesifisert støttemottaker organisasjonsnummer
+spesifisertStottemottakerOrganisasjonsnummer
+Organisasjonsnummer
+
+
+
+4Spesifisert støttemottaker navn
+spesifisertStottemottakerNavn
+Spesifisert støttemottaker
+
+
+
+5Spesifisert støttemottaker uten organisasjonsnummer
+En støttemottaker kan ha flere underenheter som er geografisk atskilt og som driver innenfor ulike næringssektorer, disse kaller vi for spesifiserte støttemottakere. Støtten blir registrert på den underenheten som administrerer støtten. Det kan for eksempel være en avdeling eller et fakultet o.l.  Spesifiserte støttemottakere som ikke har organisasjonsnummer blir identifisert med navn. 
+spesifisertStottemottakerUtenOrganisasjonsnummer
+Spesifisert støttemottaker
+
+
+
+6Tildelingsdato
+Dato støttegiver vedtar å tildele støtte
+tildelingsdato
+Tildelt dato
+
+
+
+7Tildelt beløp
+Beløpet en støttemottaker har rett/krav på fra støttegiver eller beløpet som støttemottaker mottar i form av skatte- og avgiftsfritak eller fordel.  Når støttegiver tildeler støtte i form av for eksempel  garanti og lån, vil tildelt beløp ikke være det samme som garanti- eller lånebeløp. I disse tilfelle vil tildelt beløp være støttemottakers økonomiske fordel ved eksempelvis gunstigere lån.
+tildeltBelop
+Tildelt beløp
+
+
+
+8Lån- garanti- forskudd- finansieringsbeløp
+Totalt beløp på  for eksempel lån, garanti etc. Hva som utgjør tildelt beløp som dermed er offentlig støtte regnes ut av støttegiver i hvert enkelt tilfelle. 
+laanGarantiForskuddRisikoBelop
+Lånebeløp
+Garantibeløp
+Forskuddsbeløp
+Finansieringsbeløp
+
+
+
+9Beløp fra
+Tildelt støtte for skattefordel og skattefritak angis i beløpsintervall.
+belopFra
+Beløp fra
+
+
+
+10Beløp til
+Tildelt støtte for skattefordel og skattefritak angis i beløpsintervall.
+belopTil
+Beløp til
+
+
+
+11 Valuta
+Beløpet er oppgitt i norske kroner eller euro.
+valuta
+NOK
+EUR
+
+
+
+12Type tiltak
+Tiltak er enten en støtteordning eller en ad hoc støtte
+typeTiltak
+Tiltakstype
+
+
+
+13Navn støtteordning
+Støtteordning er et rammeverk for utdeling av flere enkelttildelinger av støtte.
+navnStotteordning
+Støtteordning
+
+
+
+14Navn støttetiltak
+Navn på støttetiltak som er tildelt som ad hoc støtte 
+navnStottetiltak
+Støtteordning
+
+
+
+15ESA id
+ESA er ansvarlig for å overvåke at norske myndigheter overholder EØS avtalens regler for offentlig støtte.  ESA tildeler et identifikasjonsnummer (ESA id) for alle støtteordninger og ad hoc-tildelinger. 
+esaId
+Esa ID
+
+
+
+16Rettslig grunnlag
+EØS-rettslig hjemmel for å tildele offentlig støtte
+rettsligGrunnlag
+Rettslig grunnlag
+
+
+
+17Artikkel
+Utdyper det rettslige grunnlaget for å tildele støtte
+artikkel
+Artikkel
+
+
+
+18Formål
+Utdyper det rettslige grunnlaget for å tildele støtte
+formaal
+Formål
+
+
+
+19Formål fritekst
+Utdyper det rettslige grunnlaget for å tildele støtte
+formaalFritekst
+Formål
+
+
+
+20Støtteinstrument
+Beskriver type støtte, for eksempel om den er gitt i form av lån, garanti, tilskudd etc.
+stotteinstrument
+Støtteinstrument
+
+
+
+21Støtteinstrument fritekst
+Beskrivelse av type støtte.
+stotteinstrumentFritekst
+Støtteinstrument
+
+
+
+22Støttemottaker størrelse
+Angir om støttemottaker er en liten, mellomstor eller stor bedrift på tidspunktet for støttetildeling.
+stottemottakerStorrelse
+Støttemottaker størrelse
+
+
+
+23Næring
+Økonomisk sektor støttemottaker er aktiv innenfor på tidspunktet for støttetildeling. NACE-koden beskriver økonomisk sektor. NACE er en internasjonal standard for næringsgruppering. 
+naering
+Næring
+
+
+
+24Næring beskrivelse
+Beskrivelse av økonomisk sektor
+naeringBeskrivelse
+Næring
+
+
+
+25Fylkesnummer
+Støttemottakers geografiske plassering på tidspunktet for støttetildeling.
+fylkesnummer
+Fylke
+
+
+
+26Fylke
+Støttemottakers geografiske plassering på tidspunktet for støttetildeling.
+fylke
+Fylke
+
+
+
+Støttegiver
+Støttegiver er en statlig institusjon, fylkeskommune eller kommune som gir offentlig støtte til en støttemottaker.
+Støttegiver
+
+
+
+27Støttegiver organisasjonsnummer
+Organisasjonsnummer
+stottegiverOrganisasjonsnummer
+Organisasjonsnummer
+
+
+
+28Støttegiver navn
+Navn
+stottegiverNavn
+Støttegiver
+
+
+
+29Støttegivers referanse
+Støttegivers interne referanse til prosjektet støtten er tildelt
+stottegiversReferanse
+Støttegivers referanse
+
+
+
+30Ulovlig støtte
+Markerer at en støttetildeling er ulovlig. 
+ulovligStotte
+-
+
+
+
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,510 @@
+
+
+
+
+Technical documentation for machineable access to the Central Coordinating Register for Legal Entities
+
+Last updated: 30 November 2022.
+
+
+
+
+
+If you are going to retrieve data from the database of the Central Coordinating Register for Legal Entities, you must develop a code that can query our web services. 
+
+What queries you can make, how the format of these must be and the URL to be linked up to, are described in the WSDLs below. The WDSLs are considered as a technical contract for how queries and results should appear, and must be followed in order to minimize the chance that upgrades with us may affect your service.
+Web services’ reuse of basic data will be found as encoded transmission here:
+
+The Central Coordinating Register for Legal Entities and the Register of Business Enterprises
+The Register of Non-Profit Organisations
+Historical basic data
+
+If you have “Limited access to the Central Coordinating Register for Legal Entities”, you can use the following services:
+ 
+
+
+
+
+
+
+
+ 
+                                Basic data - mini                            
+
+
+
+Contains organisation number with registration date, name, business address, postal address and organisation type.
+Basic data – mini (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Contact data                            
+
+
+
+Contains telephone number, mobile phone number, email address and website of the enterprise.
+Contact data (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Name search                            
+
+
+
+In order to do inquiries through our Web Services towards the Central Coordinating Register for Legal Entities, you must use an organisation number.
+Through the “Name search” service, you can find the organisation number by searching for business names, directly from own applications.
+Name search (XML)
+Technical description
+This service deviates slightly from the other services with regards to input. The parameters of this service are
+• username
+• password
+• searchRequest
+Username and password are similar to the other services, while searchRequest is to contain an xml-string, corresponding to <BrAixXmlRequest> in the XML form. What does not appear from the XML form is that in front of the element above, an encoding should be added that tells which character set is used: <?xml version=’1.0′ encoding=’xxx’?>. In other words, there must be correspondence between what is specified as a character set and what is actually in the xml string.
+Examples
+< ?xml version=’1.0′ encoding=’ISO-8859-1′?><BrAixXmlRequest>….</BrAixXmlRequest>
+If encoding is set to ISO-8859-1, the text in the XML must have this character set< ?xml version=’1.0′ encoding=’UTF-8’?><BrAixXmlRequest>….</BrAixXmlRequest>
+If the encoding is set to UTF-8, the text in the XML must have this character set.
+If the <?XML version=’1.0′ encoding=’xxx’?> is omitted, the XML string will be interpreted by default as UTF-8.
+If there is a discrepancy between encoding and what is actually in the XML string, you can get unexpected answers. This applies primarily to the use of æ, ø and å, but can also cause problems when searching for other special characters.
+Example of a recommended searchrequest
+<![CDATA[<?XML version = “1.0” encoding = “ISO-8859-1” standalone = “no” ?>
+<BrAixXmlRequest RequestName=”BrErfrSok”>
+<BrErfrSok>
+<BrSokeStreng>ørn</BrSokeStreng>
+<MaxTreffReturneres>1000</MaxTreffReturneres>
+<ReturnerIngenHvisMax>true</ReturnerIngenHvisMax>
+<RequestingIPAddr>010.001.052.011</RequestingIPAddr>
+<RequestingService>SOAP</RequestingService>
+<WithSubentities>true</WithSubentitiesr>
+</BrErfrSok>
+</BrAixXmlRequest>]]>
+Description of the various elements is under annotation on each element in the XML form.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Special information                            
+
+
+
+Contains special information, status and status code with registration date of the enterprise.
+Special information (XML)
+Status codes with description
+
+R-FR Registered in the Register of Business Enterprises
+PLFR Not registered in the Register of Business Enterprises
+R-MV Registered in the Value Added Tax Register
+R-AA Registered in the NAV Aa Register
+R-SR Registered in the Foundation Register
+R-PR Registered in the Register of Political Parties
+R-FV Registered in the Register of Non-Profit Organisations
+KMOR Incorporated in a group
+FGRP Entered into an enterprise group
+ÅRSO Last submitted annual accounts
+KONK Bankruptcy
+AKKO Reported a dept settlement
+OPPL Under liqudation
+TVOP Compulsory dissolution
+TVUK Compusory dissolution in accordance with the provisions of the Bankruptcy Act
+TVDL Compulsory liquidation due to the general manager
+TVRE Compulsory liquidation due to the auditor
+TVST Compulsory liquidation due to the board
+TVRR Compulsory liquidation due to the annual accounts
+TVKA Compulsory liquidation due to the capital  NOK < 100,000.00
+TVOV Compulsory liquidation – taken over by the district court
+USL Under winding up
+OSKP Transferred to the district court from the Register of Business Enterprises due to capital
+OSST Transferred to the district court due to the board
+OSRE Transferred to the district court from the Register of Business Enterprises due to the auditor
+OSDL Transferred to the district court from the Register of Business Enterprises due to the general manager
+OSEF Transferred to the district court from the Register of Business Enterprises due to EEEG’s business manager
+OSEV Transferred to the district court from the Register of Business due to EEEG’s duration
+OSED Transferred to the district court from the Register of Business Enterprises due to EEEG partners
+OSKA Transferred to the district court from the Register of Business Enterprises due to capital  NOK < 100,000.00
+OSOP Transferred to the district court from the Register of Business Enterprises due to dissolution for more than 1 year
+SKRR Transferred to the district court from the Register of Annual Accounts
+FUSJ Merger
+FISJ Demerger
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Affiliated register                            
+
+
+
+Contains information obtained from affiliated registers such as industrial codes, institutional sectoral code, partnership contributions and number of employees.
+Affiliated register (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Information from the Register of Non-Profit Organisations                            
+
+
+
+A service providing access to information from the Register of Non-Profit Organisations, including registration date, category, account number, date of the articles of association, date of the last submitted annual accounts and whether the organisation participates or not in the grassroot allotment programme.
+Information from the Register of Non-Profit Organisations (XML)
+
+
+
+
+If you have “Full access to the Central Coordinating Register for Legal Entities”, you can also use the following services
+ 
+
+
+
+
+
+
+
+ 
+                                Basic data                            
+
+
+
+Contains organisation number with registration date, name, business address, postal address, type of organisation, activity or branch, objective as laid down in the articles of association, incorporation date, language variant, contact person, general manager, business manager, owner and information about main enterprise for Norwegian-registered foreign business (NUF).
+Basic data (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Roles                            
+
+
+
+Contain information about contact person, partners, general partner, co-owners, board, auditor, accountant and/or owner municipality.
+Roles (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Power of procuration and signature                            
+
+
+
+Contains information about who is assigned with power of procuration and the signature in the enterprise.
+Power of procuration and signature (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Group                            
+
+
+
+Contains information about group level, with information about organisation number, name, relationship and ownership interest of parent company, and information about organisation number and name of subsidiary.
+Group (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Multiple subentities                            
+
+
+
+Contain organisation number, the subentity’s name, office address, postal address and industrial code of all the subentities related to a legal enterprise.
+Subentities (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                One subentity                            
+
+
+
+Contains information about the subentity such as the organisation number, the subentity’s name, address, industrial code, starting date, change of ownership date, number of employees, special information, contact information and information about legal enterprise.
+Subentity (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Updates from the Central Coordinating Register for Legal Entities                            
+
+
+
+A service that makes it possible to retrieve all the changes being made in the Central Coordinating Register for Legal Entities during the last 24 hours, both initial registrations changes and closures.
+Updates from the Central Coordinating Register for legal Entities (XML)
+Information and case types in the Central Coordinating Register for Legal Entities
+The Central Coordinating Register for Legal Entities and the Register of Business Enterprises process daily notifications of initial registrations, changes and closures for between 2000 and 2500 enterprises. Once per month the Central Coordinating Register for Legal Entities receives updated information from the NAV Register Management about number of employees. This leads to changes for approximately 90.000 to 100.000 enterprises.
+The individual user must define which enterprises (organisation number) and which information is to be monitored. If the enterprises and the information included in the daily update file are defined, the user can through Web Services retrieve the current information registered on the enterprise. The user can thus keep his own database updated at all times.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Role overview                            
+
+
+
+Role overview is a compilation of a person’s connection to business activity.
+Role overview (XML)
+You can obtain a role overview both on person (national ID number) and enterprise (organisation number). It is more rare that a role search for an organisation number yields hits. Please note that you will not receive a client overview for the accountant and auditor by searching for the organisation number of the accountant or the auditor.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Ordering solution                            
+
+
+
+From us you can, among other things, order transcripts, certificates, annual accounts, document copies. Most of our standard products are now available through Web Services. Through this service, you can order our products electronically and you do not have to contact us or log in to our ordering solution.
+You will find which products we can deliver from the ordering solution in the overview below. Here it is also stated which register that delivers the product.
+
+
+
+Product nameFrom
+
+
+
+
+Certificate of security mothor vehicleThe Register of Mortgaged Movable Property
+
+
+Certificate of security national ID numberThe Register of Mortgaged Movable Property
+
+
+Certificate of security organisation numberThe Register of Mortgaged Movable Property
+
+
+Certificate of registration in NorwegianThe Register of Business Enterprises
+
+
+Certificate of registration with former business namesThe Register of Business Enterprises
+
+
+Certificate of registration in English, notarizedThe Register of Business Enterprises
+
+
+Annual accounts, completeThe Register of Company Accounts
+
+
+Confirmation from the Register of Bankruptcy (organisation number/national ID number)The Register of Bankruptcy
+
+
+Register transcript including subentitiesThe Central Coordinating Register for Legal Entities
+
+
+Register transcript in Norwegian from the Register of Non-Profit OrganisationsThe Register of Non-Profit Organisations
+
+
+Register transcript in English from the Register of Non-Profit OrganisationsThe Register of Non-Profit Organisations
+
+
+Role overview national ID numberThe Central Coordinating Register for Legal Entities
+
+
+Role overview, organisation numberThe Central Coordinating Register for Legal Entities
+
+
+
+In order to connect to this service with Web services, you need to make the encoding with the following encoded URL where the WSDL file is locate.
+https://ws.brreg.no/nlagsys/bestsysws/Bestilling?WSDL
+
+
+
+
+
+
+
+
+
+
+ 
+                                Historical basic data                            
+
+
+
+Contains historical information about all registered enterprises in the Central Coordinating Register for Legal Entities. It is divided into three services:
+
+Historical overview of approved change cases and case disclosures about an enterprise.
+Historical register transcript with the entire national ID number.
+Historical register transcript with the birth date
+
+The first service displays all registered case disclosures about a given subentity. We do not provide historical information about subentities. From the overview with case disclosures, the date will show when the changes have been registered. This date, along with the organisation number, is used as a search identifier to provide historical information presented in a register transcript.
+Public agencies and actors who have a licence to conduct credit information service can gain access to the entire national ID number. Other actors can make inquiries in historical register transcript with the date of birth.
+The service is built up with JAX-WS and makes use of WS-security in order to establish a secure connection between the client and the Web Service. The client must use SOAPHandler<SOAPMessageContext>, and implement methods this offers. In the handler class, a SOAPHeader must be built up with an element «UsernameToken». In that element, two elements «Username» and «Password» are added, which, respectively, contain the client’s username and password. The handler class must be declared in a SOA Handler XML file, and the service class annotated with @Handlerchain. The annotation must contain a file attribute that points to handler-chain xml.
+In order to connect to the “Case disclosures” and “Historical information” services with Web Services, the connection is made to the following URL where WSDL file is located.
+https://ws.brreg.no/grunndata-ws/GrunndataService?WSDL 
+Case disclosures (XML) 
+Historical register transcript (XML)
+
+
+
+
+
+
+
+
+
+Useful links
+
+
+
+
+
+
+Information- and processing issues in the Central Coordinating Register for Legal Entities
+
+
+
+
+
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

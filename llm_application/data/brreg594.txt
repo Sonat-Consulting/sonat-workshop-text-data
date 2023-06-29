@@ -1,0 +1,301 @@
+
+
+
+
+Kunngjøringer fra Konkursregisteret
+
+
+
+
+Konkursregisteret kunngjør beslutninger om åpning, alle typer endring, innstilling, avslutning og fortsettelse av bobehandling.
+
+Kunngjøringene er vanligvis tilgjengelige samme dag som konkursåpning er foretatt.
+ 
+
+
+
+
+
+
+
+ 
+                                Åpning av konkurs                            
+
+
+
+Kunngjøringen inneholder opplysninger om:
+
+organisasjonsnummer/fødselsdato og navn på debitor
+adresse
+bransje/næringskode
+hvilken tingrett som har åpnet konkurs
+åpningsdato
+saksnummer
+navn og adresse på bostyrer
+frist for å melde krav i boet
+fristdag
+tid og sted for første skiftesamling
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kjennelse om tvangsavvikling                            
+
+
+
+Kunngjøringen inneholder opplysninger om:
+
+organisasjonsnummer og navn på debitor
+adresse
+bransje/næringskode
+hvilken tingrett som har avsagt kjennelse om tvangsavvikling
+åpningsdato
+saksnummer
+navn og adresse på bostyrer
+frist for å melde krav i boet
+fristdag
+tid og sted for første skiftesamling
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kjennelse om tvangsoppløsning                            
+
+
+
+Kunngjøringen inneholder opplysninger om:
+
+organisasjonsnummer og navn på debitor
+adresse
+bransje/næringskode
+hvilken tingrett som har avsagt kjennelse om tvangsoppløsningen
+åpningsdato
+saksnummer
+navn og adresse på bostyrer
+frist for å melde krav i boet
+fristdag
+tid og sted for første skiftesamling
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Endring av kunngjøring fra Konkursregisteret                            
+
+
+
+Kunngjøringen inneholder opplysninger om det som har blitt endret i forhold til tidligere kunngjort åpning. Det kan være endring av bostyrer, endring av skiftesamling, endringer i tidligere kunngjorte frister og så videre.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Oppheving av konkurs/tvangsavvikling/tvangsoppløsning                            
+
+
+
+Kjennelsen om konkursåpning/tvangsavvikling/tvangsoppløsning ankes til lagmannsretten. Opphever lagmannsretten kjennelsen, vil opphevingskjennelsen alltid bli kunngjort. Denne kunngjøringen vil være tilgjengelig i kunngjøringsdatabasen i 3 uker.
+Kunngjøringen inneholder opplysninger om:
+
+organisasjonsnummer/fødselsdato, navn og adresse på debitor
+dato for avsigelse av opphevingskjennelsen
+hvilken lagmannsrett som har avsagt den
+hvilken tingrett som i sin tid avsa kjennelse om åpning av konkurs/tvangsavvikling
+referanse til tingrettens opprinnelige saksnummer
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Bobehandling innstilt                            
+
+
+
+Kunngjøringen inneholder opplysninger om:
+
+organisasjonsnummer/fødselsdato og navn på debitor
+adresse
+hvilken tingrett som innstilte boet
+dato
+saksnummer
+ankefrist
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Bobehandling avsluttet                            
+
+
+
+Kunngjøringen inneholder opplysninger om:
+
+organisasjonsnummer/fødselsdato og navn på debitor
+adresse
+hvilken bostyrer som har avsluttet boet
+dividende prioritet og utbetaling
+utlodningsdato
+saksnummer
+klagefrist
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Fortsettelse av bobehandling                            
+
+
+
+Kunngjøringen inneholder opplysninger om:
+
+organisasjonsnummer/fødselsdato, navn og adresse på debitor
+saksnummer
+hvilken tingrett som har besluttet at bobehandlingen skal fortsette
+navn og adresse på bostyrer
+
+Fastsettelse av bobehandling blir automatisk kunngjort hvis ikke tingretten bestemmer noe annet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvor finner jeg kunngjøringer?                            
+
+
+
+Vet du navnet på selskapet, kan du søke direkte på navn eller organisasjonsnummer på kunngjøringssidene våre. Eller du kan søke i avansert søk, kunngjøringstype Konkurs/tvangsavvikling og underkategorier.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Søk i kunngjøringer
+
+
+
+
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

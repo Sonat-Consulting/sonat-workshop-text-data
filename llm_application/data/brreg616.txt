@@ -1,0 +1,345 @@
+
+
+
+
+Kunngjøringer fra Foretaksregisteret
+
+Sist oppdatert: 16. juni 2022.
+
+
+
+
+
+Foretaksregisteret kunngjør blant annet registrering av nye foretak, viktige endringer, oppløsning og sletting.
+
+Kunngjøringene er tilgjengelige på nettsidene våre rett etter at opplysningen er registrert i Foretaksregisteret.
+ 
+
+
+
+
+
+
+
+ 
+                                Nyregistrering av foretak                            
+
+
+
+Kunngjøringen inneholder alltid opplysninger om:
+
+foretakets navn
+organisasjonsform
+organisasjonsnummer
+formål
+forretningsadresse
+
+Har foretaket styre, revisor og/eller daglig leder inneholder kunngjøringen også navnene på dem.
+For enkeltpersonforetak er også navnet på innehaveren av foretaket med i kunngjøringen.
+For ansvarlige selskap og kommandittselskap inneholder kunngjøringen navnet til henholdsvis ansvarlige deltakere og komplementar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Oppløsning og sletting av foretak                            
+
+
+
+Kunngjøringen inneholder alltid opplysninger om:
+
+foretakets navn
+organisasjonsform
+organisasjonsnummer
+forretningsadresse
+
+Hvordan sletting av foretak foregår varierer i forhold til hvordan de er organisert. I noen tilfeller foregår avviklingen i to trinn, og da skal foretaket melde oppløsning til Foretaksregisteret før det kan melde sletting. På grunnlag av oppløsningsmelding foretar Foretaksregisteret kunngjøring av kreditorvarsel.
+Opplysningene i kreditorvarsel – kreditorfrist
+Enkelte endringer fører til at foretakets kreditorer må få varsel i forkant.
+Mer om kreditorvarsel.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Endringer i registrerte foretak                            
+
+
+
+Kunngjøring av endringer inneholder opplysning om:
+
+foretakets navn
+organisasjonsform
+organisasjonsnummer
+forretningsadresse
+opplysning om hvilken endring som er foretatt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvilke opplysninger blir kunngjort?                            
+
+
+
+
+
+
+HendelseOrganisasjonsform
+
+
+
+
+NyregistreringAlle foretak registrert i Foretaksregisteret, uansett organisasjonsform
+
+
+Endring av foretaksnavn
+Alle foretak registrert i Foretaksregisteret, uansett organisasjonsform
+
+
+Endring av forretningsadresseAlle foretak registrert i Foretaksregisteret, uansett organisasjonsform
+
+
+Endring av formål/aktivitet/bransjeAlle foretak registrert i Foretaksregisteret, uansett organisasjonsform
+
+
+Endring av vedtektsdatoAlle foretak registrert i Foretaksregisteret, unntatt enkeltpersonforetak og Norsk avdeling av utenlandsk foretak
+
+
+Endring av daglig leder/bestyrende reder/forretningsførerAlle foretak registrert i Foretaksregisteret, unntatt eierseksjonssameie
+
+
+Endring av styreAlle foretak registrert i Foretaksregisteret, unntatt enkeltpersonforetak
+
+
+Endring av revisorAlle foretak registrert i Foretaksregisteret, unntatt Norsk avdeling av utenlandsk foretak og Europeisk økonomisk foretaksgruppe.
+
+
+Revisjon av årsregnskap (selskapets årsregnskap skal ikke revideres)Aksjeselskap
+
+
+Endring av signaturbestemmelseAlle foretak registrert i Foretaksregisteret, unntatt enkeltpersonforetak
+
+
+Endring av kapitalAksjeselskap, allmennaksjeselskap, europeisk selskap, kommandittselskap og statsforetak
+
+
+Stiftelsesplan for etablering av europeisk selskapEuropeisk selskap
+
+
+Vilkår er oppfylt for stiftelse av europeisk selskapEuropeisk selskap
+
+
+Omdanningsplan for omdanning av organisasjonsformEuropeisk selskap og allmennaksjeselskap
+
+
+Flytteplan om å flytte selskapet til et annet EØS/EU landEuropeisk selskap
+
+
+FisjonsplanAlle foretak som skal melde fisjonsplan til Foretaksregisteret
+
+
+FusjonsplanAlle foretak som skal melde fusjonsplan til Foretaksregisteret
+
+
+Meldepliktig avtale, avtaler med aksjeeiere eller medlemmer av selskapets ledelse mv.Aksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Redegjørelse om finansiell bistand til erverv av aksjerAksjeselskap, allmennaksjeselskap
+
+
+Beslutning om å ta opp konvertibelt lånAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Beslutning om å utstede tegningsrettsaksjer/tegningsrettsgrunnfondsbevisAllmennaksjeselskap, europeisk selskap og sparebank og gjensidig forsikringsselskap
+
+
+Beslutning om å utstede frittstående tegningsretterAllmennaksjeselskap, europeisk selskap og sparebank og gjensidig forsikringsselskap
+
+
+Tildeling av styrefullmakt til kapitalforhøyelseAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Tildeling av styrefullmakt til å ta opp konvertibelt lånAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Tildeling av styrefullmakt for erverv av egne aksjerAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Tildeling av styrefullmakt for avtalepant i egne aksjerAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Fullmakt utdeling av utbytteAksjeselskap, allmennaksjeselskap, europeisk selskap
+
+
+Gjennomføring av fisjonAlle foretak som kan fisjonere
+
+
+Gjennomføring av fusjonAlle foretak som kan fusjonere
+
+
+Dom vedrørende ugyldig fusjon eller fisjonAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Forsinket oppgjør ved krav på aksjeinnskuddAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Overgang fra bruk av aksjeeierbok til aksjeeierregistrering i Verdipapirsentralen, og omvendtAksjeselskap
+
+
+Tvungen overføring av aksjer i datterselskapAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Endring av innehaverEnkeltpersonforetak
+
+
+Endring av ansvarlig deltakerAnsvarlig selskap, ansvarlig selskap med delt ansvar, partrederi og europeisk økonomisk foretaksgruppe
+
+
+Opplysning om ansvarsbegrensning etter domstollovenAnsvarlig selskap, ansvarlig selskap med delt ansvar
+
+
+Endring av komplementarKomandittselskap
+
+
+Endring av varighetsdatoEuropeisk økonomisk foretaksgruppe
+
+
+Varsel før sletting av antatt opphørt foretakAlle foretak registrert i Foretaksregisteret, uansett organisasjonsform
+
+
+Kunngjøring før frigivelse av deponert beløp ved nedleggelse av filial av forsikringsselskapNorsk avdeling av utenlandsk foretak
+
+
+Varsel om tvangsavvikling på grunn av manglende registrert styreAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+Varsel om tvangsavvikling på grunn av manglende daglig lederAllmennaksjeselskap og europeisk selskap
+
+
+Varsel om tvangsavvikling på grunn av manglende registrert revisorAksjeselskap, allmennaksjeselskap og europeisk selskap
+
+
+SlettingAlle foretak registrert i Foretaksregisteret, uansett organisasjonsform
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvor finner jeg kunngjøringene?                            
+
+
+
+Vet du navnet på selskapet, kan du søke direkte på navn eller organisasjonsnummer på kunngjøringssidene våre.
+
+
+
+
+Registrerte prospekt
+Vi kunngjør registrerte prospekt, den inneholder en kort beskrivelse av det foretaket og/eller det verdipapiret prospektet gjelder.
+ 
+
+
+
+
+Nyttige lenker
+
+Abonnement på kunngjøringer
+
+
+
+
+Søk i kunngjøringer
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

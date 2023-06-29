@@ -1,0 +1,840 @@
+
+
+
+
+Personvernerklæring
+
+Sist oppdatert: 24. mai 2023.
+
+
+
+
+
+Denne personvernerklæringen gir informasjon om hvilke personopplysninger vi behandler, hvordan disse blir behandlet og hvilke rettigheter du har.
+
+Mye av vår registerdrift handler om å holde oversikt over hvem som har forpliktet seg til hva. Åpenhet og oversikt motvirker økonomisk kriminalitet. Pålitelig og saklig informasjon gir økonomisk trygghet. I forbindelse med forvaltningen av våre oppgaver registrerer vi personopplysninger.
+Slik behandler vi personopplysninger
+Alt av opplysninger som kan knyttes til deg som enkeltperson er personopplysninger. Alle dokumenter som blir sendt til og fra Brønnøysundregistrene, blir skannet og lagret i våre saksbehandlingssystem eller i det elektroniske arkivsystemet Public 360. Noen opplysninger er gjenstand for registrering i et register, som for eksempel opplysninger i meldinger. Andre opplysninger kan være vedlegg til meldinger, klager eller andre typer henvendelser. I alle tilfeller vil du kunne finne personopplysninger i dokumentene.
+De aller fleste opplysningene hos oss blir registrert med direkte hjemmel i lov, da de ulike særlovene regulerer hvert enkelt register. Behandlingsgrunnlaget for dette er personvernforordningens artikkel 6, nummer 1 (e), som tillater oss å behandle opplysninger som er nødvendig for utøvelse av offentlig myndighet. Hvis din henvendelse inneholder særlige kategorier av personopplysninger, er behandlingsgrunnlaget vårt personvernforordningens artikkel 9, nummer 2 (g). Særlige kategorier av personopplysninger er opplysninger som det etter loven skal mer til for å kunne behandle enn andre, for eksempel opplysninger om religiøs tilhørighet eller politisk oppfatning.
+Personopplysninger vi behandler i registrene er først og fremst navn, adresse og fødselsnummer i tilknytning til rolle, rettigheter eller forpliktelser en person har. Vi registrerer også opplysninger om våre kunder når de bestiller informasjon og når de benytter tjenester med gebyr. Opplysningene dette gjelder er da i hovedsak navn, adresse, e-postadresse og kontonummer. I noen tilfeller blir fødselsnummer benyttet som identifikator, der hvor det er nødvendig.
+Å benytte fødselsnummer er nødvendig for å sikre at vi registrerer riktig person, og dermed kvaliteten på opplysningene. Vi henter opplysninger om blant annet navn og adresse fra Folkeregisteret. Hvis det ikke er samsvar mellom for eksempel adressen som blir meldt og det som fremgår av Folkeregisteret, registrerer vi opplysningene fra Folkeregisteret. Vi opplyser ikke om fødselsnummer siden dette ikke er offentlig informasjon.
+I de fleste tilfeller baserer registreringen seg på elektronisk innsending og behandling av melding. Det er de innmeldte opplysningene som blir behandlet. Som ledd i kontrollen av opplysningene innhenter vi i noen tilfeller nødvendig informasjon fra andre offentlige virksomheter eller andre kilder, som for eksempel Finanstilsynets konsesjonsregister over regnskapsførere og revisorer, Skatteetaten og Tilsynsrådet for advokatvirksomhet.
+Våre avgjørelser baserer seg ikke bare på automatisert behandling. Vi utarbeider ikke personprofiler basert på personopplysninger vi innhenter.
+Personopplysninger som blir registrert vil unntaksvis bli benyttet til testformål, når det er behov for å videreutvikle eller gjøre endringer i våre systemer og tjenester. Det er kun aktuelt å benytte personopplysninger når bruk av syntetiske data ikke er egnet eller bruk av slike data er uforholdsmessig ressurskrevende. I disse tilfellene iverksetter vi tiltak for å ivareta informasjonssikkerhet og den registrerte sitt personvern.
+Vi trenger å sikre våre systemer, kontorer og lokaler, og benytter derfor kameraovervåking. Dette skal forhindre og avdekke innbrudd i våre lokaler. Vi lagrer opptakene syv dager før de blir slettet.
+Henvendelser til oss via telefon, e-post eller post
+Vi bruker telefonsystemet Phonero for å håndtere telefonhenvendelser, og vi tar vare på navn, adresse og telefonnummer som blir hentet fra nummeropplysningen. Hvis brukeren har ringt tidligere i løpet av de siste tre månedene, vil dette også fremgå. Personopplysningene som blir lagret i telefonsystemet, og som er nødvendig for å administrere og drifte dette, beholder vi en kort periode. Komplett logg blir slettet etter ett år. Hvis det er behov for personopplysninger for statistikk, blir disse anonymisert.
+Når en bruker tar kontakt på e-post, tar vi vare på e-postadresse og personinformasjon som ligger i mottatte e-post. Disse opplysningene lagrer vi en måned for å kunne håndtere videre dialog med brukeren. Når en bruker tar kontakt med Bedriftsveiledning, på telefon eller via kontaktskjema på Altinn, tar vi vare på telefonnummer eller e-postadresse hvis vi har behov for å kontakte brukeren igjen. Vi tar også vare på postnummer for statistikkformål, men disse blir anonymisert. Opplysninger om brukeren blir lagret i en måned, slik at vi har mulighet til å fortsette dialog med brukeren. Deretter anonymiserer vi opplysningene.
+Behandlingsgrunnlaget for denne behandlingen er personvernforordningens artikkel 6, nummer 1 (f). Den tillater oss å behandle opplysninger som er nødvendig for å vareta en interesse som veier tyngre enn hensynet til den enkeltes personvern.
+Våre ansatte bruker e-post både internt og eksternt, som en del av det daglige arbeidet med å forvalte våre register. Den enkelte ansatte er selv ansvarlig for å slette e-poster i sin egen e-postkonto etter hvert som de ikke lenger skal lagres. Når en medarbeider slutter blir e-postkontoen slettet.
+Vi gjør oppmerksom på at e-post i utgangspunktet er ukryptert. Du bør derfor ikke sende taushetsbelagte, sensitive eller andre fortrolige opplysninger på e-post. Selv har vi interne retningslinjer for hvilke opplysninger vi ikke skal sende per e-post, for eksempel gjelder dette fødselsnummer.
+Dokumenter som blir regnet som saksdokument på grunn av at de er en del av saksbehandling, og fordi de fungerer som dokumentasjon, er omfattet av hovedreglene for dokumentoffentlighet, journalføring og arkivering. Det vil si at e-poster som blir regnet som saksdokumenter, skal journalføres. Det samme gjelder saksopplysninger som kommer inn via telefonhenvendelser. Disse blir journalført i saksbehandlingssystemet til det aktuelle registeret eller i arkivsystemet Public 360. Dette systemet bruker vi for elektronisk arkivering og behandling av dokumenter. Inngående og utgående post som ikke blir håndtert i et saksbehandlingssystem for det enkelte register, blir behandlet i Public 360. Systemet er levert av Tieto, er Noark 5-godkjent, og oppfyller de strengeste sikkerhetssertifiseringene.
+Behandlingsgrunnlaget for dette er personvernforordningens artikkel 6, nummer 1 (e), som tillater oss å behandle opplysninger som er nødvendig for utøvelse av offentlig myndighet. Hvis din henvendelse inneholder særlige kategorier av personopplysninger, er behandlingsgrunnlaget vårt personvernforordningens artikkel 9, nummer. 2 (g). Særlige kategorier av personopplysninger er opplysninger som det etter loven skal mer til for å kunne behandle enn andre, for eksempel opplysninger om religiøs tilhørighet eller politisk oppfatning.
+Ansvar for personopplysningene
+Vår direktør er ansvarlig for all behandling av personopplysninger hos oss. Det daglige ansvaret for å oppfylle våre plikter er lagt til leder for det aktuelle registeret og den elektroniske løsningen hvor personopplysningene er registrert.
+Sikring av opplysninger
+Vi har en samfunnskritisk funksjon og skjermingsverdige objekter. Dette stiller høye krav til sikkerhet. Vi har etablert styringssystem for informasjonssikkerhet som gjelder all vår virksomhet i tråd med ISO 27001.
+Tilgang til personopplysningene i våre systemer er begrenset og styrt gjennom tilgangskontroller på bakgrunn av tjenstlig behov. Alle våre ansatte har taushetsplikt etter reglene i forvaltningsloven.
+Rettigheter for den registrerte
+Som registrert i våre registre, vil du ha rettigheter som følger av lovgivningen for det aktuelle register eller fagområde. I tillegg vil du ha rettigheter etter lovgivning som gjelder generelt. Vi er et forvaltningsorgan, og virksomheten vår blir regulert av forvaltningsloven med forskrifter. Loven regulerer blant annet saksbehandling, klagerett, taushetsplikt og partsinnsyn. Personopplysningsloven og GDPR (EUs personvernforordning) fastsetter blant annet vilkår for å behandle personopplysninger og rettigheter for den registrerte. Nedenfor følger generell informasjon om rettigheter for deg som er registrert. Vi gjør oppmerksom på at regelverket også inneholder en del unntak fra disse rettighetene, som ikke er gjengitt her. Hvis du ønsker å benytte deg av rettighetene, ber vi deg om å kontakte oss. Vi skal besvare henvendelsen din kostnadsfritt så snart som mulig, og senest innen en måned. Her finner du vår kontaktinformasjon.
+Informasjon om hvordan vi behandler dine personopplysninger
+Som registrert har du rett til informasjon om hvilke personopplysninger vi behandler, hvem som er behandlingsansvarlig, formålet med behandlingen, det rettslige grunnlaget, hvilken kilde opplysningene stammer fra, eventuelle mottakere av opplysningene, lagringstid og dine rettigheter. Vi behandler for det meste personopplysninger som er meldt inn til oss i forbindelse med registrering i våre registre. I de fleste tilfeller framgår det av de ulike særlovene hvilke opplysninger vi skal registrere og hvordan vi skal behandle disse. Vi har gitt generell informasjon om dette i denne personvernerklæringen. Du kan i tillegg be om mer inngående informasjon ved å henvende deg til oss. Etter at opplysningene er registrert i våre registre, sender vi normalt ut en bekreftelse som viser hvilke opplysninger vi har registrert.
+Innsyn i personopplysninger
+Når du er registrert hos oss, har du rett til å be om innsyn i de personopplysningene som er registrert om deg og mer inngående informasjon om hvordan disse blir behandlet. Særlovene fastsetter at de fleste opplysningene i våre register er offentlig tilgjengelig for alle. I tillegg gir offentleglova vanligvis alle rett til å kreve innsyn i dokumenter som blir sendt inn og ut i forbindelse med registrering av opplysninger. Som offentlig etat er vi pliktig til å tilgjengeliggjøre de offentlige journalene våre på internett. Våre inngående og utgående saksdokumenter er gjort søkbar på internett gjennom publiseringstjenesten eInnsyn. Her kan du søke opp informasjon fra vår offentlige journal og be om innsyn. Det er også mulig å søke på personnavn, men kun i de første tolv månedene etter publiseringsdato. Unntak fra innsynsretten følger av ulike lover og forskrifter, blant annet forvaltningslovens regler om taushetsplikt.Som part i en sak har du rett til innsyn i sakens dokumenter i medhold av forvaltningsloven.
+Retting av feil
+Som registrert har du rett til å få opplysningene om deg rettet hvis de er feil. Dette skal skje uten ugrunnet opphold. Du kan også kreve at vi legger til opplysninger hvis det som er registrert er ufullstendig.
+Retting av opplysninger skal vanligvis gjøres ved at den som har meldeplikt sender oss en melding om dette. Hvem som er meldepliktig og hvordan meldingen skal utformes, følger av lovverket for det aktuelle registeret.
+Hvis vi oppdager at en opplysning er mangelfull eller feil, og dette skyldes vår saksbehandling, skal vi på eget initiativ rette feilen.
+Vi mottar oppdateringer av opplysninger fra Folkeregisteret. Hvis du oppdager feil i opplysninger om for eksempel navn eller adresse, må du kontakte Folkeregisteret for å få rettet feilen.
+Hvis du oppdager at en opplysning er feil eller mangelfull, anbefaler vi deg å ta kontakt med oss for å få informasjon om hvordan den aktuelle opplysningen kan bli rettet.
+Arkivering og sletting
+Sletting fra våre registre skjer i de fleste tilfeller på bakgrunn av at meldepliktig sender inn melding om endring eller sletting. Det er loven for de enkelte registrene som avgjør hvem som er meldepliktig. For noen av registrene kan vi slette opplysninger uten at vi mottar melding om det.
+Som offentlig organ er vi underlagt reglene i arkivloven med forskrifter, og vi arkiverer dokumenter etter nærmere bestemmelser i denne loven. Loven regulerer blant annet adgangen til å rette og slette arkivmateriale. Dette betyr at vi i mange tilfeller må lagre registrerte opplysninger i historiske arkiv også etter de er offisielt slettet fra registrene. Dette medfører at sletting fra registrene i de fleste tilfeller ikke innebærer en fysisk sletting, men at opplysningene blir fjernet fra de offisielle registrene, og overført til historiske arkiv.
+Rett til å protestere på behandlingen
+Noen ganger kan du ha rett til å protestere på behandlingen av personopplysningene dine. Dette gjelder ikke hvis vi behandler personopplysningene dine som følge av at det er lovbestemt, eller hvis det er nødvendig for å utføre en avtale du har med oss. Hvis du mener at vi ikke har rett til å behandle personopplysninger om deg, ber vi deg om å kontakte oss.
+Klage til Datatilsynet
+Hvis du opplever noe du mener er brudd på personvernregelverket, har du rett til å klage til Datatilsynet. Les mer om dette hos Datatilsynet.
+Har du spørsmål til personvernerklæringen?
+ 
+
+
+
+
+
+
+
+ 
+                                Kontakt personvernombudet vårt                            
+
+
+
+Personvernombudet har som sin viktigste oppgave å være en oppdatert ressursperson til nytte for brukerne og organisasjonen vår.
+Gjennom nær kjennskap til Brønnøysundregistrene sin aktivitet og grunnlaget for vår behandling av personopplysninger, har personvernombudet et godt utgangspunkt for å ta tak i personvernrettslige problemstillinger som oppstår.
+I tillegg har ombudet som oppgave å ta tak i personvernutfordringer på eget initiativ, og ombudet er vår kontaktperson overfor Datatilsynet.
+Brønnøysundregistrene har hatt personvernombud siden 1. september 2008.
+ 
+Sissel Hartvigsen
+personvernombud
+E-post: sissel.hartvigsen@brreg.no
+Telefon: 75 00 77 19
+
+
+
+
+Personopplysninger som behandles i de enkelte register
+ 
+
+
+
+
+
+
+
+ 
+                                Akvakulturregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Det rettslige grunnlaget for behandlingen av personopplysningene i Akvakulturregisteret er akvakulturloven og A-registerforskriften. Disse regulerer hvilke opplysninger som skal registreres.
+Akvakulturregisteret er et register over alle tillatelser som er gitt til å drive akvakultur. Formålet med Akvakulturregisteret er å gi rettslige disposisjoner til eller i en akvakulturtillatelse rettsvern overfor konkurrerende rettighetshavere. I tillegg er formålet å gjøre opplysningene offentlig tilgjengelig.
+Opplysninger vi behandler
+I Akvakulturregisteret registrerer vi både innsender av en sak og sakens parter. Dette kan være pantsetter, panthaver, overdrager, ny innehaver, saksøker eller saksøkte.
+Personopplysningene vi behandler i Akvakulturregisteret er navn, fødselsdato, adresse og fødselsnummer eller d -nummer.
+Opplysningene henter vi fra dokumentene vi får tilsendt. Innsender av dokumentene kan være en av partene eller en representant for disse. Det er frivillig å la seg registrere, men dersom det skal skje, er det fastsatt i lov hvilke opplysninger vi skal registrere.
+Utlevering av opplysninger
+Opplysningene i Akvakulturregisteret er offentlig tilgjengelige, og blir utlevert til alle som oppgir fødselsnummer, d-nummer, organisasjonsnummer, dagboknummer eller akvakulturtillatelsen som rettsstiftelsen er tinglyst på. Opplysninger fra den historiske databasen er ikke offentlig tilgjengelig, men det kan bli gjort unntak for enkelte.
+På våre nettsider kan du søke heftelser i Akvakulturregisteret.
+Kredittopplysningsforetak som har konsesjon for sin virksomhet kan abonnere på periodiske utskrifter fra Akvakulturregisteret.
+Fiskeridirektoratet henter opplysninger fra tinglysingsdelen gjennom en egen tjeneste. Vi kan også hente opplysninger om for eksempel hvem som er eier av tillatelsen hos Fiskeridirektoratet.
+Sletting og arkivering
+De registrerte opplysningene i Akvakulturregisteret sletter vi etter reglene i tinglysingsloven. Opplysningene blir slettet etter begjæring fra rettighetshaver eller når det tinglyses bevis for at rettsstiftelsen er falt bort. Hvis ikke opplysningene blir slettet på dette grunnlag, vil de bli slettet når virkningen av tinglysingen er falt bort etter utløpt rettsvernstid. Frivillig pant slettes automatisk etter 20 år, mens overføringene blir stående til det eventuelt kommer en ny overføring.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                EMAS-registeret                            
+
+
+
+Rettslig grunnlag og formål
+EMAS står for Eco Management and Audit Scheme og er EUs frivillige fellesskapsordning for miljøstyring og miljørevisjon. Ordningen er et tilbud til foretak og statlige, fylkeskommunale og kommunale forvaltningsetater som ønsker å markedsføre at de har satt seg programfestede mål for å ivareta miljøet i sin produksjon og tjenesteyting. Ordningen skal fremme en forbedring av miljøinnsatsen i de virksomhetene som deltar.
+Gjennom EØS-avtalen kan norske virksomheter delta i ordningen. Det rettslige grunnlaget for behandlingen av personopplysninger i EMAS-registeret er forurensningsloven og forurensningsforskriften, jf. Europaparlaments- og Rådsforordning (EF) nr. 1221/2009 av 25.11.2009 om frivillig deltakelse for organisasjoner i en fellesskapsordning for miljøstyring og miljørevisjon (EMAS).
+Hvilke opplysninger vi behandler
+I EMAS-registeret registrerer vi opplysning om miljøkontrollør. Hvis dette er en fysisk person, registrerer vi fødselsnummer eller d-nummer, eventuelt akkrediteringsnummer (norsk akkrediteringsidentifikator for miljøkontrollører), samt navn og adresse. I tillegg registrerer vi kontaktperson for området, hvor navn, adresse og fødselsnummer eller d-nummer registreres. Alle dokumenter som blir sendt inn i forbindelse med registrering arkiverer vi. Her vil det også kunne finnes personopplysninger.
+Opplysningene henter vi fra melding som blir sendt inn til EMAS-registeret. Fødselsnummer, navn og adresse registreres manuelt. Det er altså ingen kobling mot Folkeregisteret. Det er frivillig å delta i ordningen og la seg registrere, men dersom det skal skje, er det fastsatt i lov hvilke opplysninger som skal registreres.
+Utlevering av opplysninger
+Opplysningene i EMAS-registeret er offentlig tilgjengelig for alle, og oversikt over de norske virksomhetene som har tilsluttet seg ordningen er tilgjengelig på våre nettsider. Dette gjelder likevel ikke fødselsnummer eller d-nummer.
+Sletting og arkivering
+Et område blir slettet enten på bakgrunn av slettemelding fra virksomheten, eller på bakgrunn av manglende fornyelse av registreringen.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Enhetsregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandling av personopplysninger i Enhetsregisteret er enhetsregisterloven med forskrifter.
+Enhetsregisterets formål er å fremme effektiv utnyttelse og samordning av offentlige opplysninger om juridiske personer, enkeltpersonforetak og andre registreringsenheter gjennom regler for oppretting, organisering og drift av et landsdekkende enhetsregister. Enhetsregisteret inneholder grunndata om enheter som har registreringsplikt i NAV Aa-registeret, Merverdiavgiftsregisteret, Foretaksregisteret, Statistisk sentralbyrås bedriftsregister, Skattedirektoratets register over upersonlige skatteytere og Stiftelsesregisteret. I tillegg er Konkursregisteret et tilknyttet register, og alle konkursbo er registrert og tildelt organisasjonsnummer i Enhetsregisteret.
+En registreringsenhet kan ikke bli registrert i et tilknyttet register før enheten er registrert i Enhetsregisteret og har fått tildelt organisasjonsnummer. Registerfører for tilknyttet register har rett og plikt til å bruke de opplysninger som er registrert i Enhetsregisteret. De har også plikt til å holde eget register oppdatert med slike opplysninger registrert i Enhetsregisteret.
+Hvilke opplysninger vi behandler
+For å kunne bli registrert i Enhetsregisteret og få organisasjonsnummer, må enheten oppgi daglig leder, forretningsfører, innehaver eller tilsvarende kontaktperson. Hvis dette er en juridisk person, må det i tillegg bli oppgitt en fysisk person som kontaktperson.
+I tillegg skal følgende opplysninger meldes dersom de finnes
+
+deltakere med ubegrenset ansvar for selskapets forpliktelser
+styremedlemmer
+norsk representant for utenlandsk enhet
+prokura
+signatur
+regnskapsfører
+
+For personer som innehar slike roller skal registeret inneholde opplysninger om navn, bostedsadresse og fødselsnummer eller d-nummer.
+Enhetens telefonnummer, telefaksnummer og elektroniske adresser kan bli registrert hvis de finnes. Disse kan i enkelte tilfeller være knyttet opp mot enkeltpersoner.
+Alle dokumenter som blir sendt inn til Enhetsregisteret i forbindelse med melding, blir arkivert og lagret i saksbehandlingssystemet. Blankett og vedlegg som blir sendt inn på papir blir scannet. Det samme gjelder dokumenter som blir sendt inn i forbindelse med klager på Enhetsregisterets vedtak. I disse dokumentene vil man kunne finne personopplysninger.
+Personopplysningene henter vi fra melding som blir sendt inn til registeret. Opplysninger blir også hentet fra tilknyttet register. Enhetsregisteret mottar oppdaterte opplysninger knyttet til enkeltpersoner fra Folkeregisteret.
+Det er lovregulert hvilke opplysninger som skal registreres, men det er frivillig å påta seg verv eller roller i enhetene som registreres.
+Utlevering av opplysninger
+Opplysninger som blir registrert i Enhetsregisteret overføres til tilknyttede register. Tilknyttet register og offentlige myndigheter har rett til å få tilgang til opplysninger som er registrert i Enhetsregisteret.
+Alle har rett til å få tilgang til og utskrift av opplysninger som er registrert i Enhetsregisteret, og elektronisk kopi av slike dokumenter. Opplysninger i Enhetsregisteret er tilgjengelig på våre nettsider. Dette gjelder likevel ikke fødselsnummer eller d-nummer. Kredittopplysningsforetak kan, etter avtale godkjent av Datatilsynet, få tilgang til slike nummer.
+Sletting og arkivering
+Opplysningene sletter vi på bakgrunn av endring eller slettemelding fra enheten. Hvis registerfører antar at enheten er opphørt, blir enheten og opplysningene om den slettet.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Foretaksregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Det rettslige grunnlaget for behandlingen av personopplysninger i Foretaksregisteret er foretaksregisterloven med forskrifter.
+Formålet med Foretaksregisteret er å samle opplysninger om alle næringsdrivende foretak i ett landsdekkende register.  Registreringen skal blant annet sikre rettsvern, klare ansvarsforhold og skape trygghet i næringslivet.
+Hvilke opplysninger vi behandler
+I tilknytning til foretakene som er registrert i Foretaksregisteret, registrerer vi opplysninger om
+
+daglig leder
+innehaver
+deltakere med ubegrenset ansvar for selskapets forpliktelser
+komplementar
+kommandittister
+styremedlemmer
+varamedlemmer
+observatør
+revisor
+prokura
+signatur
+bostyrer
+
+I tillegg lagrer Foretaksregisteret opplysninger om stiftere i alle nye aksjeselskap.
+For personer som nevnt over inneholder registeret opplysninger om navn, bostedsadresse og fødselsnummer eller d-nummer.
+Alle dokumenter som blir sendt inn til Foretaksregisteret i forbindelse med melding blir arkivert og lagret i saksbehandlingssystemet. Blankett og vedlegg som blir sendt inn på papir blir scannet. Det samme gjelder dokumenter som blir sendt inn i forbindelse med klager på Foretaksregisterets vedtak. I disse dokumentene vil man kunne finne personopplysninger.
+Opplysningene henter vi fra dokumentene vi får tilsendt. Foretaksregisteret mottar oppdaterte opplysninger knyttet til enkeltpersoner fra Folkeregisteret.
+Det er lovregulert hvilke opplysninger som skal registreres, men det er frivillig å påta seg verv eller roller i enhetene som registreres.
+Utlevering av opplysninger
+Alle har rett til å få tilgang til, og utskrift av, opplysninger som er registrert i Foretaksregisteret. Dette gjelder likevel ikke fødselsnummer eller d-nummer.
+Foretaksregisteret overfører registrerte opplysninger til
+
+Statistisk Sentralbyrås virksomhets- og foretaksregister
+Skattedirektoratets register over upersonlige skatteytere
+Stiftelsesregisteret
+Konkursregisteret
+Merverdiavgiftsregisteret
+NAV AA-registeret
+Enhetsregisteret
+Tingrettene
+
+Sletting og arkivering
+Opplysningene sletter vi på bakgrunn av endring eller slettemelding fra foretaket. Foretak kan også slettes av registerfører hvis vi antar at det er opphørt.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Frivillighetsregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Det rettslige grunnlaget for behandlingen av personopplysninger i Frivillighetsregisteret er frivillighetsregisterloven med forskrifter.
+Formålet med Frivillighetsregisteret er å forbedre og forenkle samhandling mellom frivillig virksomhet og offentlige myndigheter, og å legge til rette for det offentliges politikk overfor frivillig virksomhet. Formålet med registeret er videre å styrke og bevare grunnlaget for frivillig virksomhet.
+Hvilke opplysninger vi behandler
+For å kunne bli registrert i Frivillighetsregisteret, må enheten ha et styre som er registrert i Enhetsregisteret. Dette innebærer at opplysninger om enkeltpersoner ikke registreres i Frivillighetsregisteret, men at personopplysninger blir behandlet gjennom interaksjon med Enhetsregisteret. Enhetsregisteret skal da inneholde opplysninger om navn, bostedsadresse og fødselsnummer eller d-nummer.
+Alle dokumenter som blir sendt inn i forbindelse med melding om registrering blir arkivert og lagret i saksbehandlingssystemet. Blankett og vedlegg som blir sendt inn på papir blir scannet. Det samme gjelder dokumenter som blir sendt inn i forbindelse med klager på Frivillighetsregisterets vedtak. I disse dokumentene kan det være personopplysninger.
+Opplysningene henter vi fra dokumentene vi får tilsendt, og fra Enhetsregisteret. Det er også mulig å melde inn opplysninger til Frivillighetsregisteret via Integrasjonsløsningen.
+Det er lovregulert hvilke opplysninger vi skal registrere, men det er frivillig å påta seg verv eller roller i enhetene som registreres.
+Utlevering av opplysninger
+Frivillighetsregisteret leverer ikke ut personopplysninger. Opplysninger om styre og kontaktperson blir eventuelt utlevert fra Enhetsregisteret.
+Sletting og arkivering
+Opplysningene sletter vi fra registeret på bakgrunn av endringsmelding eller slettemelding. De kan også bli slettet av registerfører hvis vi antar at enheten er opphørt.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Jegerregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Brønnøysundregistrene er databehandler for opplysningene i Jegerregisteret, mens det er Miljødirektoratet som er behandlingsansvarlig.
+Det rettslige grunnlaget for behandling av personopplysninger i Jegerregisteret er viltloven. Formålet med Jegerregisteret er å registrere jegere som har bestått jegerprøven, og bruke opplysningene til å sende ut jegeravgiftskort. Jegerregisteret inneholder også opplysninger om jegere som er fradømt jaktretten. På denne måten skal Jegerregisteret gi en uttømmende opplisting av personer som oppfyller vilkårene for å drive jakt i Norge.
+Hvilke opplysninger vi behandler
+Personopplysningene som vi behandler i Jegerregisteret er navn, adresse, fødselsdato og fødselsnummer eller d-nummer.
+Opplysningene henter vi fra den registrerte selv. De som skal drive jakt i Norge må være registrert i Jegerregisteret. Det er regulert i lov hvilke opplysninger vi skal registrere.
+Opplysninger om rettighetstap blir sendt inn av påtalemyndigheten.
+Utlevering av opplysninger
+Jegerregisteret avgir opplysninger til alle som ønsker å vite om en person er registrert i registeret og om vedkommende har betalt jegeravgift. For å få opplysningene må fødselsnummer oppgis.
+Miljødirektoratet som behandlingsansvarlig skriver følgende på nettsidene sine om behandling av personopplysninger:
+Miljødirektoratet er omfattet av offentleglova som innebærer at våre saksdokumenter, journaler og lignende som hovedregel er åpne for innsyn. Det kan videre kreves innsyn i sammenstillinger av opplysninger som er elektronisk lagret i Jegerregisteret når dette kan gjøres med enkle fremgangsmåter. Miljødirektoratet vil utlevere dokument og sammenstillinger i samsvar med offentleglova når det kreves innsyn, unntatt når dokument, journal eller sammenstilling inneholder opplysninger som er taushetsbelagt etter lov eller forskrift eller bør unntas for offentligheten med hjemmel i offentleglova. I slike tilfeller vil Miljødirektoratet vurdere om det kan gis delvis innsyn i opplysningene, jf. plikten til å vurdere meroffentlighet. Taushetsbelagte opplysninger vil ikke bli utlevert.
+Du kan lese mer om hvordan Miljødirektoratet behandler personopplysninger på deres nettside.
+Sletting og arkivering
+Hvis den registrerte jegeren ikke betaler jegeravgiften, eller blir fradømt jaktretten, blir opplysningene om vedkommende slettet fra Jegerregisteret. Da sletter vi også eventuell informasjon om straffbare forhold. Ved ny avlagt jegerprøve, sletter vi eventuell informasjon om straffbare forhold.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Konkursregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Det rettslige grunnlaget for behandling av personopplysninger i Konkursregisteret er konkursloven og konkursregisterforskriften.
+Formålet med behandlingen av personopplysninger i Konkursregisteret er å lette tilgangen til informasjon om konkursbehandlingen, være til hjelp for tingretten og bostyrer i konkursbehandlingen, og bekjempe økonomisk kriminalitet.
+Hvilke opplysninger vi behandler
+Vi registrerer opplysninger om konkursbo som er under behandling i tingretten. Vi registrerer
+
+innehaver
+daglig leder
+styremedlemmer
+stiftere
+aksjonær som eier over 20%
+bostyrer
+revisor
+regnskapsfører
+
+Personer som er ilagt konkurskarantene blir registrert i Konkursregisteret.
+Personopplysningene vi behandler i Konkursregisteret er navn, fødselsnummer eller d-nummer, adresse, telefonnummer og e-postadresse.
+Opplysningene henter vi fra den tingrett som avsier kjennelse om konkursåpning eller konkurskarantene. I tillegg henter vi opplysninger om rolleinnehavere fra Enhetsregisteret.
+Utlevering av opplysninger
+Konkursregisterforskriften regulerer hvilke opplysninger vi kan utlevere og hvor lenge de skal være offentlig tilgjengelig. Opplysningene blir gitt til alle som kontakter oss og oppgir fødselsnummer, d-nummer eller organisasjonsnummer.
+I tillegg leverer vi opplysninger om hvorvidt en person har en aktiv konkurskarantene i en søketjeneste på nettsiden vår. Alle kan logge seg inn via ID-porten og søke på fødselsnummer, d-nummer eller navn.
+Kredittopplysningsforetak kan abonnere på opplysninger om åpning av konkurs, akkordforhandlinger og konkurskarantener.
+Opplysninger som skal kunngjøres etter konkursloven blir kunngjort på våre nettsider.
+Sletting og arkivering
+Hvis en kjennelse om konkursåpning eller konkurskarantene blir omgjort eller oppheves etter anke, blir opplysningene som er registrert slettet. Det går ut kunngjøring om dette som vil være tilgjengelig i tre uker.
+Opplysninger om konkursbo eller tvangsavviklingsbo som gjelder fysiske personer blir slettet ett år etter avsluttende kjennelse eller utlodning.
+Opplysninger om konkursbo eller tvangsavviklingsbo som gjelder juridiske personer blir slettet tre år etter avsluttende kjennelse eller utlodning.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kommunalt rapporteringsregister                            
+
+
+
+Rettslig grunnlag og formål
+Det rettslige grunnlaget for behandling av personopplysninger i registeret er kommuneloven. Formålet med Kommunalt rapporteringsregister er å gi en elektronisk oversikt over de samlede rapporteringspliktene kommuner og fylkeskommuner har som følge av lov eller vedtak. Registeret skal være et virkemiddel for samordning og forenkling.
+Hvilke opplysninger vi behandler
+Når virksomhetene som forvalter rapporteringsplikter rettet mot kommunesektoren skal registrere informasjon i Kommunalt rapporteringsregister, må de ha brukertilgang. For å få brukertilgang i registeret må virksomhetenes representant registrere seg gjennom ID-porten. I registreringsprosessen skal det for hver enkelt rapporteringsplikt registreres hvem som er virksomhetens fagansvarlige.
+Kommunalt rapporteringsregister registrerer rollene
+
+saksbehandlere eller registreringsansvarlige hos de enkelte virksomheter
+fagansvarlige for de enkelte rapporteringsplikter
+
+Informasjon vi registrerer om den enkelte person er
+
+etatstilhørighet
+fornavn
+etternavn
+telefonnummer
+e-postadresse
+
+Vi registrerer også dato for siste oppdatering av personopplysningene.
+Kommunalt rapporteringsregister bruker kontaktinformasjonen i arbeidet med veiledning for å bistå virksomhetene med å oppfylle kravet i kommuneloven, samt bidra til god kvalitet på informasjon knyttet til den enkelte rapporteringsplikt.
+Det er representanten for virksomhetene som skal registrere opplysningene i Kommunalt rapporteringsregister. Det er regulert i lov hvilke opplysninger som skal registreres.
+Utlevering av opplysninger
+Personopplysninger knyttet til saksbehandlere, registreringsansvarlige og fagansvarlige hos den enkelte virksomhet vises ikke i åpne data eller i andre produkt fra Kommunalt rapporteringsregister. Navn på fagansvarlige blir imidlertid oppgitt i registerutskrift fra Kommunalt rapporteringsregister. Dette er kun tilgjengelig for saksbehandlere og registreringsansvarlige hos alle virksomhetene som er registrert i registeret.
+Sletting og arkivering
+Personopplysningene blir ikke slettet som sådan fra Kommunalt rapporteringsregister, da det skal kunne hentes ut historiske data på de enkelte rapporteringsplikter.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Løsøre-, Ektepakt- og Gjeldsordningsregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Det rettslige grunnlaget for behandling av personopplysninger i Løsøreregisteret er gitt i tinglysingsloven og forskrift om tinglysing. Hjemmel for tinglysingsadgangen i Løsøreregisteret finnes i flere lover, herunder panteloven, tvangsfullbyrdelsesloven, tvisteloven, ekteskapsloven, gjeldsordningsloven, konkursloven, skifteloven, dekningsloven, straffeprosessloven og vergemålsloven.
+Registrering av panteheftelser og øvrige rettigheter
+Formålet med behandlingen av personopplysninger knyttet til panteheftelser og øvrige rettigheter i Løsøreregisteret er å gi pant og rettigheter i løsøre rettsvern overfor konkurrerende rettighetshavere.
+Intet til utlegg og utleggstrekk
+Formålet med registrering av opplysninger om intet til utlegg og utleggstrekk er å bedre beslutningsgrunnlaget for ytterligere utlegg eller utleggstrekk, i tillegg til en forbedring av kredittopplysningsgrunnlaget.
+Gjeldsordningsregisteret
+Formålet med registreringen i Gjeldsordningsregisteret er offentliggjøring av informasjon om hvem som har fått innvilget en gjeldsordning eller har fått åpnet gjeldsforhandling. Det er viktig at opplysningene er offentlig tilgjengelig under gjeldsforhandlingen og i gjeldsordningsperioden, først og fremst av hensyn til kreditorene.
+Ektepaktregisteret
+Formålet med tinglysingen av ektepakter i Ektepaktregisteret er å etablere rettsvern overfor ektefellenes kreditorer.
+Hvilke opplysninger vi behandler
+I Løsøreregisteret registrerer vi hvem som har sendt inn melding. Dette kan være en av partene eller representant for disse. Vi registrerer også sakens parter, som kan være debitor, kreditor, pantsetter, panthaver, saksøker, saksøkte, ektefeller, leietaker eller utleier.
+Personopplysningene vi behandler i Løsøreregisteret er navn, fødselsnummer eller d-nummer og adresse.
+Opplysningene henter vi fra de innsendte dokumentene.
+Utlevering av opplysninger
+Opplysningene i Løsøreregisteret blir utlevert til alle som oppgir fødselsnummer, d-nummer, organisasjonsnummer, dagboknummer eller en motorvogns registreringsnummer som rettsstiftelsen er tinglyst på.
+Kredittopplysningsforetak kan abonnere på opplysninger fra Løsøreregisteret.
+Opplysninger om utleggstrekk og forretninger om intet til utlegg kan bare gis til advokater, finansinstitusjoner, inkassobyråer, kredittopplysningsbyråer og offentlige myndigheter med taushetsplikt etter forvaltningsloven eller annen lov.
+Kopi av gjeldsordningsavtale kan bare utleveres til tingretten, namsmenn, offentlig myndighet, skyldneren og dennes ektefelle, kreditorer og andre parter.
+Heftelser i motorvogn er offentlig tilgjengelig for alle på våre nettsider.
+Sletting og arkivering
+De registrerte opplysningene i Løsøreregisteret sletter vi etter reglene i tinglysingsloven.
+Rettsstiftelsene blir slettet etter begjæring fra rettighetshaver eller dersom det tinglyses bevis for at de er falt bort.
+Hvis ikke rettsstiftelsene blir slettet på dette grunnlag, vil opplysningene bli slettet automatisk når virkningen av tinglysingen er falt bort etter utløpt rettsvernstid. Utløpt rettsvernstid medfører automatisk sletting etter følgende tidsfrister:
+
+Leasing av motorvogn slettes 30 år etter tinglysing.
+Pant i driftstilbehør, pant i varelager, pant i motorvogner og anleggsmaskiner, pant i jernbanemateriell, pant i landbruksløsøre, pant i fiskeredskaper, salgspant i motorvogn og factoringavtaler slettes 20 år etter tinglysing.
+Utlegg slettes 5 år etter tinglysing.
+Intet til utlegg slettes 3 år etter tinglysing.
+Arrest og straffeprosessheftelse slettes 2 år etter tinglysing.
+Utleggstrekk slettes når trekkperioden er utløpt.
+Abandonering slettes når avslutning av konkursen eller tvangsavviklingen blir anmerket i Løsøreregisteret.
+Åpning av gjeldsforhandling slettes når gjeldsordningen blir registrert.
+Øvrige dokumenttyper, som ektepakt, gjeldsordninger, vergemål og private beslagsforbud, har ingen automatisk slettedato. Ektepakter kan imidlertid likevel slettes på begjæring hvis det dokumenteres at de har mistet sin rettsvirkning.
+
+Når akkord er stadfestet, skal gjeldsnemndas leder sørge for at tinglysingen/registreringen i Løsøreregisteret/Foretaksregisteret blir slettet.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Oppgaveregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Oppgaveregisteret skal sørge for effektiv samordning og utnyttelse av oppgave- og rapporteringsplikter som offentlige organer pålegger næringsdrivende. Registeret skal inneholde en oppdatert oversikt over alle slike oppgaveplikter og bidra med informasjon om disse og den samordning som finner sted.
+Når virksomheter eller etater som forvalter rapporteringsplikter rettet mot næringslivet skal registrere informasjon i Oppgaveregisteret, må de ha brukertilgang. For å få brukertilgang i registeret må virksomhetenes representant registrere seg gjennom ID-porten. I registreringsprosessen skal det på hver enkelt rapporteringsplikt registreres hvem som er virksomhetens fagansvarlige.
+Registrerte opplysninger brukes til identifisering og autorisering for tilgang til Oppgaveregisteret.
+Videre benytter Oppgaveregisteret kontaktinformasjonen i arbeidet med veiledning for å bistå virksomhetene med å oppfylle kravet i Oppgaveregisterloven, samt bidra til god kvalitet på informasjon knyttet til den enkelte rapporteringsplikt.
+Hvilke opplysninger vi behandler
+Oppgaveregisteret registrerer rollene
+
+saksbehandlere og registreringsansvarlige hos de enkelte virksomheter
+fagansvarlige for de enkelte rapporteringsplikter
+
+Informasjon vi registrerer om den enkelte personer er
+
+etatstilhørighet
+fornavn
+etternavn
+telefonnummer
+e-postadresse
+
+Vi registrerer også dato for siste oppdatering av personopplysningene.
+Det er representanten for virksomhetene eller etatene som skal registrere informasjon i Oppgaveregisteret.
+Utlevering av opplysningene
+Personopplysninger knyttet til saksbehandlere, registreringsansvarlige og fagansvarlige hos de enkelte virksomheter vises ikke i åpne data eller i andre produkter fra Oppgaveregisteret.
+Navn på fagansvarlige blir imidlertid oppgitt i registerutskrift fra Oppgaveregisteret. Dette er kun tilgjengelig for saksbehandlere og registreringsansvarlige hos virksomhetene som er registrert i Oppgaveregisteret.
+Sletting og arkivering
+Personopplysningene blir ikke slettet som sådan fra Oppgaveregisteret, da det skal kunne hentes ut historiske data på de enkelte rapporteringsplikter.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Tros- og livssynssamfunn                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandlingen av personopplysningene er lov om trudomssamfunn og lov om tilskott til livssynssamfunn. Kulturdepartementet er behandlingsansvarlig, mens Brønnøysundregistrene er databehandler.
+Vi kontrollerer medlemslistene for tros- og livssynssamfunn, slik at de skal kunne danne grunnlag for utbetaling av tilskudd for samfunn utenfor Den norske kirke. Formålet med kontrollen er å sikre et mest mulig korrekt grunnlag for utbetaling av tilskudd.
+Hvilke opplysninger vi behandler
+Personopplysningene vi registrerer er navn, livssyn, adresse, fødselsnummer og status hos Folkeregisteret.
+Samtlige tros- og livssynssamfunn må sende inn en oversikt til statsforvalter over fødselsnummer som det kreves tilskudd for. Statsforvalter sender oversikten videre til oss. Vi kontrollerer opp mot Folkeregisteret, Den norske kirkes medlemsregister og oversikter fra øvrige tros- og livssynssamfunn.
+Utlevering av opplysninger
+Utover det som følger av saksbehandlingen hos statsforvalterne og departementet, blir ikke personopplysningene gjort kjent for andre enn den det gjelder. Hvis en person står oppført som medlem i mer enn ett tros- eller livssynssamfunn, vil ikke de enkelte tros- eller livssynssamfunnene få oppgitt hvilket annet samfunn den aktuelle personen står oppført. Samfunnene vil kun få beskjed om hvilke medlemmer som står oppført i mer enn ett trossamfunn.
+Sletting og arkivering
+Når den årlige kontrollen er gjennomført og personopplysningene ikke lenger har betydning for saksbehandlingen, skal Brønnøysundregistrene og statsforvalterne slette alle oversikter som inneholder fødselsnummer. Kulturdepartementet gir beskjed til oss når opplysningene kan slettes. Alle opplysninger som er relaterte til fødselsnummer sletter vi en gang i året. Dette omfatter innhold i database, på papir, disketter og lagrede filer. Back-up slettes etter en måned.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Partiregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandling av personopplysninger i Partiregisteret er partiloven og partilovforskriften.
+Formålet med registreringen er å sikre notoritet og klarhet i hvem som kan representere partiet utad.
+I Partiregisteret registrerer vi opplysninger om kontaktperson som er registrert i Enhetsregisteret, og opplysninger om partiets utøvende organ. For disse personene inneholder registeret opplysning om navn, bostedsadresse og fødselsnummer eller d-nummer.
+Som underlagsdokumentasjon skal det ved nyregistrering legges ved erklæringer fra minst 5 000 personer med stemmerett ved stortingsvalg, som sier at de ønsker partinavnet registrert. Navn, fødselsdato og adresse skal fremgå av erklæringen.Den skal være egenhendig underskrevet og datert av den som har avgitt erklæringen. Disse opplysningene blir ikke registrert i noe system, men oppbevares som underlagsdokumentasjon.
+Opplysningene henter vi fra de innsendte dokumentene vi får fra kontaktperson eller tilsvarende.
+Det er regulert i lov hvilke opplysninger vi skal registrere, men det er frivillig å påta seg verv eller roller i et parti og å avgi erklæring på underskriftslistene.
+Utlevering av opplysninger
+Alle opplysninger i Partiregisteret, blant annet opplysningene om medlemmer av partiets utøvende organ og kontaktperson i Enhetsregisteret, er offentlige. Dette gjelder likevel ikke opplysninger om fødselsnummer eller d-nummer og bostedsadressene til medlemmene av partiets utøvende organ. For kontaktpersoner er ikke opplysningene om fødselsnummer og d-nummer offentlig tilgjengelig.
+Underskriftslistene er unntatt fra offentlighet, og blir ikke lagret elektronisk. Disse oppbevares i vårt arkiv.
+Sletting og arkivering
+Virkningen av registreringen opphører og partinavnet blir ledig når partiet ikke har stilt liste i noe valgdistrikt ved to påfølgende stortingsvalg. Partinavnet skal da slettes fra Partiregisteret.  Det samme gjelder fire år etter at partiet er oppløst eller har skiftet navn. Opplysningene om partiets utøvende organ vil da også bli slettet fra registeret.
+Utøvende organ og kontaktperson slettes også fra registeret hvis nytt utøvende organ eller kontaktperson meldes.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Register for utøvere av alternativ behandling                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandling av personopplysninger i Registeret for utøvere av alternativ behandling er lov om alternativ behandling av sykdom mv. og forskrift om registrering av alternative behandlere.
+Formålet med registeret er å bidra til økt ivaretakelse av pasientsikkerhet og forbrukerrettigheter for den som oppsøker en registrert alternativ behandler, samt å bidra til seriøsitet og forretningsmessig ordnede forhold blant utøvere av alternativ behandling.
+Hvilke opplysninger vi behandler
+Personopplysningene som behandles i Registeret for utøvere av alternativ behandling er navn, fødselsdato, adresse og fødselsnummer eller d-nummer.  I tillegg registrerer vi arbeidssted, medlemsforhold, telefon og e-postadresse.
+Opplysningene henter vi fra dokumentene vi mottar om registrering. Det er frivillig å registrere seg, men det er regulert i lov hvilke opplysninger som skal registreres.
+Utlevering av opplysninger
+Opplysningene utleverer vi til alle som oppgir fødselsnummer eller d-nummer til en utøver av alternativ behandling. Det er mulig å søke i registrerte opplysninger på våre nettsider.
+Sletting og arkivering
+All dokumentasjon som blir sendt inn i forbindelse med registrering lagres elektronisk i saksbehandlingssystemet. Originalene oppbevares i ca. 3 måneder før de blir makulert.
+Opplysningene sletter vi etter henvendelse fra den registrerte, samt i de tilfellene hvor vedkommende ikke lenger oppfyller vilkårene for registrering. Utøvere blir slettet automatisk når de ikke lenger oppfyller kravene til å stå registrert.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Regnskapsregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandling av personopplysninger i Regnskapsregisteret er regnskapsloven med forskrifter.
+Formålet med Regnskapsregisteret er å motta og offentliggjøre årsregnskapet, årsberetningen og eventuelt revisjonsberetningen, slik at alle kan gjøre seg kjent med innholdet av dokumentene hos Regnskapsregisteret.
+Hvilke opplysninger vi behandler
+Hvis årsregnskap ikke blir sendt inn innen gjeldende frister, ilegges den regnskapspliktige enheten et forsinkelsesgebyr. Dersom enheten ikke betaler, blir styremedlemmer, eventuelt deltakere eller medlemmer og daglig leder solidarisk ansvarlig for forsinkelsesgebyret. I forbindelse med dette innhenter vi opplysning om disse rolleinnehaverne fra Enhetsregisteret og Foretaksregisteret for å kunne kreve inn gebyr. Ileggelsen skjer automatisk etter gjeldende regler.  Opplysningene som blir registreret er fødselsnummer eller d-nummer, navn og adresse, da disse er nødvendig for å identifisere rette vedkommende.
+Det er mulig å søke om ettergivelse av forsinkelsesgebyr, og å klage på eventuelt vedtak om å nekte slik ettergivelse. I den forbindelse inneholder ofte dokumentene som blir sendt inn sensitive personopplysninger. Som grunnlag for å få ettergitt forsinkelsesgebyret vil opplysninger om sykdom, straffbare forhold, personlig økonomi og andre sosiale forhold ofte bli oppgitt som årsak til manglende overholdelse av innsendingsfristen for årsregnskapet.
+Alle dokumenter som blir sendt inn til Regnskapsregisteret blir lagret elektronisk.
+Det vil også kunne finnes personopplysninger i årsregnskapene som sendes inn. Årsregnskapet og årsberetningen skal undertegnes av styret, eventuelt daglig leder og deltakere eller medlemmer. I notene skal det gis opplysninger om aksjeeiere. Årsregnskap sendes inn av representant for den regnskapspliktige enheten.
+Regnskapsregisteret henter opplysninger fra Tilsynsrådet for advokatvirksomhet, Legemiddelverket, Lotteri- og Stiftelsestilsynet, Finanstilsynets, og Skatteetaten, for å avgjøre om det den regnskapspliktige enheten har revisjonsplikt. Disse opplysningene vil i noen tilfeller være personopplysninger, for eksempel dersom den regnskapspliktige enheten er et enkeltpersonforetak. I tillegg innhenter vi i noen tilfeller opplysninger fra andre offentlige virksomheter, som for eksempel Statens innkrevingssentral og Konkursregisteret.
+Utlevering av opplysninger
+Årsregnskap, årsberetning og revisjonsberetning er offentlige opplysninger, med visse unntak som er fastsatt i regnskapsloven.
+Statens innkrevingssentral mottar opplysninger om ilagt forsinkelsesgebyr og solidaransvarlige i forbindelse med innkreving av forsinkelsesgebyr. I tillegg mottar tingrettene opplysninger i forbindelse med tvangsoppløsning.
+Sletting og arkivering
+Opplysningene er registrert så lenge den regnskapspliktige enheten eksisterer.
+Opplysningene  blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Reservasjonsregisteret                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandlingen av personopplysninger i Reservasjonsregisteret er markedsføringsloven og forskrift om reservasjonsregisteret.
+Formålet med behandlingen er å registrere ønske fra forbrukere om å reservere seg mot telefonsalg og adressert reklame, med sikte på å tilgjengeliggjøre dette for direktemarkedsførere. Virksomheter som bruker adresselister til direkte reklame, har et selvstendig ansvar for å oppdatere adresselistene mot Reservasjonsregisteret.
+Hvilke opplysninger vi behandler
+I Reservasjonsregisteret registrerer vi fysiske personer. Registeret inneholder opplysninger om fødselsnummer og d-nummer, navn, postadresse og telefonnummer. Opplysningene registerer brukeren selv. Vi henter også opplysninger fra Folkeregisteret. Det er frivillig å la seg registrere, og brukeren velger hvilke opplysninger ut over folkeregistrerte opplysninger som skal registreres.
+Utlevering av opplysninger
+Opplysninger i Reservasjonsregisteret blir kun utlevert til næringsdrivende som markedsfører direkte, til frivillige organisasjoners innsamlingsaksjoner og til de som skal oppdatere adresseregistre for direktemarkedsførere.
+Personnummerdelen av fødselsnummeret utleveres ikke.
+Sletting og arkivering
+Opplysningene sletter vi dersom den registrerte selv ber om dette. Ved dødsfall slettes opplysningene ett år etter opplysning om bortgang fra Folkeregisteret.
+
+
+
+
+Personopplysninger vi behandler i tillegg
+ 
+
+
+
+
+
+
+
+ 
+                                Gebyrsentralen                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandlingen av personopplysningene i Gebyrsentralen er rettsgebyrloven og rettsgebyrforskriften.
+Formålet med Gebyrsentralen er å registrere og fakturere bilag som grunnlag for regnskapsføring og innkreving av rettsgebyrer på vegne av tingrettene. Gebyrsentralen registrerer også bilag for utbetaling av sideutgifter for namsmenn og tingretter, slik som for eksempel utgifter i forbindelse med tvangsforretninger.
+Hvilke opplysninger vi behandler
+Personopplysninger vi registrerer i Gebyrsentralen er navn og adresse på den som skal betale gebyret. Personen blir registrert som kunde i kunderegisteret.
+Dokumentasjonen som blir sendt inn inneholder også i noen tilfeller andre personopplysninger.
+Opplysningene hentes fra tingrettene og namsmenn.
+Utlevering av personopplysninger
+Personopplysningene blir bare utlevert til den aktuelle tingrett, namsmann eller fakturamottaker.
+Sletting og arkivering
+Registrerte opplysninger blir arkivert i henhold til bokføringsloven og arkivloven. Papirbilagene oppbevares i 3 måneder før de blir makulert. Regnskapsbilagene oppbevares i 10 år før de blir makulert.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kompensasjonsordningen for næringslivet                            
+
+
+
+Rettslig grunnlag og formål
+I forbindelse med koronapandemien har regjeringen vedtatt å innføre en ordning som skal gi tilskudd til foretak med stort omsetningsfall som følge av pandemien.
+Ordningen er regulert i lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020 og forskrift for utfylling og gjennomføring av lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020.
+Formålet med behandlingen av personopplysningene er å samle inn og kontrollere informasjon for å vurdere om vilkår for tilskudd er til stede, slik at tilskudd kan tildeles og utbetales. Tilskuddsmyndigheten kan foreta etterkontroll og ilegge overtredelsesgebyr og administrative sanksjoner i flere år etter at vedtak om tilskudd er fattet.
+I tillegg skal tilskuddsmyndigheten offentliggjøre opplysninger om tilskudd til alminnelig ettersyn.
+ 
+Hvilke opplysninger vi behandler
+I forbindelse med kompensasjonsordningen behandles følgende personopplysninger:
+Navn, fødselsnummer, e-post, mobilnummer, bankkontonummer og IP-adresser og eventuelle konkurskarantener.
+Opplysningene knytter seg til kontaktperson for ansvarlig foretak i konsern, hvem som har signert søknaden, rolleinnehavere og reelle eiere. I tillegg behandles det opplysninger om inntekt for personlige deltakere i ansvarlige selskap og innehavere av enkeltpersonforetak.
+Det behandles også opplysning om hvorvidt innehavere i enkeltpersonforetak og personlige deltakere i ansvarlige selskap er personlig konkurs.
+For å kontrollere om vilkårene for å få tilskudd er oppfylt, innhentes det og benyttes opplysninger fra blant andre Foretaksregisteret, Konkursregisteret, skatteetaten, NAV, Finanstilsynet og Økokrim.
+ 
+Databehandlere
+Brønnøysundregistrene benytter to revisjonsselskap for å gjennomføre ytterligere kontroll av enkelte søknader etter anmodning fra tilskuddsmyndigheten og de vil i den forbindelse behandle personopplysninger. Gjennom blant annet databehandleravtaler er de to revisjonsselskapene underlagt krav til taushetsplikt og til å overholde personvernet etter samme regelverk som tilskuddsmyndigheten.
+Digitaliseringsdirektoratet forvalter Altinn. Søknad om kompensasjon sendes via skjema i Altinn. I forbindelse med innlogging vil innloggingsinformasjon bli behandlet. Altinns personvernerklæring gir informasjon om hvilke personopplysninger som behandles i forbindelse med innlogging, søknadsskjema og signering.
+ 
+Utlevering av opplysninger
+Opplysninger om hvem som har fått tildelt tilskudd offentliggjøres på våre nettsider og vil være tilgjengelig for alle som ønsker tilgang til disse opplysningene.
+ 
+Sletting og arkivering
+Opplysningene i søknaden og eventuell underliggende dokumentasjon vil bli lagret så lenge det er behov for opplysningene for å oppfylle formålet med behandlingen. Deretter vil opplysningene bli arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kompensasjonsordningen for innreisekarantene                            
+
+
+
+Rettslig grunnlag og formål
+I forbindelse med koronapandemien har regjeringen vedtatt å innføre en ordning som skal gi tilskudd til foretak som har hatt utgifter til innreisekarantene i forbindelse med bruk av utenlandsk arbeidskraft.
+Ordningen er regulert i lov om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet og forskrift til utfylling og gjennomføring av lov om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet.
+Formålet med behandlingen av personopplysningene er å samle inn og kontrollere informasjon for å vurdere om vilkår for tilskudd er til stede, slik at tilskudd kan tildeles og utbetales. Tilskuddsmyndigheten kan foreta etterkontroll og ilegge overtredelsesgebyr i flere år etter at vedtak om tilskudd er fattet.
+I tillegg skal tilskuddsmyndigheten offentliggjøre opplysninger om tilskudd til alminnelig ettersyn.
+Hvilke opplysninger vi behandler
+I forbindelse med karantenekompensasjonsordningen behandles følgende personopplysninger:
+Navn, fødselsnummer, internasjonalt identifikasjonsnummer som er benyttet i A-meldingen, nasjonalt identifikasjonsnummer, e-post, mobilnummer, bankkontonummer og IP-adresser og eventuelle konkurskarantener.
+Opplysningene knytter seg til arbeids- og oppdragstakere, kontaktperson for ansvarlig foretak i konsern, hvem som har signert søknaden, rolleinnehavere og reelle eiere. I tillegg behandles det opplysninger om inntekt for personlige deltakere i ansvarlige selskap og innehavere av enkeltpersonforetak.
+Det behandles også opplysning om hvorvidt innehavere i enkeltpersonforetak og personlige deltakere i ansvarlige selskap er personlig konkurs.
+For å kontrollere om vilkårene for å få tilskudd er oppfylt, blir det hentet inn informasjon fra offentlige myndigheter og private aktører. Eksempelvis Foretaksregisteret, Konkursregisteret, Skatteetaten, Økokrim, Finanstilsynet og Arbeidstilsynet.
+Databehandlere
+Brønnøysundregistrene benytter tre revisjonsselskap for å gjennomføre ytterligere kontroll av enkelte søknader etter anmodning fra tilskuddsmyndigheten og de vil i den forbindelse behandle personopplysninger. Gjennom blant annet databehandleravtaler er revisjonsselskapene underlagt krav til taushetsplikt og til å overholde personvernet etter samme regelverk som tilskuddsmyndigheten.
+Digitaliseringsdirektoratet forvalter Altinn og søknad om tilskudd sendes via skjema i Altinn. I forbindelse med innlogging vil innloggingsinformasjon bli behandlet. I personvernerklæringen til Altinn er det informasjon om hvilke personopplysninger som behandles i forbindelse med innlogging, søknadsskjema og signering.
+Utlevering av opplysninger
+Opplysninger om hvem som har fått tildelt tilskudd offentliggjøres på våre nettsider og vil være tilgjengelig for alle som ønsker tilgang til disse opplysningene.
+Sletting og arkivering
+Opplysningene i søknaden og eventuell underliggende dokumentasjon vil bli lagret så lenge det er behov for opplysningene for å oppfylle formålet med behandlingen. Deretter vil opplysningene bli arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Registrering av rettighetstap                            
+
+
+
+Rettslig grunnlag og formål
+Rettslig grunnlag for behandlingen av opplysningene om rettighetstap er straffeloven, enhetsregisterloven og foretaksregisterloven
+Formålet med registreringen er å forhindre at personer som i medhold av straffeloven § 56 er fradømt retten til å drive virksomhet eller aktivitet, blir registrert i nye roller i Foretaksregisteret og Enhetsregisteret, og at vedkommende fjernes fra eksisterende roller. I tillegg benytter vi opplysningene i Jegerregisteret for de tilfeller hvor vedkommende er fradømt jaktretten. Det er Konkursregisteret som fører oversikten over rettighetstap.
+Hvilke opplysninger vi behandler
+Personopplysningene vi behandler er navn, fødselsnummer eller d-nummer og adresse.
+Opplysningene innhenter vi fra påtalemyndigheten, som oversender domsslutningen.
+Utlevering av opplysninger
+Opplysningene er til internt bruk hos oss, og er ikke offentlig tilgjengelig. Opplysningene kan avgis til den det gjelder, politi og påtalemyndighet, og til andre dersom det foreligger hjemmel i lov.
+Sletting og arkivering
+Opplysningene sletter vi når perioden for rettighetstapet er utløpt. Originaldokumentene blir makulert på samme tidspunkt.
+Opplysningene blir ikke fysisk slettet, men arkivert i henhold til arkivloven.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Jobbsøkere                            
+
+
+
+Dersom du søker hos oss, trenger vi å behandle opplysninger om deg for å vurdere din søknad. Ansettelsesprosessen innebærer behandling av de opplysningene du gir oss gjennom dokumentene du sender, blant annet søknad, CV, vitnemål og attester. I tillegg til eventuelle intervju, kan vi også gjennomføre egne undersøkelser, typisk samtaler med referansene dine.
+Vi bruker jobbsøkeportalen JobbNorge til å administrere innsendte søknader på de ledige stillingene våre.
+For å vurdere innsendt dokumentasjon, gjennomføre intervjuer og ringe referanser er behandlingsgrunnlaget personvernforordningen artikkel 6 nr. 1 bokstav b. Denne bestemmelsen tillater oss å behandle personopplysninger når det er nødvendig for å gjennomføre tiltak på jobbsøkers anmodning før en avtale inngås. Ved å søke på stillingen og laste opp dokumenter anser vi at jobbsøkeren ber oss vurdere innsendt dokumentasjon, gjennomføre intervjuer og ringe referanser med sikte på å inngå en arbeidsavtale.
+Dersom vi gjør egne undersøkelser ut over dette, for eksempel å kontakte noen som har utstedt en attest, men som ikke er oppgitt som referanse, er behandlingsgrunnlaget for slike undersøkelser personvernforordningen artikkel 6 nr. 1 bokstav f, som tillater oss å behandle opplysninger som er nødvendig for å vareta en berettiget interesse som veier tyngre enn hensynet til den enkeltes interesser eller grunnleggende rettigheter og friheter. Den berettigete interessen er å finne rett kandidat til stillingen.
+Du behøver ikke å oppgi særlige kategorier av personopplysninger i søknaden din eller på intervjuet. Du kan imidlertid velge å gjøre det. Dersom du oppgir at du har en funksjonsnedsettelse som vil kreve tilrettelegging på arbeidsplassen eller i arbeidsforholdet, har vi plikt til å kalle inn minst én søker med slik funksjonsnedsettelse til intervju, jf. forskrift til lov om statens ansatte mv. § 6. Derfor er behandlingsgrunnlaget vårt for disse opplysningene personvernforordningen artikkel 6 nr. 1 bokstav c, at behandlingen er nødvendig for å
+
+etterleve en rettslig forpliktelse, jf. artikkel 9 nr. 2 bokstav b,
+oppfylle våre forpliktelser på området arbeidsrett i tråd med loven
+
+I andre tilfeller er behandlingsgrunnlaget vårt personvernforordningen artikkel 6 nr. 1 bokstav a, altså ditt eksplisitte samtykke, jf. artikkel 9 nr. 2 bokstav a. Du kan når som helst trekke tilbake dette samtykket. At du trekker ditt samtykke vil ikke påvirke lovligheten av behandlingen av personopplysninger som skjedde før du trakk samtykket tilbake.
+Stillingssøknader oppbevares i JobbNorge sitt jobbsøkersystem. Generelle søknader slettes innen 365 dager og søknader med status ansatt eller intervju slettes innen 540 dager. Søkerlister og innstillinger, samt stillingssøknader overføres til saks- og arkivsystemet vårt og bevares og oppbevares i tråd med arkivlovgivningen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Nyhetsbrev                            
+
+
+
+Når du registrerer e-postadressen din samtykker du til at vi sender deg nyhetsbrev og at vi bruker e-postadressen din til å gjøre dette. Du kan når som helst melde deg av nyhetsbrevet.
+E-postadressen lagres i en egen database driftet av vår databehandler Make AS, og den deles ikke med andre.
+
+
+
+
+Bruk av informasjonskapsler (cookies)
+En informasjonskapsel er en liten tekstfil som blir lagret på datamaskinen din når du laster inn en nettside. På brreg.no bruker vi informasjonskapsler til å lagre informasjon om valg du har gjort på siden, og til å fordele trafikken på serverene våre. Disse sletter vi automatisk når du avslutter nettleserøkta.
+Vi benytter Google Analytics til å vurdere og forbedre nettstedet ved å registrere besøksmønstret. Informasjonskapslene inneholder generell informasjon som nettleser, språk, verdensdel og hvilken nettside du kom fra. Mer informasjon om disse kan du finne i informasjonen fra Google.
+ 
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

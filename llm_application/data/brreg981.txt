@@ -1,0 +1,500 @@
+
+
+
+
+Oppbygging GrunndataWS
+
+Sist oppdatert: 14. mars 2023.
+
+
+
+
+
+Alle tjenester som legges ut under grunndataWS er bygd opp over samme lest. Det vil si at resultatet som sendes tilbake til det spørrende systemet er bygd opp av:
+
+responseHeader
+melding
+
+ResponseHeader er en generell header som blant annet inneholder informasjon om hvordan spørringen har gått. Meldingselementet er et hovedelement som inneholder informasjon om enheten som det spørres på.
+ResponseHeader
+Alle meldinger som blir returnert til tjenesten skal inneholde en responseHeader. Denne headeren er bygd opp på følgende måte:
+<responseHeader prossessDato=»2003-09-17″ tjeneste=»hentBasisdataMini»>
+<orgnr>980123456</orgnr>
+<hovedStatus>0</hovedStatus>
+<underStatus>
+<underStatusMelding kode=»0″>Data returnert</underStatusMelding>
+<underStatusMelding kode=»1020″>Enhet 980123456 har ikke postadresse</underStatusMelding>
+</underStatus>
+</responseHeader>
+Statuser
+For hver enkelt spørring vil det bli satt en status som sier hvordan spørringen har gått. Alle spørringene som har gått bra vil ha hovedstatus satt til 0. I tillegg vil det også være en understatus som er en videre spesifisering på hovedstatusen. Ikke all informasjon er registrert på alle organisasjoner. I de tilfellene det mangler informasjon, vil dette gå fram her, for eksempel hvis en enhet ikke har registrert postadresse. Understatusen sier ingenting om enheten etter loven skulle hatt opplysningen.
+I enkelte tilfeller blir det spurt på enheter hvor du ikke får ut data. Så lenge spørringen har gått OK, vil hovedstatus bli satt til 1, mens understatus beskriver hvorfor du ikke har fått ut data. Dette kan være fordi enheten er slettet.
+Hovedstatus
+Hovedstatus sier hvordan spørringen har gått. Følgende hovedstatuser er definert:
+
+
+
+HovedstatusBeskrivelse
+
+
+
+
+
+0Spørringen har gått OK.
+
+
+1Spørringen har gått OK, men data mangler. For detaljer, se understatus.
+
+
+
+-1 Det har oppstått feil knyttet til tjenesten.
+
+
+
+
+Understatus
+Understatus er en nærmere beskrivelse av hovedstatus, eventuelt en utfyllende beskrivelse av hvorfor du ikke har fått alle data, slik som for eksempel at postadressen mangler.
+
+
+
+KodeMelding
+
+
+
+
+0Data returnert.
+
+
+1Enhet x er slettet som dublett - korrekt enhet y er innført. 
+
+
+
+2Enhet x er slettet som sammenslått - korrekt enhet y er innført. 
+
+
+3Enhet x er registreringsenheten til den enheten som ble bestilt! 
+
+
+
+
+
+10Orgnr i input ikke gitt. 
+
+
+
+10000Ikke gyldig organisasjonsnummer. Organisasjonsnummer skal bestå av 9 siffer og kun tall. 
+
+
+
+
+
+100Enhet x aldri opprettet. 
+
+
+110Enhet x er slettet. 
+
+
+120Enhet x er slettet som dublett eller sammenslått - korrekt enhet y er slettet. 
+
+
+130Enhet x er en bedrift/virksomhet, juridisk enhet er y.
+
+
+160Input er ikke et organisasjonsnummer eller et fødselsnr.
+
+
+
+170x er ikke et gyldig organisasjonsnummer.
+
+
+
+180Personen x finnes ikke i vår database.
+
+
+181Personen x er registrert død.
+
+
+182Personen x er registrert ugyldig.
+
+
+183Personen x har verge.
+
+
+190Enhet x er ikke en bedrift/virksomhet.
+
+
+
+200Enhet x det spørres på er en registreringsenhet.
+
+
+210Enhet x er ikke registrert i Frivillighetsregisteret.
+
+
+
+2000Ingen endringer finnes i siste periode (siste døgn/helg)
+
+
+
+
+
+1010Enhet x har ikke forretningsadresse.
+
+
+1020Enhet x har ikke postadresse.
+
+
+1030Enhet x har ikke adresse.
+
+
+1060Enhet x har ikke stiftelsesdato.
+
+
+1070Enhet x har ikke målform.
+
+
+1080Enhet x har ikke reklame.
+
+
+1090Enhet x har ikke virksomhet/art/bransje.
+
+
+1100Enhet x har ikke formål.
+
+
+
+1111Enhet x har ikke vedtektsdato.
+
+
+
+1115Enhet x har ikke telefon.
+
+
+1116Enhet x har ikke telefax.
+
+
+1117Enhet x har ikke mobiltelefon.
+
+
+1118Enhet x har ikke e-postadresse.
+
+
+1119Enhet x har ikke hjemmeside.
+
+
+
+1120Enhet x har ikke særlige opplysninger.
+
+
+1125Enhet x har ikke næringskode.
+
+
+1130Enhet x har ikke sektorkode.
+
+
+
+1135Enhet x har ikke ansatte.
+
+
+1140Enhet x har ikke kapital.
+
+
+1145Enhet x har ikke bedrifter/virksomheter.
+
+
+1150Enhet x inngår ikke i konsern.
+
+
+1155Enhet x har ikke dato for oppstart.
+
+
+1160Enhet x har ikke dato for eierskifte.
+
+
+1165Enhet x har ikke hovedforetak.
+
+
+1180Enhet x har ikke rolleblokk n (et sett av roller).
+
+
+1190Enhet x har ikke frivillighetsregisterdata.
+
+
+
+
+
+-100Bruker mangler autorisasjon for denne tjenesten.
+
+
+-101Feil i brukernavn og/eller passord.
+
+
+-1000Det har oppstått en uventet feil. Ved fortsatt gjentakelse, ta kontakt med Brønnøysundregistrene
+
+
+
+
+Lovlige kombinasjoner av statuser
+
+
+
+HovedstatusUnderstatus kodeUnderstatus Melding
+
+
+
+
+
+00Data returnert. 
+
+
+
+01 
+Enhet x er slettet som dublett - korrekt enhet y er innført
+
+
+02Enhet x er slettet som sammenslått - korrekt enhet y er innført.
+
+
+03Enhet x er registreringsenheten til den enheten som ble bestilt! 
+
+
+
+
+
+110Orgnr i input ikke gitt.
+
+
+120Valideringsfeil i inputstreng: feilmeldingstekst
+
+
+110000Ikke gyldig organisasjonsnummer. Organisasjonsnummer skal bestå av 9 siffer og kun tall.
+
+
+
+
+
+1100Enhet x aldri opprettet.
+
+
+1110Enhet x er slettet.
+
+
+1120Enhet x er slettet som dublett eller sammenslått - korrekt enhet y er slettet.
+
+
+1130Enhet x er en bedrift/virksomhet, juridisk enhet er y.
+
+
+
+1 160
+Input er ikke et organisasjonsnummer eller et fødselsnr.
+
+
+
+1170x er ikke et gyldig organisasjonsnummer.
+
+
+1180Personen x er ikke i vår database.
+
+
+1181Personen x er registrert død
+
+
+1182Personen x er registrert ugyldig
+
+
+
+1183Personen x har verge.
+
+
+1190
+Enhet x er ikke en bedrift/virksomhet.
+
+
+1 200Enhet x det spørres på er en registreringsenhet.
+
+
+1210Enhet x er ikke registrert i Frivillighetsregisteret.
+
+
+12000Ingen endringer finnes i siste periode (siste døgn/helg).
+
+
+
+
+
+01010Enhet x har ikke forretningsadresse.
+
+
+01020Enhet x har ikke postadresse.
+
+
+01030Enhet x har ikke adresse.
+
+
+01060Enhet x har ikke stiftelsesdato.
+
+
+01070Enhet x har ikke målform.
+
+
+0 1090Enhet x har ikke virksomhet/art/bransje.
+
+
+01100Enhet x har ikke formål.
+
+
+
+01111Enhet x har ikke vedtektsdato.
+
+
+
+01115Enhet x har ikke telefon.
+
+
+01116Enhet x har ikke telefax.
+
+
+01117Enhet x har ikke mobiltelefon.
+
+
+0 1118Enhet x har ikke e-postadresse.
+
+
+0 1119Enhet x har ikke hjemmeside.
+
+
+0 1120Enhet x har ikke særlige opplysninger.
+
+
+0 1125Enhet x har ikke næringskode.
+
+
+0 1130Enhet x har ikke sektorkode.
+
+
+
+0 1135Enhet x har ikke ansatte.
+
+
+0 1140Enhet x har ikke kapital.
+
+
+0 1145Enhet x har ikke bedrifter/virksomheter.
+
+
+01150Enhet x inngår ikke i konsern.
+
+
+01155Enhet x har ikke dato for oppstart.
+
+
+0 1160Enhet x har ikke dato for eierskifte.
+
+
+0 1165Enhet x har ikke hovedforetak.
+
+
+0 1180Enhet x har rolleblokk n (et sett av roller).
+
+
+
+
+
+-1-100Bruker mangler autorisasjon for denne tjenesten.
+
+
+-1-101Feil i brukernavn og/eller passord.
+
+
+-1-1000Det har oppstått en uventet feil. Ved fortsatt gjentakelse, ta kontakt med Brønnøysundregistrene. 
+
+
+
+
+ 
+Melding
+I meldingselementet vil du finne all informasjon om en enhet som det spørres på. Meldingselementet er bare til stede i de tilfellene når hovedstatus er 0. Meldingen vil bygges opp forskjellig alt etter hvilke tjenester det spørres på, men vil ha dette generelle elementet:
+<melding tjeneste=»hentBasisdataMini»>
+Her vil informasjonen som det spørres på bli lagt.
+</melding>
+ 
+ 
+
+
+
+
+Nyttige lenker
+
+Teknisk dokumentasjon for maskinell tilgang til Enhetsregisteret
+
+
+
+
+Bestillingsparametre
+
+
+
+
+Informasjons- og behandlingstyper i Enhetsregisteret
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

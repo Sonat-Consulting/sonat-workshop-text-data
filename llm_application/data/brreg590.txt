@@ -1,0 +1,244 @@
+
+
+
+
+Vedlegg når du melder opplysninger om underenheter
+
+Sist oppdatert: 25. april 2022.
+
+
+
+
+
+Virksomheter som skal melde opplysninger om flere underenheter, må melde dette i et eget vedlegg.
+
+Du kan fylle ut og bruke Skjema for underenheter – aktivitet på flere adresser som vedlegg.
+Ulike krav til innhold i vedlegg
+Det vil være ulike krav til innholdet i vedlegget, avhengig av om du skal melde ny underenhet, endre opplysninger på eksisterende eller registrere sletting. Her finner du oversikt over de ulike kravene.
+ 
+
+
+
+
+
+
+
+ 
+                                Vedlegg ved melding om ny underenhet                            
+
+
+
+
+
+
+Type informasjon:Opplysninger som du må melde:
+
+
+
+
+Organisasjonsnummer– hovedenhetens organisasjonsnummer
+ i feltet for hovedenhet 
+
+
+Underenhetens navn– underenhetens fullstendige navn
+
+
+Dato for start av aktivitet– dato for når aktiviteten ble eller blir startet
+
+
+Underenhetens beliggenhetsadresse– gate- eller veinavn, husnummer eller stedsnavn (hvis gate- eller veiadresse ikke finnes)
+– postnummer og poststed
+– kommune (nummer eller navn)
+
+
+Underenhetens aktivitet eller bransje– beskrivelse av hva slags aktivitet som drives i underenheten
+
+
+Underenhetens postadresse– postboksadresse, gate- eller veinavn, husnummer eller stedsnavn
+– postnummer og poststed
+– kommune (nummer eller navn)
+
+
+Andre opplysninger– telefonnummer, e-postadresse, nettadresse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Vedlegg ved melding om endring av opplysninger for underenhet                            
+
+
+
+Vedlegget må inneholde opplysninger om
+
+underenhetens navn
+organisasjonsnummer
+hvilke opplysninger som skal registreres
+
+Hvis organisasjonsnummeret er ukjent, kan du søke i nøkkelopplysninger fra Enhetsregisteret
+Opplysninger du må oppgi i tillegg
+
+
+
+Type informasjon:Opplysninger du må melde:
+
+
+
+
+Organisasjonsnummer– hovedenhetens organisasjonsnummer i feltet for hovedenhet
+
+
+Underenhetens navn– underenhetens fullstendige navn
+
+
+Virksomheten har overtatt underenhet fra annen virksomhet– organisasjonsnummer til virksomheten underenheten er overtatt fra 
+– navn og adresse til tidligere eier eller driver
+– dato for når underenheten ble overtatt
+
+
+Virksomheten har overdratt underenhet til annen virksomhet– organisasjonsnummer til virksomheten underenheten er overdratt til
+– navn og adresse til ny eier eller driver
+– dato for når underenheten ble overdratt
+
+
+Underenhetens beliggenhetsadresse– gate- eller veinavn, husnummer eller stedsnavn (hvis gate- eller veiadresse ikke finnes)
+– postnummer og poststed
+– kommune (nummer eller navn)
+
+
+Underenhetens postadresse– postboksadresse eller gate- eller veinavn, husnummer eller stedsnavn
+– postnummer og poststed
+– kommune (nummer eller navn)
+
+
+Underenhetens aktivitet eller bransje– beskrivelse av hva slags aktivitet som drives i virksomheten
+
+
+Andre opplysninger– telefonnummer. e-postadresse, nettadresse
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Vedlegg ved melding om sletting av underenhet                            
+
+
+
+Vedlegget må inneholde opplysninger om
+
+underenhetens navn
+hva som skal skje med underenheten
+
+Hvis organisasjonsnummeret er ukjent, kan du søke i nøkkelopplysninger fra Enhetsregisteret
+Opplysninger du må oppgi i tillegg
+
+
+
+Type informasjon:Opplysning du må melde:
+
+
+
+
+Organisasjonsnummer– hovedenhetens organisasjonsnummer i feltet for hovedenhet
+
+
+Underenhetens navn– underenhetens fullstendige navn
+
+
+Sletting– dato for når aktiviteten ble eller blir nedlagt
+
+
+Virksomheten har overdratt underenhet til annen virksomhet– organisasjonsnummer til virksomheten underenheten er overdratt til
+– navn og adresse til ny eier eller driver
+– dato for når underenheten ble eller blir overdratt
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

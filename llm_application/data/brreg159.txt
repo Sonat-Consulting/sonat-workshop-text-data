@@ -1,0 +1,157 @@
+
+
+
+
+Abonnement på roller i verksemder
+
+Sist oppdatert: 12. august 2021.
+
+
+
+
+
+Du kan abonnere på oversikt over kven som har roller i verksemder i Einingsregisteret og Føretaksregisteret.
+
+Du kan velje om du vil ha opplysningar om roller frå både Einingsregisteret og Føretaksregisteret eller berre eitt av desse. Dette blir levert i to ulike filer. Filene viser totalbestanden av roller. Det er ikkje mogleg å abonnere på rolleendringar for ein spesiell periode.
+Filene inneheld opplysningar om fødselsdato. Har du konsesjon frå Datatilsynet for kredittopplysningsverksemd, kan vi levere filene med opplysningar om fødselsnummer og kjønn.
+Opplysningar som inngår er: Organisasjonsnummer, føretaksnamn, fødselsdato/fødselsnummer/organisasjonsnummer, namn, rolle, adresse, postnummer, poststad, land, vald av, ansvar, kjønn og dato.
+Du kan få levert rolleopplysningar dagleg, kvar veke eller kvar månad. Vi kan avtale sjeldnare levering om det er ønskeleg.
+ 
+
+
+
+
+
+
+
+ 
+                                Prisar og vilkår                            
+
+
+
+
+Levering kvar månad med rolleopplysningar frå eitt register: 5000,- (60 000,- per år)
+Levering kvar månad med rolleopplysningar frå begge registera: 10 000,- (120 000,- per år)
+Levering kvar dag/veke med rolleopplysningar frå eitt register: 10 000,- (120 000,- per år)
+Levering kvar dag/veke med rolleopplysningar frå begge registrera: 15 000,- (180 000,- per år)
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Avtaler                            
+
+
+
+
+Vilkår for abonnement på roller frå Einings- og Føretaksregisteret blir regulert av standard rammeavtale.
+Du må signere og sende inn både rammeavtale og underavtale for å få tilgang til tenesta.
+Du kan sende avtalen til oss enten via e-post eller post.
+
+Rammeavtale (PDF)
+Underavtale roller (PDF)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Teknisk beskriving                            
+
+
+
+Filene er kolonnebaserte og blir leverte i tekstformat. Filene kan opnast i Excel eller i ein god teksteditor. Levering føregår ved at vi opprettar ein sftp-konto for deg. Vi legg filene på denne kontoen etter avtalt leveringshyppigheit.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+For meir informasjon om tenesta, ver vennleg å ta kontakt med oss på e-post.
+
+
+
+
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

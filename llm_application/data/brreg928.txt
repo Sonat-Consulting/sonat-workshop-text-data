@@ -1,0 +1,729 @@
+
+
+
+
+Form and guide for a NUF
+
+Last updated: 10 February 2023.
+
+
+
+
+
+All new registrations of NUF must be reported on paper form. 
+
+Changes to already registered information can be registered electronically through Coordinated register notification, if your enterprise meets the requirements to do so. You can find more information under Useful links to the right.
+Paper form for downloading
+Coordinated register notification, for Norwegian registered foreign businesses (NUF) – BR1080E, English(PDF)
+ 
+Guide to the fields in the form
+ 
+
+
+
+
+
+
+
+ 
+                                1 Submitter/person liable for the fee                            
+
+
+
+The submitter of the form will receive the response connected to the case – i.e. confirmations, letters, register transcripts etc. The submitter is also in charge of paying the fee to the Register of Business Enterprises.
+If the field is blank, response and invoice etc. will be sent to the enterprise itself. If the submitter has been assigned a customer number by the Brønnøysund Register Centre previously, this number can be stated here.
+Reference/attention for the submitter:
+Here you can state a separate reference connected to the case.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 The notification concerns                            
+
+
+
+In this field you specify what the notifications concern. A notification may concern one of the following matters:
+2.1 Enterprise not previously registered
+2.2 Changes/new information
+2.3 Striking off the enterprise
+2.1 Enterprise not previously registered
+You should only tick this box if the enterprise is not previously registered in the Central Coordinating Register for Legal Entities.
+2.2 Changes/new information
+If the enterprise is registered in the Central Coordinating Register for Legal Entities already, in most cases you should check off in field 2.2, Changes/new information. This applies even if the notification concerns registration in one of the affiliated registers of the Central Coordinating Register for Legal Entities.
+Always state the organisation number of the enterprise and the registered name/business name in field 4.1. Continue by filling in only the relevant fields in the rest of the form. If the change involves that some information is struck out, you fill in the word “utgår” (=cancel) in the field in question. For enterprises registered in the Register of Business Enterprises, there will be a fee for changing the business name of the activity in Norway, cf. Regulations relating to fees for services from the Brønnøysund Register Centre, section 6.
+2.3 Striking off the enterprise
+Tick this box if the enterprise is to be struck off from all registers (the Central Coordinating Register for Legal Entities and the affiliated registers).
+Striking off from affiliated registers only 
+It is possible to strike of the enterprise from only one of the affiliated registers, without striking it off from the Central Coordinating Register for Legal Entities or the rest of the affiliated registers.
+Striking off from the Register of Business Enterprises
+If the enterprise no longer has business activity in Norway, it has no obligation nor right to be registered in the Register of Business Enterprises. If the enterprise still wants to or has to be registered in the Central Coordinating Register for Legal Entities, you must report a specific striking off from the Register of Business Enterprises in field 27 – “Other remarks”. If so, do not check off for striking off the enterprise.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registration in Norway                            
+
+
+
+You fill out this field if the enterprise is to be registered in an affiliated register, where it is not already registered.  Field 3.1 is for registration in the Register of Business Enterprises. Field 3.2 applies to enterprises that fall under the provisions of the Act relating to the Value Added Tax Register. Field 3.3 applies to registration of information in the NAV AA-register.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.1 Registration in the Register of Business Enterprises                            
+
+
+
+The Register of Business Enterprises is mainly a register for businesses in Norway. There is a fee for the registration in the Register of Business Enterprises. The rates are stated in the regulations of 16 December 2003 no. 1551 about fees for services from the Brønnøysund Register Centre.
+If the enterprise operates its business activity in Norway or on the Norwegian continental shelf, this entails a duty to register in the Register of Business Enterprises. Two conditions determine whether the enterprise is obliged to, or has the right to register in the Register of Business Enterprises; the running of business activity and that this activity takes place in Norway.
+Business activity
+For the activity to be characterised as a business, it has to be of financial character and yield a profit. Furthermore, the activity must be of a certain duration and volume; i.e. the activity must last for more than 90 days and the turnover must be at least NOK 50,000 within a 12 month period.
+Activity in Norway
+An overall assessment must be done in order to determine whether the activity is carried out in Norway. Some of the factors that can be used for this include:
+
+Is the activity run from an operation site in Norway?
+Does the activity take place on Norwegian soil, for instance within construction or health services?
+Will the customer have the impression of doing business with a Norwegian company?
+Where are contracts made?
+Where is the inventory stored?
+Where does the payment take place?
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.2 Has turnover that falls under the provisions of the Act relating to the Value Added Tax Register                            
+
+
+
+Enterprises with turnover that falls under the provisions of the Act relating to value added tax and with no permanent business address in Norway, must register a Norwegian representative. You report the Norwegian representative in field 19. This does not apply for
+businesses residing in an EEA state or Great Britain, with which Norway has an agreement for the exchange of information and mutual assistance with the collection of VAT claims.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.3 Employees – registration in NAV AA-register                            
+
+
+
+An employee is anyone who is employed in someone else’s service for pay or any other compensation.
+Here you must tick “yes” if the enterprise expects to get its own employees, or will hire others who will receive a salary or remuneration.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Business name in the country of origin                            
+
+
+
+4.1 The complete business name
+This field must always be filled in.
+State the complete business name and its Norwegian organisation number. For new registration, the Central Coordinating Register for Legal Entities will assign an organisation number. In field 16 you state the business name in Norway.
+4.2 New business name, if any
+You fill in this field only if the enterprise reports a change of the registered business name.
+Note that the current name must be stated in field 4.1 together with the organisation number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Head office address in the country of origin (business address/visiting address)                            
+
+
+
+State the business address/visiting address. By this we mean the office’s street address or place address. You can also state the telephone number, fax number, mobile telephone number and home page in the country of origin.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Postal address in country of origin                            
+
+
+
+Businesses with their own postal address, such as a post office box, state this in addition to the head office’s business address/visiting address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Formation of enterprise                            
+
+
+
+Here you state the date of incorporation of the enterprise. For older enterprises, which do not have accurate information about date of incorporation, it is sufficient to state the year of incorporation.
+Only enterprises which are subject to formation according to the legislation of the country of origin, should fill out this field.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 The enterprise's articles of association in force                            
+
+
+
+State the date of when the statutes were passed or changed. Only to be filled out if the enterprise is to be registered, or is already registered in the Register of Business Enterprises. In connection with initial registration, the articles of association must be attached. Any changes to these, must be enclosed with an updated copy.
+Only enterprises which are required to have articles of association according to the legislation of the country of origin, must fill out this field.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Capital in a limited company                            
+
+
+
+If the enterprise is a limited company, you state the share capital and how much of it is paid up. State the share capital in the country’s currency.
+You fill out this field only if the enterprise is to be registered in the Register of Business Enterprises.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 The type of organisation in the country of origin                            
+
+
+
+State the official designation for the type of incorporation in the country of origin, and check off for whether it has limited liability, unlimited liability, shared liability or whether the enterprise is a sole proprietorship.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Registration in the country of origin                            
+
+
+
+11.1 Name and address of the business register in the country of origin
+If the enterprise is registered in an official business register in the country of origin, you state the name and address of the register.
+11.2 Registration number/ ID number in the country of origin
+State the registration number/ID number of the enterprise in the business register of the country of origin.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Ownership                            
+
+
+
+State whether the business is wholly-owned by Norwegian individuals or enterprises.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Business operations                            
+
+
+
+State whether the enterprise runs its business exclusively in Norway.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Owner, board, partners and other information in the country of origin                            
+
+
+
+You fill out this field if the enterprise has an owner, a board, partners, general partner or other roles.
+The owner of a sole proprietorship must state his/her name, address and national identity number/d-number (11 digits). More information about d-number is available under Useful links.
+If the enterprise has a board:
+State the entire board (the chair, the deputy chair, board members, deputy board members and observers) by name, address and birth date, both upon new registration  and on changes.
+If the enterprise has partners:
+State all partners by name, address and birth date, both upon new registration and changes.
+If the enterprise operates with shared liability, state the proportion in percentage or fraction.
+If the enterprise has other roles:
+State the name, address (postal code and area) and organisation number. The role holders may be individuals or in some cases legal persons. Examples of legal persons are limited companies, public limited companies and general partnerships.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Other remarks/information from the country of origin                            
+
+
+
+Here you fill in information which cannot be reported in any other field, such as dissolution and opening of bankruptcy proceedings.
+Attach a separate document if the field is not large enough.
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Business name in Norway                            
+
+
+
+16.1 Complete business name
+This field must always be filled in. State the complete business name in Norway. The enterprise can have a special business name in Norway, or use the same business name as in the country of origin.
+16.2 New business name, if any
+You fill out this field only if you are changing the registered business name. Note that the current business name must be stated in field 16.1.
+For enterprises registered in the Register of Business Enterprises there will be a fee when changing the name, have a look at Regulations relating to fees for services from the Brønnøysund Register Centre, section 6.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Address in Norway                            
+
+
+
+State the business address/visiting address in Norway. If the enterprise does not have its own business address in Norway, you must check off for this.
+Here you can also enter the telephone number, fax number, mobile telephone number and home page in Norway.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Postal address in Norway                            
+
+
+
+Enterprises with a separate postal address, for instance postal box, state this in addition to the head office’s business address/visiting address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19 Norwegian representative                            
+
+
+
+Enterprises liable to pay VAT which do not have their own business address in Norway, must register a Norwegian representative. This does not apply for enterprises residing in an EEA state with which Norway has an agreement for the exchange of information and mutual assistance with the collection of VAT claims. As of 1 July 2021, the United Kingdom, in the same way as enterprises domiciled in an EEA state, will also be exempt from the requirement for a representative. Other foreign businesses without permanent residency in Norway, can also register a Norwegian representative.
+You fill in the business name, address and national identity number/organisation number of the representative. The Norwegian representative must have place of residence/business address in Norway. Note that the represenative can sign in this field. If the representative signs, there is no need for å separate declaration of acceptance. The foreign enterprise confirms the appointment of the representative in a separate attachement, or by signing in field 29. If the representative is a legal person, you must also state a contact person in field 20.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20 General manager, contact person or business manager                            
+
+
+
+If the enterprise has a general manager for the activity in Norway, this must be stated. If the enterprise does not have a general manager or business manager, or if the business manager is a legal person, a contact person must be stated.
+Individuals must state their national identity number/d-number, name and home address.
+Legal persons must state the organisation number, name and business address.
+When you register a contact person, the foreign business must confirm the contact person’s connection to the foreign business in a separate attachment.
+If you report, or if there is already registered a Norwegian representative, and the notified contact person is employed by the representative, the representative can confirm the contact person’s tie to the foreign business.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21 Activity/branch                            
+
+
+
+Fill in a description, as accurate as possible, of the activity in Norway, or alternatively the grounds for registration. Note that it is not sufficient to state a general primary object, so it must be specified what is produced/sold and/or which services/activities are carried out. Make sure to specify clearly which branch the activity belongs to.
+Here are some examples of how detailed the description should be:
+Building and construction:
+
+Ground work
+Construction of building
+Heating, ventilation and sanitary work
+
+Transport:
+
+Freight transportation by road
+Taxi driving
+
+Trade:
+
+Commercial agencies with timber and construction materials
+Wholesale trade with electronic household apppliances
+Retail sale of meat and processed meat
+
+Consultancy work:
+
+Business consultancy
+Consultancy within software design and the development of customer specific software
+Consultancy connected to the extraction of crude oil and natural gas
+
+If the enterprise engages in activities in several branches, list each of them according to the size of the turnover or employment.
+Enterprises that do not conduct business activity, must state the activity being performed, such as enterprises with real estate in Norway, owners with Norwegian securities, participants in companies etc.
+When changing the information, state the new activity and the commencement date. If the enterprise has started an additional activity, also state the previously registered activity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22 Signature rights                            
+
+
+
+State who has been assigned the signature right. Signature right is an authority to act and sign on behalf of the enterprise in business affairs. Only signature right assigned to the general manager, the board of the business in Norway or named persons, can be registered. If the signature right is assigned to named persons, you have to state the name, address and national identity number/d-number of the person(s) assigned signature right.
+If signature right is assigned to several persons/roles, it must be stated whether this applies for them separately or jointly. It is not possible to register other limitations, such as time limits, amount limits, or that the right only applies to the activity in Norway.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23 Procuration                            
+
+
+
+Here you state who has been assigned the power of procuration.
+Power of procuration is an authority in the same way as signature right, but less extensive. The business agent cannot without specific authorisation transfer or mortgage real estate owned by the enterprise or moveable property which can be registered in the Norwegian Ship Registers or the Norwegian Civil Aircraft Register, or act on its behalf in lawsuits.
+Only power of procuration assigned to the general manager, the board of the business in Norway or named persons can be registered. If the power of procuration is assigned to named persons, you must provide the name, address and national identity number/d-number of the person(s).
+If several persons have the power of procuration, it must be stated whether it applies separately or jointly. Other limitations, such as time limits, amount limits or limiting the power only to the business in Norway, cannot be registered.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24 Auditor                            
+
+
+
+The field must be filled out if the enterprise has an auditor. Fill in the auditor’s name/business name, address and organisation number, have a look at the Central Coordinating Register for Legal Entities Act section 7.
+Special requirements:
+The auditor must be approved by the Financial Supervisory Authority of Norway and registered in the Register of Auditors.
+Note that the auditor can sign directly in this field. If the auditor signs directly in this field, it is not necessary to attach a declaration of acceptance. If the paid-up capital must be confirmed, you have to attach a separate document for this.
+
+
+
+
+
+
+
+
+
+
+ 
+                                25 Accountant                            
+
+
+
+You fill out this field if the enterprise has an accountant. Fill in the accountant’s name/business name, address and organisation number.
+Special requirements:
+The accountant must be authorised by the Financial Supervisory Authority of Norway and registered in the Register of Accountants.
+Note that the accountant can sign directly in this field. If the accountant signs directly in this field, it is not necessary to attach a declaration of acceptance.
+
+
+
+
+
+
+
+
+
+
+ 
+                                26 Board in Norway                            
+
+
+
+You fill out this field if the business in Norway has a separate board. State the entire board with national identity numbers/d-numbers, names and addresses. Information about d-number is available under Useful links.
+
+
+
+
+
+
+
+
+
+
+ 
+                                27 Other remarks                            
+
+
+
+If there is any information you need to register which does not have its own particular field, you use this one. Attach a separate sheet of paper if you need more space. Examples are:
+
+Own resignation according to the Register of Business Enterprises Act sections 4-6. State which role(s) you resign from.
+Separate striking off an enterprise from the Register of Business Enterprises. See the guide for the field 2.3.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                28 Notification addresses                            
+
+
+
+It is obligatory to register a notification address.
+Only new enterprises have to register a notification address.
+The notification addresses will be used by public authorities to notify the enterprise, whenever important information is available in Altinn. The information is only available to public authorities.
+If you need to change this information later, you have to do so in the enterprise profile in Altinn.
+The enterprise must have at least one notification address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                29 Signatures                            
+
+
+
+The notification must be signed to be approved.
+Whoever signs the notification confirms that the information is correct, and that they are aware of the fact that giving incorrect information is a crime, cf. the General Civil Penal Code, section 189.
+Who is obliged to sign the notification depends on where the enterprise is to be registered or is registered.
+If the notification is to be registered only in the Central Coordinating Register for Legal Entities it must be signed by the board, the signatory, the general manager, the business manager or the contact person. If the Norwegian representative is an individual, this person can also sign.
+A notification to the Register of Business Enterprises must be the signatory or a person with reporting obligations. The board of the Norwegian enterprise has reporting obligations. If there is no registered board, the general manager of the Norwegian enterprise has to sign the notification.
+
+
+
+
+
+
+
+
+
+Useful links
+
+Norwegian-registered foreign business (NUF)
+
+
+
+
+How to register a foreign business
+
+
+
+
+Make changes to your foreign business?
+
+
+
+
+D-number
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

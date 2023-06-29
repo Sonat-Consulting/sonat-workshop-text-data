@@ -1,0 +1,351 @@
+
+
+
+
+Skjemaredigering
+
+Sist oppdatert: 16. desember 2022.
+
+
+
+
+
+For å komme til skjemaredigering, se siden for Skjemaer.
+.
+Du kan når som helst velge «Lagre» eller «Lukk utkast» nederst til venstre i vinduet for Skjemaredigering. Velger du «Lukk utkast» får du mulighet til å lagre utkastet eller lukke utkastet uten at det lagres.
+Et skjema som mangler påkrevde felt er ikke mulig å sende inn.
+Vær oppmerksom på at feil i fanen for ‘Hjemmel'(lovhenvisning) bidrar til at flest skjema blir sendt tilbake
+ 
+
+
+
+
+
+
+
+ 
+                                Generelle opplysninger                            
+
+
+
+Her legger du inn innledende opplysninger om skjema, som navn, formål og om evt vedlegg er nødvendige. Merk at for å lagre skjemaet må «Skjemanavn» være fylt ut.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hjemmel (lovhenvisning)                            
+
+
+
+Under Hjemmel registreres lover og eventuelle forskrifter som danner hjemmelsgrunnlaget for informasjonsinnhentingen.
+Trykk på knappen «Registrer hjemmel» i vinduet over for å registrere hjemmel.
+Skriv inn tittel på loven, evt. lovhenvisning og dato. (Se eksempelet lengre ned for hvordan du finner riktig henvisning i feltet for dato.)
+Dersom du skal registrere forskrift trykker du på «Registrer forskrift», dersom du ikke skal registrere forskrift trykker du «Ok» for å registrere loven.
+Skriv inn tittel, evt. forskriftshenvisning og dato. (Se eksempelet lenger ned for hvordan du finner riktig henvisning i feltet for dato.) Trykk på «Legg til forskrift».
+Det er mulig å legge til flere forskrifter til samme lov.
+Trykk på «Ok» for å lagre lovhenvisningen og forskriftene.
+Lovhenvisningen legger seg i oversikten over hjemler.
+Ved behov for å registrere flere lovhenvisninger trykk på «Registrer hjemmel» på nytt og gjenta prosessen.
+For å endre hjemmel trykk på «pennen» til høyre i vinduet.
+For å slette hjemmel trykk på «søppelkassen» til høyre i vinduet.
+Eksempel på Dato for lovhenvisning/forskriftsdato:
+Søk etter loven eller forskriften på lovdata.no. I informasjonskortet øverst i loven finner du tittel og dato.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Målgruppe                            
+
+
+
+Under Målgruppe registreres opplysninger om hvem som er pålagt å avgi informasjon i skjemaet.
+For å registrere/endre organisasjonsformer og/eller næringer: trykk på «Endre» til høyre for de respektive feltene.
+Vindu for å endre organisasjonsformer/næringer åpner seg. Velg de organisasjonsformene/næringene som er aktuelle
+For å legge til flere organisasjonsformer og næringer trykk på knappen «Ny gruppering».
+
+
+
+
+
+
+
+
+
+
+ 
+                                Om rapporteringen                            
+
+
+
+Under Om rapporteringen registreres opplysninger om språkform, skjema er elektronisk eller papirbasert, lenke/nettadresse til skjema og belastningen for næringslivet.
+For å legge til nettadressen til skjemaet skriv inn riktig url og trykk på «Legg til». Nettadressen legger seg i listen under. Det er mulig å legge til flere adresser.
+Under rapportering og tidsbruk skal du velge hvilke(n) rapporteringsform(er) som skjemaet benytter, samt tidsbruk og antall innsendte skjema.
+Dersom skjemaet kan sendes inn både elektronisk og på papir, vil du få et valg om å angi prosentandelen papirinnsendelser.
+Med tidsbruk menes estimert tidsforbruk i minutter for utfylling av skjemaet, inkludert nødvendig forarbeid. Herunder arbeid med intern registrering, tilrettelegging og uthenting av informasjon i tilknytning til rapporteringen.
+Når du endrer registrerte opplysninger om tidsbruk eller antall innsendelser, vi det komme opp et ekstra felt under registeringene hvor du må angi hva endringene skyldes.
+Regelverksendringer velges ved endring i lov og eller forskrift. Dette er gjerne endringer utenfor etaten.
+Forenklings og kvalitetstiltak velges ved endringer hvor etatens tiltak endrer belastningen.
+Korrigering velges når endringer skyldes tidligere feil i innrapportering eller rettelser av tidligere innmeldte data.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Beregne tidsbruk                            
+
+
+
+Tidsbruk som etaten skal registrere i Oppgaveregisteret skal være et representativt estimat på den tiden det tar for den næringsdrivende å fylle ut ett eksemplar av et skjema. All tid den næringsdrivende bruker både på å fremskaffe opplysninger og på å rapportere disse skal legges til grunn. Det betyr at tiden som går med til nødvendig forarbeid også skal inkluderes. Dette kan være arbeid med intern registrering, tilrettelegging og uthenting av informasjon i tilknytning til rapporteringen. Se tabell under for flere eksempler på tidsbruk.
+En innrapportering av et skjema kan enten være digital eller papirbasert og tidsbruken kan variere stort fra bedrift til bedrift. Det er derfor viktig at tidsbruk representerer en normalt effektiv bedrift. Det er også viktig at det bare er tidsbruk direkte knyttet opp mot selve rapporteringskravet som inkluderes. Tidsbruk næringsdrivende ville gjort uavhengig av innrapporteringskravet skal ikke tas med.
+Det kan være hensiktsmessig å hente opplysninger om tidsbruk direkte fra de næringsdrivende. Ifølge § 8 i forskrift til oppgaveregisterloven, kan Oppgaveregisteret pålegge utreder å innhente belastningsestimater fra de næringsdrivende dersom et tiltak berører eller medfører oppgaveplikter som offentlige organer pålegger næringsdrivende.
+Under følger fire eksempler på hvordan estimere og registrere tidsbruken under ulike forutsetninger.
+Se HER for å finne regneeksempler på beregningene av tidsbruk beskrevet i eksemplene under.
+Eksempel 1 Estimere tidsbruk pr innsendelse
+Estimatet for tidsbruk som skal registreres i Oppgaveregisteret er gjennomsnittlig antall minutt en bedrift bruker pr innsending/skjema. Dette er summen av minutt brukt på forarbeid og minutt brukt til selve innrapporteringen. Dersom skjema kan sendes inn både elektronsikt og via papir skal tidsestimat for begge formene sendes inn.
+Med elektronsikt menes alle tekniske løsninger hvor data kan tas ut i maskinlesbar form både hos sender og mottaker. Med papir inkluderes også pdf som må fylles ut manuelt og som ikke kan behandles elektronsikt ved innkomst.
+Eksempel 2 Deler av målgruppen rapporterer via et system (maskin-til-maskin, fagsystem)
+En digital innrapportering av et skjema kan skje både via en manuell innsendelse og/eller via et system (maskin-til-maskin kommunikasjon, fagsystem el.). Tidsbruken for selve innrapporteringen kan variere stort avhengig av hvilken innsendelsesform som benyttes. Tidsbruken ved forarbeidet derimot kan være den samme.
+Dersom etaten har definert ulike skjema avhengig av innsendelsesform, skal de respektive skjemaene registreres i Oppgaveregisteret med tilhørende estimat for tidsbruk. Eksempel på slike skjema kan være A-meldingen, som er registeret med ett skjema for system innsending og ett for manuell innsending i Altinn.
+Dersom samme skjema benyttes uavhengig av innsendelsesform, skal tidsbruken estimeres som et veid gjennomsnitt av antall årlige innsendelser for de ulike innsendelsesformene.
+Merk at hver forsendelse av data som oversendes fra en virksomhet via et system skal telles som en innsendelse.
+Formel for å beregne veid gjennomsnittlig tidsbruk ved flere undergrupper:
+Eksempel 3 Målgruppen består av flere undergrupper/ segment med ulik tidsbruk
+En målgruppe kan bestå av flere ulike undergrupper som hver for seg bruker ulik tid på en rapportering. Eksempel på dette kan være små, mellomstore og store virksomheter som kan ha svært ulik ressursbruk ved en rapportering.
+Estimatet for tidsbruk som registreres i Oppgaveregisteret er et veid gjennomsnitt av antall innsendelser pr undergruppe/segment, se vedlegg for eksempler på utfylling.
+Eksempel 4 Deler av arbeidet gjennomføres av eksterne (outsourcet)
+Enkelte virksomheter har valgt å sette bort deler av rapporteringsarbeidet til eksterne. Eksempel på dette kan være bruk av regnskapsførere eller juridiske eksperter til å utføre deler av forarbeidet. Tidsbruken kan variere mellom virksomheter som har valgt å benytte eksterne og foretak som selv gjennomfører oppgavene. Målgruppen bør derfor deles inn i to undergrupper med hver sin tidsbruk og tilhørende antall årlige innsendelser.
+Estimatet for samlet tidsbruken som registreres i Oppgaveregisteret er dermed et gjennomsnitt basert på undergruppenes tidsbruk veid over antall innsendelser for de ulike undergruppene; gruppe 1: All tidsbruk intern og gruppe 2: deler av tidsbruken ekstern.
+Eksempel på tidsbruk
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Informasjonsinnhenting                            
+
+
+
+Under Informasjonsinnhenting skal det registreres hvilke opplysninger det spørres etter i skjemaet. Du kan også registrere datakilder og endre eller slette eksisterende datakilder.
+For å legge til datakilde trykk på «Velg datakilde»
+Velg eier av datakilde eller søk. Finner du ikke riktig datakilde i listen og din etat eier denne, lagre skjema og se «Ny datakilde» for å legge til. Dersom en annen etat eier datakilden må du kontakte Oppgaveregisteret som vil følge opp med aktuelle dataeier.
+Trykk på «Ok» for å legge til.
+Du kan legge til flere datakilder.
+For å slette datakilde trykk på «Fjern».
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Bruk av skjema                            
+
+
+
+Under Bruk av skjema registreres om skjemaet brukes som en periodisk rapportering, en rapportering på bakgrunn av en hendelse eller en søknad/registrering.
+Trykk på «Nytt bruksområde» for å registrere hvilket bruksområde skjemaet skal benyttes i.
+Periodisk rapportering
+Rapportering på bakgrunn av hendelse
+Her må du velge hendelseskategori; hovedkategori og underkategori.
+Søknad/registrering
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontaktpersoner                            
+
+
+
+Under Kontaktpersoner oppgis personer i etaten som Oppgaveregisteret kan kontakte for nærmere opplysninger om skjemaet.
+Trykk «Legg til» for å velge skjemaets kontaktperson(er). Trykk «OK» for å legge til.
+Dersom du ikke finner den ønskede kontaktpersonen, må du registrere ny kontaktperson under administrasjonssiden – kontaktpersoner. Husk å lagre skjema før du går til «Ny kontaktperson» for å legge til.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Send inn                            
+
+
+
+Når registreringen er ferdigstilt skal det sendes inn til Oppgaveregisteret for godkjenning. Dette gjøres under Send inn.
+For å se et sammendrag av skjemaet før du sender det inn, trykk på «Sammendrag».
+Trykk på «Send inn» for å sende inn skjemaet til saksbehandling i Oppgaveregisteret. Etter at saken er sendt inn kan det ikke gjøres flere korrigeringer før man har fått tilbakemelding fra Oppgaveregisteret.
+Etter du har trykket på «Send inn» blir du tatt tilbake til siden «Skjemaoversikt». Du kan se at statusen til skjemaet enten har status «Nytt» eller «Endring».
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Sletting av skjema                            
+
+
+
+Når du skal slette et skjema vil de ulike valgene være avhengig om noen har begynt å jobbe med et utkast av skjemaet eller ikke.
+Finn frem til ønsket skjema og utfør et eller flere av punktene under:
+
+Ingen har begynt på et utkast:
+Velg «Slett skjema». Trykk så «Ja» på bekrefting av sletting. Velg så «Send til godkjenning». Skjemaet sendes til saksbehandling hos Oppgaveregisteret.
+Hvis du har åpnet et utkast:
+Velg «Forkast utkast» og trykk «Ja» for å slette utkastet. Du vil så få opp valget om «Slette skjema». Fortsett så som i punkt 1.
+Dersom noen andre har jobbet med utkastet:
+Velg først «Overta utkast» og så «Forkast utkast». Fortsett så som i punkt 1.
+
+Dersom du har behov for å angre en sletting før du har trykket på «Send til godkjenning» kan du trykke på «Forkast utkast».
+Dersom du ønsker å angre slettingen etter at du har trykket på «Send til godkjenning» må du ta kontakt med Oppgaveregisteret på telefon eller e-post.
+Dersom et skjema blir godkjent som slettet, må skjemaet fylles ut på nytt dersom skjemaet ønskes gjeninnført.
+
+
+
+
+
+
+
+
+
+
+
+Datakilder i etatenes arbeidsområder
+Registrere/endre kilder
+
+
+
+
+
+
+
+
+
+
+Kontaktpersoner i etatens arbeidsområde
+Legge inn/endre informasjon
+
+
+
+
+
+
+
+
+
+
+Skjemaer i etatens arbeidsområde
+Oversikt skjema
+
+
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

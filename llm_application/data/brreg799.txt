@@ -1,0 +1,171 @@
+
+
+
+
+Enklere offentlige innkjøp med eBevis
+
+Sist oppdatert: 10. november 2022.
+
+
+
+
+
+eBevis er en datadelingstjeneste fra Brønnøysundregistrene som forenkler for alle parter ved  innkjøp i offentlig sektor.
+
+Informasjon i sanntid direkte fra datakilden
+eBevis tilgjengeliggjør informasjon fra ulike datakilder for innkjøpsansvarlige i offentlig sektor gjennom oppdragsgivers konkurransegjennomføringsverktøy (KGV). eBevis er bygd på tekniske komponenter i Altinn.
+Brønnøysundregistrene og Direktoratet for forvaltning og økonomistyring (DFØ) har i samarbeid spesifisert informasjonselementene som er med i eBevis. De inneholder både åpne data og data som krever samtykke eller fullmakt fra den enkelte leverandør.
+Brønnøysundregistrene og Skatteetaten er datakildene som blir brukt i dag. Vi planlegger å utvide med flere informasjonselementer og datakilder.
+Hva er fordelene med eBevis?
+
+forenkler leverandørenes krav om å levere attester fra det offentlige
+informasjon direkte fra dataeier i sanntid – kan ikke manipuleres
+gjør det enklere å utvikle automatiske kontrollrutiner
+leverer alltid oppdatert informasjon/dokumentasjonsbevis, også i kontraktsperioden
+
+ 
+
+
+
+
+
+
+
+ 
+                                 Informasjon om tjenesten                            
+
+
+
+eBevis er en tjeneste som er utviklet i et samarbeid mellom Brønnøysundregistrene, Direktoratet for forvaltning og økonomistyring (DFØ) og Digitaliseringsdirektoratet.
+Vil du vite mer om eBevis, finner du teknisk beskrivelse og innhold i tjenesten på Altinn sine nettsider.
+Du finner faglig informasjon om anskaffelser på DFØ sine nettsider.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvem kan bruke tjenesten?                            
+
+
+
+eBevis har ikke et eget brukergrensesnitt, men gir leverandører av konkurransegjennomføringsverktøy (KGV) fri tilgang til informasjon fra offentlige datakilder. Tilgang til informasjon fra eBevis forutsetter derfor at du som oppdragsgiver har et KGV-verktøy eller tilsvarende.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan komme i gang?                            
+
+
+
+Hvis du har spørsmål eller ønsker å ta i bruk eBevis, ta gjerne kontakt gjennom kontaktskjemaet vårt.
+Har du tekniske spørsmål, se utviklingsguide for eBevis i Altinn
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+Du kan sende inn spørsmålene via kontaktskjemaet vårt.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Fagsider om offentlige innkjøp - DFØ
+
+
+
+
+
+Utviklingsguide - data.altinn.no
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+
+
+
+
+Data om signatur og prokura for virksomheter
+
+Sist oppdatert: 2. april 2020.
+
+
+
+
+
+Offentlige myndigheter og virksomheter med konsesjon til å drive kredittopplysningsvirksomhet kan gjøre maskinelle søk på hvem som har signatur og prokura.
+
+I tjenesten kan du gjøre maskinelt oppslag på opplysninger om signatur og prokura fra Enhetsregisteret og Foretaksregisteret. Ønsker du å benytte tjenesten, trenger du et virksomhetssertifikat for å bli autentisert.
+Vi gir ut opplysninger om fødselsnummer og d-nummer i tjenesten, derfor er den ikke tilgjengelig for alle. Har du ikke tilgang, kan du allikevel søke maskinelt i tjenesten for å gjøre oppslag på åpne data om signatur og prokura.
+Kontrolltjeneste
+I kontrolltjenesten kan du sjekke om en eller flere personer har rett til å signere på vegne av en virksomhet. Tjenesten bygger på opplysninger om signatur og prokura fra Enhetsregisteret og Foretaksregisteret.
+Du kan lese mer om virksomhetssertifikat, hvordan du kan gjøre maskinelle søk og tilgang til tjenestene i API-beskrivelsen her. Tjenestene er gratis å bruke.
+ 
+ 
+
+
+
+
+
+

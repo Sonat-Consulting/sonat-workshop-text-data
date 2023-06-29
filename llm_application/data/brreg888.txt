@@ -1,0 +1,180 @@
+
+
+
+
+Abonnement på kunngjøringer i xml-format
+
+Sist oppdatert: 18. januar 2023.
+
+
+
+
+
+Du kan abonnere på kunngjøringer av daglige registreringer.
+
+Du får kunngjøringer fra Foretaksregisteret, Konkursregisteret, Regnskapsregisteret, Partiregisteret og Stiftelsestilsynet. Disse kunngjøringene er tilgjengelig i xml-format. Løsningen er bygd opp slik at du selv bestemmer hvilke kunngjøringstyper du ønsker å abonnere på.
+Ønsker du for eksempel å bygge opp en database med de samme kunngjøringstekster som inngår i kunngjøringsløsningen, kan du abonnere på dette.
+ 
+ 
+
+
+
+
+
+
+
+ 
+                                Bestilling                            
+
+
+
+For å tegne abonnement må du krysse av i abonnementsoversikten hvilke kunngjøringstyper som skal inngå i abonnementet. Abonnementsoversikten finner du under «Avtaler» sammen med Standardavtalen som må fylles ut og sendes inn. Når vi mottar avtale i utfylt/signert stand starter leveringen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Priser og vilkår                            
+
+
+
+Prisen på abonnementet avhenger av antall kunngjøringstyper du abonnerer på. Dette går frem av abonnementsoversikten.
+Abonnementsoversikten inngår som vedlegg til avtalen som tegnes mellom Brønnøysundregistrene og abonnenten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Avtaler                            
+
+
+
+
+Vilkår for abonnement på kunngjøringer reguleres av standard avtale.
+Du må signere og sende inn både standardavtale og Vedlegg 1 Abonnementsoversikt for å få tilgang til tjenesten
+Du kan sende avtalene til oss enten via e-post eller post.
+
+Standardavtale kunngjøringer (PDF)
+Abonnementsoversikt (PDF)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Teknisk beskrivelse                            
+
+
+
+
+Det leveres en zippet fil som inneholder en fil per kunngjøring for hver kunngjøringstype det abonneres på. Blir det kunngjort ti nye foretak i Foretaksregisteret en dag, vil vi levere ti filer av typen ”Nyregistrering” (NYFR).
+Levering foregår ved at det opprettes en sftp-konto for deg.
+
+Ønsker du teknisk beskrivelse av hvordan filene er bygd opp, kan vi sende deg XSD-filer og XML-som viser dette.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+For mer informasjon om tjenesten, vennligst ta kontakt med oss på e-post.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Kunngjøringer/kreditorvarsel
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

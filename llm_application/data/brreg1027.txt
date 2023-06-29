@@ -1,0 +1,106 @@
+
+
+
+
+Notification addresses to apply in public administration
+
+Last updated: 13 April 2023.
+
+
+
+
+
+Notificaton addresses for enterprises are available for inquiries in a machinable interface. They can only be used by public administration. 
+
+Notification addresses are e-mail addresses or mobile phone numbers. These will be used by the public in order to report on important notifications delivered digitally. The eGovernment Regulations imposes public administration to notify about the dispatch of such notifications so that enterprises can receive individual decisions and other important notifications digitally. You will find guidelines on the right of this page.
+The information is not publicly accessible, but the service provides public administration access to the notification addresses registered in the Central Coordinating Register for Legal Entities. Making use of the service is free of charge. Searches on an organisation number retrieve all the notification addresses registered about a business. Business name and type of organisation will also be presented. If you do searches on a sub-entity that has not registered a notification address, we will present the notification addresses that are registered on the main entity.
+How do I gain access?
+In order to use the service, you will need a X.509 business certificate for authentication. You can read more about this in the technical description of the service.
+Enterprises in public administration with organisation types such as the state, county municipality, municipality, administrative entity in public sector and organisation sections can make searches.
+It is possible to apply for access for enterprises related to public administration, but which have a different organisation type than those mentioned. The application, which you send us by e-mail, must contain documentation showing that you make individual decisions or exercise of authority.
+Which enterprises have notification addresses?
+Everyone who is registered in the Central Coordinating Register for Legal Entities is obliged to report at least one notification address. Sub-entities are not obliged to provide a notification address, but may do so if required.
+How do I report errors in notification addresses for enterprises?
+Everyone who is registered in the Central Coordinating Register for Legal Entities is obliged to keep their own notification addresses correct. The addresses must be updated in the enterprise’s profile in Altinn. If you discover that a notification address is incorrect and the enterprise is not correcting it, you can submit an email to us. You must provide the name and the organisation number of the enterprise the change applies to. You must also explain which address that is incorrect and what you have done in order to get the enterprise to correct it. Please attach a copy of, for example, an email where the enterprise has been asked to correct errors.
+ 
+
+
+
+
+Useful links
+
+API description
+
+
+
+
+ The eGovernment Regulations
+
+
+
+
+
+The Public Administration Act
+
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

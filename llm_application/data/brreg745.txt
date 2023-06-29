@@ -1,0 +1,110 @@
+
+
+
+
+Invoice directly to the inbox in Altinn
+
+Last updated: 29 September 2022.
+
+
+
+
+
+When registering information in the Register of Business Enterprises involving a fee, the invoice will be sent to the inbox in Altinn.
+
+The sender of the Coordinated register notification decides who should receive the invoice. The options are
+
+the enterprise which the registration concerns
+the person filling out the form
+another enterprise registered in the Central Coordinating Register for Legal Entities
+
+If the invoice is sent to an enterprise, the persons who can represent the enterprise in Altinn will be able to find it.
+These Altinn roles provide access to the invoice in the inbox of the enterprise:
+
+accounting employee
+signer of Coordinated register notification
+
+If you do not know who has received the invoice, this will be visible in the original notification submitted to the Brønnøysund Register Centre. The person who filled out the form will find information about this in his or her inbox in Altinn.
+Giving notice
+In the form Coordinated register notification, you will find a separate field for notice. Whoever to receive the invoice will be notified via sms or email when the invoice is sent to the inbox. If the invoice has not been read within 7 days, we will send a reminder via sms or email. The same applies if the invoice still has not been read after 14 days.
+Electronic trading format (EHF invoice)
+Before we send an invoice for registration, we check whether our enterprise is registered in ELMA, which is a public register with information about who can receive an EHF invoice. EHF is a public standard for e-invoicing.
+If your enterprise can receive EHF invoice, you will not receive an invoice in the inbox of Altinn, although you have ticked for it in the form Coordinated register notification.
+You can read ore about ELMA and EHF invoice at our websites of the Agency for Public Management and eGovernment (DIFI).
+Invoice by post
+In some cases the invoice is sent by post. This applies for
+
+notifications containing information about demerger/merger
+reminders
+
+ 
+
+
+
+
+Useful links
+
+Altinn roles
+
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,289 @@
+
+
+
+
+Underenhet
+
+Sist oppdatert: 31. mai 2023.
+
+
+
+
+
+Lurer du på hvorfor du har en underenhet med eget organisasjonsnummer? Når du registrerte virksomheten din, registrerte vi i etterkant en underenhet også. 
+
+Det er flere grunner til dette. Du trenger en underenhet hvis du:
+
+driver næringsaktivitet
+skal rapportere lønn eller honorar i a-meldingen
+
+Derfor får de fleste nye virksomheter, ikke bare aksjeselskap og enkeltpersonforetak, men også foreninger, eierseksjonssameier og andre typer virksomheter to eller flere organisasjonsnummer; ett for hovedenheten og ett for underenheten.
+Selv om du ikke har ansatte i dag, eller betaler styrehonorar, så ligger underenheten klar om du skulle ha behov for dette i fremtiden. Du ser hvilke underenheter du har når du logger deg inn i Altinn.
+Når skal jeg bruke underenhetens organisasjonsnummer?
+Dette bruker du når du:
+
+rapporterer tilsettingsforhold til Arbeidsgiver- og arbeidstakerregisteret i a-meldingen
+rapporterer lønn, honorar og frilans i a-meldingen
+når Statistisk sentralbyrå spør etter opplysninger til statistiske forhold
+når det er mottatt en digital sykmelding
+
+ 
+
+
+
+
+
+
+
+ 
+                                Hva er en hovedenhet?                            
+
+
+
+Hovedenhet er et samlebegrep for selskap, foreninger, personer og annet som er registrert i Enhetsregisteret, og som ikke er en underenhet.
+Hovedenhet er virksomhet på øverste nivå i registreringsstrukturen i Enhetsregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hva er en underenhet?                            
+
+
+
+En underenhet identifiserer den aktiviteten hovedenheten driver. En hovedenhet kan ha en eller flere underenheter. Underenhetene er ikke selvstendige. De vil alltid være knyttet opp mot en hovedenhet.
+Underenhet er virksomhet på laveste nivå i registreringsstrukturen i Enhetsregisteret.
+Det er Statistisk sentralbyrå som avgjør hvilke underenheter som skal registreres, samt klassifisering av disse. Registrering og klassifisering skjer etter standarder som følger internasjonale statistikknormer.
+En hovedenhet kan ikke nekte eller kreve slik registrering.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Registrering av flere underenheter                            
+
+
+
+Det skal registreres flere underenheter hvis ett av følgende vilkår er oppfylt:
+
+Det drives næringsaktivitet i forskjellige bransjer. Hver bransje må sysselsette minst 5 personer
+Det drives næringsaktivitet med ansatte på flere geografiske steder.
+
+Forskjellige bransjer
+Med forskjellige bransjer betyr det at aktivitetene faller inn under forskjellige næringskoder etter Standard for næringsgruppering (SN2007)
+Aktiviteter som utføres bare for å betjene hovedenhetens primære aktiviteter, skal ikke registreres som en egen underenhet. Eksempler på dette kan være administrasjon, IT-avdeling og salg av egenproduserte varer. Slike aktiviteter registreres bare som egen underenhet hvis de foregår på et annet geografisk sted enn der hvor hovedenhetens primære aktivitet foregår.
+Flere geografiske steder
+Det drives aktivitet på flere geografiske steder når underenhetene er lokalisert på ulike adresser. Det er ikke nok å oppgi ulike postadresser for  å få registrert en underenhet.
+For ambulerende aktivitet er det bare fast bemannede avdelingskontorer og lignende som blir registrert. Eksempler på dette er bygg- og anleggsvirksomhet, transport og utleie av arbeidskraft, vikarbyråer.
+Offentlig forvaltning
+De generelle reglene som beskrevet ovenfor gjelder også for offentlig forvaltning. Detaljert regelverk for registrering av underenheter i kommuner, fylkeskommuner og helseforetak finnes på www.ssb.no under Innrapportering, Kostra, Veiledning.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan registrerer jeg flere underenheter?                            
+
+
+
+Hvis du skal registrere flere underenheter fyller du ut skjema for underenheter – aktivitet på flere adresser og laster dette opp som vedlegg til Samordnet registermelding i Altinn (kryss av for at foretaket skal registrere en eller flere nye underenheter).
+
+
+
+
+
+
+
+
+
+
+ 
+                                Overtakelse og overdragelse av underenhet                            
+
+
+
+En underenhet kan overtas eller overdras fra en hovedenhet til en annen. I slike tilfeller vil underenheten beholde sitt organisasjonsnummer.
+For at en underenhet skal regnes som overtatt eller overdratt, må følgende vilkår være oppfylt:
+
+Samme aktivitet fortsetter, men med en annen hovedenhet som ny eier av underenheten
+Aktiviteten fortsetter i samme kommune som tidligere
+De nødvendige aktiva som inngår i aktiviteten må som regel overdras under ett. Eksempler på dette er råvarer, produksjonsutstyr, varelager, kontrakter og ansatte.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan registrerer jeg overdragelse av underenhet?                            
+
+
+
+Hvis du skal registrere overtakelse eller overdragelse av en underenhet, kan du bruke skjemaet Samordnet registermelding i Altinn. Hvis det er flere underenheter som skal overtas eller overdras, må du fylle ut papirskjemaet skjema for underenheter – aktivitet på flere adresser.
+Husk at det bør ryddes i innboksen til underenheten i Altinn før overdragelse. Sensitiv informasjon, som sykemeldinger m.m, bør lagres i eget sak-/arkivsystem før overdragelsen blir registrert. Slik unngår du at overtaker får tilgang til sensitiv informasjon som ligger i innboksen til underenheten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan melder jeg sletting av underenhet?                            
+
+
+
+Hvis aktiviteten legges ned, kan du melde sletting av underenheten i Samordnet registermelding. Hvis hovedenheten har flere underenheter og skal legge ned en eller flere, må du fylle ut papirskjemaet skjema for underenheter – aktivitet på flere adresser.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Antall ansatte                            
+
+
+
+Enhetsregisteret inneholder opplysning om antall ansatte for alle arbeidsgivere som er registrert i Enhetsregisteret. Antall ansatte er aktive arbeidsforhold registrert i NAV sitt Aa-register. Alle arbeidsgivere skal rapportere arbeidsforholdene hver måned i a-meldingen.
+Virksomheter som har ansatte skal ha minst en underenhet. Underenhetene er identifisert med et eget organisasjonsnummer som er tilknyttet hovedenheten. Antall ansatte er knyttet til en underenhet og omfatter antall unike personer som jobber i virksomheten. Hvis en person har flere arbeidsforhold knyttet til samme virksomhet, telles personen bare én gang.
+Opplysningen antall ansatte er blant annet tilgjengelig i tjenesten Åpne data. Du kan velge om du vil se antall ansatte knyttet til én underenhet eller totalt antall ansatte på hovedenheten.
+
+
+
+
+
+
+
+
+
+
+
+Foretakssøk
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Våre skjema
+
+
+
+
+Informasjon om våre produkter
+
+
+
+
+Nettbutikken
+
+
+
+
+NAV Aa-registeret
+
+
+
+
+
+Innboks i Altinn
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

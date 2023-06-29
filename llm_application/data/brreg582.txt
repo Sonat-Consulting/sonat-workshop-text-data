@@ -1,0 +1,944 @@
+
+
+
+
+Rettleiing til samordna registermelding (papirskjema)
+
+Sist oppdatert: 19. april 2022.
+
+
+
+
+
+Rettleiing til fellesskjema for registrering i
+
+Einingsregisteret
+Føretaksregisteret
+Nav Aa-registeret
+Stiftelsesregisteret
+Skattedirektoratet sitt register over upersonlege skattytarar
+
+
+Underskriftskrav
+Samordna registermelding skal underskrivast. Vi krev original underskrift. Om du ikkje følgjer underskriftskrava, blir ikkje meldinga registrert.
+ 
+
+
+
+
+
+Samordna registermelding i Altinn
+Enklare og raskare registrering på nett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samordna registermelding i Altinn
+Enklare og raskare registrering på nett
+
+
+
+
+
+
+
+
+
+Slik fyller du ut skjemaet
+ 
+
+
+
+
+
+
+
+ 
+                                1.  Namn/føretaksnamn                            
+
+
+
+1.1 Fullstendig namn/føretaksnamn på eininga
+Feltet skal alltid fyllast ut.
+Gi opp fullstendig namn/føretaksnamn og organisasjonsnummer for eininga. Gjeld det nyregistrering, tildeler Einingsregisteret organisasjonsnummer.
+Når du melder om endring av registrert namn/føretaksnamn, skal og det registrerte namnet/føretaksnamet til eininga før endringa førast opp her. Gi opp nytt namn/føretaksnamn i felt 1.2. Ver merksam på at det er namnet/ føretaksnamnet som blir oppgitt i dette feltet (eventuelt i felt 1.2 ved endring), som blir ståande på firmaattesten frå Føretaksregisteret.
+Enkeltpersonføretak: Namnet/føretaksnamnet på enkeltpersonføretak skal minst innehalde etternamnet til innehavaren, til dømes Lars Holm eller Holms Bilskadeservice.
+Norskregistrert utanlandsk føretak fører opp namn/føretaksnamn i heimlandet. Namn/føretaksnamn for verksemda i Noreg fører du opp i felt 24.
+Val av føretaksnamn
+For næringsdrivande einingar og andre einingar som skal registrerast i Føretaksregisteret er det særs viktig å vere påpasseleg med val av namn/føretaksnamn. Reglane om dette finst i føretaksnamnelova av 21. juni 1985. Du kan lese meir om val av namn/ føretaksnamn under Starte og drive bedrift på altinn.no.
+NB! Einingsregisteret kontrollerer ikkje at reglane i føretaksnamnelova er følgde. Eininga har sjølv ansvaret for dette. Ved registrering i Føretaksregisteret blir det kontrollert at føretaksnamnet tilfredsstiller krava i føretaksnamnelova.
+1.2 Eventuelt nytt namn/føretaksnamn
+Er eininga registrert i Føretaksregisteret, kjem det gebyr på namne-/føretaksnamneendringa.
+Feltet skal berre fyllast ut dersom eininga melder inn endring av registrert namn/føretaksnamn. Hugs at namnet/føretaksnamnet før endring skal førast opp i felt 1.1 saman med organisasjonsnummer som er tildelt tidlegare. 
+1.3 Eige namn på verksemda
+Feltet skal berre fyllast ut dersom eininga driv verksemd under eit anna namn enn namnet/føretaksnamnet til eininga. Dersom til dømes det fullstendige namnet/føretaksnamnet er Lars Holms Pølsebu, og du berre bruker Grillbua i marknadsføring, korrespondanse og liknande, er det berre sistnemnde namn som skal fyllast inn her.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2. Meldinga gjeld                            
+
+
+
+Ei melding kan gjelde eitt av desse forholda:
+2.1 Registrering av eining som ikkje er registrert frå før
+2.2 Endring av registrerte opplysningar eller nye opplysningar
+2.3 Vedtak om oppløysing av eining
+2.4 Sletting av eining
+Dersom meldinga gjeld opplysningar om den verksemda eininga driv/eig, må felt 9 og 10 fyllast ut. Det skal sendast melding til Einingsregisteret i samband med overdraging/ overtaking og når verksemd blir nedlagd eller avslutta.
+Overdraging av verksemd vil til dømes ligge føre når eit aksjeselskap kjøper ein frisørsalong frå eit anna aksjeselskap. Begge einingane skal i så fall melde inn endringa til Einingsregisteret på kvar sin blankett.
+
+Den eininga som kjøper/tek over verksemda, skal gi opplysning om dato for kjøpet/overtakinga av verksemda i felt 9a. Felt 10a skal fyllast ut med opplysningar om tidlegare eigar.
+Seljar/overdragar skal gi opp dato for salet/overdraginga av verksemda i felt 9b. Felt 10b skal fyllast ut med opplysning om ny eigar.
+
+Dersom verksemda har slutta eller er nedlagd, gir du opp dato i felt 9b. Melding om at verksemda blir nedlagd eller opphøyrer, inneber ikkje at eininga blir sletta frå Einingsregisteret. Vil du slette eininga, må du krysse av for dette i felt 2.4. Aksjeselskap og somme andre organisasjonsformer skal avviklast etter reglane i selskapslovgivinga, medan andre einingar skal slettast når all verksemd er avvikla for godt. Merk spesielt at felt 2 i del 2 på blanketten òg må fyllast ut når endringa omfattar overtaking, overdraging eller nedlegging/opphøyr av meirverdiavgiftspliktig verksemd.
+2.1 Eining som ikkje er registrert tidlegare
+Her skal du berre krysse av dersom eininga ikkje er registrert i Einingsregisteret tidlegare.
+Dersom du registrerer ei ny eining i samband med at du overtek ei eksisterande verksemd, kryssar du i tillegg av for kjøp/overtaking av verksemd i felt 9a. Felt 10a skal fyllast ut med opplysningar om den tidlegare eigaren av verksemda. Dersom du vil registrere ei ny eining i samband med at du startar ei ny verksemd, skal du føre opp datoen for start av verksemda i felt 9a på blanketten.
+Merk: Det oppstår inga ny eining dersom det berre har vore eigarskifte av aksjar/partar i eit aksjeselskap eller eit ansvarleg selskap eller liknande. I slike tilfelle skal ikkje eininga sende melding om ny eining, men melde eventuell endring i dei opplysningane som er registrerte om eininga. Eit ansvarleg selskap skal i slike tilfelle sende melding om endring av deltakarar.
+2.2 Endringar/nye opplysningar
+Dersom eininga er registrert i Einingsregisteret frå før, skal det i dei fleste tilfelle kryssast av i felt 2.2, «Endringar/nye opplysningar». Det gjeld sjølv om eininga gjennom meldinga søkjer om å bli registrert i eit av registera som er tilknytt Einingsregisteret, der eininga ikkje står registrert frå før. Dersom til dømes eit enkeltpersonføretak allereie er registrert i Einingsregisteret og så sender inn melding om registrering i Føretaksregisteret, skal det kryssast av for «Endringar/nye opplysningar».
+Gjeld endringa/den nye opplysninga vedtak om å oppløyse eller slette eininga, skal det kryssast av i eigne rubrikkar.
+Gi alltid opp eininga sitt organisasjonsnummer og registrerte namn/ føretaksnamn i felt 1.1.
+Fyll for øvrig berre ut dei felta endringa gjeld.
+Inneber endringa at registrerte opplysningar skal slettast utan at dei blir erstatta med nye opplysningar, skriv du «går ut» i det aktuelle feltet. For einingar som er registrerte i Føretaksregisteret, er det gebyr på visse endringar med heimel i forskrift om gebyr for tenester frå Brønnøysundregistera, § 6. Dette gjeld følgjande endringar:
+
+Avgjerd om kapitalnedsetjing
+Avgjerd om fusjon
+Avgjerd om fisjon
+Endring av føretaksnamn, medrekna endring av føretaksnamn som følgje av omdanning: – frå ansvarleg selskap (ANS) til ansvarleg selskap med delt ansvar (DA), og omvendt – frå aksjeselskap (AS) til allmennaksjeselskap (ASA) og omvendt – frå samvirkeføretak (SA) til aksjeselskap (AS) eller allmennaksjeselskap (ASA)
+Endring av deltakar, medrekna avgang som deltakar i ansvarleg selskap (ANS), ansvarleg selskap med delt ansvar (DA), interkommunalt selskap (IKS) og partrseiarlag
+Endring av ansvarsandelane i ansvarleg selskap med delt ansvar (DA), interkommunalt selskap (IKS) og partsreiarlag med delt ansvar (DA)
+Endring av komplementar i kommandittselskap
+
+2.3 Vedtak om oppløysing av eining
+For dei fleste organisasjonsformene som er registrerte i Føretaksregisteret, skal dette feltet brukast når du skal avvikle føretaket. Mellom anna for aksjeselskap, allmennaksjeselskap, kommandittselskap, ansvarleg selskap, samvirkeføretak og interkommunalt selskap skjer oppløysing og avvikling i to trinn. Eit føretak som er meldt oppløyst, kan ikkje slettast før kreditorfristen har gått ut og avviklingsrekneskapen er godkjend av kompetent organ.
+Avkryssingsrubrikken skal òg brukast når det er teke avgjerd om oppløysing for fusjon og fisjon.
+Dei fleste andre organisasjonsformene blir sletta utan varsel på førehand. Dette gjeld enkeltpersonføretak, føretak med avgrensa ansvar, partsreiarlag, kommunale føretak, fylkeskommunale føretak, foreiningar og andre innretningar. Sjå rettleiinga til felt 2.4.
+2.4 Sletting av eining
+Feltet nyttast dersom eininga skal slettast frå alle register (Einingsregisteret og dei tilknytte registera). Ver merksam på at når du vil slette ei eining og samstundes registrere ei ny, skal det fyllast ut to blankettar.
+Hugs å føre opp i felt 9b kva som skjer med verksemda til eininga.
+Sletting berre frå tilknytte register:
+Det er fullt mogleg å bli sletta frå eitt av registera som er knytte til Einingsregisteret, utan å slette seg frå Einingsregisteret og/eller andre tilknytte register.
+Sletting i Føretaksregisteret
+Dei fleste organisasjonsformene blir sletta fordi dei ikkje eksisterer lenger. Derfor skal dei slettast frå alle register. For føretak med avgrensa ansvar, stiftingar, foreiningar og andre innretningar gjeld det at dei skal slettast frå Føretaksregisteret når næringsverksemda er nedlagd for godt.
+Enkeltpersonføretak, som har registreringsrett, men ikkje registreringsplikt i Føretaksregisteret, kan òg slettast frå Føretaksregisteret utan at dei har slutta å eksistere. Dersom eininga i slike tilfelle framleis vil eller skal stå registrert i Einingsregisteret, må melding om særskild sletting frå Føretaksregisteret førast opp i felt 26. Det skal i så fall ikkje kryssast av for sletting i felt 2.4 på blanketten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3. Registrering i andre register                            
+
+
+
+Her gir du opp kva for eit tilknytt register eininga skal registrerast i. Felt 3 skal fyllast ut når eininga skal registrerast i eit tilknytt register ho ikkje er registrert i frå før. Felt 3.1 gjeld registrering i Føretaksregisteret og felt 3.2 gjeld registrering i NAV Aa-registeret.
+Stiftingar
+Blanketten inneheld ikkje noko eige avkryssingsfelt for registrering i Stiftelsesregisteret. Det blir automatisk meldt frå til Lotteri- og stiftelsestilsynet om alle stiftingar som melder registrering til Einingsregisteret. Det kjem gebyr på registrering i Stiftelsesregisteret. Satsane er fastsette i forskrift av 21.12.2004, om stiftingslova. Næringsdrivande stiftingar blir ikkje ilagt gebyr av Stiftelsesregisteret, men av Føretaksregisteret ved nyregistrering.
+3.1. Føretaksregisteret
+Kva er Føretaksregisteret?
+Foretaksregisteret er i hovudsak eit register for næringsdrivande føretak i Noreg.
+Det kjem gebyr på registrering i Føretaksregisteret. Satsane er fastsette i forskrift av 16.12.2003 nr. 1551, om gebyr for tenester frå Brønnøysundregistera.
+Kva for einingar skal registrerast i Føretaksregisteret? Somme av organisasjonsformene har etter lova registreringsrett eller registreringsplikt i Føretaksregisteret.
+Enkeltpersonføretak pliktar å registrere seg i Føretaksregisteret dersom dei sysselset meir enn fem fast tilsette i hovudstilling eller driv handel med varer som er innkjøpte for vidare sal. Med hovudstilling meiner vi stilling der det blir arbeidd meir enn 20 timar i veka. Enkeltpersonføretak som ikkje pliktar å registrere seg i Føretaksregisteret, har likevel rett til å registrere seg der.
+Eigarseksjonssameige som er seksjonerte etter krav som er sette fram etter 01.01.1998, pliktar å registrere seg i Føretaksregisteret dersom dei har ni eller fleire seksjonar. Eigarseksjonssameiger med åtte eller færre seksjonar har registreringsrett i Føretaksregisteret. Eigarseksjonssameiger som er seksjonerte etter krav som er sette fram før 01.01.1998, er ikkje registreringspliktige i Føretaksregisteret, men har rett til å registrere seg der.
+Aksjeselskap, allmennaksjeselskap, samvirkeføretak, kommandittselskap, ansvarlege selskap og liknande skal alltid registrere seg i Føretaksregisteret.
+Andre organisasjonsformer, som føretak med avgrensa ansvar, stiftingar og foreiningar, skal berre registrerast i Føretaksregisteret dersom dei driv næringsverksemd. Med næringsverksemd meiner vi verksemd som varer ei viss tid og har eit visst omfang, og som er oppretta med tanke på å gi eller som faktisk gir økonomisk avkasting.
+Utanlandske einingar skal registrerast i Føretaksregisteret dersom dei driv næringsverksemd her i landet eller på norsk kontinentalsokkel.
+Sjå for øvrig Sjå elles eiga oversikt i felt 8 i blanketten, eller «Starte og drive bedrift» på altinn.no.
+Hugs å leggje ved nødvendige vedlegg. Sjå oversikta over kva vedlegg som trengst. Dersom vedlegg manglar, blir ikkje føretaket registrert.
+3.2 Arbeidstakarar/andre som mottek vederlag
+Som arbeidstakar reknast alle som er tilsette i teneste hos andre for løn eller anna godtgjersle.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4. Adressa til hovudkontoret (forretningsadresse/besøksadresse)                            
+
+
+
+Næringsdrivande einingar
+Før opp forretningsadresse. Med dette meiner vi gateadressa til hovudkontoret eller stadadressa på mindre stader.
+Norskregistrert utanlandsk føretak
+Gi opp forretningsadressa i heimlandet.
+Andre einingar
+Gi opp besøksadressa til eininga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5. Postadresse                            
+
+
+
+Einingar som har ei særskild postadresse, til dømes postboks, gir opp den i tillegg til forretningsadressa/ besøksadressa til hovudkontoret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6. Gateadressa til verksemda                            
+
+
+
+Om verksemda til eininga går føre seg på ei anna adresse enn adressa til hovudkontoret, gir du opp verksemdadressa her. Dersom verksemda ikkje skjer i bestemte lokale eller på faste plassar, men er ambulerande (til dømes bygg- og anleggsverksemd eller transportverksemd), skal du gi opp adressa på den staden der verksemda blir administrert, eventuelt fast frammøtestad.
+Blir verksemda driven på fleire stader, skal det kryssast av for dette i felt 3.4. Eininga får da vidare informasjon om korleis dette skal meldast. Fyll i så fall ikkje ut noko i felt 6.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7. Innsendar/gebyransvarleg                            
+
+
+
+Innsendaren blir brukt som adressat for alle typar tilbakemeldingar om meldinga – det vil seie at stadfestingar og andre brev, registerutskrifter og liknande blir sende til den som er oppgitt som innsendar. Innsendaren er òg ansvarleg for å betale gebyr til Føretaksregisteret.
+Dersom innsendarfeltet ikkje er utfylt, blir tilbakemeldingar, krav om gebyr og liknande sende til eininga. Dersom innsendaren tidlegare har fått tildelt kundenummer av Brønnøysundregistera, skal dette nummeret førast opp.
+Saksreferanse/attention for innsendar:
+Her kan innsendaren gi opp eigen referanse for saka om det er ønskeleg.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8. Organisasjonsform                            
+
+
+
+Feltet skal fyllast ut berre ved melding om ny eining. Kryss av for den organisasjonsforma som skal registrerast. Eininga kan berre setje kryss for eitt av alternativa. Ei eining kan som hovudregel ikkje endre organisasjonsform utan å gå vegen om sletting og nystifting.
+Kva for organisasjonsformer som har plikt eller rett til registrering i Føretaksregisteret, går fram av tilvisingane i feltet og rettleiinga til felt 3.1.
+Europeiske føretak/selskap
+Europeiske organisasjonsformer som er felles for alle land innanfor EUog EØS-området. Dette omfattar europeisk selskap (SE), europeisk samvirkeføretak (SCE) og europeisk økonomisk føretaksgruppe (EØFG). Det må spesifiserast i felt 26 kven av desse organisasjonsformene registreringa gjeld. For meir informasjon om vedleggskrav eller liknande, ta kontakt med Føretaksregisteret eller sjå her på brreg.no.
+Annan juridisk person
+Denne organisasjonsforma blir nytta av ei sterkt avgrensa gruppe einingar, og berre når ingen av dei andre organisasjonsformene er aktuelle. Døme på einingar i denne kategorien er ambassade, reinbeitedistrikt og fjellstyre.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9a. Stifting av eining. Start eller kjøp av verksemd                            
+
+
+
+Dato for stifting
+Gi opp dato då eininga blei stifta.
+For eldre einingar som ikkje har nøyaktige opplysningar om dato for stifting, er det nok å gi opp stiftingsåret. Du må òg gi opp stiftingsdato for norskregistrert utanlandsk føretak.
+Enkeltpersonføretak skal ikkje gi opp stiftingsdato.
+Start av verksemd
+Einingar som startar verksemd, skal gi opp dato for når aktivitetane blei starta/skal starte.
+Kjøp av verksemd
+Gjeld meldinga kjøp av ei verksemd – til dømes ved at eit aksjeselskap tek over ein skobutikk eller frisørsalong 9 frå eit anna aksjeselskap, skal dato for overtakinga førast opp her.
+Kjøp/sal
+For at ei verksemd skal reknast som kjøpt eller seld, skal same verksemd halde fram, men med ei anna eining som eigar. Desse vilkåra må vere oppfylde: Dei aktiva som inngår som nødvendige delar i verksemda, så som råvarer, produksjonsutstyr, varelager, kontraktar og anna, må i sin heilskap eller det alt vesentlege overdragast under eitt. Dersom dei aktiva som inngår i verksemda, blir selde særskilt, slik at verksemda ikkje kan halde fram, meldast nedlegging av verksemda.
+Aksjesal eller endring av deltakarar i ANS/DA reknast ikkje som kjøp/sal av verksemd.
+Det skal meldast om kjøp/overtaking av verksemd når verksemda skal drivast vidare under ny organisasjonsform/ ny juridisk eining, sjølv om eigar/ eigarane er dei same. Til dømes ved overgang frå enkeltpersonføretak til aksjeselskap.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9b. Sal eller nedleggjing av verksemd                            
+
+
+
+
+Sal av verksemd
+Gjeld meldinga sal av ei verksemd – til dømes ved at eit aksjeselskap overdreg ein skobutikk eller frisørsalong til eit anna aksjeselskap, skal dato for overdraginga førast opp her.
+Sjå elles rettleiing til 9a om kjøp/sal av verksemd.
+Nedlegging/opphøyr av verksemd
+Ei verksemd blir lagt ned dersom produksjonen av varer og/eller tenester av ein eller annan årsak opphøyrer fullstendig. Verksemda opphøyrer òg dersom:
+
+Ein ny eigar startar ei heilt ny verksemd eller ny produksjon av varer og/eller tenester i dei same lokala.
+Ein ny eigar flytter heile den tidlegare verksemda til ei ny adresse i ein annan kommune.
+Ho blir flytta til ein annan kommune og det blir starta heilt ny verksemd/produksjon av varer og/eller tenester (same eigar).
+
+Dersom verksemda er nedlagd (opphøyrd), kryss av for det og før opp dato for nedlegginga. Ver merksam på at melding om nedlegging av verksemd ikkje betyr at eininga blir sletta. Ønskjer du å slette eininga, må det kryssast av for «Sletting av eining» i felt 2.4.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10a. Kjøp/overtaking av verksemd frå                            
+
+
+
+Gi opplysningar om den tidlegare eigaren dersom eininga har kjøpt eller overtatt ei verksemd. Gi opp organisasjonsnummeret til tidlegare eigar dersom dette finst.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10b. Sal/overdraging av verksemd til                            
+
+
+
+Gi opplysningar om den tidlegare eigaren om eininga har kjøpt eller overtatt ei verksemd. Gi opp organisasjonsnummeret til tidlegare eigar dersom dette finst.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11. Verksemd/bransje                            
+
+
+
+11.1. Opplysningar om aktivitet
+Opplysningane om kva slag verksemd dette gjeld, er grunnlaget for å gi eininga næringskode. Næringskoden blir tildelt etter Standard for næringsgruppering (SN2007). Næringskoden blir mellom anna brukt til å lage statistikk der norsk næringsliv/arbeidsmarknad blir omtalt etter næring/bransje.
+Gi ei så nøyaktig utgreiing som råd er om den verksemda som blir utført eller skal utførast. Ver merksam på at det ikkje er nok å gi opp eit generelt overordna føremål. Gi derfor opp kva slag varer verksemda produserer, kva slag varer ho sel og/eller tenester ho utfører. Pass særleg på å få klart fram kva for bransje verksemda tilhøyrer.
+Her er nokre døme på kor detaljert framstillinga må vere::
+
+Jordbruk: Dyrking av korn. Mjølkeproduksjon på storfe.
+Transport: Godstransport på veg. Drosjebiltransport.
+Industri: Produksjon av hushalds-, sanitær- og toalettartiklar av papir. Produksjon av byggevarer av plast.
+Handel: Agenturhandel med tømmer, trelast og byggevarer. Engroshandel med elektriske husholdningsapparat. Butikkhandel med kjøtt og kjøttvarer.
+Bygg og anlegg: Grunnarbeid. Oppføring av bygningar. VVS-arbeid.
+Konsulentverksemdt: Bedriftsrådgiving. Konsulenttenester innan programutvikling av kundespesifiserte program.
+
+Dersom eininga driv verksemd/aktivitet i fleire bransjar, må du føre opp kvar enkelt av dei i prioritert rekkefølge etter storleiken på omsetjing eller sysselsetjing.
+Eingar som ikke driv næringsverksemd, gir opp den aktiviteten dei skal drive. Døme kan vere musikkorps eller idrettslag.
+Norskregistrert utanlandsk føretak gir opp den (nærings)-verksemda dei driv med i Noreg, eventuelt kva som er grunnlaget for registreringa.
+Ved endring gir du opp den nye verksemda og dato for da endringa tok til å gjelde. Dersom eininga har starta med tilleggsverksemd, skal også verksemda som blir utøvt frå før meldast.
+11.2 Stadfesting av næringsverksemd
+Alle enkeltpersonføretak må stadfeste at aktiviteten oppfyller krava til næringsverksemd.
+Eit enkeltpersonføretak driv næringsverksemd når aktiviteten:
+
+har omsetning som over tid kan gi overskot
+har ei viss varigheit, vanlegvis lengre enn eitt år
+ikkje er hobbyverksemd eller enkeltståande oppdrag
+
+Les meir om krava for å drive næringsverksemd.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12. Dagleg leiar, innehavar, forretningsførar eller annan kontaktperson                            
+
+
+
+Enkeltpersonføretak
+Enkeltpersonføretak fører alltid opp innehavar. Med innehavar meiner vi den personen som har uavgrensa personleg ansvar for pliktene til enkeltpersonføretaket. Før òg opp dagleg leiar,  om eininga har det.
+Norskregistrert utanlandsk føretak )NUF)
+NUF gir opp dagleg leiar for verksemda i Noreg dersom slik leiar er vald. Dersom dagleg leiar ikkje er vald, gir du opp ein annan kontaktperson.
+NUF utan forretningsstad i Noreg, som driv mva.-pliktig verksemd, fører opp eininga sin norske representant. Er den norske representanten ein juridisk person, gir du i tillegg opp ein kontaktperson. Dersom eininga er organisert som eit enkeltpersonføretak i heimlandet, skal du føre opp innehavar.
+Andre organisasjonsformer
+Andre organisasjonsformer fører opp dagleg leiar eller forretningsførar. Med dagleg leiar/forretningsførar meiner vi den personen som har den daglege administrative leiinga av eininga, og som har styringsmakt til å representere eininga utetter i forhold som fell inn under den daglege leiinga. Er dagleg leiar/forretningsførar ein juridisk person, skal du i tillegg gi opp ein kontaktperson. Dersom eininga ikkje har dagleg leiar/forretningsførar, gir du opp ein annan kontaktperson.
+Fødselsnummer/d-nummer/organisasjonsnummer
+Enkeltpersonar
+Pass på å få med fødselsnummer i tillegg til namn og bustadadresse, sjå einingssregisterlova § 7.
+Juridiske personar
+Før opp organisasjonsnummer og forretningsadresse.
+Utanlandske personar
+Før opp d-nummer – det vil seie eit eige nummer som identifiserer utanlandske personar utan norsk fødselsnummer.
+Les meir om tildeling av d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13. Ønske om målform                            
+
+
+
+Skriftleg kommunikasjon til eininga vil skje på vald målform.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14. Vedtekter/selskapsavtale                            
+
+
+
+Før opp datoen då vedtektene/selskapsavtalen vart fastsett eller endra. Feltet gjeld ved registrering i Føretaksregisteret og Stiftelsesregisteret, og må fyllast ut av alle organisasjonsformer bortsett frå enkeltpersonføretak.
+Vedtektene/selskapsavtalen må leggjast ved i samband med nyregistrering. Ved endringar av vedtektene/ selskapsavtalen må det leggjast ved eit ajourført eksemplar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15. Kapital i aksjeselskap, allmennaksjeselskap, kommandittselskap, stifting med fleire                            
+
+
+
+I øvste delen av feltet melder du kapital ved registrering av aksjeselskap, allmennaksjeselskap, kommandittselskap, stiftingar med fleire.
+Her melder du òg kapitalendringar, til dømes kapitalauke, gjennomføring av kapitalnedsetjing og innbetaling av kapital i kommandittselskap. I avkryssingsfelta skal det merkast av kva kapitalendringa gjeld. Du skal dessutan krysse av for om kapitalteikninga blir omfatta av prospektplikta etter verdipapirhandellova § 7–2. Det gjer ho i dei tilfella kor teikningsinnbydinga er retta til 100 personar eller fleire og gjeld ein sum på minst 100 000 euro, sjå verdipapirhandellova § 7–2. Må prospektet godkjennast etter verdipapirhandellova §§ 7–7 og 7–8 skal det meldast til Oslo Børs, i andre tilfelle må prospektet meldast til Føretaksregisteret, sjå verdiparpirhandellova § 7–10. Det er ein føresetnad at prospektet allereie er registrert hos Oslo Børs eller i Føretaksregisteret. Dersom prospektet er registrert hos Oslo Børs, må det leggjast ved prospekt og anna teikningsmateriale. Det må òg leggjast ved kopi av brev frå Oslo Børs om at prospektet er registrert, eller stadfesting frå dei meldepliktige om at prospekt er send til Oslo Børs.
+Aksjeselskap og allmennaksjeselskap
+Aksjeselskap og allmennaksjeselskap må gi nærmare opplysningar i felt 26, når kapitalaukinga skjer på grunnlag av styrefullmakt som er skrive ut, konvertibelt lån, teikningsrettsaksjar eller frie teikningsrettar. Heile aksjeinnskotet må vere innbetalt før registrering i Føretaksregisteret.
+Norskregistrert utenlandsk foretak
+Norskregistrerte utenlandske foretak gir opp aksjekapitalen og kor mykje av han som er innbetalt, dersom eininga er eit aksjeselskap. Før opp kapitalen i valutaen til det aktuelle landet.
+Sparebankar
+Sparebankar som har skrive ut omsetjelege grunnfondsbevis, gir opp grunnfondsbeviskapitalen i felt 26.
+Stiftingar
+Grunnkapitalen gir du opp i rubrikken for «Kapital i samsvar med vedtekter/selskapsavtale».
+
+
+
+
+
+
+
+
+
+
+ 
+                                16. Vedtak om kapitalnedsetjing                            
+
+
+
+I feltet melder du vedtak om kapitalnedsetjing som grunnlag for eventuelt kreditorvarsel. Avkryssing for kva nedsetjinga skal brukast til, må vere i samsvar med protokoll. Gjennomføring av kapitalnedsetjing etter at kreditorfristen har gått ut, skal meldast i felt 15.
+Bruk felt 18 til å melde kapitalnedsetjing i samband med fisjon.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17. Fusjon                            
+
+
+
+Dette feltet skal brukast av aksjeselskap, allmennaksjeselskap, samvirkeføretak og andre einingar som med heimel i lov kan fusjonerast.
+Dersom fusjonen følgjer særreglane for fusjon mellom morselskap og heileigd dotterselskap, sjå aksjelova § 13–23, allmennaksjelova § 13–24 og samvirkelova § 118, eller mellom to selskap med same eigar, sjå aksjelova § 13–24, kryssar du av for dette.
+I øvste delen av feltet skal det kryssast av for om meldinga gjeld overdraging, det vil seie oppløysing for fusjon, eller overtaking av eit føretak. Ved melding om oppløysing for fusjon skal det òg kryssast av for vedtak om oppløysing av eining i felt 2.3. Både det føretaket som overdreg og det føretaket som tek over, må levere inn melding.
+Fusjon over landegrenser:
+Dersom det er fusjon mellom norske og utanlandske føretak, kryss av for «Fusjon over landegrenser». Fusjon over landegrenser skal du melde i fire trinn. For meir informasjon, ta kontakt med Føretaksregisteret.
+Fyll ut feltet med namn/føretaksnamn, organisasjonsnummer og adresse til det føretaket som inngår i fusjonen. Om det ikkje er plass, kan du nytte felt 26.
+Dersom meldinga gjeld fusjonsplan, gir du dette opp i den nedste delen av feltet.
+Etter at kreditorfristen har gått ut, må ein sende inn melding om gjennomføring av fusjonen for alle føretaka som er med.
+Samvirkeføretak
+Dersom eit fusjonsvedtak i eit samvirkeføretak krev godkjenning av Stiftelsestilsynet, kan føretaket ikkje melde vedtaka sine til Føretaksregisteret før slik godkjenning er gitt. Godkjenning frå Stiftelsestilsynet skal leggjast saman med meldinga til Føretaksregisteret. For nærmare reglar om tilhøvet til Stiftelsestilsynet, sjå Lov om samvirkeforetak.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18. Fisjon                            
+
+
+
+Dette feltet skal brukast av aksjeselskap, allmennaksjeselskap, samvirkeføretak og andre einingar som med heimel i lov kan fisjonerast.
+I første delen av feltet skal det føretaket som skal delast, opplyse om fisjonen inneber kapitalnedsetjing eller oppløysing, eller delvis utskilling av eigedelar, rettar og plikter. Kryss av for «Kapitalnedsetjing i samband med fisjon» når det føretaket som overdreg, berre skal overdra ein del av dei samla eignelutene, rettane og pliktene sine til eitt eller fleire overtakande føretak. Dersom overdragande føretak skal overdra alle sine eigneluter, rettar og plikter til to eller fleire overtakande føretak, set du kryss for «Oppløysing for å fisjonere med». Ved melding om oppløysing for fisjon skal det òg kryssast av for vedtak om oppløysing av eining i felt 2.3.
+Dersom det overdragande føretaket er eit burettslag eller samvirkeføretak, og berre skal skilje ut del(ar) av dei samla eigedelane, rettane og pliktene sine til eitt eller fleire overtakande føretak, skal ein kryssa av for «Å skilje ut del(ar) av føretaket til».
+Det eller dei føretaka som tek over, kryssar av for «å overta». Både det overdragande og det/dei overtakande føretaka må levere inn melding.
+Fisjon over landegrenser
+Dersom det er fisjon mellom norske og utanlandske føretak, kryss av for «Fisjon over landegrenser». Fisjon over landegrenser skal du melde i fire trinn. For meir informasjon, ta kontakt med Føretaksregisteret.
+Fyll ut feltet med namn/føretaksnamn, organisasjonsnummer og adresse til det føretaket/dei føretaka som inngår i fisjonen. Om det ikkje er plass, kan du nytte felt 26.
+Dersom meldinga gjeld fisjonsplan, gir du dette opp i den nedste delen av feltet.
+Etter at kreditorfristen har gått ut, må ein sende inn melding om gjennomføring av fisjonen for alle føretaka som er med.
+Samvirkeføretak
+Dersom eit fisjonsvedtak i eit samvirkeføretak krev godkjenning av Stiftelsestilsynet, kan føretaket ikkje melde vedtaka sine til Føretaksregisteret før godkjenninga er gitt. Godkjenning frå Stiftelsestilsynet skal leggjast saman med meldinga til Føretaksregisteret. For nærmare reglar om forholdet til Stiftelsestilsynet, sjå Lov om samvirkeforetak.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19. Styre, deltakarar og anna                            
+
+
+
+Registrering i Einingsregisteret
+Feltet skal fyllast ut dersom eininga har styre, deltakarar, komplementar eller eigarkommune.
+Stiftingar og eigarseksjonssameige
+Alle stiftingar må ha eit styre. Gi opp heile styret (leiar av styret, nestleiar, styremedlemer, varamedlemer og observatør(ar)) med fullt fødselsnummer, namn og adresse.
+Registrering i Føretaksregisteret
+Desse organisasjonsformene må ha styre:
+
+aksjeselskap
+allmennaksjeselskap
+burettslag
+bustadbyggjelag
+eigarseksjonssameige
+europeisk samvirkeføretak
+europeisk selskap
+foreiningar/lag/innretningar
+fylkeskommunale føretak
+gjensidige forsikringsselskap
+interkommunale selskap
+kommunale føretak
+pensjonskasser
+samvirkeføretak
+stiftingar
+sparebankar
+statsføretak
+
+Ansvarleg selskap, kommandittselskap og partsreiarlag
+Gi opp styre dersom selskapet har det.
+Norskregistrert utanlandsk føretak med forretningsstad i Noreg
+Dersom det er valt særskilt styre for verksemda i Noreg, skal det givast opp. Styre og/eller ansvarlege deltakarar i heimlandet skal givast opp i felt 26.
+Kjønnsrepresentasjon i styret
+Ein del føretak har krav til kjønnsrepresentasjon i styret. For nærmare informasjon og føresegner om unnatak, viser vi til særlov for dei enkelte organisasjonsformene. Føretak med organisasjonsformer som har vilkårleg krav til kjønnsrepresentasjon i styret, skal ved kvart styreval vurdere om dei er underlagt dette kravet. Denne opplysninga skal du alltid melde ved nyregistrering. Dersom kravet til kjønnsrepresentasjon i styret endrar seg, skal du melde denne opplysninga saman med styreendringa.
+Merk: Organisasjonsformer med vilkårslaust krav til kjønnsrepresentasjon i styret skal ikkje fylle ut denne opplysninga.
+Organisasjonsformer med vilkårleg krav til kjønnsrepresentasjon i styret:
+
+Bustadbyggjelag (med meir enn 1000 medlemer)
+Samvirkeføretak (med meir enn 1000 medlemer).
+Unntak: Reglane om kjønnsrepresentasjon gjeld ikkje for samvirkeføretak, dersom eit av kjønna utgjer mindre enn fem prosent av det samla tallet på fysiske persona som er medlemer i føretaket når valet blir halde.
+Gjensidige forsikringsselskap (med meir enn 1000 medlemer).
+Unntak: Reglane om kjønnsrepresentasjon gjeld ikkje for gjensidige forsikringsselskap, dersom eit av kjønna utgjer mindre enn fem prosent av det samla tallet på fysiske personar som er medlemer i føretaket når valet blir halde.
+Aksjeselskap (dersom kommune/fylkeskommune eig minimum 2/3 av aksjene)
+Aksjeselskap (dersom det er heileigd av staten, er datterselskap til eit slikt selskap, eller er datterselskap til statsføretak)
+
+Organisasjonsformer med vilkårslaust krav til kjønnsrepresentasjon i styret:
+
+Allmennaksjeselskap
+Interkommunalt selskap
+Statsføretak
+Helseføretak
+Regionale helseføretak
+Europeisk selskap.
+
+Dersom føretaket er underlagd krav til kjønnsrepresentasjon, må begge kjønn vere representerte på følgjande måte:
+
+Har styret to eller tre medlemer, skal begge kjønn vere representerte.
+Har styret fire eller fem medlemer, skal kvart kjønn vere representert med minst to.
+Har styret seks til åtte, skal kvart kjønn vere representert med minst tre.
+Har styret ni medlemer, skal kvart kjønn vere representert med minst fire, og har styret fleire medlemer, skal kvart kjønn vere representert med minst 40 prosent.
+Dei same reglane gjeld for varamedlemer.
+
+Når det skal veljast to eller fleire styremedlemer blant dei tilsette, skal begge kjønn vere representerte. Det same gjeld for varamedlemer. Dette gjeld likevel ikkje dersom eit av kjønna utgjer mindre enn 20 prosent av det samla talet på tilsette i føretaket når valet blir halde. Dersom styremedlemer er valde av dei tilsette, skal du opplyse dette i blanketten.
+Gi opp heile styret (leiar, nestleiar, styremedlemer, varamedlemer og observatør( ar)) med fullt fødselsnummer, namn og adresse både ved nyregistrering og ved endringar. Hugs å merke eventuelle tilsetterepresentantar med D for «vald av dei tilsette» i rubrikken for spesielle opplysningar. I aksjeselskap og allmennaksjeselskap kan det meldast om eigarvald styre- eller varamedlem representerer ei bestemt aksjeklasse (A, B eller C) i rubrikken for spesielle opplysningar.
+Desse einingane må gi opp deltakarar:
+
+ansvarleg selskap
+partsreiarlag
+interkommunalt selskap
+
+Gi opp alle deltakarane både ved nyregistrering og ved seinare endringar. Bruk eige vedlegg dersom det ikkje er plass til alle deltakarane i blanketten.
+Kommunale- og fylkeskommunale føretak må gi opp eigarkommune.
+Ansvarleg selskap med delt deltakaransvar og interkommunalt selskap gir opp ansvarsdel i prosent eller brøk i feltet ansvarsdel. Kommandittselskap gir opp komplementar.
+Rolleinnehavarar kan vere personar eller i somme tilfelle juridiske personar. Fyll ut med namn/føretaksnamn, adresse (postnummer og -stad) og fødselsnummer eller organisasjonsnummer, sjå einingsregisterlova § 7. Utanlandske personar gir opp d-nummer, sjå rettleiinga til felt 12. Fødselsnummer/d-nummer er berre til intern bruk, og blir ikkje offentleggjort, sjå einingsregisterlova § 22.
+Kva slag dokumentasjon som må leggjast ved, følgjer av oversikta over nødvendige vedlegg ved registrering og endring i høvesvis Einingsregisteret og Føretaksregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20. Signatur                            
+
+
+
+Før opp kven som har fått signatur. Signatur er ei fullmakt til å opptre og skrive under på vegne av eininga i forretningsforhold. Signaturrett kan gis til rollehavar(ar), namngitte personar eller einingar. Dersom ingen av standardalternativa i blanketten passar, kan signaturføresegna førast opp under «Anna signaturføresegn ».
+Er signatur gitt til namngitte personar, må ein gi opp namn, adresse og fødselsnummer til den/dei som er tildelt signatur under «Anna signaturføresegn ». Utanlandske personar gir opp d-nummer, sjå rettleiinga til felt 12. Fødselsnummer/d-nummer er berre til intern bruk, og blir ikkje offentleggjort, sjå einingsregisterlova § 22.
+Om fleire har signaturrett, må det gå klart fram om dei har retten kvar for seg eller i fellesskap. Avgrensingar utover dette kan ikkje registrerast. Pass på at signaturføresegna som blir meld, er i samsvar med eventuelle vedtekter/selskapsavtale for eininga.
+Norskregistrert utenlandsk foretak
+Dersom personar knytta til den norske verksemda har fått signatur, skal du gi opp dette. Signatur kan ikkje bli avgrensa til berre å gjelde verksemda i Noreg.
+Ved endring må du gi opp alle som har signaturrett etter endringa.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21. Prokura                            
+
+
+
+Før opp kven som har fått prokura. Prokura er ei fullmakt på same måten som signatur, men er ikkje like omfattande. Prokuristen kan ikkje utan uttrykkeleg fullmakt overdra eller hefte på den faste eigedomen til eininga eller lausøyre som kan registrerast i skipsregisteret eller luftfartsregisteret, eller opptre på vegner av eininga i søksmål.
+Er prokura gitt til namngitte personar, må ein gi opp namn, adresse og fødselsnummer til den/dei som er tildelt prokura under «Anna prokuraføresegn». Utanlandske personar gir opp d-nummer, sjå rettleiinga til felt 12. Fødselsnummer/d-nummer er berre til internt bruk, og blir ikkje offentleggjort, sjå einingsregisterlova § 22.
+Om fleire har prokura, må det gå klart fram om dei har retten kvar for seg eller i fellesskap. Avgrensingar utover dette kan ikke registrerast.
+Norskregistrert utanlandsk føretak
+Om personar knytta til den norske verksemda har fått prokura, skal du gi opp dette. Prokura kan ikkje bli avgrensa til berre å gjelde verksemda i Noreg.
+Ved endring må du gi opp alle prokuristar etter endringa.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22. Revisor                            
+
+
+
+Registrering i Einingsregisteret
+Feltet må fyllast ut dersom eininga har revisor.
+Registrering i Føretaksregisteret
+Som hovudregel må føretaket ha revisor. Om det ikkje er heimla i lov eller i forskrift, er det ikkje revisorplikt om eininga har fem eller færre ansvarlege deltakarar og/eller årsomsetning under 5 millionar kroner.
+Særleg for aksjeselskap
+Eit aksjeselskap har i utgangspunktet plikt til å ha revisor. Generalforsamlinga kan likevel med fleirtall som ved vedtektsendring vedta å gi styret fullmakt til å vedta at årsrekneskapa til selskapet ikkje skal revidereast. Desse vilkåra må vere oppfylte for at et aksjeselskap kan vedta at årsreknenskapen ikkje skal reviderast:
+
+Driftsinntektene er lågare enn 5 millionar kroner og at balansesummen er lågere enn 20 millionar kroner. Gjennomsnittleg tal på tilsette utgjer 10 eller færre årsverk, sjå aksjelova § 7-6.
+Selskapet må ikkje drive med apotekverksemd, advokatverksemd eller vere godkjend som entreprenør etter lotterilova, jf. revisorlova § 2-1 fjerde ledd.
+Selskapet kan ikkje vere morselskap i konsern, sjå revisorlova § 2-1 femte ledd.
+Selskapet må ikkje vere under tilsyn av Finanstilsynet, jf.revisorlova § 2-1 sjette ledd.
+Selskapet må ikkje vere pålagd revisjon av skatte- eller avgiftsmyndigheitene.
+
+Protokoll frå generalforsamling som syner tildeling av fullmakt, og protokoll frå styremøte som syner vedtak om at selskapet sin årsrekneskap ikkje skal reviderast, må leggjast ved meldinga.
+Styret sitt vedtak om å fråvelge revisjon får ikkje verknad før det er registeret i Føretaksregisteret.
+Spesielle krav
+Revisor må vere godkjend av Finanstilsynet og registrert i Revisorregisteret.
+Desse selskapene kan ha revisor som ikkje er registrert i Revisorregisteret:
+• interkommunale selskap
+• kommunale føretak
+• fylkeskommunale føretak
+Utfylling
+Feltet fyllast ut med namnet på revisoren/føretaksnamn, adresse og organisasjonsnummer, sjå einingsregisterlova § 7.
+Merk at feltet har plass for underskrifta til revisor. Dersom revisor skriv under i dette feltet, er det ikkje nødvendig å leggje ved særskild viljeserklæring. Om det er nødvendig med stadfesting av innbetalt kapital, må det leggjast ved eiga erklæring om det.
+Dersom  årsrekneskapen til selskapet ikkje skal reviderast, må du krysse av for det her. I tillegg må du gi opp datoen då generalforsamlinga vedtok fråval av revisjon.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23. Rekneskapsførar                            
+
+
+
+Spesielle krav
+Rekneskapsførar må vere autorisert av Finanstilsynet og registrert i Rekneskapsførarregisteret.
+Utfylling
+Feltet må fyllast ut med rekneskapsføraren sitt namn/føretaksnamn, adresse og organisasjonsnummer. Gi opp fødselsnummer/d-nummer dersom rekneskapsføraren ikkje har registreringsrett i Einingsregisteret.
+Merk at feltet har plass for underskrifta til rekneskapsføraren. Dersom rekneskapsføraren skriv under i dette feltet, er det ikkje nødvendig å leggje ved viljeserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24. Namn og adresse med meir for verksemda i Noreg                            
+
+
+
+Norskregistrert utanlandsk føretak med forretningsstad i Noreg: Gi opp namn/føretaksnamn og forretningsadresse på verksemda i Noreg. Eininga kan ha særskilt namn/føretaksnamn i Noreg eller nytte same namn/føretaksnamn som i heimlandet.
+Omsetning som kjem inn under meirverdiavgiftslova sine reglar
+Har verksemda omsetning som kjem inn under meirverdiavgiftslova sine reglar og ikkje har fast forretningsadresse/driftsstad i Noreg må det meldast ein norsk representant. Norsk representant melder du i felt 12 i skjemaet. Dette kravet gjeld ikkje for verksemder som høyrer heime i ein EØS-stat som Noreg har inngått avtale med om utveksling av opplysningar og gjensidig bistand til innkrevjing av meirverdiavgiftskrav.
+
+
+
+
+
+
+
+
+
+
+ 
+                                25. Konsern/føretaksgruppe                            
+
+
+
+Einingsregisteret skal innehalde opplysningar om einingar som er med i konsern eller føretaksgruppe, sjå enhetsregisterlova § 6, første ledd bokstav k. Einingar som er med i konsern eller føretaksgruppe, har plikt til å melde visse opplysningar til Einingsregisteret, sjå forskrift av 9. februar 1995 om registrering av juridiske personar med meir i Einingsregisteret. Kryss av dersom eininga er med i konsern/ føretaksgruppe, eller dersom det har skjedd endringar i konsernstrukturen. Eininga vil da få vidare informasjon om korleis dette skal meldast.
+
+
+
+
+
+
+
+
+
+
+ 
+                                26. Andre merknader/ opplysningar                            
+
+
+
+Her gir du opplysningar som ikkje kan meldast i dei andre felta på blanketten. Legg ved særskilt ark dersom det blir for liten plass. Døme på opplysningar som skal meldast her er:
+Aksjeselskap og allmennaksjeselskap
+
+styrefullmakt til å setje opp aksjekapitalen ved nyteikning. Ved melding om kapitalauke på grunnlag av styrefullmakt, konvertering av lån, utskrivne teikningsrettsaksjar eller frittståande teikningsrettar, må ein gi opplysningar om dato for når styrefullmakta vart gitt/lånet vart teke opp/teikningsrettsaksjane eller teikningsrettane vart skrivne ut. Dersom den melde kapitalauken byggjer på ulike grunnlag (til dømes styrefullmakt og konvertering av lån), må det i tillegg spesifiserast korleis kapitalauken fordeler seg på dei ulike grunnlaga.
+styrefullmakt til kjøp av eigne aksjar til eige eller pant
+styrefullmakt til kjøp av eigne aksjar i morselskap til eige eller pant
+styrefullmakt til å oppta lån med rett til å krevje at aksjar blir skrivne ut (konvertibelt lån)
+vedtak om opptak av lån med rett til å krevje at aksjar blir skrivne ut (konvertibelt lån). Ved melding om kapitalauke på grunnlag av styrefullmakt, konvertering av lån, utskrivne teikningsrettsaksjar eller frittståande teikningsrettar, må ein gi opplysningar om dato for når styrefullmakta vart gitt/lånet vart teke opp/teikningsrettsaksjane eller teikningsrettane vart skrivne ut. Dersom den melde kapitalauken byggjer på ulike grunnlag (til dømes styrefullmakt og konvertering av lån), må det i tillegg spesifiserast korleis kapitalauken fordeler seg på dei ulike grunnlaga.
+fullmakt til styret om utdeling av utbytte
+meldepliktig avtale med aksjeeigarar eller medlemer av leiinga i selskapet med vidare
+vedtak om å skrive ut teikningsrettsaksjar. Ved melding om kapitalauke på grunnlag av styrefullmakt, konvertering av lån, utskrivne teikningsrettsaksjar eller frittståande teikningsrettar, må ein gi opplysningar om dato for når styrefullmakta vart gitt/lånet vart teke opp/teikningsrettsaksjane eller teikningsrettane vart skrivne ut. Dersom den melde kapitalauken byggjer på ulike grunnlag (til dømes styrefullmakt og konvertering av lån), må det i tillegg spesifiserast korleis kapitalauken fordeler seg på dei ulike grunnlaga.
+vedtak om å skrive ut frittståande teikningsrettar. Ved melding om kapitalauke på grunnlag av styrefullmakt, konvertering av lån, utskrivne teikningsrettsaksjar eller frittståande teikningsrettar, må ein gi opplysningar om dato for når styrefullmakta vart gitt/lånet vart teke opp/teikningsrettsaksjane eller teikningsrettane vart skrivne ut. Dersom den melde kapitalauken byggjer på ulike grunnlag (til dømes styrefullmakt og konvertering av lån), må det i tillegg spesifiserast korleis kapitalauken fordeler seg på dei ulike grunnlaga.
+ved melding om kapitalauke ved fondsemisjon eller avgjerd om kapitalnedsetting skal det opplysast om avgjerda er basert på sist godkjend årsrekneskap eller ein mellombalanse. Datoen for fastsettinga av årsrekneskapen eller mellombalansen skal også vere med i meldinga.
+
+Kommandittselskap
+Kommandittselskap som har endra kommandittistar, gir opplysningar om dette.
+Sparebankar
+Sparebankar som har skrive ut omsetjelege grunnfondsbevis, angir grunnfondsbeviskapitalen.
+Norskregistrerte utanlandske føretak (NUF)
+NUF skal gi desse opplysningane om verksemda i heimlandet:
+
+organisasjonsform
+registreringsnummer og namnet til registeret, dersom eininga er registrert i eit offentleg føretaksregister
+ansvarlege deltakarar/styre. Gi opp namn, adresse og fødselsdato.
+signaturføresegner. Gi opp namn, adresse og fødselsdato.
+om eininga er heileigd av norske personar, eller norsk føretak
+
+Du skal også gi opplysning om eininga berre driv verksemd i Noreg.
+Offentleg sektor
+Gi opp namn og organisasjonsnummer til overordna eining.
+For alle organisasjonsformer
+
+Eigenavgang etter føretaksregisterlova § 4–6. Opplys kva rolle(r) du melder avgang frå. Melding om eigenavgang frå rolle som ansvarleg deltakar er det knytt gebyr til. Sjå rettleiinga til felt 2.2
+Særskild sletting frå Føretaksregisteret. Sjå rettleiinga til felt 2.4.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                27. Varslingsadresser                            
+
+
+
+Varslingsadresse er ei pliktig opplysning.
+Varslingsadresse skal berre leggast inn på nye einingar.
+Varslingsadressene vil bli brukt av det offentlege for å varsle eininga når viktige meldingar er tilgjengelege i Altinn. Opplysningane er berre tilgjengelege for offentlege myndigheiter.
+Skal du endre desse opplysningane seinare, gjer du det under profilen til eininga  i Altinn.
+Eininga må ha minst ei varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                28. Underskrifter                            
+
+
+
+Meldinga må vere underskriven for at ho skal bli godkjend.
+Dei som skriv under meldinga, stadfestar at opplysningane som er gitt er rette, og at dei er kjende med at det er straffbart å gi urette opplysningar, sjå straffelova § 189.
+Kven som skal skrive under meldinga, avheng av kvar eininga skal registrerast:
+Dersom meldinga berre gjeld Einingsregisteret, skal ho enten underskrivast av dagleg leiar, forretningsførar eller kontaktperson. For enkeltpersonføretak skal innehavar skrive under.
+Ved registrering i Stiftelsesregisteret skal meldinga underskrivast av den/ dei som har rett til å signere, eller av alle styremedlemene.
+Registrering i Føretaksregisteret
+Melding til Føretaksregisteret skal underskrivast av den som har signaturrett eller alle meldepliktige. For enkeltpersonføretak er innehavaren den meldepliktige. I ansvarleg selskap og kommandittselskap er kvar enkelt ansvarleg deltakar den meldepliktige, med mindre selskapet er organisert med styre. I så fall er det kvart enkelt styremedlem som har meldeplikt. I alle andre føretak påligg meldeplikta kvart enkelt styremedlem.
+Nyvalde styremedlemer som ikkje har underskrive meldinga, må vedleggje viljeserklæring som stadfestar at dei har påteke seg verva.
+Ved nyregistrering og endring av deltakarar i ansvarleg selskap, må deltakarar som ikkje har underskrive meldinga, vedleggje samtykkjeerklæring til registrering i Føretaksregisteret.
+For norskregistrert utanlandsk føretak skal meldinga underskrivast av den som har signaturrett eller av meldepliktige. Meldepliktige er styret for den norske verksemda. Dersom slikt styre ikkje finst, er det dagleg leiar i den norske verksemda.
+Ver merksam på at vi krev original underskrift i alle tilfella. Vi kan ikkje godta ein kopi, eller at skjemaet er signert digitalt.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Vedleggsrettleiar
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

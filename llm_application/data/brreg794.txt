@@ -1,0 +1,326 @@
+
+
+
+
+Samordnet registermelding
+
+Sist oppdatert: 8. november 2022.
+
+
+
+
+
+Samordnet registermelding bruker du når du skal sende inn meldinger til Enhetsregisteret, Foretaksregisteret og Frivillighetsregisteret.
+
+
+
+
+
+
+
+Registrer eller endre opplysninger
+Samordnet registermelding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registrer eller endre opplysninger
+Samordnet registermelding
+
+
+
+
+
+
+
+
+Hvis du for eksempel skal registrere et nytt aksjeselskap, en forening eller et enkeltpersonforetak, er det denne tjenesten du skal bruke. Det samme gjelder når du skal melde endringer av adresse, styremedlemmer, navn eller telefonnummer for en virksomhet som allerede er registrert.
+Tjenesten er helelektronisk. Det betyr at vedlegg som skal følge meldingen må lastes opp elektronisk, og at alle som skal signere må gjøre det i Altinn.
+Det er mange fordeler ved å bruke Samordnet registermelding
+
+Det er nok at én person signerer elektroniske meldinger.
+Vedtaket er tilgjengelig i Altinn to timer etter at meldingen er ferdig behandlet.
+Enkle endringer blir registrert maskinelt etter hvert som vi mottar dem.
+For de fleste meldinger i Foretaksregisteret er det lavere gebyr.
+
+Ofte stilte spørsmål
+ 
+
+
+
+
+
+
+
+ 
+                                Hvordan legger jeg inn personer i roller (daglig leder, styre osv.)?                            
+
+
+
+Skriv inn fødselsnummer (11 siffer) og etternavn. Velg deretter rolle og trykk på «Legg til».
+Det er viktig at du skriver etternavnet nøyaktig slik det er registrert i Folkeregisteret. For personer med flere etternavn (for eksempel Berg Hansen), er det bare det siste som skal legges inn. Hvis etternavnet er sammensatt med bindestrek (for eksempel Berg-Hansen), må du legge inn begge navnene.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hva slags filer (vedlegg) kan jeg laste opp?                            
+
+
+
+Løsningen håndterer de aller fleste og mest brukte formatene for tekstbehandling, regneark og grafikk.
+Det er viktig å merke seg at størrelsen på filene du laster opp, ikke må være større enn 10 MB. Har du flere filer eller vedlegg, må den totale størrelsen for hele meldingen ikke overstige 20 MB.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan signerer jeg melding og vedlegg?                            
+
+
+
+Samordnet registermelding er en elektronisk tjeneste der utfylling, opplasting av filvedlegg og signering gjøres i Altinn. Du kan bare bruke løsningen hvis alle vedlegg kan lastes opp som filer, og at de som skal signere meldingen kan gjøre det i Altinn. Hvem som skal signere meldingen avhenger av organisasjonsform og hva meldingen gjelder.
+Hvem skal signere?
+Meldingen skal alltid signeres av minst én person. Den som signerer skal være en av de meldepliktige, som kan være
+
+daglig leder
+medlem av styret
+innehaver
+forretningsfører
+signaturberettiget
+kontaktperson
+norsk representant
+
+Meldingen kan også signeres av en person som har fått tildelt retten til å signere på vegne av virksomheten.
+Det er kun når et varamedlem fungerer for et styremedlem at hen kan signere i meldingen.
+Skal du endre styret i en virksomhet som er registrert i Foretaksregisteret, må alle styremedlemmene signere meldingen. Dette gjelder også for styreendringer i stiftelser som er registrerte i Enhetsregisteret.
+Personer
+Når den som skal signere er en person, blir signeringsoppgaven for Samordnet registermelding sendt til personen sin innboks i Altinn.
+Virksomheter
+Når den som skal signere er en virksomhet, for eksempel en regnskapsfører eller en revisor, blir signeringsoppgaven for Samordnet registermelding sendt til virksomhetens innboks i Altinn.
+Signeringen kan da gjøres av personer som har rollen «Tilgangsstyring» i Altinn. Denne rollen blir automatisk gitt til personer som er registrert i Enhetsregisteret med rollen
+
+daglig leder
+styrets leder
+innehaver
+bobestyrer
+
+Har du én av disse rollene, kan du delegere rettigheten «Signerer av Samordnet registermelding» til andre personer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan ettersender jeg vedlegg?                            
+
+
+
+Det kan være tilfeller der du får krav om å ettersende mer dokumentasjon når meldingen er under saksbehandling
+Du får da en melding i innboksen i Altinn med informasjon om hva som mangler. I denne meldingen ligger det en lenke til den opprinnelige innsendelsen slik at du kan laste opp og ettersende nye vedlegg.
+Når du har trykket på lenken «Send inn mer dokumentasjon» kommer du til statussiden for meldingen. Trykk på knappen «Last opp vedlegg», og siden for opplasting av nye vedlegg åpnes. Etter at du har lastet opp nye vedlegg trykker du på knappen «Gå videre til innsending».
+Hvis nye vedlegg ikke skal signeres elektronisk, kommer du direkte til siden for å sende inn det nye vedlegget. Her trykker du på knappen «Send inn». Har du lastet opp vedlegg som skal signeres, sender du nye vedlegg til signering. Vedleggene vil bli sendt Brønnøysundregistrene når de er signert i Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan sjekker jeg status på meldingen?                            
+
+
+
+Det er bare den som har fylt ut meldingen som kan sjekke status på meldingen
+Logg inn i Altinn. Du finner meldinger som er mottatt i forbindelse med innsending og behandling av Samordnet registermelding i innboksen i Altinn. Etter at meldingen er sendt til signering, vil skjemalenken føre deg til en side som viser status for signering og behandling av meldingen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan gi retten til å signere elektroniske meldinger til andre personer?                            
+
+
+
+Retten til å signere kan tildeles av daglig leder, styrets leder eller innehaver
+Fra siden «Hva vil du gjøre?» kan du gi retten til å signere elektroniske meldinger til andre personer som for eksempel ansatte, regnskapsfører, revisor. Når en person har fått tildelt denne retten, vil vedkommende kunne signere elektroniske meldinger på vegne av den virksomheten der rettigheten er gitt.
+Hvis virksomheten ikke har styreleder eller daglig leder, kan kontaktperson, forretningsfører eller norsk representant tildele retten til å signere.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvem kan/kan ikke bruke denne tjenesten?                            
+
+
+
+Opplysninger som ikke kan meldes elektronisk
+Følgende opplysninger kan ikke meldes i den elektroniske løsningen:
+
+Opplysninger om konsern eller foretaksgrupper
+Sammenslåing og deling av stiftelser
+Sletting av enkeltpersonforetak der innehaver er død
+
+Skal du melde slike opplysninger, må du bruke papirskjema.
+Følgende organisasjonsformer kan ikke meldes i den elektroniske løsningen:
+
+Europeisk selskap
+Europeisk økonomisk foretaksgruppe
+Fylkeskommunalt foretak
+Gjensidig forsikringsselskap
+Interkommunalt selskap
+Kommunalt foretak
+Pensjonskasse
+Sparebank
+Statsforetak
+Annet foretak ifølge særskilt lov som helseforetak og studentsamskipnad
+
+Følgende organisasjonsformer kan melde endring og sletting i den elektroniske løsningen:
+
+Norskregistrert utenlandsk foretak NUF
+Selskap med begrenset ansvar
+Konkursbo, sletting kan kun meldes på konkursbo opprettet før 1.3.2008
+
+
+
+
+
+Du kan også sende opplysninger til andre offentlige etater
+Gjennom tjenesten Samordnet registermelding kan du også sende inn opplysninger til NAV Registerforvaltning, Virksomhets- og foretaksregisteret hos SSB, Stiftelsesregisteret og Skattedirektoratets register over upersonlige skattytere.
+Ny løsning for registrering i Merverdiavgiftsregisteret
+Når du skal søke om registering i Merverdiavgiftsregisteret, må du bruke Skatteetatens nye løsning for registrering.
+ 
+
+
+
+
+Nyttige lenker
+
+Bekreftelse av mottatt aksjeinnskudd
+
+
+
+
+Faktura direkte i innboksen i Altinn
+
+
+
+
+Maskinell saksbehandling
+
+
+
+
+Registrering i Merverdiavgiftsregisteret
+
+
+
+
+
+Registrering i Stiftelsesregisteret
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

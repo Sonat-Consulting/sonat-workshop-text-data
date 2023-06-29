@@ -1,0 +1,180 @@
+
+
+
+
+Datakilder i etatenes arbeidsområder
+
+Sist oppdatert: 16. desember 2022.
+
+
+
+
+
+ 
+
+
+Ved å trykke på «Datakilder» i etatens arbeidsområde har du mulighet til å registrere nye datakilder, slette datakilder eller endre opplysninger på datakildene som etaten eier.
+ 
+ 
+ 
+ 
+
+
+Vær oppmerksom på at en kilder må være registrert i «Datakilder» før den kan benyttes i et skjema.
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+                                Ny datakilde                            
+
+
+
+Klikk på «Ny datakilde» i vindu for etatens datakilder for å legge til ny datakilde. Klikk på «Legg til» for å lagre datakilden.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Endre datakilde                            
+
+
+
+For å endre en datakilde klikker du på «pennen» til høyre i skjemaet.
+
+Endre på datakilden og trykk «Legg til» for å lagre.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Slette datakilde                            
+
+
+
+For å slette en datakilde klikker du på «søppelboksen» til høyre i skjemaet. Vær oppmerksom på at datakilden vil bli slettet umiddelbart. Det kommer ikke opp bekreftelsesmelding.
+
+Dersom datakilden er i bruk i et eller flere skjema er det ikke mulig å slette datakilden.
+
+
+
+
+
+
+
+
+
+
+
+
+Kontaktpersoner i etatens arbeidsområde
+Legge inn/endre informasjon
+
+
+
+
+
+
+
+
+
+
+Skjemaer i etatens arbeidsområde
+Oversikt skjema
+
+
+
+
+
+
+
+
+
+
+Skjemaredigering
+Registrere/endre opplysninger
+
+
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

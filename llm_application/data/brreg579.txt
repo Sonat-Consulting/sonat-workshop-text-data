@@ -1,0 +1,950 @@
+
+
+
+
+Veiledning til Samordnet registermelding (papirskjema)
+
+Sist oppdatert: 19. april 2022.
+
+
+
+
+
+Veiledning til fellesskjema for registrering i
+
+Enhetsregisteret
+Foretaksregisteret
+NAV Aa-registeret
+Stiftelsesregisteret
+Skattedirektoratets register over upersonlige skattytere
+
+
+Underskriftskrav
+Samordnet registermelding skal underskrives. Vi krever original underskrift. Vi kan ikke godta en kopi, eller at skjemaet er signert digitalt. Hvis du ikke følger underskriftskravene, blir ikke meldingen registrert.
+ 
+
+
+
+
+
+Samordnet registermelding i Altinn
+Enklere og raskere registrering på nett
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Samordnet registermelding i Altinn
+Enklere og raskere registrering på nett
+
+
+
+
+
+
+
+
+
+Slik fyller du ut skjemaet
+ 
+
+
+
+
+
+
+
+ 
+                                1. Navn/foretaksnavn                            
+
+
+
+1.1 Virksomhetens fullstendige navn/foretaksnavn
+Feltet skal alltid fylles ut.
+Oppgi virksomhetens fullstendige navn/foretaksnavn og organisasjonsnummer. Gjelder det nyregistrering, tildeler Enhetsregisteret organisasjonsnummer.
+Også når du melder om endring av registrert navn/foretaksnavn, skal virksomhetens registrerte navn/foretaksnavn før endring oppgis her. Nytt navn/foretaksnavn oppgis i felt 1.2.
+Vær oppmerksom på at det er navnet/ foretaksnavnet som oppgis i dette feltet (eventuelt i felt 1.2 ved endring), som blir stående på firmaattesten fra Foretaksregisteret hvis virksomheten skal registreres der.
+Enkeltpersonforetak: Navnet/foretaksnavnet på enkeltpersonforetak skal minst inneholde innehaverens etternavn, for eksempel Lars Holm eller Holms Bilskadeservice.
+Norskregistrert utenlandsk foretak oppgir navn/foretaksnavn i hjemlandet. Navn/foretaksnavn for virksomheten i Norge oppgir du i felt 24.
+Valg av foretaksnavn
+For næringsdrivende virksomheter og andre virksomheter som skal registreres i Foretaksregisteret er det svært viktig å være påpasselig med valg av navn/foretaksnavn. Reglene om dette finnes i foretaksnavneloven av 21. juni 1985. Du kan lese mer om valg av navn/foretaksnavn under Starte og drive bedrift på altinn.no.
+NB! Enhetsregisteret kontrollerer ikke at foretaksnavnelovens regler er fulgt. Virksomheten har selv ansvaret for dette. Ved registrering i Foretaksregisteret blir det kontrollert at foretaksnavnet tilfredsstiller foretaksnavnelovens krav.
+1.2 Eventuelt nytt navn/foretaksnavn
+Er virksomheten registrert i Foretaksregisteret, er endring av navn/foretaksnavn gebyrbelagt.
+Feltet skal bare fylles ut hvis virksomheten melder inn endring av registrert navn/foretaksnavn. Husk at navnet/foretaksnavnet før endring skal oppgis i felt 1.1 sammen med tidligere tildelt organisasjonsnummer.
+1.3 Eget navn på underenheten
+Feltet skal bare fylles ut hvis virksomheten driver aktivitet under et annet navn enn hovedenhetens navn/foretaksnavn. Hvis for eksempel det fullstendige navnet/foretaksnavnet er Lars Holms Pølsebu, og du bare bruker Grillbua i markedsføring, korrespondanse og lignende, er det bare sistnevnte navn som skal fylles inn her.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2. Meldingen gjelder                            
+
+
+
+En melding kan gjelde ett av følgende forhold:
+2.1 Registrering av virksomhet som ikke er registrert fra før
+2.2 Endring av registrerte opplysninger eller nye opplysninger
+2.3 Beslutning om oppløsning av virksomhet
+2.4 Sletting av virksomhet
+Hvis meldingen gjelder opplysninger om underenheten, må felt 9 og 10 fylles ut. Det skal sendes inn melding til Enhetsregisteret i forbindelse med overdragelse/overtakelse og nedleggelse/ opphør av underenhet.
+2.1 Virksomhet som ikke er registrert tidligere
+Her skal du bare krysse av hvis virksomheten ikke er registrert i Enhetsregisteret tidligere.
+Registrerer du en ny virksomhet i forbindelse med at du overtar en eksisterende virksomhet, krysser du i tillegg av for overtakelse av underenhet i felt 9a. Felt 10a skal fylles ut med opplysninger om underenhetens tidligere eier. Registreres en ny virksomhet i forbindelse med start av ny aktivitet, skal datoen for start av aktivitet oppgis i blankettens felt 9a.
+Merk: Det oppstår ingen ny virksomhet hvis det bare har vært eierskifte av aksjer/andeler i et aksjeselskap eller et ansvarlig selskap eller lignende. I slike tilfeller skal du ikke sende melding om ny virksomhet, men melde eventuell endring i de opplysningene som er registrert om virksomheten. Et ansvarlig selskap skal i slike tilfeller sende melding om endring av deltakere.
+2.2 Endringer/nye opplysninger
+Hvis virksomheten er registrert i Enhetsregisteret fra før, skal det i de fleste tilfeller krysses av i felt 2.2, «Endringer/nye opplysninger». Dette gjelder selv om virksomheten gjennom meldingen søker registrering i ett av Enhetsregisterets tilknyttede registre som den ikke er registrert i tidligere. Hvis for eksempel et enkeltpersonforetak allerede er registrert i Enhetsregisteret og så sender inn melding om registrering i Foretaksregisteret, skal det krysses av for «Endringer/nye opplysninger».
+Gjelder endringen/den nye opplysningen vedtak om å oppløse eller slette virksomheten, skal det krysses av i egne rubrikker.
+Oppgi alltid virksomhetens organisasjonsnummer og registrerte navn/foretaksnavn i felt 1.1.
+Fyll for øvrig bare ut de felt endringen gjelder.
+Innebærer endringen at en registrert opplysning skal slettes uten at den erstattes med en ny opplysning, skriver du «utgår» i det aktuelle feltet.
+For virksomheter registrert i Foretaksregisteret er det gebyr på visse endringer med hjemmel i forskrift om gebyr for tjenester fra Brønnøysundregistrene, § 6.
+Dette gjelder følgende endringer:
+
+Beslutning om kapitalnedsettelse
+Beslutning om fusjon
+Beslutning om fisjon
+Endring av foretaksnavn, medregnet endring av foretaksnavn som følge av omdanning:
+– fra ansvarlig selskap (ANS) til ansvarlig selskap med delt ansvar (DA), og omvendt
+– fra aksjeselskap (AS) til allmennaksjeselskap (ASA), og omvendt
+– fra samvirkeforetak (SA) til aksjeselskap (AS) eller (ASA)
+Endring av deltaker, medregnet fratreden som deltaker i ansvarlig selskap (ANS), ansvarlig selskap med delt ansvar (DA), interkommunalt selskap (IKS) og partrederi
+Endring av ansvarsandelene i ansvarlig selskap med delt ansvar (DA), interkommunalt selskap (IKS) og partrederi med delt ansvar (DA)
+Endring av komplementar i kommandittselskap
+
+2.3 Beslutning om oppløsning av virksomhet
+For de fleste organisasjonsformer som er registrert i Foretaksregisteret, skal dette feltet brukes når du skal avvikle virksomheten. For blant annet aksjeselskap, allmennaksjeselskap, kommandittselskap, ansvarlig selskap, samvirkeforetak og interkommunalt selskap skjer oppløsning og avvikling i to trinn. En virksomhet som er meldt oppløst, kan ikke slettes før kreditorfristen er utløpt og avviklingsregnskapet er godkjent av kompetent organ.
+Avkrysningsrubrikken skal også brukes ved beslutning om oppløsning for fusjon og fisjon.
+De fleste andre organisasjonsformer slettes uten forutgående varsel. Dette gjelder enkeltpersonforetak, foretak med begrenset ansvar, partrederier, kommunale foretak, fylkeskommunale foretak, foreninger og andre innretninger. Se veiledningen til felt 2.4.
+2.4 Sletting av virksomhet
+Feltet brukes hvis virksomheten skal slettes fra alle registre (Enhetsregisteret og de tilknyttede registrene). Vær oppmerksom på at når du ønsker å slette en virksomhet og samtidig registrere en ny, skal det fylles ut to blanketter.
+Husk å oppgi i felt 9b hva som skjer med virksomhetens underenhet.
+Sletting bare fra tilknyttede registre:
+Det er fullt mulig å slette virksomheten fra ett av Enhetsregisterets tilknyttede registre, uten å slette virksomheten fra og/eller øvrige tilknyttede registre.
+Sletting i Foretaksregisteret
+De fleste organisasjonsformer slettes fordi de har opphørt å eksistere. Følgelig skal de slettes fra alle registre. For foretak med begrenset ansvar, stiftelser, foreninger og andre innretninger gjelder imidlertid at de skal slettes fra Foretaksregisteret når næringsaktiviteten er nedlagt for godt.
+Enkeltpersonforetak, som har registreringsrett, men ikke registreringsplikt i Foretaksregisteret, kan også slettes fra Foretaksregisteret uten at de har opphørt å eksistere. Hvis virksomheten i slike tilfeller fremdeles ønsker å stå eller skal stå registrert i Enhetsregisteret, må melding om særskilt sletting fra Foretaksregisteret oppgis i felt 26. Det skal i så fall ikke krysses av for sletting i blankettens felt 2.4.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3. Registrering i andre registre                            
+
+
+
+Her oppgir du hvilket tilknyttet register virksomheten skal registreres i. Felt 3 skal fylles ut når virksomheten skal registreres i et tilknyttet register den ikke er registrert i fra før. Felt 3.1 og 3.2 gjelder registrering av opplysninger i NAV Aa-register.
+Stiftelser:
+Blanketten inneholder ikke noe eget avkrysningsfelt for registrering i Stiftelsesregisteret. Det blir automatisk meldt fra til Lotteri- og stiftelsestilsynet om alle stiftelser som melder registrering til Enhetsregisteret. Registrering i Stiftelsesregisteret er gebyrbelagt. Satsene er fastsatt i forskrift av 21.12.2004, om stiftelsesloven. Næringsdrivende gebyrlegges ikke av Stiftelsesregisteret, men av Foretaksregisteret ved nyregistrering.
+3.1 Foretaksregisteret
+Hva er Foretaksregisteret?
+Foretaksregisteret er i hovedsak et register for næringsdrivende virksomheter i Norge.
+Registrering i Foretaksregisteret er gebyrbelagt. Satsene er fastsatt i forskrift av 16.12.2003 nr. 1551, om gebyr for tjenester fra Brønnøysundregistrene.
+Hvilke virksomheter skal registreres i Foretaksregisteret? Noen av organisasjonsformene har etter loven registreringsrett eller registreringsplikt i Foretaksregisteret.
+Enkeltpersonforetak plikter å registrere seg i Foretaksregisteret hvis de sysselsetter mer enn fem fast ansatte i hovedstilling eller driver handel med varer som er innkjøpt for videre salg. Med hovedstilling menes stilling hvor det arbeides mer enn 20 timer i uken. Enkeltpersonforetak som ikke plikter å registrere seg i Foretaksregisteret, har likevel rett til å registrere seg der.
+Eierseksjonssameier som er seksjonert etter begjæring fremsatt etter 01.01.1998, plikter å registrere seg i Foretaksregisteret hvis de har ni eller flere seksjoner. Eierseksjonssameier med åtte eller færre seksjoner har registreringsrett i Foretaksregisteret. Eierseksjonssameier, som er seksjonert etter begjæring fremsatt før 01.01.1998, er ikke registreringspliktige i Foretaksregisteret, men har rett til å registrere seg der.
+Aksjeselskap, allmennaksjeselskap, samvirkeforetak, kommandittselskap, ansvarlige selskap og lignende skal alltid registrere seg i Foretaksregisteret.
+Andre organisasjonsformer, som foretak med begrenset ansvar, stiftelser og foreninger, skal bare registreres i Foretaksregisteret dersom de driver næringsaktivitet. Med næringsaktivitet menes aktivitet som er av en viss varighet og av et visst omfang, og som er opprettet med tanke på å gi eller som faktisk gir økonomisk avkastning.
+Utenlandske virksomheter skal registreres i Foretaksregisteret hvis de driver næringsaktivitet her i landet eller på norsk kontinentalsokkel.
+Se for øvrig oversikten i blankettens felt 8, eller «Starte og drive bedrift» på altinn.no.
+Husk å legge ved nødvendige vedlegg, se oversikten «Nødvendige vedlegg ved nyregistrering og endring i Foretaksregisteret». Hvis vedlegg mangler, vil virksomheten ikke bli registrert.
+3.2 Arbeidstakere/andre som mottar vederlag
+Arbeidstakere. Som arbeidstaker regnes enhver som er ansatt i annens tjeneste for lønn eller annen godtgjørelse. Her skal det krysses ja hvis virksomheten forventer å få egne ansatte eller kommer til engasjere andre som skal motta lønn eller honorar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4. Hovedkontorets adresse (forretningsadresse/besøksadresse)                            
+
+
+
+Næringsdrivende virksomheter
+Oppgi forretningsadresse. Med dette mener vi hovedkontorets gateadresse eller stedsadresse på mindre steder.
+Norskregistrert utenlandsk foretak
+Oppgi forretningsadressen i hjemlandet.
+Andre virksomheter
+Oppgi virksomhetens besøksadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5. Postadresse                            
+
+
+
+Virksomheter som har en særskilt postadresse, for eksempel postboks, oppgir denne i tillegg til hovedkontorets forretningsadresse/besøksadresse
+
+
+
+
+
+
+
+
+
+
+ 
+                                6. Underenhetens beliggenhetsadresse                            
+
+
+
+Hvis virksomhetens aktivitet foregår på en annen adresse enn hovedkontorets, oppgis denne adressen her. Hvis aktiviteten ikke foregår i bestemte lokaler eller på faste plasser, men er ambulerende (for eksempel bygg- og anleggsvirksomhet eller transportvirksomhet), oppgi adressen på det stedet hvor aktiviteten administreres, eventuelt fast frammøtested.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7. Innsender/gebyransvarlig                            
+
+
+
+Innsenderen vil bli brukt som adressat for alle typer tilbakemeldinger om meldingen – det vil si at bekreftelser og andre brev, registerutskrift og lignende blir sendt til den som er oppgitt som innsender. Innsenderen er også ansvarlig for å betale gebyr til Foretaksregisteret.
+Hvis innsenderfeltet ikke er utfylt, blir tilbakemeldinger, krav om gebyr og lignende sendt til virksomheten. Hvis innsenderen tidligere har fått tildelt kundenummer av Brønnøysundregistrene, oppgis dette nummeret.
+Saksreferanse/attention for innsender
+Her kan innsenderen oppgi egen referanse for saken hvis det er ønskelig.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8. Organisasjonsform                            
+
+
+
+Feltet skal fylles ut bare ved melding om ny virksomhet. Kryss av for den organisasjonsformen som skal registreres. Virksomheten kan bare sette kryss for ett av alternativene. En virksomhet kan som hovedregel ikke endre organisasjonsform uten å gå veien om sletting og nystiftelse.
+Hvilke organisasjonsformer som har plikt eller rett til registrering i Foretaksregisteret, framgår av henvisningene i feltet og veiledningen til felt 3.1.
+Europeiske foretak/selskap
+Europeiske organisasjonsformer som er felles for alle land innenfor EU- og EØS-området. Dette omfatter europeisk selskap (SE), samvirkeforetak (SCE) og økonomisk foretaksgruppe (EØFG). Det må spesifiseres i felt 26 hvilken av disse organisasjonsformene registreringen gjelder. For mer informasjon om vedleggskrav eller lignende, ta kontakt med Foretaksregisteret eller finn mer informasjon her på brreg.no.
+Annen juridisk person
+Denne organisasjonsformen benyttes for en sterkt begrenset gruppe virksomheter, og kun når ingen av de øvrige organisasjonsformene er aktuelle. Eksempler på virksomheter i denne kategorien er ambassade, reinbeitedistrikt og fjellstyre.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9a. Stiftelse av virksomhet. Nyregistrering eller overtakelse av underenhet                            
+
+
+
+Dato for stiftelse
+Oppgi dato da virksomheten ble stiftet.
+For eldre virksomheter som ikke har nøyaktige opplysninger om dato for stiftelse, er det tilstrekkelig å oppgi stiftelsesår. Du må også oppgi stiftelsesdato for norskregistrert utenlandsk foretak.
+Enkeltpersonforetak skal ikke oppgi stiftelsesdato.
+Nyregistrering av underenhet
+Ved nyregistrering av underenhet, må du oppgi dato for når aktiviteten startet eller skal starte.
+Overtakelse av underenhet
+Gjelder meldingen overtakelse av en underenhet, for eksempel når et aksjeselskap overtar en skobutikk eller frisørsalong fra et annet aksjeselskap, skal du oppgi dato for overtakelsen her. Tidligere eier oppgir du i felt 10a.
+Overtakelse/overdragelse
+For at en underenhet skal regnes som overtatt/overdratt, skal samme aktivitet fortsette, men med en annen virksomhet som eier. Disse vilkårene må være oppfylt: De aktiva som inngår som nødvendige bestanddeler i aktiviteten, slik som råvarer, produksjonsutstyr, varelager, kontrakter og annet, må i sin helhet eller for det vesentligste overdras under ett. Hvis de aktiva som inngår i aktiviteten, selges særskilt, slik at aktiviteten ikke kan fortsette, meldes nedleggelse av aktiviteten.
+Aksjesalg eller endring av deltakere i ANS/DA regnes ikke som overtakelse eller overdragelse av underenhet.
+Det skal meldes om overtakelse/overdragelse av underenhet når aktiviteten drives videre under en ny hovedenhet, selv om eier/eierne er den/de samme. For eksempel ved overgang fra enkeltpersonforetak til aksjeselskap.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9b. Overdragelse eller sletting av underenhet                            
+
+
+
+
+Overdragelse av underenhet
+Gjelder meldingen overdragelse av en underenhet, for eksempel ved at et aksjeselskap overdrar en skobutikk eller frisørsalong til et annet aksjeselskap, skal dato for overdragelsen oppgis her.
+Se ellers veiledning til 9a om overtakelse/overdragelse av underenhet.
+Sletting av underenhet
+En underenhet blir slettet hvis produksjonen av varer og/eller tjenester av en eller annen grunn opphører fullstendig. Underenheten opphører også hvis:
+
+en ny eier starter en helt ny aktivitet i de samme lokalene.
+en ny eier flytter hele den tidligere aktiviteten til en ny adresse i en annen kommune.
+aktiviteten blir flyttet til en annen kommune og det startes en helt ny aktiviteten med samme eier
+
+Hvis aktiviteten er lagt ned, kryss av for det og oppgi dato for nedleggingen. Vær oppmerksom på at melding om nedleggelse av aktivitet ikke betyr at hovedenheten blir slettet. Ønsker du å slette hovedenheten, må det krysses av for «Sletting av virksomhet» i felt 2.4.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10a. Overtakelse av underenhet fra                            
+
+
+
+Gi opplysninger om den tidligere eieren hvis virksomheten har overtatt en underenhet. Oppgi tidligere eiers organisasjonsnummer hvis det finnes.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10b. Overdragelse av underenhet til                            
+
+
+
+Gi opplysninger om den nye eieren hvis virksomheten har overdratt en underenhet til en annen virksomhet. Oppgi ny eiers organisasjonsnummer hvis det finnes.
+Husk at det bør ryddes i innboksen til underenheten i Altinn før overdragelse. Sensitiv informasjon, som sykemeldinger med mer, bør lagres i eget sak-/arkivsystem før overdragelsen blir registrert. Slik unngår du at overtaker får tilgang til sensitiv informasjon som ligger i innboksen til underenheten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11. Aktivitet/bransje                            
+
+
+
+11.1 Opplysninger om aktivitet
+Opplysningene om virksomhetens aktivitet er grunnlaget for å tildele virksomheten næringskode. Næringskoden tildeles etter Standard for næringsgruppering (SN2007). Næringskoden blir blant annet brukt til å lage statistikk der norsk næringsliv/arbeidsmarked blir beskrevet etter næring/bransje.
+Gi en så nøyaktig beskrivelse som mulig av den aktiviteten som utføres eller skal utføres. Vær oppmerksom på at det ikke er nok å oppgi et generelt overordnet formål. Oppgi derfor hva som eventuelt produseres/selges og/eller hvilke tjenester/aktiviteter som utføres. Pass spesielt på å få klart fram hvilken bransje aktiviteten tilhører.
+Her er noen eksempler på hvor detaljert beskrivelsen må være:
+
+Jordbruk: Dyrking av korn. Melkeproduksjon på storfe.
+Transport: Godstransport på vei. Drosjebiltransport.
+Industri: Produksjon av husholdnings-, sanitær- og toalettartikler av papir. Produksjon av byggevarer av plast.
+Handel: Agenturhandel med tømmer, trelast og byggevarer. Engroshandel med elektriske husholdningsapparater. Butikkhandel med kjøtt og kjøttvarer.
+Bygg og anlegg: Grunnarbeid. Oppføring av bygninger. VVS-arbeid.
+Konsulentvirksomhet: Bedriftsrådgivning. Konsulenttjenester innen programutvikling av kundespesifiserte programmer.
+
+Hvis virksomheten driver aktivitet i flere bransjer, må du oppgi hver enkelt av dem i rekkefølge etter størrelsen på omsetning eller sysselsetting. 
+Virksomheter som ikke driver næringsaktivitet, oppgir den aktiviteten som utøves. Eksempler på dette er musikkorps eller idrettslag.
+Norskregistrert utenlandsk foretak oppgir den (nærings)-aktivitet som utøves i Norge, eventuelt hva som er grunnlaget for registreringen.
+Ved endring oppgir du den nye aktiviteten og dato for da denne trådte i kraft. Hvis virksomheten har startet med tilleggsaktivitet, oppgir du også aktiviteten som utøves fra før.
+11.2 Bekreftelse på næringsvirksomhet
+Alle enkeltpersonforetak må bekrefte at aktiviteten oppfyller kravene til næringsvirksomhet.
+Et enkeltpersonforetak driver næringsvirksomhet når aktiviteten:
+
+har omsetning som over tid kan gi overskudd
+har en viss varighet, vanligvis lengre enn ett år
+ikke er hobbyvirksomhet eller enkeltstående oppdrag
+
+Les mer om kravene for å drive næringsvirksomhet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12. Daglig leder, innehaver, forretningsfører eller annen kontaktperson                            
+
+
+
+Enkeltpersonforetak
+Enkeltpersonforetak oppgir alltid innehaver. Med innehaver mener vi den personen som har ubegrenset personlig ansvar for enkeltpersonforetakets forpliktelser. Oppgi også daglig leder hvis virksomheten har det.
+Norskregistrert utenlandsk foretak (NUF)
+NUF oppgir daglig leder for virksomheten i Norge hvis slik leder er valgt. Hvis det ikke er valgt daglig leder, oppgir du en annen kontaktperson.
+NUF uten forretningssted i Norge, som driver mva.-pliktig aktivitet, oppgir virksomhetens norske representant. Er den norske representanten en juridisk person, oppgir du i tillegg en kontaktperson. Hvis enheten er organisert som et enkeltpersonforetak i hjemlandet, skal du oppgi innehaver.
+Andre organisasjonsformer
+Andre organisasjonsformer oppgir daglig leder eller forretningsfører. Med daglig leder/forretningsfører mener vi den personen som har den daglige administrative ledelsen av virksomheten, og som har myndighet til å representere virksomheten utad i forhold som faller inn under den daglige ledelsen. Er daglig leder/forretningsfører en juridisk person, skal du i tillegg oppgi en kontaktperson. Hvis virksomheten ikke har daglig leder/forretningsfører, oppgir du en annen kontaktperson.
+Fødselsnummer/d-nummer/organisasjonsnummer
+Enkeltpersoner:
+Pass på å få med fødselsnummer i tillegg til navn og bostedsadresse, se enhetsregisterloven § 7.
+Juridiske personer
+Oppgi organisasjonsnummer og forretningsadresse.
+Utenlandske personer
+Oppgi d-nummer – det vil si et eget nummer som identifiserer utenlandske personer uten norsk fødselsnummer.
+Les mer om tildeling av d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13. Ønsket målform                            
+
+
+
+Skriftlig kommunikasjon til virksomheten vil skje på valgt målform.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14. Vedtekter/selskapsavtale                            
+
+
+
+Oppgi dato da vedtektene/selskapsavtalen ble fastsatt eller endret.
+Feltet gjelder ved registrering i Foretaksregisteret og Stiftelsesregisteret, og må fylles ut av alle organisasjonsformer, unntatt enkeltpersonforetak.
+Vedtektene/selskapsavtalen må vedlegges ved nyregistrering. Ved endringer av vedtektene/selskapsavtalen må du vedlegge et ajourført eksemplar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15. Kapital i aksjeselskap, allmennaksjeselskap, kommandittselskap, stiftelser med flere                            
+
+
+
+I feltets øverste del melder du kapital ved registrering av aksjeselskap, allmennaksjeselskap, kommandittselskap, stiftelser med flere.
+Her melder du også kapitalendringer, for eksempel kapitalforhøyelse, gjennomføring av kapitalnedsettelse og innbetaling av kapital i kommandittselskap. I avkrysningsfeltene skal det anmerkes hva kapitalendringen gjelder. Du skal dessuten krysse av for om kapitaltegningen omfattes av prospektplikten etter verdipapirhandelloven § 7-2. Det gjør den i de tilfeller hvor tegningsinnbydelsen er rettet til 100 personer eller flere og gjelder et beløp på minst 100 000 euro, se verdipapirhandelloven § 7–2. Må prospektet godkjennes etter verdipapirhandelloven §§ 7–7 og 7–8, skal det meldes til Oslo Børs, i andre tilfeller meldes prospektet til Foretaksregisteret, se verdiparpirhandelloven § 7–10. Det forutsettes at prospektet allerede er registrert hos Oslo Børs eller i Foretaksregisteret. Hvis prospektet er registrert på Oslo Børs, må det vedlegges prospekt og annet tegningsmateriale. I tillegg må det legges ved kopi av brev fra Oslo Børs om at prospektet er registrert, eller erklæring fra de meldepliktige om at prospektet er sendt til Oslo Børs.
+Aksjeselskap og allmennaksjeselskap
+Aksjeselskap og allmennaksjeselskap må gi nærmere opplysninger i felt 26, når kapitalforhøyelsen skjer på grunnlag av utstedt styrefullmakt, konvertibelt lån, tegningsrettsaksjer eller frie tegningsretter. Hele aksjeinnskuddet må være innbetalt før registrering i Foretaksregisteret.
+Norskregistrert utenlandsk foretak
+Oppgi aksjekapitalen og hvor mye av den som er innbetalt, hvis virksomheten er et aksjeselskap. Angi kapitalen i landets valuta.
+Sparebanker 
+Sparebanker som har utstedt omsettelige grunnfondsbevis oppgir grunnfondsbeviskapitalen i felt 26.
+Stiftelser
+Grunnkapitalen oppgis i rubrikken for «Kapital i henhold til vedtekter/selskapsavtale».
+
+
+
+
+
+
+
+
+
+
+ 
+                                16. Vedtak om kapitalnedsettelse                            
+
+
+
+Her melder du vedtak om kapitalnedsettelse som grunnlag for eventuelt kreditorvarsel. Avkrysning for hva nedsettelsen skal brukes til, må være i samsvar med protokoll.
+Gjennomføring av kapitalnedsettelse etter at kreditorfristen har løpt ut, skal meldes i felt 15.
+Benytt felt 18 til å melde kapitalnedsettelse i forbindelse med fisjon.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17. Fusjon                            
+
+
+
+Dette feltet skal brukes av aksjeselskaper, allmennaksjeselskaper, samvirkeforetak og andre virksomheter som med hjemmel i lov kan fusjoneres.
+Hvis fusjonen følger særreglene for fusjon mellom morselskap og heleid datterselskap, se aksjeloven § 13–23, allmennaksjeloven § 13–24 og samvirkeloven § 118, eller mellom to aksjeselskap med samme eier, se aksjeloven § 13–24, krysses det av for dette.
+I feltets øverste del skal det krysses av for om meldingen gjelder overdragelse, det vil si oppløsning for fusjon, eller overtakelse av en virksomhet. Ved melding om oppløsning for fusjon skal det også krysses av for beslutning om oppløsning av virksomhet i felt 2.3. Både den overdragende og den overtakende virksomhet må sende inn melding.
+Fusjon over landegrenser:
+Hvis det er fusjon mellom norske og utenlandske virksomheter, kryss av for «Fusjon over landegrenser». Fusjon over landegrenser meldes i fire trinn. For mer informasjon, ta kontakt med Foretaksregisteret.
+Fyll ut feltet med navn/foretaks­navn, organisasjonsnummer og adresse til den virksomheten som inngår i fusjonen. Hvis det ikke er plass, kan felt 26 benyttes.
+Hvis meldingen gjelder fusjonsplan, angir du dette i feltets nederste del.
+Etter at kreditorfristen har utløpt må det inngis melding om gjennomføring av fusjonen for samtlige virksomheter som deltar.
+Samvirkeforetak:
+Hvis et fusjonsvedtak i et samvirkeforetak krever godkjenning av Stiftelsestilsynet, kan virksomhetene ikke melde sine vedtak til Foretaksregisteret før slik godkjenning er gitt. Godkjenning fra Stiftelsestilsynet skal legges ved melding til Foretaksregisteret. For nærmere regler om forholdet til Stiftelsestilsynet, se lov om samvirkeforetak.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18. Fisjon                            
+
+
+
+Dette feltet skal brukes av aksjeselskaper, allmennaksjeselskaper, samvirkeforetak og andre virksomheter som med hjemmel i lov kan fisjoneres.
+I feltets første del skal virksomheten som skal deles, angi om fisjonen innebærer kapitalnedsettelse, oppløsning eller delvis utskillelse av eiendeler, rettigheter og forpliktelser. Kryss av for «Kapitalnedsettelse i forbindelse med fisjon» når den overdragende virksomheten bare skal overdra en del av sine samlede eiendeler, rettigheter og forpliktelser til en eller flere overtakende virksomheter. Hvis den overdragende virksomhet skal overdra sine samlede eiendeler, rettigheter og forpliktelser til to eller flere overtakende virksomheter, krysses det av for «Oppløsning for å fisjonere med». Ved melding om oppløsning for fisjon skal det også krysses av for beslutning om oppløsning av virksomhet i felt 2.3.
+Hvis den overdragende virksomhet er et borettslag eller samvirkeforetak, og kun skal skille ut del(er) av sine samlede eiendeler, rettigheter og forpliktelser til en eller flere overtakende virksomheter, krysses det av for «å skille ut del(er) av virksomheten til».
+Den eller de overtakende virksomheter krysser av for «å overta». Både den overdragende og den/de overtakende virksomhetene må sende inn melding.
+Fisjon over landegrenser:
+Hvis det er fisjon mellom norske og utenlandske virksomheter, kryss av for «Fisjon over landegrenser».
+Fisjon over landegrenser meldes i fire trinn. For mer informasjon, ta kontakt med Foretaksregisteret.
+Fyll ut feltet med navn/foretaksnavn, organisasjonsnummer og adresse til den/de virksomhetene som inngår i fisjonen. Hvis det ikke er plass kan felt 26 benyttes.
+Hvis meldingen gjelder fisjonsplan, angir du dette i feltets nederste del.
+Etter at kreditorfristen har utløpt, må det sendes inn melding om gjennomføring av fisjonen for samtlige virksomheter som deltar.
+Samvirkeforetak:
+Hvis et fisjonsvedtak i et samvirkeforetak krever godkjenning av Stiftelsestilsynet, kan virksomhetene ikke melde sine vedtak til Foretaksregisteret før slik godkjenning er gitt. Godkjenning fra Stiftelsestilsynet skal legges ved melding til Foretaksregisteret. For nærmere regler om forholdet til Stiftelsestilsynet, se lov om samvirkeforetak.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19. Styre, deltakere og annet                            
+
+
+
+Registrering i Enhetsregisteret
+Feltet skal fylles ut hvis virksomheten har styre, deltakere, komplementar eller eierkommune.
+Stiftelser og eierseksjonssameie
+Alle stiftelser må ha et styre. Oppgi hele styret (styrets leder, nestleder, styremedlemmer, varamedlemmer og observatør(er)) med fullt fødselsnummer, navn og adresse.
+Registrering i Foretaksregisteret
+Disse organisasjonsformene må ha styre:
+
+aksjeselskap
+allmennaksjeselskap
+borettslag
+boligbyggelag
+eierseksjonssameier
+europeisk samvirkeforetak
+europeisk selskap
+foreninger/lag/innretninger
+fylkeskommunale foretak
+gjensidige forsikringsselskap
+interkommunale selskap
+kommunale foretak
+pensjonskasser
+samvirkeforetak
+stiftelser
+sparebanker
+statsforetak
+
+Ansvarlig selskap, kommandittselskap og partrederi 
+Oppgi styre hvis virksomheten har det.
+Norskregistrert utenlandsk foretak med forretningssted i Norge
+Oppgi styre, hvis slikt er valgt særskilt for virksomheten i Norge. Styre og/eller ansvarlige deltakere i hjemlandet oppgis i felt 26.
+Kjønnsrepresentasjon i styret
+En del virksomheter har krav til kjønnsrepresentasjon i styret. For nærmere informasjon og bestemmelser om unntak, vises det til særlov for de enkelte organisasjonsformene.
+Virksomheter med organisasjonsformer som har betinget krav til kjønnsrepresentasjon i styret, skal ved hvert styrevalg vurdere om de er underlagt dette kravet. Denne opplysningen skal du alltid melde ved nyregistrering. Hvis kravet til kjønnsrepresentasjon i styret endrer seg, skal du melde denne opplysningen sammen med styreendringen.
+Merk: Organisasjonsformer med ubetinget krav til kjønnsrepresentasjon i styret skal ikke fylle ut denne opplysningen.
+Organisasjonsformer med betinget krav til kjønnsrepresentasjon i styret:
+
+Boligbyggelag (med mer enn 1 000 medlemmer)
+Samvirkeforetak (med mer enn 1 000 medlemmer).
+Unntak: Reglene om kjønnsrepresentasjon gjelder ikke for samvirkeforetak, hvis et av kjønnene utgjør mindre enn fem prosent av det samlede antallet fysiske personer som er medlemmer i foretaket når valget blir avholdt.
+Gjensidige forsikringsselskap (med mer enn 1 000 medlemmer).
+Unntak: Reglene om kjønnsrepresentasjon gjelder ikke for gjensidige forsikringsselskaper, hvis et av kjønnene utgjør mindre enn fem prosent av det samlede antallet fysiske personer som er medlemmer i foretaket når valget blir avholdt.
+Aksjeselskap (hvis det er heleid av staten, er datterselskap til slikt selskap, eller er datterselskap til statsforetak)
+
+Organisasjonsformer med ubetinget krav til kjønnsrepresentasjon i styret:
+
+Allmennaksjeselskap
+Interkommunalt selskap
+Statsforetak
+Helseforetak
+Regionale helseforetak
+Europeisk selskap.
+
+Hvis virksomheten er underlagt krav til kjønnsrepresentasjon må begge kjønn være representert på følgende måte:
+
+Har styret to eller tre medlemmer, skal begge kjønn være representert.
+Har styret fire eller fem medlemmer, skal hvert kjønn være representert med minst to.
+Har styret seks til åtte medlemmer, skal hvert kjønn være representert med minst tre.
+Har styret ni medlemmer, skal hvert kjønn være representert med minst fire, og har styret flere medlemmer, skal hvert kjønn være representert med minst 40 prosent.
+De samme reglene gjelder for varamedlemmer.
+
+Når det skal velges to eller flere styremedlemmer blant de ansatte, skal begge kjønn være representert. Det samme gjelder for varamedlemmer. Dette gjelder likevel ikke hvis et av kjønnene utgjør mindre enn 20 prosent av samlet antall ansatte i foretaket når valget blir avholdt. Hvis styremedlemmer er valgt av de ansatte, skal du anmerke dette i blanketten.
+Oppgi hele styret (leder, nestleder, styremedlemmer, varamedlemmer og observatør(er)) med fullt fødselsnummer, navn og adresse både ved nyregistrering og ved endringer.
+Husk å merke eventuelle ansatterepresentanter med D for «valgt av de ansatte» i rubrikken for spesielle opplysninger. I aksjeselskap og allmennaksjeselskap kan du angi om eiervalgt styre- eller varamedlem representerer en bestemt aksjeklasse (A, B eller C) i rubrikken for spesielle opplysninger.
+Følgende enheter må oppgi deltakere:
+
+ansvarlig selskap
+partrederi
+interkommunalt selskap
+
+Oppgi samtlige deltakere både ved nyregistrering og endring. Bruk eget bilag hvis det ikke er plass til samtlige deltakere i blanketten.
+Kommunale- og fylkeskommunale foretak må gi opp eierkommune.
+Ansvarlig selskap med delt deltakeransvar og interkommunalt selskap oppgir ansvarsandel i prosent eller brøk i feltet for ansvarsandel. Kommandittselskap oppgir komplementar.
+Rolleinnehavere kan være personer eller i enkelte tilfelle juridiske personer. Fyll ut med navn, adresse (postnummer og -sted) og fødsels- eller organisasjonsnummer, se enhetsregisterloven § 7. Utenlandske personer oppgir d-nummer, se veiledningen til felt 12. Fødselsnummer/ d-nummer er bare til internt bruk, og vil ikke bli offentliggjort, se enhetsregisterloven § 22.
+Hvilken dokumentasjon som må vedlegges, følger av oversikten over nødvendige vedlegg ved registrering og endring i henholdsvis Enhetsregisteret og Foretaksregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20. Signatur                            
+
+
+
+Oppgi hvem som er tildelt signatur. Signatur er en fullmakt til å opptre og underskrive på virksomhetens vegne i forretningsforhold. Signaturrett kan tildeles rolleinnehaver(e), navngitte personer eller virksomheter. Hvis ingen av standardalternativene i blanketten passer, kan signaturbestemmelsen oppgis under «Annen signaturbestemmelse».
+Er signatur tildelt navngitte personer, må du oppgi navn, adresse og fødselsnummer til den/de som er tildelt signatur under «Annen signaturbestemmelse». Utenlandske personer oppgir d-nummer, se veiledningen til felt 12. Fødselsnummer/d-nummer er bare til internt bruk, og vil ikke bli offentlig gjort, se enhetsregisterloven § 22.
+Hvis flere har signaturrett, må det gå klart fram om de har retten hver for seg eller i fellesskap. Begrensninger utover dette kan ikke registreres. Pass på at signaturbestemmelsen som meldes, er i samsvar med virksomhetens eventuelle vedtekter/selskapsavtale.
+Norskregistrert utenlandsk foretak
+Hvis personer tilknyttet den norske virksomheten er tildelt signatur, skal dette oppgis. Signatur kan ikke begrenses til bare å gjelde virksomheten i Norge.
+Ved endring må samtlige signaturberettigede etter endringen oppgis.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21. Prokura                            
+
+
+
+Oppgi hvem som er tildelt prokura. Prokura er en fullmakt på samme måte som signatur, men er ikke like omfattende. Prokuristen kan ikke uten uttrykkelig fullmakt overdra eller behefte virksomhetens faste eiendom eller løsøre som kan registreres i skipsregisteret eller luftfartøyregisteret, eller opptre på dens vegne i søksmål.
+Er prokura tildelt navngitte personer, må du oppgi navn, adresse og fødselsnummer til den/de som er tildelt prokura under «Annen prokurabestemmelse». Utenlandske personer oppgir d-nummer, se veiledningen til felt 12. Fødselsnummer/d-nummer er bare til internt bruk, og vil ikke bli offentliggjort, se enhetsregisterloven § 22.
+Hvis flere har prokura må det gå klart fram om de har retten hver for seg eller i fellesskap. Begrensninger utover dette kan ikke registreres.
+Norskregistrert utenlandsk foretak
+Hvis personer tilknyttet den norske virksomheten er tildelt prokura, skal dette oppgis. Prokura kan ikke begrenses til bare å gjelde virksomheten i Norge.
+Ved endring må du oppgi samtlige prokurister etter endringen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22. Revisor                            
+
+
+
+Registrering i Enhetsregisteret
+Feltet må fylles ut hvis virksomheten har revisor.
+Registrering i Foretaksregisteret:
+Som hovedregel må virksomheten ha revisor. Hvis dette ikke er hjemlet i lov eller i forskrift, er det ikke revisorplikt hvis virksomheten har fem eller færre ansvarlige deltakere og/eller årsomsetning under 5 millioner kroner.
+Særlig for aksjeselskaper
+Et aksjeselskap har i utgangspunktet plikt til å ha revisor. Generalforsamlingen kan imidlertid beslutte at selskapets årsregnskaper ikke skal revideres. Følgende vilkår må være oppfylt for at et aksjeselskap kan beslutte at årsregnskapet ikke skal revideres:
+
+Driftsinntektene er lavere enn 5 millioner kroner og at balansesummen er lavere enn 20 millioner kroner. Gjennomsnittlig antall ansatte utgjør 10 eller færre årsverk, jf. aksjeloven § 7-6.
+Selskapet må ikke drive med apotekvirksomhet, advokatvirksomhet eller være godkjent som entreprenør etter lotteriloven, jf. revisorloven § 2-1 fjerde ledd.
+Selskapet må ikke være under tilsyn av Finanstilsynet, jf.revisorloven § 2-1 sjette ledd.
+Selskapet må ikke være pålagt revisjon av skatte- eller avgiftsmyndighetene.
+
+Protokoll fra generalforsamling som viser beslutning om fravalg av revisjon, må legges ved meldingen.
+Generalforsamlingens beslutning om å fravelge revisjon får ikke virkning før den er registeret i Foretaksregisteret.
+Spesielle krav
+Revisor må være godkjent av Finanstilsynet og registrert i Revisorregisteret.
+Følgende selskaper kan ha revisor som ikke er registrert i Revisorregisteret:
+• interkommunale selskap
+• kommunale foretak
+• fylkeskommunale foretak
+Utfylling
+Feltet fylles ut med revisors navn/foretaksnavn, adresse og organisasjonsnummer, se enhetsregisterloven § 7.
+Merk at feltet har plass for revisors underskrift. Hvis revisor skriver under i dette feltet, er det ikke nødvendig å legge ved særskilt villighetserklæring. Hvis det er nødvendig med bekreftelse av innbetalt kapital, må det imidlertid legges ved egen erklæring om dette.
+Særlig for aksjeselskap: Hvis selskapets  årsregnskap ikke skal revideres, må du krysse av for det her. Oppgi i tillegg datoen da generalforsamlingen vedtok fravalg av revisjon.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23. Regnskapsfører                            
+
+
+
+Spesielle krav
+Regnskapsfører må være autorisert av Finanstilsynet og registrert i Regnskapsførerregisteret.
+Utfylling
+Feltet må fylles ut med regnskapsførers navn/foretaksnavn, adresse og organisasjonsnummer. Oppgi fødselsnummer/d-nummer hvis regnskapsfører ikke har registreringsrett i Enhetsregisteret.
+Merk at feltet har plass for regnskapsførers underskrift. Hvis regnskapsfører skriver under i dette feltet, er det ikke nødvendig å legge ved særskilt villighetserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24. Navn og adresse med mer for virksomheten i Norge                            
+
+
+
+Norskregistrert utenlandsk foretak med forretningssted i Norge
+Oppgi navn/foretaksnavn og forretningsadresse på virksomheten i Norge. Virksomheten kan ha særskilt navn/foretaksnavn i Norge eller benytte samme navn/foretaksnavn som i hjemlandet.
+Omsetning som kommer inn under merverdiavgiftslovens bestemmelser
+Har virksomhet omsetning som kommer inn under merverdiavgiftslovens bestemmelser og ikke har fast forretningsadresse/driftssted i Norge må det meldes en norsk representant. Norsk representant meldes i skjemaets felt 12. Dette kravet gjelder ikke for virksomheter hjemmehørende i en EØS-stat som Norge har inngått avtale med om utveksling av opplysninger og gjensidig bistand til innfordring av merverdiavgiftskrav.
+
+
+
+
+
+
+
+
+
+
+ 
+                                25. Konsern/foretaksgruppe                            
+
+
+
+Enhetsregisteret skal inneholde opplysninger om virksomheter som inngår i konsern eller foretaksgruppe, se enhetsregisterloven § 6 første ledd bokstav k. Virksomheter som inngår i konsern eller foretaksgruppe, har plikt til å melde visse opplysninger til Enhetsregisteret, se forskrift av 9. februar 1995 om registrering av juridiske personer med mer i Enhetsregisteret. Kryss av hvis virksomheten inngår i konsern/foretaksgruppe, eller hvis det har skjedd endringer i konsernstrukturen. Virksomheten vil da motta ytterligere informasjon om hvordan dette skal meldes.
+
+
+
+
+
+
+
+
+
+
+ 
+                                26. Andre merknader                            
+
+
+
+Her meldes opplysninger som ikke kan meldes i de andre feltene i skjemaet. Legg ved eget ark hvis det blir for liten plass. Eksempel på opplysninger som skal meldes her er:
+Aksjeselskap og allmennaksjeselskap
+
+styrefullmakt til å forhøye aksjekapitalen ved nytegning. Ved melding om kapitalforhøyelse på grunnlag av styrefullmakt, konvertering av lån, utstedte tegningsrettsaksjer eller frittstående tegningsretter, må det gis opplysninger om dato for når styrefullmakten ble gitt/lånet ble tatt opp/tegningsrettsaksjene eller tegningsrettene ble utstedt. Hvis den meldte kapitalforhøyelsen bygger på ulike grunnlag (eksempelvis styrefullmakt og konvertering av lån), må det i tillegg spesifiseres hvordan kapitalforhøyelsen fordeler seg på de ulike grunnlag.
+styrefullmakt til å erverve egne aksjer til eie eller pant
+styrefullmakt til å erverve aksjer i morselskap til eie eller pant
+styrefullmakt til å oppta lån med rett til å kreve utstedt aksjer (konvertibelt lån)
+beslutning om opptak av lån med rett til å kreve utstedt aksjer (konvertibelt lån). Ved melding om kapitalforhøyelse på grunnlag av styrefullmakt, konvertering av lån, utstedte tegningsrettsaksjer eller frittstående tegningsretter, må det gis opplysninger om dato for når styrefullmakten ble gitt/lånet ble tatt opp/tegningsrettsaksjene eller tegningsrettene ble utstedt. Hvis den meldte kapitalforhøyelsen bygger på ulike grunnlag (eksempelvis styrefullmakt og konvertering av lån), må det i tillegg spesifiseres hvordan kapitalforhøyelsen fordeler seg på de ulike grunnlag.
+fullmakt til styret om utdeling av utbytte
+meldepliktig avtale med aksjeeiere eller medlemmer av virksomhetens ledelse med videre
+beslutning om utstedelse av tegningsrettsaksjer. Ved melding om kapitalforhøyelse på grunnlag av styrefullmakt, konvertering av lån, utstedte tegningsrettsaksjer eller frittstående tegningsretter, må det gis opplysninger om dato for når styrefullmakten ble gitt/lånet ble tatt opp/tegningsrettsaksjene eller tegningsrettene ble utstedt. Hvis den meldte kapitalforhøyelsen bygger på ulike grunnlag (eksempelvis styrefullmakt og konvertering av lån), må det i tillegg spesifiseres hvordan kapitalforhøyelsen fordeler seg på de ulike grunnlag.
+beslutning om utstedelse av frittstående tegningsretter. Ved melding om kapitalforhøyelse på grunnlag av styrefullmakt, konvertering av lån, utstedte tegningsrettsaksjer eller frittstående tegningsretter, må det gis opplysninger om dato for når styrefullmakten ble gitt/lånet ble tatt opp/tegningsrettsaksjene eller tegningsrettene ble utstedt. Hvis den meldte kapitalforhøyelsen bygger på ulike grunnlag (eksempelvis styrefullmakt og konvertering av lån), må det i tillegg spesifiseres hvordan kapitalforhøyelsen fordeler seg på de ulike grunnlag.
+ved melding om kapitalforhøyelse ved fondsemisjon eller beslutning om kapitalnedsettelse skal det opplyses om beslutningen er basert på sist godkjente årsregnskap eller en mellombalanse. Datoen for fastsettelsen av årsregnskapet eller mellombalansen skal også angis i meldingen.
+
+Kommandittselskap
+Kommandittselskap som har endret kommandittister, gir opplysning om dette.
+Sparebanker
+Sparebanker som har utstedt omsettelige grunnfondsbevis, angir grunnfondsbeviskapitalen.
+Norskregistrerte utenlandske foretak (NUF)
+NUF skal gi følgende opplysninger om virksomheten i hjemlandet:
+
+organisasjonsform
+registreringsnummer og registerets navn, hvis virksomheten er registrert i et offentlig foretaksregister
+ansvarlige deltakere/styre. Oppgi navn, adresse og fødselsdato.
+signaturbestemmelser. Oppgi navn, adresse og fødselsdato.
+om virksomheten er heleid av norske personer, eller norsk foretak
+
+Det skal også gis opplysning om virksomheten utelukkende driver aktivitet i Norge.
+Offentlig sektor
+Oppgi navn og organisasjonsnummer til overordnet virksomhet.
+For alle organisasjonsformer
+
+Egenfratreden i henhold til foretaksregisterloven § 4–6. Oppgi hvilke(n) rolle(r) som fratres. Melding om egenfratreden fra rolle som ansvarlig deltaker er gebyrbelagt. Se veiledningen til felt 2.2.
+Særskilt sletting fra Foretaksregisteret. Se veiledningen til felt 2.4.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                27. Varslingsadresser                            
+
+
+
+Varslingsadresse er en pliktig opplysning.
+Varslingsadresse skal bare legges inn på nye virksomheter.
+Varslingsadressene vil bli brukt av det offentlige for å varsle virksomheten når viktige meldinger er tilgjengelige i Altinn. Opplysningene er bare tilgjengelige for offentlige myndigheter.
+Skal du endre disse opplysningene senere, gjør du det under virksomhetens profil i Altinn.
+Virksomheten må ha minst én varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                28. Underskrifter                            
+
+
+
+Meldingen må være underskrevet for at den skal bli godkjent.
+De som underskriver meldingen, bekrefter at opplysningene som er gitt er riktige, og at de er kjent med at det er straffbart å gi uriktige opplysninger, se straffeloven § 189.
+Hvem som skal underskrive meldingen avhenger av hvor virksomheten skal registreres, eller er registrert.
+Hvis meldingen bare gjelder Enhetsregisteret, skal den enten underskrives av styret, signaturberettiget, daglig leder,
+forretningsfører eller annen kontaktperson. For enkeltpersonforetak skal innehaver skrive under.
+Ved registrering i Stiftelsesregisteret skal meldingen underskrives av signaturberettiget eller samtlige styremedlemmer.
+Registrering i Foretaksregisteret
+Melding til Foretaksregisteret skal underskrives av signaturberettiget eller samtlige meldepliktige. For enkeltpersonforetak er innehaveren den meldepliktige. I ansvarlig selskap og kommandittselskap er hver enkelt ansvarlig deltaker den meldepliktige, med mindre selskapet er organisert med styre. I så fall påligger meldeplikten hvert enkelt styremedlem. I alle andre virksomheter påligger meldeplikten hvert enkelt styremedlem.
+Nyvalgte styremedlemmer som ikke har underskrevet meldingen, må vedlegge villighetserklæring som bekrefter at de har påtatt seg vervet.
+Ved nyregistrering og endring av deltakere i ansvarlig selskap, må deltakere som ikke har underskrevet meldingen, vedlegge samtykkeerklæring til registrering i Foretaksregisteret.
+For norskregistrert utenlandsk foretak skal meldingen underskrives av signaturberettiget eller av meldepliktige. Meldepliktige er styret for den norske virksomheten. Hvis slikt styre ikke finnes, er det daglig leder i den norske virksomheten.
+Er det meldt overtakelse/overdragelse av underenhet, må begge parter skrive under meldingen.
+Vær oppmerksom på at vi krever original underskrift i alle tilfeller. Vi kan ikke godta en kopi, eller at skjemaet er signert digitalt.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Vedleggsveileder
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,509 @@
+
+
+
+
+Teknisk dokumentasjon for maskinell tilgang til Einingsregisteret
+
+Sist oppdatert: 30. november 2022.
+
+
+
+
+
+Om du skal hente ut data frå Einingsregisteret sin database, må du utvikle ein kode som kan gjere spørjingar mot web servicane våre.
+
+Kva spørjingar du kan gjere, korleis formatet på desse må vere og URL-en for å kople seg opp, er skildra i WSDL-ane nedanfor. WDSL-ane er å rekne som ein teknisk kontrakt for korleis spørjingar og resultat skal sjå ut, og må bli følgde for å minimalisere sjansen for at oppgraderingar hos oss skal kunne påverke tenesta di.
+Web services gjenbruk av grunndata finn du som kryptert overføring her:
+
+Einingsregisteret og Føretaksregisteret
+Frivilligregisteret
+Historiske grunndata
+
+Har du «Avgrensa tilgang til Einingsregisteret» kan du bruke følgande tenester:
+ 
+
+
+
+
+
+
+
+ 
+                                Basisdata - mini                            
+
+
+
+Inneheld organisasjonsnummer med registreringsdato, namn, forretningsadresse, postadresse og organisasjonsform.
+Basisdata – mini (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontaktdata                            
+
+
+
+Inneheld telefonnummer, mobilnummer, e-postadresse og heimesida til eininga.
+Kontaktdata (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Namnesøk                            
+
+
+
+For å kunne gjere oppslag gjennom Web servicane våre mot Einingsregisteret, må du bruke organisasjonsnummer.
+Gjennom tenesta«Namnesøk» kan du finne organisasjonsnummeret ved å søke på namn/føretaksnamn, direkte frå eigne applikasjonar.
+Namnesøk (XML)
+Teknisk skildring
+Tenesta avvik litt frå dei andre tenestene med omsyn til input. Parametrane til denne tenesta er
+• brukarnamn
+• passord
+• searchRequest
+Brukarnamn og passord er som på dei andre tenestene, mens searchRequest skal innehalde ein xml-streng, tilsvarande <BrAixXmlRequest> i XML-schemaet. Det som ikkje går fram av XML-schemaet er at i forkant av elementet ovanfor, bør du tilføye ein encoding som fortel kva teiknsett som blir brukt: <?xml version=’1.0′ encoding=’xxx’?>. Det må med andre ord vere samsvar mellom det som er meldt som teiknsett, og kva som faktisk står i xml-strengen.
+Eksempel
+< ?xml version=’1.0′ encoding=’ISO-8859-1′?><BrAixXmlRequest>….</BrAixXmlRequest>
+Om encoding er satt til ISO-8859-1 må teksten som står i xmlen ha dette teiknsettet.
+< ?xml version=’1.0′ encoding=’UTF-8’?><BrAixXmlRequest>….</BrAixXmlRequest>
+Om encoding er satt til UTF-8 må teksten som står i xmlen ha dette teiknsettet.
+Om <?xml version=’1.0′ encoding=’xxx’?> blir sløyfa vil xml-strengen bli tolka default som UTF-8.
+Om det er usemje mellom encoding og kva som faktisk er i xml-strengen, kan ein få uventa svar. Dette gjeld først og fremst ved bruk av æ, ø og å, men kan også gi problem ved søk på andre spesialteikn.
+Eksempel på ein tilrådd searchrequest
+<![CDATA[<?xml version = «1.0» encoding = «ISO-8859-1» standalone = «no» ?>
+<BrAixXmlRequest RequestName=»BrErfrSok»>
+<BrErfrSok>
+<BrSokeStreng>ørn</BrSokeStreng>
+<MaxTreffReturneres>1000</MaxTreffReturneres>
+<ReturnerIngenHvisMax>true</ReturnerIngenHvisMax>
+<RequestingIPAddr>010.001.052.011</RequestingIPAddr>
+<RequestingTjeneste>SOAP</RequestingTjeneste>
+<MedUnderenheter>true</MedUnderenheter>
+</BrErfrSok>
+</BrAixXmlRequest>]]>
+Skildring av dei ulike elementa står under annotation på kvart element i xml-schemaet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Særskilte opplysningar                            
+
+
+
+Inneheld  særskilte opplysningar, status og statuskode med registreringsdato til eininga.
+Særskilte opplysningar (XML)
+Statuskoder med skildring
+
+R-FR Registrert i Føretaksregisteret
+PLFR Ikkje registrert i Føretaksregisteret
+R-MV Registrert i Meirverdiavgiftsregisteret
+R-AA Registrert i NAV Registerforvaltning
+R-SR Registrert i Stiftelsesregisteret
+R-PR Registrert i Partiregisteret
+R-FV Registrert i Frivilligregisteret
+KMOR Inngår i konsern
+FGRP Inngår i føretaksgruppe
+ÅRSO Siste innsende årsrekneskap
+KONK Konkurs
+AKKO Meld akkord
+OPPL Under avvikling
+TVOP Tvangsoppløyst
+TVUK Tvangsoppløyst etter reglane i konkurslova
+TVDL Tvangsavvikling i samband med dagleg leiar
+TVRE Tvangsavvikling i samband med revisor
+TVST Tvangsavvikling i samband med styre
+TVRR Tvangsavvikling i samband med årsrekneskap
+TVKA Tvangsavvikling i samband med kapital < 100 000
+TVOV Tvangsavvikling – Overtatt av tingretten
+USL Under sletting
+OSKP Sendt til tingretten frå Føretaksregisteret pga kapital
+OSST Sendt til tingretten frå Føretaksregisteret pga styre
+OSRE Sendt til tingretten frå Føretaksregisteret pga revisor
+OSDL Sendt til tingretten frå Føretaksregisteret pga dagleg leiar
+OSEF Sendt til tingretten frå Føretaksregisteret pga EØFG forretningsførar
+OSEV Sendt til tingretten frå Føretaksregisteret pga EØFG varigheit
+OSED Sendt til tingretten frå Føretaksregisteret pga EØFG deltakarar
+OSKA Sendt til tingretten frå Føretaksregisteret pga kapital < 100 000
+OSOP Sendt til tingretten frå Føretaksregisteret pga oppløyst meir enn 1 år
+SKRR Sendt til tingretten frå Rekneskapsregisteret
+FUSJ Fusjon
+FISJ Fisjon
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Tilknytt register                            
+
+
+
+Inneheld opplysningar henta frå tilknytte register som næringskode, institusjonell sektorkode, ansvarskapital og tal på tilsette.
+Tilknytt register (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Opplysningar frå Frivilligregisteret                            
+
+
+
+Teneste som gir tilgang til opplysningane i Frivilligregisteret, blant anna registreringsdato, kategori, kontonummer, dato for vedtekter, dato for sist innsende årsrekneskap og om eininga deltek eller ikkje deltek i grasrotdelordninga.
+Opplysningar frå Frivilligregisteret (XML)
+
+
+
+
+Har du «Full tilgang til Einingsregisteret» kan du i tillegg bruke følgande tenester:
+ 
+
+
+
+
+
+
+
+ 
+                                Basisdata                            
+
+
+
+Inneheld organisasjonsnummer med registreringsdato, namn, forretningsadresse, postadresse, organisasjonsform, verksemda sin art eller bransje, vedtektsfesta formål, stiftelsesdato, målform, kontaktperson, dagleg leiar, forretningsførar, innehavar og informasjon om hovudføretak for Norskregistrert utanlandsk føretak (NUF).
+Basisdata (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Roller                            
+
+
+
+Inneheld opplysningar om kontaktperson, deltakarar, komplementar, sameigarar, styre, revisor, rekneskapsførar og/eller eigarkommune.
+Roller (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Prokura og signatur                             
+
+
+
+Inneheld opplysningar om kven som har prokura og signatur i eininga.
+Prokura og signatur (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Konsern                            
+
+
+
+Inneheld opplysningar om konsernnivå, med informasjon om organisasjonsnummer, namn, relasjon og eigardel på mor, og informasjon om organisasjonsnummer og namn på dotter.
+Konsern (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Fleire bedrifter/verksemder                            
+
+
+
+Inneheld organisasjonsnummer, namn og gateadresse til verksemd, postadresse og næringskode på alle bedrifter og verksemder knytt til ei juridisk eining.
+Bedrifter/verksemder (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Ei bedrift/verksemd                            
+
+
+
+Inneheld informasjon om bedrifta/verksemda som verksemda sitt organisasjonsnummer, verksemda sitt namn, adresse, næringskode, oppstartsdato, eigarskiftedato, tal på tilsette, særlege opplysningar, kontaktinformasjon og informasjon om juridisk eining.
+Bedrift/verksemd (XML)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Oppdateringar frå Einingsregisteret                            
+
+
+
+Teneste som gjer det mogleg å hente ut alle endringane som er utførte i Einingsregisteret i løpet av det siste døgnet, både nyregistreringar, endringar og slettingar.
+Oppdateringar frå Einingsregisteret (XML)
+Informasjons- og behandlingstypar i Einingsregisteret
+Einingregisteret og Føretaksregisteret behandlar dagleg meldingar om nyregistreringar, endringar og slettingar for mellom 2 000 og 2 500 einingar. Ein gong per månad blir Einingsregisteret oppdatert med tal på tilsette i desse einingane mot NAV Registerforvaltning. Dette medfører endringar på ca. 90 000 – 100 000 einingar.
+Den einskilde brukaren må sjølv definere kva einingar (organisasjonsnummer) og kva opplysningar som skal overvakast. Om einingane og opplysningane som inngår i den daglege oppdateringsfila er definert, kan brukaren via Web Services hente ut dei gjeldande opplysingane som er registrerte på eininga. Brukaren kan dermed halde eigen database oppdatert til eikvar tid.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Rolleoversikt                            
+
+
+
+Rolleoversikt er ei samanstilling av ein person si tilknyting til næringsverksemd.
+Rolleoversikt (XML)
+Rolleoversikt innhentar du både på person (fødselsnummer) og eining (organisasjonsnummer). Det er meir sjeldan at rollesøk på organisasjonsnummer gir treff. Ver oppmerksam på at du ikkje får klientoversikt for rekneskapsførar og revisor ved søk på organisasjonsnummer til rekneskapsførar eller revisor.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Bestillingsløysing                            
+
+
+
+Frå oss kan du blant anna bestille utskrifter, attestar, dokumentkopiar. Dei fleste av standardprodukta våre er no tilgjengeleg via Web Services. Gjennom tenesta kan du bestille produkta våre elektronisk, og du slepp å kontakte oss eller logge deg på bestillingsløysinga vår.
+Kva produkt vi kan levere frå bestillingsløysinga finn du i oversikta under. Her står det også kva register som leverer produktet.
+
+
+
+ProduktnamnFrå
+
+
+
+
+Pantattest motorvognLausøyreregisteret
+
+
+Pantattest fødselsnummerLausøyreregisteret
+
+
+Pantattest organisasjonsnummerLausøyreregisteret
+
+
+Firmaattest på norskFøretaksregisteret
+
+
+Firmaattest på norsk med tidlegare føretaksnamnFøretaksregisteret
+
+
+Firmaattest på engelsk, notarialstadfestaFøretaksregisteret
+
+
+Årsrekneskap, komplettRekneskapsregisteret
+
+
+Stadfesting frå Konkursregisteret (org.nr/f.nr)Konkursregisteret
+
+
+Registerutskrift inkl. bedrifter/verksemderEiningsregisteret
+
+
+Registerutskrift på norsk frå FrivilligregisteretFrivilligregisteret
+
+
+Registerutskrift på engelsk frå FrivilligregisteretFrivilligregisteret
+
+
+Rolleoversikt fødselsnummerEiningsregisteret
+
+
+Rolleoversikt organisasjonsnummerEiningsregisteret
+
+
+
+
+For å kople seg til denne tenesta med Web Services, må du gjere oppkoplinga med følgande krypterte URL der WSDL-fila ligg:
+https://ws.brreg.no/nlagsys/bestsysws/Bestilling?WSDL
+
+
+
+
+
+
+
+
+
+
+ 
+                                Historiske grunndata                            
+
+
+
+Inneheld historiske opplysningar på alle registrerte einingar i Einingsregisteret. Den er delt opp i tre tenester:
+
+Historisk oversikt over godkjente endringssaker og saksopplysningar på ei eining eller eit føretak.
+Historisk registerutskrift med fullt fødselsnummer.
+Historisk registerutskrift med fødselsdato.
+
+Den første tenesta viser alle registrerte saksopplysningar på ei gitt hovudeining. Vi leverer ikkje historiske opplysningar på undereiningar. Frå oversikta med saksopplysningar blir dato vist for når endringane er innførte. Datoen, saman med organisasjonsnummer, blir brukt som søkeidentifikator for å få opp historiske opplysningar presenterte i ei registerutskrift.
+Offentlege etatar og aktørar som har konsesjon til å drive kredittopplysningsverksemd kan få tilgang til fullt fødselsnummer. Andre aktørar kan gjere oppslag i historisk registerutskrift med fødselsdato.
+Servicen er bygd opp med JAX-WS og nyttar seg av WS-security for å etablere ei sikker kopling mellom klient og Web Service. Klienten må ta i bruk SOAPHandler<SOAPMessageContext>, og implementere metodar han tilbyr. I handlerklassa må det byggast opp ein SOAPHeader med eit element «UsernameToken». I elementet blir to element «Username» og «Password» lagde som inneheld høvesvis brukarnamnet og passordet til klienten. Handlerklassa må deklarerast i eit SOAP Handler XML file, og serviceklassa annoterast med @Handlerchain. Annoteringa må innehalde eit filattributt som peikar til handler-chain.xml.
+For å kople seg til tenestene «Saksopplysningar» og «Historiske opplysningar» med Web Services, blir oppkoplinga gjord mot følgande URL der WSDL-fila ligg:
+https://ws.brreg.no/grunndata-ws/GrunndataService?WSDL
+Saksopplysningar (XML)
+Historisk registerutskrift (XML)
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Bestillingsparametrar
+
+
+
+
+Oppbygging grunndataWS
+
+
+
+
+Informasjons- og behandlingstypar i Einingsregisteret
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

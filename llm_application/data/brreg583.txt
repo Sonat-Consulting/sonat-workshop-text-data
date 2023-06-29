@@ -1,0 +1,955 @@
+
+
+
+
+Guide to Coordinated register notification (paper form)
+
+Last updated: 19 April 2022.
+
+
+
+
+
+Guide to the common form for registration in
+
+The Central Coordinating Register for Legal Entities
+The Register of Business Enterprises
+NAV AA-register
+The Foundation Register
+The Corporate Taxation Data Register
+
+
+Signature requirements
+The Coordinated register notification must be signed. We require original signatures. If you do not follow the signature requirements, the notification will not be registered.
+ 
+
+
+
+
+
+Coordinated register notification
+Easier and faster registration online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coordinated register notification
+Easier and faster registration online
+
+
+
+
+
+
+
+
+
+How to fill in the form
+ 
+
+
+
+
+
+
+
+ 
+                                1. Business name                            
+
+
+
+1.1 The complete name of the enterprise
+This field must always be filled in.
+Enter the complete business name and organisation number. Upon a new registration, the Central Coordinating Register for Legal Entities will assign the organisation number.
+When reporting change of a registered business name, you need to state the registered business name prior to the change here. The new business name must be entered in field 1.2.
+Bear in mind that the business name stated in this field (or in field 1.2 if the notification is about a change), is the name which will be displayed on the certificate of registration from the Register of Business Enterprises if the enterprise is to be registered there.
+Sole proprietorship: The name of sole proprietorships must include at the least the owner’s surname, such as Lars Holm or Holms Car Body Repairs.
+Norwegian registered foreign businesses: Norwegian registered foreign businesses must state the name in the country of origin. The name of the activity in Norway must be stated in field 24.
+Choosing a business name
+For enterprises undertaking business and other enterprises to be registered in the Register of Business Enterprises, it is vital to be careful when selecting the name. The legislation governing this can be found in the Act relating to Business Names dated 21 June 1985. You can read more about selecting a name under “Start and Run Business” on altinn.no.
+NOTE! The Central Coordinating Register for Legal Entities does not check whether the legislation in the Act about Business Names have been complied with. The enterprise in question is responsible for doing this. Upon registration in the Register of Business Enterprises a check will be made to ensure that the business name satisfies the requirements in the Act relating to Business Names.
+1.2 New business name
+
+For enterprises registered in the Register of Business Enterprises, a change of the business name will be charged with a fee.
+This field is only to be filled in if the enterprise is reporting a change of the registered business name. Remember that the name prior to the change must be stated in field 1.1 together with the previously assigned organisation number.
+1.3 A separate name for the sub-entity
+This field must only be filled in if the sub-entity operates under a different name than the name of the business. If the complete name is, for example, Lars Holms Hot Dog Stand, and you only use Grill Stall in your marketing and correspondence, only the latter name must be filled in here.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Type of notification                            
+
+
+
+A notification can apply to one of the following matters
+2.1 Registration of an enterprise not registered previously
+2.2 Change in registered information or new information
+2.3 Decision to dissolve an enterprise
+2.4 Striking off an enterprise
+If the notification refers to information about the sub-entity, field 9 and 10 must be filled in. The notification must be submitted to the Central Coordinating Register for Legal Entities in connection with transfer/takeover and closure/termination of a sub-entity.
+2.1 Enterprise not previously registered
+Tick here only if the enterprise previously has not been registered in the Central Coordinating for Legal Entities.
+If you register a new enterprise when you take over an existing business, you must also tick field 9a for purchase/takeover. Field 10a must be filled in with information about the previous owner. If a new enterprise is being registered in connection with the start of a new business, the starting date must be entered in field 9a of the form.
+NOTE: A new enterprise is not created if there has been only a change of ownership of shares in a limited company, a partnership or the like. In such cases no notification of a new enterprise needs to be submitted, but rather a notification to change the information registered about the enterprise. A general partnership must in such cases submit notification of change of partners.
+2.2 Changes/new information
+If the enterprise is already registered in the Central Coordinating Register for Legal Entities, in most cases you will have to tick field 2.2, «Changes/New information». This applies even if the enterprise is applying to register in one of the affiliated registers to the Central Coordinating Register for Legal Entities, in which it is not yet registered. If, for example, a sole proprietorship is already registered in the Central Coordinating Register for Legal Entities and then submits a notification to be registered in the Register of Business Enterprises, the «Changes/New information» field must be ticked.
+If the change or new information is about a decision to dissolve or strike off the enterprise, there are fields for this that must be ticked.
+Always fill in the organisation number of the enterprise and registered name in field 1.1.
+Otherwise only fill in the fields that apply for the change.
+If the change means that registered information is to be deleted without being replaced by new information, you put «utgår» (to be omitted) in the relevant field.
+Pursuant to section 6 of the Regulations governing fees for services from the Brønnøysund Register Centre, there is a fee for enterprises registered in the Register of Business Enterprises when making certain changes.
+This applies to the following changes:
+
+Decision about capital reduction
+Decision to merge
+Decision to demerge
+Change of business name, including change of name due to conversion
+– from a general partnership with joint liability (ANS) to a general partnership with shared liability (DA), and also the reverse
+– from a limited company (AS) to a public limited company ASA), and also the reverse
+– from a co-operative (SA) to a limited company (AS) or public limited company (ASA)
+Change of partner, including stepping down from being a partner in a general partnership with joint liability (ANS), a general partnership with shared liability (DA), an inter-municipal company (IKS) and a jointly owned shipping company
+Change of liability proportions in a general partnership with shared liability (DA), an inter-municipal company (IKS) and a jointly owned shipping company with shared liability (DA)
+Change of general partner in a limited partnership (KS).
+
+2.3 Decision to dissolve the enterprise
+For most types of companies in the Register of Business Enterprises, this field must be used when winding down the enterprise. For limited company, public limited company, limited partnership, general partnership, co-operative and inter-municipal company, dissolution and closure are undertaken in two stages. When it is reported that an enterprise is to be dissolved, it cannot be struck off before the time limit for creditors has expired and the liquidation accounts have been approved by an authorised body.
+The field to be ticked must also be used for notifications about dissolution for merger and demerger.
+Most other types of companies are struck off without prior notification. This applies to sole proprietorships, companies with limited liability, jointly owned shipping companies, municipal business enterprises, county municipal business enterprises, associations and other entities. See the instructions under field 2.4.
+2.4 Striking off an enterprise
+This field must be used if the enterprise is to be struck off all registers (the Central Coordinating Register for Legal Entities and affiliated registers). Bear in mind that when you wish to strike off an enterprise and at the same time register a new one, two forms must be filled in.
+Remember to state in field 9b what is to be done with the enterprise’s sub-entity.
+Striking off only from affiliated registers
+It is possible for the enterprise to be struck off from one of the Central Coordinating Register for Legal Entities’ affiliated registers without being struck off from the other affiliated registers.
+Striking off from the Register of Business Enterprises
+Most types of organisation are struck off because they have ceased to exist. Consequently, they must be struck off all registers. However, for companies with limited liability, foundations, associations and other entities, the rule is that they must be struck off from the Register of Business Enterprises when business operations have been closed down for good.
+Sole proprietorships which have the right to be registered, but are not under the obligation to register in the Register of Business Enterprises, can also be struck off from the Register of Business Enterprises without having ceased to exist. If the enterprise in such cases wishes to be registered or continue to be in the Central Coordinating Register for Legal Entities, notification of separate striking off from the Register of Business Enterprises must be entered in field 26. If so, field 2.4 of the form must not be ticked.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registration in other registers                            
+
+
+
+Here you specify which affiliated register the enterprise is to be registered in. Field 3 must be filled in when the enterprise is to be registered in an affiliated register where it is not already registered.
+Field 3.1 and field 3.2 apply for registration of information in the NAV Aa Register.
+Foundations
+The form has no separate field to be ticked for registration in the Foundation Register. The Lottery and Foundation Authority is automatically notified of all foundations reporting registration in the Central Coordinating Register for Legal Entities. A fee must be paid for the registration in the Foundation Register. The rates are given in the regulations dated 21 December 2004 for the Foundation Act. Foundations running a business are not liable to pay a fee to the Foundation Register but rather to the Register of Business Enterprises for new registrations.
+3.1 The Register of Business Enterprises
+What is the Register of Business Enterprises?
+The Register of Business Enterprises is in general a register for enterprises conducting business in Norway.
+A fee must be paid for registration in the Register of Business Enterprises. The rates are stipulated in the regulations dated 16 December 2003, no. 1551, for fees for services from the Brønnøysund Register Centre.
+Which enterprises must be registered in the Register of Business Enterprises?
+Some types of organisations are, by law, under the obligation to register or have the right to register in the Register of Business Enterprises.
+Sole proprietorships
+Sole propritorships are under the obligation to register in the Register of Business Enterprises if they employ more than five employees in permanent positions as their main employment or undertake trade with goods bought to be sold. “Main employment” means a position where the person works more than 20 hours a week. Sole proprietorships that are not under the obligation to register still have the right do so.
+Condominium flat owners
+Condominium flat owners that have been converted into individual units pursuant to a petition lodged after 1 January 1998 are obliged to register in the Register of Business Enterprises if they have nine or more sections. Condominium flat owner with eight or fewer sections have the right to register in the Register of Business Enterprises. Condominium flat owners that have been converted into individual units pursuant to a petition lodged before 1 January 1998 are not obliged to register.
+Limited companies, public limited companies, co-operatives, limited partnerships, general partnerships and such, must always register in the Register of Business Enterprises.
+Other types of companies, such as companies with limited liability, foundations and associations, only need to register in the Register of Business Enterprises if they conduct business activities. Business activities mean activities of some duration and a certain scope, established with the intention to yield or in reality yielding financial profits.
+Foreign businesses
+Foreign businesses must register in the Register of Business Enterprises if they conduct business activities in Norway or on the Norwegian continental shelf.
+Take a look at the overview in field 8 of the form as well, or under “Start and Run Business” on altinn.no.
+Remember to include the necessary attachments – see the overview “Required attachments for new registrations and changes in the Register of Business Enterprises”. If attachments are missing, the busines will not be registered.
+3.2 Employees/others receiving  compensation
+Employees. An employee is any person employed by another and receiving payment or other compensation for services rendered. Here it must be ticked yes if the enterprise expects to have its own employees, or intend to hire others who will receive a salary or remuneration.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Head office address (business address/visiting address)                            
+
+
+
+Enterprises operating a business
+State the business address, i.e. the head office’s street address or location.
+Foreign enterprises
+State the business address in the country of origin.
+Other enterprises
+State the visiting address of the enterprise.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Postal address                            
+
+
+
+Enterprises that have a separate postal address, for example a P.O. box, must state this in addition to the head office business address/visiting address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 The sub-entity's location address                            
+
+
+
+If the sub-entity’s operations are located at a different address than the head office, this address must be stated here. If the activities are not bound to fixed premises or locations, but rather are ambulatory (for example building, construction or transport activities), the address of the administrative location of the enterprise, or alternatively the permanent location of attendance must be entered.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Submitter/chargeable                            
+
+
+
+The submitter will be used as the addressee for all types of feedback on the notification, which means that confirmations and other letters, register printouts and the like will be sent to the submitter. This person is also responsible for paying fees to the Register of Business Enterprises.
+If the field for the submitter has not been filled in, feedbacks, fee requests and the like will be sent to the enterprise. If the submitter has previously been assigned a customer number by the Brønnøysund Register Centre, this must be stated.
+Case reference/attention for the submitter
+Here the submitter can state a separate reference for the case if desired.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Type of organisation                            
+
+
+
+This field must only be filled in when submitting notification of a new enterprise. Tick the appropriate place for the type of organisation to be registered. Only one alternative can be ticked. As a general rule, an enterprise cannot change the type of organisation without first being struck off and established again as a new enterprise.
+Which types of organisation that are obliged to or have the right to register in the Register of Business Enterprises, appear from the references in the field and the guidance for field 3.1.
+European businesses
+European types of organisation that are common to all countries within the EU and EEA area. This includes European Companies (SE), European Cooperative Societies (SCE) and European Economic Enterprise Group (EEEG). It must be specified in field 26 which of these forms of incorporation the registration concerns. For more information about attachment requirements, contact the Register of Business Enterprises or the like, or visit our website brreg.no.
+Other body corporate
+This type of organisation is used by a strictly limited group of enterprises, and only when none of the other organisation types are relevant. Examples of enterprises in this category include embassies, reindeer grazing districts and mountain region boards.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9a Launch or takeover of a sub-entity.                             
+
+
+
+Date of foundation
+State the date when the enterprise was founded.
+For older enterprises that do not have accurate information about the foundation date, it is sufficient to state the year of foundation. The date of foundation must also be stated for Norwegian registered foreign businesses.
+Sole proprietorships are not required to state the date of foundation.
+Launch of sub-entity
+Enterprises launching a sub-entity, must state the date when the activity started/will start.
+Takeover of a sub-entity
+If the notification applies to a takeover of a sub-entity, for instance if a limited company takes over a shoe store or a hairdressing salon from another limited company, the date of transfer must be stated here. You state the previous owner in field 10a.
+Takeover/Transfer
+For a sub-entity to be accepted as taken over or transferred, the same activities must be continued under the ownership of another enterprise. These conditions must be met: The assets that are necessary elements in the enterprise such as raw materials, production equipment, stocks, contracts and other, must in their entirety or essentially be transferred in one transaction. If the assets that are part of the enterprise are sold separately so the enterprise cannot continue, notification of closure of the enterprise need to be submitted.
+Stock sales or changes of partners in general partnerships are not considered as takeover or transfer of a sub-entity.
+A takeover or a transfer of a sub-entity must be reported when the business is continued with a new type of organisation or a new main entity, even if the owner(s) is the same. This may be the case when changing from a sole proprietorship to a limited company.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9b Transfer or closure of a sub-entity                            
+
+
+
+
+Transfer of a sub-entity
+If the notification relates to the sale of a sub-entity, for example when a limited company transfers a shoe shop or a hairdressing salon to another limited company, the date of transfer must be stated here.
+Take a look at the guide to field 9a as well about takeover or transfer of a sub-entity.
+Closure of a sub-entity
+A sub-entity is closed down if its production of goods and/or services for some reason is ceased completely. The sub-entity also ceases to exist if:
+
+A new owner launches a completely new business in the same premises.
+A new owner moves the entire former sub-entity to a new location in another municipality.
+It is moved to another municipality and a completely new business/production of goods and/or services is started with the same owner.
+
+If the sub-entity is closed down, tick the field for this and enter the date of the closure. Please note that a notification of closure of a sub-entity does not mean that the enterprise is being struck off. If you wish the enterprise to be struck off, tick the box for «Striking off enterprise» in field 2.4.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10a Takeover of a sub-entity from                            
+
+
+
+Provide information about the previous owner if the enterprise has taken over a sub-entity. State the previous owner’s organisation number if there is such a number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10b Transfer of a sub-entity                            
+
+
+
+Provide information about the new owner if the enterprise has transferred a sub-entity to another enterprise. State the new owner’s organisation number if this exists.
+Remember that the inbox of the sub-entity in Altinn has to be cleared before the transfer. Sensitive information, such as sick notes and more, should be stored in a separate case/archive system before the transfer is registered. You will then prevent the acquirer from gaining access to sensitive information in the inbox of the sub-entity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Activity/branch                            
+
+
+
+11.1 Information about the activity
+Information about the activity of the business is the basis for assigning the enterprise an industrial code. The industrial code is assigned pursuant to Standard Industrial Classification (SN2007). The industrial code is used to prepare statistics describing the Norwegian business and industry/ labour market according to business/trade.
+Give as accurate a description as possible of the activities carried out or to be carried out. Bear in mind that it is not sufficient to state a general overriding purpose. Therefore you must state what will be produced/sold and/or which services/activities will be carried out. Make sure that you make it clear which industry the business belongs to.
+Here are some examples of how detailed the description must be:
+
+Agriculture: Growing of cereals. Raising of dairy cattle.
+Transport: Freight transport by road. Taxi operation.
+Industry: Manufacture of household and sanitary goods and of toilet requisites. Manufacture of builders ware of plastic
+Trade: Agents involved in the sale of timber and building materials. Wholesale of electrical house- hold appliances and machines. Retail sale of meat and processed meat in specialised stores.
+Building and construction: Groundwork. Construction of buildings.  Plumbing, heat and airconditioning installation.
+Consultancy: Business consultancy activities. Consultancy services within soft ware development of customer- specified software.
+
+If the enterprise operates in several lines of business, you must enter each of these in order of priority according to the amount of turnover or employment.
+Enterprises that do not operate business activities must state the activity undertaken. Examples include marching bands or sports clubs.
+Norwegian registered foreign businesses must state the activity being conducted in Norway, or must state what the basis for the registration is.
+Upon a change, you must state what the new activity is and give the date this came into force. If the enterprise has started additional activities, you must also state the prior activities.
+11.2 Confirmation of business operations
+All sole proprietorships must confirm that the activity meets the requirements of the business operations.
+A sole proprietorship runs business operations when the activity:
+
+has turnover that can yield a surplus
+has a certain time of duration, usually longer than one year
+is not a pastime activity or individual assignments
+
+Read more about the requirements for running business operations.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 General manager, owner, business manager or other contact person                            
+
+
+
+Sole proprietorships
+Sole proprietorships must always state who the owner is. By owner we mean the person who has unlimited personal liability for the sole proprietorship’s obligations. You must also state who the general manager is, if the enterprise has one.
+Norwegian registered foreign businesses (NUF)
+NUF with premises in Norway must state the general manager for the enterprise in Norway, if such a manager has been elected. If no general manager has been elected, enter another contact person.
+NUF without premises in Norway which undertake a VAT-mandatory business, states its Norwegian representative. If the Norwegian representative is a legal person, a contact person must also be stated. If the enterprise is organised as a sole proprietorship in the country of origin, you must state the owner.
+Other types of organisation
+Other types of organisation must state the general manager or a business manager. By general manager/business manager we mean the person who has the day-to-day administrative management of the enterprise, and who is authorised to represent the enterprise externally in matters connected with the day- to-day management. If the general manager/business manager is a legal person, you must state a contact person as well. If the enterprise does not have a general manager/business manager, you have to state a contact person.
+National identification number/d-number/organisation number
+Individuals
+You must make sure that the national identity number is entered in addition to the person’s name and residence address, cf. section 7 of the Act relating to the Central Coordinating Register for Legal Entities.
+Legal persons
+You must state the organisation number and business address.
+Foreign nationals
+You must state the d-number, i.e. a separate number that identifies foreign nationals without a Norwegian national identity number.
+Read more about assignment of a d-number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Requested language variant                            
+
+
+
+Written communication to the enterprise will be in the selected form of the Norwegian language (nynorsk or bokmål).
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Articles of association/Partnership agreement                            
+
+
+
+State the date when the articles of association or partnership agreement were established or changed. The field applies to registration in the Register of Business Enterprises and the Foundation Register, and must be filled in by all types of organisation, except sole proprietorships.
+The articles of association or partnership agreement must be attached when a new registration is being made. When the articles of association or partnership agreement are being changed, an updated copy must be attached.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Capital in limited companies, public limited companies, limited partnerships, foundations and others                            
+
+
+
+In the upper section of the field, you report capital upon registration of limited companies, public limited companies, limited partnerships, foundations and others.
+Here you also report capital changes, such as capital increase, implementation of capital reduction and payment of capital in limited partnerships. The boxes to be ticked indicate the type of change of capital. You must also tick for whether the subscribed capital is subject to the prospectus obligation pursuant to section 7-2 of the Securities Trading Act. It does so in cases where the subscription is addressed to 100 or more persons and applies to an amount of at least EUR 100,000.00, cf. section 7-2 of the Securities Trading Act. If the prospectus must be approved pursuant to section 7-7 and section 7-8 of the Securities Trading Act, notification must be reported to the Oslo Stock Exchange, and in other cases it must be given to the Register of Business Enterprises, cf. section 7-10 of the Securities Trading Act. It is a requirement that the prospectus has already been registered with the Oslo Stock Exchange or the Register of Business Enterprises. If the prospectus has been registered by the Oslo Stock Exchange, the prospectus and other subscription material must be attached. In addition, please enclose a copy of a letter from the Oslo Stock Exchange confirming that the prospectus has been registered, or a statement from the notifiables that the prospectus has been sent to the Oslo Stock Exchange.
+Limited companies and public limited companies
+Limited companies and public limited companies must provide more detailed information in field 26 when the capital increase is based on authorisation from the board, convertible loans, subscription right shares or independent subscription rights. The full share capital must be paid up before registration in the Register of Business Enterprises.
+Norwegian registered foreign business
+Norwegian registered foreign business must state the share capital and how much of it has been paid up, if the enterprise is a limited company. State the capital in the national currency of the country of origin.
+Savings banks
+Savings banks that have issued negotiable primary capital certificates must state the primary capital in field 26.
+Foundations
+The basic capital must be stated in the field for “Capital pursuant to articles of association/partnership agreement”.
+
+
+
+
+
+
+
+
+
+
+ 
+                                16. Decision to reduce the capital                            
+
+
+
+In this field you report decisions to reduce the capital as the basis for any notice to creditors. You must tick the applicable place for what the reduction will be used for in accordance with the minutes.
+Implementation of a capital reduction after the time limit has expired must be reported in field 15.
+Use field 18 to report reduction in capital in connection with a demerger.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Merger                            
+
+
+
+This field must be used by limited companies, public limited companies, co-operatives and other enterprises that can be merged pursuant to the relevant acts.
+If the merger complies with the special rules for merger between a parent company and a wholly owned subsidiary, cf. section 13-23 of the Limited Liability Companies Act and section 13-24 of the Public Limited Liability Companies Act, and section 118 of the Norwegian Act on Co-operatives, or between two companies with the same owner, cf. section 13-24 of the Limited Liability Companies Act, this must be ticked in the appropriate place.
+Tick in the upper section of the field to indicate whether the notification refers to a transfer, i.e. dissolution for a merger, or an acquiring of a company. When reporting dissolution for a merger, it must also be ticked in field 2.3 for the decision to wind up the enterprise. Both the transferred company and the company that has been taken over must submit a notification.
+Cross-border mergers
+If there is a merger between Norwegian and foreign businesses, tick for “cross border merger”. A cross-border merger is to be reported in four steps. Contact the Register of Business Enterprises for more information.
+Fill in the field with the business name, organisation number and address of the business that is part of the merger. If there is not enough space, field 26 can be used.
+If the notification concerns a merger plan, state this in the bottom part of the field.
+After the creditor deadline has expired, a notification must be submitted about implementation of the merger for all the businesses taking part in the merger.
+Co-operatives
+If a merger decision for a co-operative requires approval by the Foundation Authority, the enterprises cannot report their decisions to the Register of Business Enterprises before such approval has been granted. Approval from the Foundation Authority must be attached to the notification to the Register of Business Enterprises. For more detailed information about the relation to the Foundation Authority, see the Norwegian Act on Co-operatives.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Demerger                            
+
+
+
+This field must be used by limited companies, public limited companies, co-operatives and other enterprises that can be demerged according to the law.
+In the field’s first section the business to be demerged must state whether the demerger will lead to a capital reduction, dissolution or partial separation of assets, rights and obligations.
+Tick for «Capital reduction in connection with demerger» when the transferred business is to transfer only part of its total assets, rights and obligations to one or more acquirers.
+If the transferred business is to transfer all its assets, rights and obligations to two or more acquireres, tick for «Dissolution to demerge with». When reporting a dissolution for a demerger, you must also tick for the decision to dissolve the enterprise in field 2.3.
+If the transferred business is a housing cooperative or co-operative, and only intends to separate a part or parts of its total assets, rights and obligations to one or more acquirers, tick «separating part(s) of the business to».
+The acquiring business(es) must tick for «to acquire ». Both the transferred business and the businesses that have been taken over must submit notification.
+Cross-border demergers
+If it concerns a demerger between a Norwegian and a foreign business, tick “cross border demerger”. Notification of a cross-border demerger needs to be reported in four steps. Please contact the Register of Business Enterprises for more information.
+Fill in the field with the business name, organisation number and address of the business(es) that is part of the demerger. If there is inadequate space, field 26 can be used.
+If the notification concerns a demerger plan, state this in the bottom part of the field.
+After the creditor deadline has expired, a notification about the implementation of the demerger for all the businesses taking part, must be submitted.
+Co-operatives
+If a demerger decision for a co-operative requires approval by the Foundation Authority, the businesses cannot report their decisions to the Register of Business Enterprises before such approval has been granted. Approval from the Foundation Authority must be attached to the notification to the Register of Business Enterprises. For more detailed information about the relation to the Foundation Authority, see the Norwegian Act on Co-operatives.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19 Board, partners etc.                            
+
+
+
+Registration in the Central Coordinating Register for Legal Entities
+The field must be filled in if the enterprise has a board, partners, general partner or owner municipality.
+Foundations and condominium flat owner
+All foundations must have a board. Enter the entire board (chair of the board, deputy chair , board members, deputies and observer(s)) with national identity numbers, names and addresses.
+Registration in the Register of Business Enterprises
+The following types of organisation must have a board:
+
+limited companies
+public limited companies
+housing cooperatives
+house building cooperatives
+condominium flat owners
+european co-operatives
+european companies
+associations/clubs/organisations
+county municipal business enterprises
+mutual insurance companies
+inter-municipal companies
+municipal business enterprises
+pension funds
+co-operatives
+foundations
+savings banks
+public corporations
+
+General partnerships, limited partnerships and jointly owned shipping companies report the board if they have one.
+Norwegian registered foreign business with business premises in Norway must enter the board, if such has been elected particularly for the business in Norway. The board and/or general partners in the country of origin must be stated in field 26.
+Gender representation in the board
+Some enterprises have certain obligations connected to gender representation in the board. For more information about rules and exceptions, please have a look at the specific acts of law that apply to the individual organisation types.
+Organisation types with a conditional requirement for gender representation in the board, must on each election of representatives to the board, consider whether they are subject to such a requirement. This information must always be reported on initial registration. If the requirement for gender representation in the board should change, this must be reported together with the changes that are made to the board.
+Note: Types of organisation that are subject to an unconditional requirement for gender representation in the board are not required to report this information.
+Organisation types that are subject to a conditional requirement for gender representation in the board
+
+House building cooperative (of more than 1,000 members)
+Co-operatives (of more than 1,000 members). Exceptions: The rules on gender representation shall not apply to co-operatives , if one of the genders accounts for less than five percent of the total number of natural persons who are members of the enterprise when the election is held.
+Mutual insurance companies (of more than 1,000 members) Exceptions: The rules on gender representation do not apply to mutual insurance companies if one of the genders accounts for less than five percent of the total number of natural persons who are members of the enterprise when the election is held.
+Limited companies (if wholly owned by the state, if it is a subsidiary to such a company or a subsidiary of a public corporaation)
+
+Organisation types that are subject to an unconditional requirement for gender representation in the board
+
+Public limited companies
+Inter-municipal companies
+Public corporations
+Health trusts
+Regional health authorities
+European companies
+
+If an enterprise is subject to gender representation requirements, both genders must be represented as follows:
+
+If the board has two or three board members, both genders must be represented.
+If the board has four or five board members, each gender must be represented by at least two.
+If the board has six to eight board members, each gender must be represented by at least three.
+If the board has nine board members, each gender must be represented by at least four, and if the board has more board members, each gender shall have at least 40 percent representation.
+The same rules apply to deputy board members.
+
+When two or more board members are to be elected among the employees, both genders shall be represented. The same applies to deputy board members. However, this shall not apply if fewer than twenty percent of the enterprise’s total number of employees are of one gender when the election is held. If board members are elected by the employees, this shall be reported in the form.
+State the entire board (chair of the board, deputy chair of the board, board members, deputy board members and observer(s) with complete national identity numbers, names and addresses for initial registrations and changes.
+Remember to label any employee representatives with a «D» for «elected by the employees» in the field for special information. For limited companies and public limited companies, it can be stated whether a member or deputy member elected by the owners represents a particular class of shares (A, B or C) in the field for «special information».
+The following enterprises must state the partners
+
+general partnership
+jointly owned shipping company
+inter-municipal company
+
+State the names of all the partners for new registrations and later changes. Use a separate attachment if the form has inadequate space for all the partners.
+Municipal business enterprises and County municipal business enterprises need to state the owner municipality.
+General partnerships with shared liability and inter-municipal companies must state the liability share as a percentage or fraction in the field for liability proportion. Limited partnerships must state who the general partner is.
+Role holders may be natural persons or in some cases legal persons. Fill in names, addresses (postal number and place) and national identity numbers or organisation numbers, cf. section 7 of the Act relating to the Central Coordinating Register for Legal Entities. Foreign nationals must state the d-number, see the instructions for field 12. National identity numbers/d-numbers are only for internal use, and will not be published, cf. section 22 of the Act relating to the Central Coordinating Register for Legal Entities.
+The documentation that has to be attached can be seen in the list of required attachments for registration and changes in, respectively, the Central Coordinating Register for Legal Entities and the Register of Business Enterprises.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20 Signature right                            
+
+
+
+State who has been assigned a signature right. Signature right is an authorisation to act and sign on behalf of the enterprise in business matters. Signature rights may be assigned to role holders, named persons or enterprises. If none of the standard alternatives in the form can be used, the signature agreement can be entered under «Other signature agreement ».
+If the signature is assigned to named persons, you must state the name, address and national identity number of the person(s) assigned this right under «Other signature agreement». Foreign nationals must state the d-number, see the instructions for field 12. The national identity numbers /d-numbers are only for internal use, and will not be published, cf. section 22 of the Act relating to the Central Coordinating Register for Legal Entities,
+If several persons have signature rights, it must be clear whether they hold this right separately or jointly. Limitations beyond this cannot be registered. Make sure that the signature agreement that is reported, is in accordance with the articles of association or partnership agreement of the enterprise.
+Norwegian registered foreign business
+If persons affiliated with the Norwegian enterprise have been assigned the right to sign, this must be stated. The right to sign cannot be limited to only apply to the activities in Norway.
+In case of changes, all those who are entitled to sign for the enterprise after the change must be stated.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21 Power of procuration                            
+
+
+
+State who has been assigned power of procuration. The authority to bind a business per procurationem is an authorisation in the same way a signature right is, but it is not as comprehensive. The proxy cannot without explicit authorisation transfer or mortgage the enterprise’s real property or movable assets that can be registered in the Norwegian Ship Registers or the Norwegian Civil Aircraft Register, or act on its behalf in legal proceedings.
+If the power of procuration is assigned to named persons, you must state the name, address and national identity number of the person(s) assigned this right under «Other requirements of power of procuration». Foreign nationals must state the d-number, see the instructions for field 12. National identity numbers /d-numbers are only for internal use, and will not be published, cf. section 22 of the Act relating to the Central Coordinating Register for Legal Entities.
+If several persons have been assigned the power of procuration, it must be made clear whether they have this authority separately or jointly. Restrictions beyond this cannot be registered.
+For later changes, all the proxies must be listed.
+Norwegian registered foreign business
+If persons affiliated with the Norwegian activities are assigned power of procuration, this must be stated. Power of procuration cannot be limited to only apply to the activities in Norway.
+For later changes, all the proxies must be listed.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22 Auditor                            
+
+
+
+Registration in the Central Coordinating Register for Legal Entities
+This field must be filled in if the enterprise has an auditor.
+Registration in the Register of Business Enterprises
+As a general rule, the enterprise must have an auditor. If not based on legislation or regulations, there is no obligation to have an auditor if the enterprise has five or less liable partners and/or an annual turnover lower than NOK 5 million.
+For limited liability companies in particular
+A limited liability company is in principle obliged to have an auditor. The general meeting may, however, decide that the company’s annual accounts are not to be audited. The following terms must be met for a limited company to decide that its annual accounts should not be audited
+
+The operating revenues are lower than NOK 5 million and the balance sheet lower than NOK 20 million. The average number of employees must be 10 or fewer full-time equivalents, cf. section 7-6 of the Limited Liability Companies Act.
+The company must not be engaged in running a pharmacy or a law firm or be approved as a lottery operator pursuant to the Lottery Act, cf. the Auditors Act section 2-1 fourth paragraph.
+The company must not be subject to the supervision of the Financial Supervisory Authority of Norway, cf. the Auditors Act section 2-1 sixth paragraph.
+The company must not be subject to audit by the tax authorities.
+
+The minutes from the general meeting showing the decision to waive audit, must be enclosed with the notification.
+The general meeting’s decision to waive audit does not take effect until it is registered in the Register of Business Enterprises.
+Special requirements
+The auditor must be approved by the Financial Supervisory Authority of Norway and registered in the Register of Auditors. The following companies may have an auditor who is not registered in the Register of Auditors
+
+inter-municipal companies
+municipal business enterprises
+county municipal business enterprises
+
+Filling in
+The field must be filled in with the auditor’s business name, address and organisation number, cf. section 7 of the Act relating to the Central Coordinating Register for Legal Entities.
+Note that the field has a line for the auditor’s signature. If the auditor signs in this field, the attachment of a separate declaration of acceptance is not required. However, if confirmation of paid-up capital is required, a separate declaration of this must be attached.
+Particularly for limited companies:
+If the annual accounts of the company are not to be audited, please tick this here. In addition, state the date when the general meeting approved to waive audit.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23 Accountant                            
+
+
+
+Special requirements
+The accountant must be approved by the Financial Supervisory Authority of Norway and registered in the Register of Accountants .
+Filling in
+The field must be filled in with the accountant’s name/business name, address and organisation number. State the national identity number/d-number if the accountant does not have the right to register in the Central Coordinating Register for Legal Entities.
+Note that the field has a line for the accountant’s signature. If the accountant signs in this field, the attachment of a separate declaration of acceptance is not required.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24 Name and address etc. for the business in Norway                            
+
+
+
+Norwegian registered foreign business with business premises in Norway
+State the business name and business address in Norway. The enterprise may have a separate business name in Norway or use the same business name as in the country of origin.
+Turnover that falls under the provisions of the VAT Act.
+If the enterprise has a turnover that falls under the provisions of the VAT Act and does not have permanent premises in Norway, a Norwegian representative must be reported. A Norwegian representative must be reported in field 12 of the form. This requirement does not apply to enterprises domiciled in an EEA state with which Norway has entered into an agreement about the exchange of information and mutual assistance in collecting VAT claims.
+
+
+
+
+
+
+
+
+
+
+ 
+                                25. Group/enterprise group                            
+
+
+
+The Central Coordinating Register for Legal Entities requires information about enterprises that are part of a group or enterprise group, cf. section 6 first paragraph k of the Act relating to the Central Coordinating Register for Legal Entities. Enterprises that are part of a group or enterprise group are under the obligation to report particular information to the Central Coordinating Register for Legal Entities, cf. the regulations dated 9 February 1995 relating to registration of legal persons etc. in the Central Coordinating Register for Legal Entities. Tick off if the enterprise is part of a group or enterprise group or if there has been a change in the group structure. The enterprise will receive further information on how to report this.
+
+
+
+
+
+
+
+
+
+
+ 
+                                26 Other remarks                            
+
+
+
+Here you report information that you do not find a place for in the other fields of the form. Attach a separate sheet if there is inadequate space. Examples of information to be reported here are
+Limited companies and public limited companies
+
+authorisation to the board to increase the share capital through a new subscription. When reporting a capital increase based on authorisation from the board, converting loans, issued subscription right shares or independent subscription rights, information must be provided on the date when the board authorisation was granted, the loan was raised or the subscription right shares or subscription rights were issued. If the reported capital increase comes from different authorisations (for example authorisation from the board and converting a loan), specification must also be given as to how the capital increase is distributed.
+authorisation to the board to acquire own shares for ownership or mortgaging
+authorisation to the board to acquire shares in the parent company for ownership or mortgaging
+authorisation to the board to raise a loan with the right to demand shares issued (convertible loan)
+decision to raise a loan with the right to demand shares issued (convertible loan). When reporting a capital increase based on authorisation from the board, converting loans, issued subscription right shares or free-standing subscription rights, information concerning the date when the authorisation to the board was given, the loan taken out, or the subscription right shares or subscription rights were issued, must be provided. If the reported capital increase comes from different authorisations (for example authorisation from the board and converting a loan), specification must also be given as to how the capital increase is distributed.
+authorisation to the board for distribution of dividend
+agreement, that has to be reported, with shareholders or members of the company’s administration etc.
+decision to issue subscription right shares. When reporting a capital increase based on authorisation from the board, converting loans, issued subscription right shares or independent subscription rights, information about the date when the board authorisation was granted, the loan was raised or the subscription right shares or subscription rights were issued, must be provided. If the reported capital increase comes from different authorisations (for example authorisation from the board and converting a loan), specification must also be given as to how the capital increase is distributed.
+decision to issue free-standing subscription rights. When reporting a capital increase based on authorisation from the board, converting loans, issued subscription right shares or free-standing subscription rights, information concerning the date when the authorisation to the board was given, the loan taken out, or the subscription right shares or subscription rights were issued, must be provided. If the reported capital increase comes from different authorisations (for example authorisation from the board and converting a loan), specification must also be given as to how the capital increase is distributed.
+when notifying a capital increase by bonus issues, or a decision about a capital reduction, it must be stated whether the decision is based upon the last approved annual accounts or an interim balance sheet. The date for the adoption of the annual accounts or the interim balance sheet must also be stated in the notification.
+
+Limited partnerships
+Limited partnerships which have changed limited partners must provide information about this.
+Savings banks
+Savings banks that have issued negotiable primary capital certificates must state the primary capital.
+Norwegian registered foreign businesses
+Norwegian registered foreign business must provide the following information about the main business enterprise in the country of origin:
+
+type of organisation
+registration number and the name of the register, if the enterprise is registered in a public business enterprise register
+general partners/board. State the name, address and date of birth.
+signature rights. State the name, address and date of birth.
+state whether the enterprise is wholly owned by Norwegian nationals or a Norwegian business.
+
+Information about whether the enterprise runs its business in Norway exclusively must also be given
+Public sector enterprises
+Public sector enterprises must state the name and organisation number of the superior enterprise.
+For all types of organisation
+
+Resignation in accordance with section 4-6 of the Act relating to the Register of Business Enterprises. State the role(s) resigned from. Notification of own resignation from a role as a partner will be charged with a fee. See the instructions for field 2.2.
+Separate closing down from the Register of Business Enterprises. See the instructions for field 2.4.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                27 Notification addresses                            
+
+
+
+It is obligatory to register a notification address.
+Only new enterprises have to register a notification address.
+The notification addresses will be used by public authorities to notify the enterprise whenever important information is available in Altinn. The addresses will only be available for public authorities.
+If you are going to change this information later, you have to do so in the enterprise’s profile in Altinn.
+The enterprise must have at least one notification address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                28 Signatures                            
+
+
+
+The notification must be signed in order to be approved.
+Those who sign the notification confirm that the information provided is correct, and that they are aware that providing incorrect information is a punishable offence, cf. section 189 of the General Civil Penal Code.
+The decision of who is to sign this notification is made according to where the enterprise is registered or is to be registered.
+If the notification only relates to the Central Coordinating Register for Legal Entities, it must be signed by the board, a person authorised to sign on behalf of the enterprise, the general manager, the business manager or another contact person. In the case of sole proprietorships, the owner must sign.
+When registering in the Norwegian Foundation Register, the notification must be signed by a person authorised to sign, or all the members of the board.
+Registration in the Register of Business Enterprises
+The notification to the Register of Business Enterprises must be signed by persons authorised to sign on behalf of the enterprise or all notifiables.
+For sole proprietorships, it is the proprietor who is obliged to submit the notification. In general and limited partnerships, each partner is obliged to submit notification unless the partnership is organised with a board. In that case, the obligation to submit notification is subject to each member of the board. In all other enterprises, the reporting obligation rests with each individual member of the board.
+Newly elected board members who have not signed the notification, must enclose a declaration of acceptance, confirming that they have taken on the assignment.
+At the initial registration and when changing partners in a general partnerships, partners who have not signed the notification, must attach a declaration of acceptance for registration in the Register of Business Enterprise.
+For Norwegian registered foreign businesses in Norway, the notification must be signed by the person autorised to sign for the enterprise or the notifiables. The notifiables are the board of the Norwegian enterprise. If such a board does not exist, the person responsible is the general manager of the Norwegian enterprise.
+If a takeover or transfer of a sub-entity has been reported, both parties must sign the notification.
+Please note that we require an original signature in all cases. We cannot accept a copy, or a digital signature on the form.
+
+
+
+
+
+
+
+
+
+Useful links
+
+Guide to attachments
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

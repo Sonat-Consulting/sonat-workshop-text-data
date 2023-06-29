@@ -1,0 +1,281 @@
+
+
+
+
+About searching for announcements
+
+Last updated: 28 October 2021.
+
+
+
+
+
+You can search for announcements on an organisation number, business name, national identity number, a specific date or period of time. 
+
+You can search for particular announcement types, active creditor notifications or registered prospectus. You may also combine a search for a date and period of time, part of the country and announcement type.
+ 
+
+
+
+
+
+
+
+ 
+                                Search for organisation number or business name                            
+
+
+
+When you search for an organisation number, you will receive a hit list of the various announcements. The list is sorted according to date, with the most recent announcements at the top.
+You can retrieve more information about each announcement by clicking on it, or selecting. Show all the announcements of the business and display more information in full text about all the announcements.
+Search for business name
+When you search for a business name, you will receive a hit list of several almost similar business names. Select the business you want announcements for. You will then receive a list of all the announcements that apply to this business. The list is sorted according to date, with the most recent date at the top.
+Closed businesses will appear only if you tick the box Search for closed businesses. If you search for the organisation number, the historical announcements of the business will be displayed.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Search for national identity number or d-number                             
+
+
+
+If you are searching for a national identity number or d-number, you must log in through the ID-porten. Search made on a national identity number or d-number only display hits upon bankruptcies related to person.
+After logging on, you will return to your search result. All the announcements concerning the national identity number or the d-number in question will now be displayed.
+Announcements for a national identity number and d-number are:
+
+The making of a bankruptcy order
+Annulment of bankrptcy
+Winding up the bankruptcy estate
+Termination of bankruptcy proceedings
+Continued bankruptcy proceedings
+
+You can read more about this in the information page for bankruptcy announcements. 
+You may limit your search to a particular date or period, a specified geographical area and/or a specified announcement type.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Search with delimitation according to date                            
+
+
+
+Use the calendar in the search service to select the date, or enter the date yourself.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Search with geographical delimitation                            
+
+
+
+The geographical delimitation is divided into three:
+
+Region
+County
+Municipality
+
+In order to delimit by county, you must first have selected a region. To be able to delimit to a municipality, you must first have selected a region and county.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Search with delimitation on announcement type                            
+
+
+
+The options for delimitation of announcement types are divided into three. The type of announcement selected in the first box, determines the options in the boxes below. If you do not enter a restriction on the announcement type, all announcements will be selected automatically.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Search with delimitation by branch                            
+
+
+
+This restriction can only be done if you have selected the announcement type bankruptcy/compulsory liquidation.
+The option of delimitation by branch is divided into three. The choices made in the first box determine the available options in the second and third box.
+If you do not enter a restriction on the type of announcement, all branches will automatically be selected.
+
+
+
+
+
+
+
+
+
+
+ 
+                                List of hits for combined searches                            
+
+
+
+The result list will generally be sorted according to the following criteria:
+
+County
+Name, alphabetically
+Date, most recent first
+Announcement type
+
+You can go further to obtain more information from the result list.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Limitations in the event of comprehensive searches                            
+
+
+
+There is a limit in the number of hits in our search service, the limit is 5000 hits per search. If your search generates more than 5000 hits, you will be requested to limit your search even furter.
+A good tip to avoid excessive searches is to search for short periods of time, not more than 3-4 days, and delimit the search according to announcement types.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Search for active creditor notifications                            
+
+
+
+Active creditor notifications are those cases where the creditor time limit has not expired. A search here will display a hit list showing the number of active creditor notifications. When you select type of notification, you will display a list of businesses with active creditor notifications and when the time limit expires. The list is sorted by county, and the businesses are alphabetically listed.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Search for registered prospectus                            
+
+
+
+If you search for registered prospectus, you will receive a list of the propsectus which are registered in the Register of Business Enterprises.
+
+
+
+
+Special restrictions
+All notifications about commencing liquidation proceedings/compulsory liquidation from the district courts in Oslo, Bergen, Trondheim and Stavanger that are registered between 1 November 1999 and 1 June 2001, were entered into the database on 3 February 2002. These announcements will therefore have the announcement date 3 February 2002. Announcements made after 1 June 2001 have the correct announcement date.
+An English-language version of announcements became available as of 21 August 2006. Announcements from prior to this date are only available in Norwegian.
+ 
+
+
+
+
+Useful links
+
+Search for announcements
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

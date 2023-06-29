@@ -1,0 +1,280 @@
+
+
+
+
+Om søk på kunngjøringer
+
+Sist oppdatert: 4. februar 2021.
+
+
+
+
+
+Du kan søke etter kunngjøringer på organisasjonsnummer, foretaksnavn, fødselsnummer, bestemt dato eller tidsperiode.
+
+Du kan søke på bestemte kunngjøringstyper, aktive kreditorvarsler eller registrerte prospekter. Du kan også kombinere søk på dato og periode, landsdel og kunngjøringstype.
+ 
+
+
+
+
+
+
+
+ 
+                                Søk på organisasjonsnummer eller foretaksnavn                            
+
+
+
+Når du søker på organisasjonsnummer får du en treffliste over de ulike kunngjøringene. Listen er sortert etter dato, med de nyeste kunngjøringene øverst.
+Du får mer informasjon om den enkelte kunngjøringen ved å klikke på den, eller velge Vis alle kunngjøringer i foretaket og få mer informasjon i fulltekst om alle kunngjøringene.
+Søk på foretaksnavn
+Når du søker på foretaksnavn får du en treffliste på flere tilnærmet like foretaksnavn. Velg det foretaket du vil ha kunngjøringer for, da får du en liste over alle kunngjøringene som gjelder dette foretaket. Listen er sortert etter dato, med nyeste dato øverst.
+Slettede foretak vil du kun få frem dersom du huker av i boksen Søk i slettede foretak. Søker du på organisasjonsnummeret får du frem foretakets historiske kunngjøringer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk på fødselsnummer eller d-nummer                            
+
+
+
+Skal du søke på fødselsnummer eller d-nummer, må du logge inn via ID-porten. Søk på fødselsnummer og d-nummer gir bare treff ved konkurser knyttet til person.
+Etter innlogging vil du få opp resultatet av søket ditt, som er samtlige kunngjøringer på det aktuelle fødsels- eller d-nummeret. Kunngjøringer på fødselsnummer og d-nummer:
+
+Åpning av konkurs
+Oppheving av konkurs
+Innstilling av konkurs
+Avslutning av konkurs
+Fortsettelse av bobehandling
+
+Les mer på informasjonssiden for konkurskunngjøring.
+Du kan avgrense søket til en bestemt dato eller periode, geografisk område og/eller kunngjøringstype.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med avgrensing på dato                            
+
+
+
+Bruk kalenderen du finner i søketjenesten til å velge dato, eller skriv inn datoen selv.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med geografisk avgrensing                            
+
+
+
+Den geografiske avgrensingen er delt inn i tre:
+
+landsdel
+fylke
+kommune
+
+For å kunne avgrense på fylke må du første ha valgt landsdel. For å kunne avgrense til kommune, må du første ha valgt landsdel og fylke.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med avgrensing på kunngjøringstype                            
+
+
+
+Mulighetene for avgrensing på kunngjøringstyper er delt i tre. Kunngjøringstypen du velger i den første boksen avgjør mulighetene i boksene under. Hvis du ikke legger inn avgrensing på kunngjøringstype, vil alle kunngjøringer automatisk bli valgt.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk med avgrensing på bransje                            
+
+
+
+Denne avgrensingen kan bare gjøres dersom du har valgt kunngjøringstype konkurs/tvangsavvikling.
+Muligheten for avgrensing etter bransje er delt inn i tre. Valget du gjør i den første boksen avgjør mulighetene du har i andre og tredje boks.
+Dersom du ikke legger inn avgrensing på kunngjøringstype vil alle bransjer automatisk bli valgt.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Treffliste ved kombinert søk                            
+
+
+
+I hovedtrekk vil trefflisten her være sortert etter følgende kriterier:
+
+Fylke
+Navn i alfabetisk rekkefølge
+Dato, nyeste først
+Kunngjøringstype
+
+Fra trefflisten får du mer informasjon om den enkelte kunngjøringen ved å klikke på den.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Begrensinger ved omfattende søk                            
+
+
+
+Det er lagt en begrensning på antall treff i vår søketjeneste, grensen er 5000 treff per søk. Dersom søket ditt genererer mer enn 5000 treff vil du få beskjed om å avgrense søket ditt enda mer.
+Et godt tips for å unngå for store søk, er å søke på korte tidsperioder, ikke mer enn 3-4 dager, og avgrense søket etter kunngjøringstyper.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk på aktive kreditorvarsler                            
+
+
+
+Aktive kreditorvarsler er de tilfellene der kreditorfristen ikke er utløpt. Et søk her gir deg en treffliste som viser antall aktive kreditorvarsler. Når du velger type varsel, får du en liste over foretakene som har aktive kreditorvarsel og når fristen løper ut. Listen er sortert etter fylke, og foretakene står i alfabetisk rekkefølge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Søk på registrerte prospekter                            
+
+
+
+Søker du på registrerte prospekter får du en oversikt over prospektene som er registrert i Foretaksregisteret.
+
+
+
+
+Spesielle begrensinger
+Alle kunngjøringer om konkursåpning/tvangsavvikling fra tingrettene i Oslo, Bergen, Trondheim og Stavanger som er registrert i tidsrommet 1. november 1999 til 1. juni 2001, ble lagt inn i databasen 3. februar 2002. Disse kunngjøringene har derfor kunngjøringsdato 3.2.2002. Kunngjøringene etter 1. juni 2001 har korrekt kunngjøringsdato.
+Engelsk versjon av kunngjøringene finnes bare fra 21. august 2006. Kunngjøringer før denne datoen finnes bare på norsk.
+ 
+
+
+
+
+Nyttige lenker
+
+Søk i kunngjøringer
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

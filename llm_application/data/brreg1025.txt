@@ -1,0 +1,105 @@
+
+
+
+
+Varslingsadresser til bruk for offentlig forvaltning
+
+Sist oppdatert: 13. april 2023.
+
+
+
+
+
+Varslingsadressene for virksomheter er tilgjengelig for oppslag i et maskinelt grensesnitt. Det er bare offentlig forvaltning som kan bruke dem.
+
+Varslingsadresser er e-postadresser eller mobiltelefonnummer. Disse brukes av det offentlige for å varsle om viktige meldinger som leveres digitalt. For at virksomheten skal kunne motta enkeltvedtak og andre viktige meldinger digitalt, pålegger eForvaltningsforskriften det offentlige å varsle om utsendelse av slike meldinger. Du finner retningslinjer til høyre på denne siden.
+Opplysningene er ikke offentlige, men tjenesten gir offentlig forvaltning tilgang til varslingsadressene som er registrert i Enhetsregisteret. Tjenesten er gratis å bruke. Oppslag på et organisasjonsnummer henter alle varslingsadressene som er registrert på en virksomhet. Navn og organisasjonsform blir også presentert. Hvis du gjør oppslag på en underenhet som ikke har registrert varslingsadresse, presenterer vi varslingsadressene som er registrert på hovedenheten.
+Hvordan får jeg tilgang?
+For å benytte tjenesten trenger du et X.509 virksomhetssertifikat for autentisering. Dette kan du lese mer om i den tekniske beskrivelsen av tjenesten.
+Virksomheter i offentlig forvaltning med organisasjonsform staten, fylkeskommune, kommune, administrativ enhet i offentlig sektor og organisasjonsledd kan gjøre oppslag. Det er mulig å søke om tilgang for virksomheter som hører til offentlig forvaltning, men som har en annen organisasjonsform enn de nevnte. Søknaden, som du sender oss på e-post, må inneholde dokumentasjon som viser at dere treffer enkeltvedtak eller driver myndighetsutøvelse.
+Hvilke enheter har varslingsadresser?
+Alle som er registrert i Enhetsregisteret har plikt til å melde minst én varslingsadresse. Underenheter er ikke pålagt å oppgi varslingsadresse, men kan gjøre det hvis de har behov for det.
+Hvordan melder jeg fra om feil i varslingsadresser for virksomheter?
+Alle som er registrert i Enhetsregisteret har plikt til å holde egne varslingsadresser korrekte. Adressene oppdateres i virksomhetens profil i Altinn. Hvis du oppdager at en varslingsadresse er feil og virksomheten ikke retter den, kan du sende en e-post til oss. Du må oppgi navn og organisasjonsnummer på virksomheten endringen gjelder. Du må også fortelle hvilken adresse som er feil og hva dere har gjort for å få virksomheten til å rette opp denne selv. Legg ved kopi av for eksempel e-post fra dere der virksomheten er bedt om å rette opp feil.
+ 
+
+
+
+
+Nyttige lenker
+
+API-beskrivelse
+
+
+
+
+eForvaltningsforskriften
+
+
+
+
+
+Forvaltningsloven
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

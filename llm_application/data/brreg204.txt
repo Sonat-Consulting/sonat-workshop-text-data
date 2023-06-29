@@ -1,0 +1,291 @@
+
+
+
+
+Rettleiing til skjema for undereining – aktivitet på fleire adresser
+
+Sist oppdatert: 6. september 2021.
+
+
+
+
+
+Dette skjemaet skal du bruke om du driv aktivitet på fleire stader, eller om du driv aktivitet av stort omfang i ulike bransjar på ein stad.
+
+Reglane for registrering av undereiningar
+Om ei hovudeining (AS, enkeltpersonføretak, kommune og liknande) driv aktivitet, og har tilsette, på fleire lokalt skilde stader (adresser), skal du registrere ei undereining, med eige organisasjonsnummer, for kvar adresse.
+Tilsvarande skal det vere registrert fleire undereiningar, om ei hovudeining driv aktivitet i ulike bransjar på same stad og kvar bransje sysselset minst fem personar på heiltid eller deltid. Unntatt frå denne regelen er mellom anna transport-, bygge- og anleggsbransjen. For desse næringane skal det berre registrerast ei undereining for kvar adresse der det er faste avdelings-/administrasjonskontor.
+Slik fyller du ut skjemaet
+Fyll ut eitt skjema for kvar av undereiningane.
+ 
+
+
+
+
+
+
+
+ 
+                                1 Organisasjonsnummer                            
+
+
+
+Om ei alt registrert hovudeining melder at ho skal registrere ny undereining, legg du inn organisasjonsnummeret til hovudeininga.
+Om  meldinga gjeld endringar i dei opplysningane som er registrerte om ei undereining, legg du inn organisasjonsnummeret til både hovudeininga og undereininga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Namn på undereininga                            
+
+
+
+Fyll ut feltet om undereininga blir driven under eit anna namn enn det offisielle namnet/føretaksnamnet til hovudeininga eller om undereininga har ei eiga avdelingsnemning.
+Om meldinga gjeld endring av namn, må både nytt og tidlegare namn førast opp.
+Når undereininga ikkje lenger skal ha eige namn, skal feltet «Undereininga sitt fulle namn» fyllast ut med teksten: Blir ikkje lenger driven under eige namn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3. Overtaking/overdraging                            
+
+
+
+For at ein aktivitet skal bli rekna som overtatt eller overdratt, skal same aktivitet fortsette, men med ei anna hovudeining som eigar.
+Desse vilkåra må vere oppfylte
+Dei aktiva som inngår som nødvendige delar i aktiviteten, for eksempel råvarer, produksjonsutstyr, varelager, kontraktar og anna, må i sin heilskap eller i det alt vesentlege overdragast under eitt. Om dei aktiva som inngår i aktiviteten blir særskild seld, slik at aktiviteten ikkje kan fortsette, melder du nedlegging av aktiviteten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3a Nyregistrering eller overtaking av undereining                            
+
+
+
+Nyregistrering av undereining
+Ved nyregistrering av undereining, må du legge inn dato for når aktiviteten blei starta eller skal starte.
+Overtaking av undereining
+Gjeld meldinga overtaking av ei undereining, for eksempel når eit aksjeselskap overtar ein skobutikk eller frisørsalong frå eit anna aksjeselskap, skal du legge inn dato for overtakinga her. Tidlegare eigar legg du inn i felt 4a.
+
+
+
+
+
+
+
+
+
+
+ 
+                                	 3b Overdraging eller sletting av undereining                            
+
+
+
+Overdraging av undereining
+Gjeld meldinga overdraging av ei undereining, for eksempel når eit aksjeselskap overdrar ein skobutikk eller frisørsalong til eit anna aksjeselskap, skal du legge inn dato for overdraginga her. Ny eigar legg du inn  i felt 4b.
+Sletting av undereining
+Gjeld meldinga sletting av undereining, kryss av for nedlegging av aktiviteten og legg inn dato for dette.
+Ei undereining blir sletta  dersom produksjonen av varer og/eller tenester av ein eller annan årsak opphøyrer fullstendig.
+Undereininga opphøyrer òg dersom:
+
+ein ny eigar startar ein heilt ny aktivitet eller ny produksjon av varer og/eller tenester i dei same lokala
+ein ny eigar flyttar heile den tidlegare aktiviteten til ei ny adresse i ein annan kommune
+aktiviteten blir flytta til ein annan kommune og der startar ein heilt ny aktivitet med same eigar
+
+Ver merksam på at melding om nedlegging av undereining ikkje betyr at hovudeininga blir sletta. Ønsker du å slette hovudeininga, melder du dette i Samordna registermelding i Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4a Overtaking av undereining frå                            
+
+
+
+Legg inn organisasjonsnummeret til den tidlegare eigaren dersom det finst.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4b Sal/overdraging av verksemd til                            
+
+
+
+Legg inn organisasjonsnummeret til den nye eigaren dersom det finst.
+Hugs at du bør rydde i innboksen til undereininga i Altinn før overdraginga. Sensitiv informasjon, som sjukemeldingar m.m, bør du lagre i eige sak-/arkivsystem før overdraginga blir registrert. Da unngår du at overtakar får tilgang til sensitiv informasjon som ligg i innboksen til undereininga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Gateadresse til undereininga                            
+
+
+
+Om aktiviteten går føre seg på ei anna adresse enn til hovudeininga, legg du inn denne adressa her. Om aktiviteten ikkje skjer i bestemte lokale eller på faste plassar, for eksempel bygge-, anleggs- eller transportaktivitet, skal du legge inn adressa på den staden der aktiviteten blir administrert frå.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Postadressa til undereininga                            
+
+
+
+Har undereininga ei eiga postadresse, det vil seie ei anna enn den som er oppgitt for hovudeininga, kan ho leggast inn her.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Aktivitet/bransje                            
+
+
+
+Gi ei så nøyaktig/presis utgreiing som råd om den aktivieten som du utfører eller skal utføre.
+Ver merksam på at det ikkje er nok å oppgi eit generelt overordna føremål.
+Legg derfor inn kva du eventuelt produserer/sel og/eller tenester du utfører.
+Her er det gitt eksempel på kor detaljert framstillinga må vere:
+
+Jordbruk:
+– Dyrking av korn
+– Mjølkeproduksjon på storfe
+Transport:
+– Godstransport på veg
+– Drosjebiltransport
+Industri:
+– Produksjon av hushalds, sanitær- og toalettartiklar av papir
+– Produksjon av byggjevarer av plast
+Handel:
+– Agenturhandel med tømmer, trelast og byggjevarer
+– Engroshandel med elektriske hushaldsapparat
+– Butikkhandel med kjøtt og kjøttvarer
+Bygg og anlegg:
+– Grunnarbeid
+– Oppføring av bygningar
+– VVS-arbeid
+Konsulentverksemd:
+– Bedriftsrådgivning
+– Konsulenttenester innan programutvikling av kundespesifiserte program
+
+Om undereininga driv aktivitet i fleire bransjar, må du legge inn kvar einskild av dei i prioritert rekkefølge etter storleiken på omsetning eller sysselsetting.
+Einingar som ikkje driv næringsverksemd, gir opp den aktiviteten dei skal drive. Døme kan vere musikkorps eller idrettslag.
+Ved endring legg du inn den nye aktiviteten og dato for da han starta. Om verksemda har starta med tilleggsaktivitet, skal du òg legge inn aktiviteten som blir utøvt frå før.
+Kva blir opplysningane om aktivitet/bransje brukt til?
+Opplysningane om aktivitet/bransje er grunnlaget for å gi næringskode. Næringskoden blir tildelt etter Standard for næringsgruppering (SN2007). Næringskoden blir mellom anna brukt til å lage statistikk der norsk næringsliv/arbeidsmarknad blir framstilt etter næring/bransje.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Innsendar                            
+
+
+
+Feltet skal fyllast ut berre dersom du sender skjemaet inn for seg sjølv (ikkje saman med hovudblanketten), og innsendar er ein annan enn hovudeininga. Einingsregisteret sender tilbakemeldingar om meldinga – det vil seie at stadfestingar, registerutskrifter og anna brev blir sende til den som er ført opp som innsendar.
+Om innsendarfeltet ikkje er utfylt, blir tilbakemeldingar og anna sende til hovudeininga. Vi ber om at innsendarar som tidlegare har fått tildelt kundenummer av Brønnøysundregistra, òg legger inn dette nummeret.
+Saksreferanse for innsendar/attention
+Her kan innsendaren gi opp eigen referanse for saka.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Andre merknader/opplysningar                            
+
+
+
+Tilleggsopplysningar som kan vere viktige for registreringa. Legg ved eit eige ark dersom det blir for liten plass.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Underskrift                            
+
+
+
+For at meldinga skal bli godkjend, må ho vere underskriven av innehavar i enkeltpersonføretak, dagleg leiar eller kontaktperson for andre verksemder.
+Er det meldt overdraging/overtaking, må begge partar skrive under meldinga.
+Den som skriv under på meldinga, stadfestar at dei opplysningane som er gitt er riktige, og at han/ho er kjend med at det er straffbart å gi uriktige opplysningar.
+
+
+
+
+
+
+
+
+
+
+

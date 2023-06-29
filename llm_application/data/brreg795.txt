@@ -1,0 +1,328 @@
+
+
+
+
+Coordinated register notification
+
+Last updated: 8 November 2022.
+
+
+
+
+
+When you need to send notifications to the Central Coordinating Register for Legal Entities, the Register of Business Enterprises and the Register of Non-Profit Organisations, you fill in and submit the form Coordinated register notification.
+
+
+
+
+
+
+
+Register or change information
+Coordinated register notification 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register or change information
+Coordinated register notification 
+
+
+
+
+
+
+
+
+
+For instance, if you register a new limited company, an association or a sole proprietorship, this is the service you have to use. The same applies if you need to change the information regarding address, board members, name or telephone number on behalf of a registered enterprise.
+The service is fully electronic. This means that attachments that must accompany the notification must be uploaded electronically, and that everyone who are to sign, must do so in Altinn.
+Using the form Coordinated register notification gives many advantages
+
+It is sufficient for one person to sign electronic forms
+The response will be available in Altinn two hours after the case processing is done
+Simple changes will be registered automatically as we receive them
+For most of the notifications in the Register of Business Enterprises, the fee will be lower
+
+Frequently asked questions
+ 
+
+
+
+
+
+
+
+ 
+                                How do I register roles (general manager, board etc.)?                            
+
+
+
+Fill in the national identity number (11 digits) and surname. Choose the correct role and press «Legg til».
+It is important that you write the surname precisely the way it is registered in the National Registry. For persons with several surnames (for instance Smith Jones) only the last name must be filled in. If the names are connected with a hyphen (for instance Smith-Jones), you have to fill in both names.
+
+
+
+
+
+
+
+
+
+
+ 
+                                What kind of attachments can I upload?                            
+
+
+
+The solution will accept most types of formats for text processing, spreadsheet and graphics.
+Note that the size of the file you upload must not exceed 10 MB. If you have several files/attachments, the total size must not exceed 20 MB.
+
+
+
+
+
+
+
+
+
+
+ 
+                                How do I sign the notification and attachments?                            
+
+
+
+The form Coordinated register notification is an online service where filling, uploading of file attachments and signing is to be done in Altinn. You can only use the solution if all attachments can be uploaded as files, and that those who sign the notification can do it in Altinn. The person entitled to sign the notification depends on organisation types and what the notification applies.
+Who should sign?
+The notification must always be signed by at least one person. The signatory must be one of the notifiables that may be
+
+general manager
+member of the board
+owner
+business manager
+signature rights
+contact person
+Norwegian representative
+
+The notification can also be signed by a person who has been granted the right to sign on behalf of the enterprise.
+The deputy member can sign the notification only when they act for the board member.
+If you change the board for a business registered in the Register of Business Enterprises, all the board members have to sign the notification.This also applies to board changes in foundations registered in the Central Coordinating Register for Legal Entities.
+Private individuals
+When the signatory is a person, the signature assignment for the form Coordinated register notification, will be sent to the person’s inbox in Altinn.
+Enterprises
+When the signatory is a legal person, such as an accountant or an auditor, the signature assignment for the form Coordinated register notification, will be sent to the enterprise’s inbox in Altinn.
+The signature can then be done by persons with the role “Access Management” in Altinn. This role is automatically given to persons registered in the Central Coordinating Register for Legal Entities with the role
+
+general manager
+the chair of the board
+owner
+official receiver
+
+If you have one of these roles, you can delegate the right “Signer of the Coordinated register notification” to other persons.
+
+
+
+
+
+
+
+
+
+
+ 
+                                How can I send an attachment later?                            
+
+
+
+There might be situations where you will be asked to send additional documentation while the notification is under processing
+If so, you will receive a message in your inbox in Altinn, containing information about what is missing. This message will contain a link to the original form, enabling you to upload and send new attachments.
+After you have pressed the link «Send inn mer dokumentasjon», you will be directed to the status page. Press the button «Last opp vedlegg», and this will open the page where you upload new attachments. After you have uploaded the attachments, you press the button «Gå videre til innsending».
+If there is no need for an electronic signature connected to these attachments, you will be directed straight to the page where you submit the attachment. Then you press the button «Send inn». If you have uploaded attachments which require a signature, you send the attachments for signing. The attachments will be submitted to the Brønnøysund Register Centre once they are signed in Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                	 How do I check the status of the notification?                            
+
+
+
+Only the person filling out the form will be able to check the status of it
+Log on to Altinn. You will find messages in connection with the submission and processing of the form Coordinated register notification in the Inbox of Altinn. As soon as you send the notification for signing, the link will direct you to a page showing the status of the signing and the processing of the notification.
+
+
+
+
+
+
+
+
+
+
+ 
+                                How can I give the right to sign an electronic form to someone else?                            
+
+
+
+The right to sign can be assigned by the general manager, the chair of the board or the owner
+In the first page, «Hva vil du gjøre?», you can assign the right to sign electronic forms to other persons, for instance employees, the accountant and/or the auditor. When a person has been assigned this right, the person will be able to sign electronic forms on behalf of the enterprise in question.
+If the enterprise does not have a chair of the board or a general manager, the contact person, the business manager or the Norwegian representative will be able to assign the right.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Who can/cannot use this service?                            
+
+
+
+Information that cannot be reported electronically
+The following information cannot be reported in the online solution:
+
+Information about group or enterprise groups
+Merger and demerger of foundations
+Striking off a sole proprietorship if the owner is deceased
+
+If you are going to report such information, you must use the paper form.
+The following organisation types cannot be reported in the online solution:
+
+European Company
+European Economic Enterprise Group
+County municipal business enterprise
+Mutual insurance company
+Inter-municipal company
+Municipal business enterprise
+Pension Fund
+Savings bank
+Public corporation
+Other business enterprise in accordance with special legislation such as health enterprises and student welfare organisation
+
+The following organisation types can report changes and closures in the online solution:
+
+Norwegian-registered foreign business enterprise
+Company with limited liability
+Bankruptcy estate, closure can only be reported on bankruptcy estates created before 1 March 2008
+
+
+
+
+
+You can also send information to other government agencies
+Through the service Coordinated register notification, you will also be able to send information to the NAV State Register of Employers and Employees, the Business Register of Statistics Norway, the Register of Foundation and the Corporate Taxation Data Register.
+New solution for registration in the Value Added Tax Register
+When you apply for registration in the VAT register, you have to use the Tax Administration’s new solution for registration.
+ 
+
+
+
+
+Useful links
+
+Confirmation of share capital contributions
+
+
+
+
+Invoice directly to the inbox in Altinn
+
+
+
+
+Fully electronic case processing
+
+
+
+
+Registration in the Value Added Tax Register
+
+
+
+
+
+Registration in the Foundation Register
+
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

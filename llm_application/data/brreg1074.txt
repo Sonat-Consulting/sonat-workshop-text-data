@@ -1,0 +1,831 @@
+
+
+
+
+Privacy statement
+
+Last updated: 24 May 2023.
+
+
+
+
+
+This privacy statement provides information about what individual information we process, how it is processed and what rights you have. 
+
+The registry activity is largely centred around keeping an overview of who has committed to what. Transparency and overview prevents financial crime. Reliable and relevant information provides financial safety. In connection with the management of our tasks, we register personal data.
+This is how we process personal data
+All information related to you as an individual is personal data. All documents being submitted to and from the Brønnøysund Register Centre, will be scanned and saved in our case processing system or in the electronic arhive system Public 360. Certain information is subject to registration in a register, such as information in notifications. Other types of information may be attachments to notifications, complaints or other types of inquiries. In all cases, you will be able to find personal information in the documents.
+The vast majority of the information with us is registered directly in accordance with law, as the various special laws regulate each individual register. The basis for processing this is Article 6, number 1(e) of the General Data Protection Regulation (GDPR), which allows us to process information necessary to exercise public authority. If your inquiry contains special categories of personal data, the basis for our case processing is Article 9, number 2 (g) of the GDPR. Special categories of personal data are information which pursuant to law requires more than others to be processed, such as information about religious affiliations or political opinion.
+Personal data processed in the registers are first of all the name, address and national identity number in connection to roles, rights or obligations a person has. We also record information about our customers when they order information and use paid services. The information this applies to is mainly name, address, e-mail address and account number. In certain cases,  the national ID number will be used as an identitier, if necessary.
+It is essential to use the national identity number to make sure that we register the correct person, and thus the quality of the information. We collect information about, among other things, name and address from the National Population Register (NPR). If there is no correspondence between, for example, the address that is reported and what appears from the NPR, we register the information from the NPR. We do not provide information about the national ID number, as this is not public information.
+In most cases, the registration is based upon online submission and processing of the notification. It is the reported information that will be processed. As part of the control of the data, we will in certain cases obtain necessary information from other public enterprises or other sources, such as the licence register of the Financial Supervisory Authority of accountants and auditors, the Tax Administration and Supervisory Council for Legal Practice.
+Our decisions are not only based upon automated processing. We do not prepare individual profiles based on individual data we collect.
+Personal information being registered, will exceptionally be used for test purposes, when there is a need to elaborate or make changes in our systems and services. It is only relevant to use individual data when the use of synthetic data is not suitable, or the use of such data is disproportionally resource-draining. Under these circumstances, we carry out measures to preserve information security and the registered privacy.
+We need to secure our systems, offices and premises, and we therefore use camera surveillance. This will prevent and reveal burglary in our premises. We save the recordings seven days before they are deleted.
+Inquries to us by telephone, e-mail or post
+We use the Phonero telephone system to handle telephone inquiries, and we retain names, addresses and telephone numbers that are retrieved from the phone number information. If the user has called previously during the last three months, this will also appear. The personal data that is saved in the telephone system, and which is necessary to manage and operate this, we keep for a short period of time. Complete log will be deleted after one year. If there is a need for personal information for statistics, these are anonymised.
+When a user contacts us by e-mail, we retain the e-mail address and personal data contained in received e-mails. We save this information for one month in order to handle further dialogue with the user. When a user contacts the Business Guidance, by telephone or through the contact form at Altinn, we preserve the telephone number or e-mail address if we need to contact the user again. We also retain postal codes for statistical purposes, but these are anonymised. Information about the user will be saved for one month, so that we may continue the dialogue with the user. Then we anonymise the information.
+The basis for the processing is Article 6, number 1 (f) of the GDPR. It allows us to process information that is necessary to safeguard an interest that outweights the privacy of the individual.
+Our employees use e-mail both internally and externally, as part of the daily work to managing our registers. The individual employee is responsible for deleting e-mails in their own e-mail account, as they will no longer to be saved. When a co-worker quits, the e-mail account will be deleted.
+Please note that e-mail is basically unencrypted. Therefore, you should not submit confidential, sensitive or other confidential information by e-mail. We have internal guidelines for what information we are not submitting by e-mail, this applies, for instance, to national ID number.
+Documents that are regarded case documents, as they are a part of the case processing, and because they funktion as documentation, are covered by the main rules for document publicity, record keeping and archiving. This means that e-mails that are considered case documents, must be recorded. The same applies to case information received through telephone inquiries. These are recorded in the case processing system of the relevant register, or in the archive system Public 360. We use this system for electronic archiving and processing of documents. Incoming and outgoing mail that is not handled in a case processing system for the individual register, will be processed in Public 360. The system is provided by Tieto, is Noark 5-approved, and meets the strictest security certifications.
+The basis for processing this is Article 6, number 1 (e) of the GDPR, which allows us to process information that is necessary for the exercise of public authority. If your inquiry contains special categories of personal data, the basis for our processing is Article 9, number 2 (g) of the GDPR. Special categories of personal data are information that, according to law, requires more than others to process, such as information about religious affilation or political opinion.
+Responsibility for the personal data
+Our director is responsible for all processing of personal data with us. The day-to-day responsibility to meet our obligations is assigned to the head of the relevant register and the electronic solution where the personal data is registered.
+Securing of information
+We have a socially critical duty and objects worthy of protection. This makes high demands on safety. We have established a management system for information security that applies to all our activity in line with ISO 27001.
+Access to the personal data in our systems is limited and governed through access controls based on official needs. All our employees have confidentiality in accordance with the rules in the Public Administration Act.
+Rights for the data subjects
+As registered in our registers, you will have rights that follow the legislation for the relevant register, or subject area. In addition, you will have rights according to the legislation that applies in general. We are an administrative body, and our activities are regulated by the Public Administration Act with regulations. The law regulates, among other things, case processing, the right of appeal, the duty of confidentiality and party access.
+The Personal Data Act and GDPR stipulate, among other things, terms for processing personal data and rights for the data subjects. Below is general information about rights for you who are registered. We point out that the regulations also contain a number of exceptions to these rights, which are not reported here. If you wish to exercise your rights, please contact us. We will respond to your request free of charge as soon as possible, and no later than within one month. Here you will find our contact information.
+Information about how we process your personal data
+As data subject, you have the right to access information about what personal data we process, who is the data controller, the purpose of the processing, the legal basis, which source the information is sprung out of, any recipients of information, storage time and your rights. Mainly, we process personal information that is reported to us in connection with registration in our registers. In most cases, the various special laws specify what information we must register and how it must be processed. We have provided general information about this in this privacy statement. You can also request more thourough information by contacting us. After the information has been registered in our registers, we normally send out a confirmation showing the information that we have registered.
+Access to personal information
+When you are registered with us, you have the right to request access to the personal data that is registered about you, and more in-depth information about how this is processed. The special laws stipulate that most of the information in our registers is publicly available to everyone. In addition, the Freedom of Information Act usually provides everyone the right to claim access into documents that have been sent in and out in connection with the registration of information. As a public agency we are obliged to make our public records available on the internet. Our inbound and outbound case documents have been made searchable on the internet through the publishing service elnnsyn. Here you search for information from our public journal and request access. It is also possible to apply for a personal name, but only for the first twelve months after the publication date. Exceptions from the right of access follow from various laws and regulations, including the Freedom of Information Act’s rules about confidentiality. As a party to a case, you have the right to access the case documents pursuant to the Freedom of Information Act.
+Correction of errors
+You have the right to have incorrect information about you corrected. This is to be done without undue delay. You may also request that we add information, if it is incomplete.
+Correction of information should usually be made by the one with reporting obligation that sends us a notification about this. Who is required to report and how the notification is to be prepared, follows from the legislation for the relevant register.
+If we discover that an information is incomplete or incorrect, and this is due to our case processing, we will on our own initiative correct the error.
+We receive updates of information from the National Population Register. If you discover errors in information about, for example, name or address, you must contact the National Population Register in order to have the error corrected.
+If you discover that information is incorrect or incomplete, we recommend that you contact us for information about how the current information can be corrected.
+Archiving and deletion
+In most cases, deletion from our registers takes place based on a submission of a change or deletion by the notifier. It is the law for the individual registers that determines who is obliged to report. For some of the registers, we may delete information without receiving a notification.
+As a public body we are subject to the rules in the Archives Act with regulations, and we file documents acoording to further provisions in this Act. The law regulates, among other things, the right to correct and delete archive materials. This means that we in many cases have to save registered information in historical archives, even after they have been officially deleted from the registers. This means that deletion from registeres in most cases does not imply a physical deletion, but that the information is removed from the official register, and transferred to historical archives.
+Right to object the processing
+Some times you may have the right to object to the processing of your personal data. This does not apply if we process your personal data due to the legislation, or if it is necessary in order to perform an agreement you have with us. If you believe that we do not have the right to process personal information about you, please contact us.
+Complaint to the Data Protection Authority (DPA)
+If you experience something that you mean is a violation of the privacy regulations, you have the right to complain to the DPA. Please read more about this at the Data Protection Authority.
+Do you have questions about the privacy statement?
+Har du spørsmål til personvernerklæringen?
+ 
+
+
+
+
+
+
+
+ 
+                                Contact our Data Protection Officer                            
+
+
+
+The most important job of the data protection officer is to be a person of resource for the benefit of our users and our organisation.
+Through close knowledge about the activity of the Brønnøysund Register Centre and the basis for our processing of personal information, the data protection officer has a good starting point for addressing privacy law issues that arise.
+In addition, the representative is to take hold of challenges about privacy protection, and the representative is our contact person with the Data Protection Authority.
+The Brønnøysund Register Centre has been in charge of a data protection officer since 1 September 2008.
+ 
+Sissel Hartvigsen
+Data Protection Officer
+E-mail: sissel.hartvigsen@brreg.no
+Phone: 75 00 77 19
+
+
+
+
+Personal data processed in the individual registers
+ 
+
+
+
+
+
+
+
+ 
+                                The Aquaculture Register                            
+
+
+
+Legal basis and purpose
+The legal basis for processing personal data in the Aquaculture Register is based on the Aquaculture Act and the A-register Regulation. These regulate which information to be registered.
+The Aquaculture Register is a register of all the permits granted for operating aquaculture. The objective of this register is to provide legal dispositions to or in an aquaculture permission legal protection against competing licences. In addition, the objective is to make the information publicly available.
+Information we process
+In the Aquaculture Register we register both the submitter of a case and the parties of the case. This may be a mortgagor, mortgagee, transferor, new owner, plaintiff or the defendant.
+The personal information we process in the Aquaculture Register is the name, date of birth, address, and national ID number or D-number.
+We retrieve the information from the documents we receive. The submitter of the documents may be one of the parties or a representative of these. It is voluntary to register, but if it is to happen, the Act states what information we can register.
+Disclosure of information 
+The information in the Aquaculture Register is publicly available, and is handed out to all persons who provide the national ID number, D-number, organisation number, journal number or the aquaculture licence for which the legal right is registered. Information from the historical database is not publicly available, but some may be exempted.
+On our websites you can search for liens in the Aquaculture Register.
+Credit information agencies that have a licence for their business can subscribe to periodic transcripts from the Aquaculture Register.
+The Directorate of Fisheries retrieves information from the registration section through their own service. We may also obtain information about, for example, who owns the licence from this directorate.
+Deletion and archiving
+We delete the registered information in the Aquaculture Register according to the rules of the Land Registration Act.
+The information will be deleted at the request of the licensee or when proof for the creation of the legal right has been dropped. If the information is not deleted on this basis, they will be deleted when the effect of the registration has ceased to apply after the expiry of the term of the legal protection. Voluntary mortgages will be automatically deleted after twenty years, while transfers will be held until there is a new transfer.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The EMAS register                            
+
+
+
+Legal basis and purpose
+EMAS means the Eco-Management and Audit Scheme and is the EU’s voluntary community scheme for environmental management and environmental auditing. The scheme is an offer to enterprises and governmental, county municipal and municipal administrative agencies who wish to market that they have established program-based goals to safeguard the environment in their production and service. The scheme will promote an improvement in environmental efforts in the participating businesses.
+Through the EEA agreement, Norwegian businesses can participate in the scheme. The legal basis for processing of personal information in the EMAS register is the Pollution Control Act and the Pollution Control Regulation, cf. the European Parliament and Council Regulation (EC) No. 1221/2009 of 25 November 2009 about voluntary participation for organisations in a community scheme for environmental management and environmental auditing (EMAS).
+What information we are processing
+In the EMAS register, we register information about environmental verifier. If this is a physical person, we will record the national ID number or D-number, any accreditation number ( Norwegian Accreditation identifier for environmental verifiers), as well as the name and address. In addition, we register a contact person for the area where the name, address and national ID number or D-number is registered. All documents submitted for registration will be filed. Here you will also find personal information.
+The information is retrieved from a notification that is sent to the EMAS register. The national ID number, name and address are being registered manuelly. There is thus no link to the National Population Register. It is voluntary to participate in the scheme and sign up, but if so, the Law states what information is to be registered.
+Disclosure of information
+The information in the EMAS register is publicly available to all, and an overview of the Norwegian businesses that have joined the scheme is available on our website. This does not apply, however, to your national ID number or D-number.
+Deletion and archiving
+An area will be deleted either due to a notification of closure from the business or based on lack of renewal of the registration.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Central Coordinating Register for Legal Entities                            
+
+
+
+Legal basis and purpose
+Legal basis for processing personal data in this register is the Act relating to the Central Coordinating Register for Legal Entities.
+The purpose of the register is to promote efficient utilization and coordination of the public information about legal persons, sole proprietorships and other registration enterprises through rules for the creation, organisation and operation of a nationwide register. The register contains basic data about enterprises that are obliged to register with The NAV Aa Register, The Value Added Tax Register, The Register of Business Enterprises, The Business Register of Statistics Norway, The Corporate Taxation Data Register and The Foundation Register
+In addition, the Register of Bankruptcies is an affiliated register, and all the bankruptcy estates are registered and assigned with an organisation number in the Central Coordinating Register for Legal Entities.
+A registration entity cannot be registered in an affiliated register before the enterprise is registered in the Central Coordinating Register for Legal Entities and has been assigned an organisation number. The Registrar of an affiliated register has the right and obligation to use the information from this register. They are also required to keep their own register updated with this kind of information.
+What information we are processing
+In order to be registered in the Central Coordinating Register for Legal Entities and be assigned an organisation number, the enterprise must state the general manager, business manager, owner or equivalent contact person. If this is a legal person, a natural person must be stated as a contact person as well.
+In addition, the following information must be reported, if available:
+
+partners with unlimited liability for the company’s obligations
+board members
+Norwegian representative of a foreign business
+power of procuration
+signature right
+accountant
+
+For persons holding such roles, the register must contain information about the name, place of residence and national ID number or D-number.
+The enterprise’s phone number, fax number og electronic addresses can be registered, if available. These may in some cases be linked to individuals.
+All documents being submitted to this register in connection with a notification, are archived and stored in the case processing system. The form and attachments that are submitted on paper will be scanned. The same applies to documents that are submitted in connection with complaints about the register’s decision. These documents will allow you to find personal information.
+The personal information is retrieved from a notification that is sent to the register. Information is also obtained from affiliated registries. The register receives updated information relating to individuals from the National Population Register.
+It is legally based which information is to be registered, but volunteers are allowed to take on a task, or roles in the enterprise that are registered.
+Disclosure of information
+Information registered in the Central Coordinating Register for Legal Entities is transferred to affiliated registers. Affiliated registers and public authorities have the right to access information registered in this register.
+Everyone has the right to get access to and transcript of information that is registered in the register, and electronic copy of such documents. Information in the register is available on our websites. This does not apply to your national ID number or D-number. Credit information agencies may, by agreement approved by the Norwegian Data Protection Authority, access such numbers.
+Deletion and archiving
+We will delete the information due to a notification of change, or deletion from the enterprise. If the business manager assumes that the enterprise has been discontinued, the enterprise and its details will be struck off.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Register of Business Enterprises                            
+
+
+
+Legal basis and purpose
+The legal basis for processing of personal data in this register is the Business Enterprise Registration Act with regulations.
+The purpose of the register is to promote information about all operating businesses in a nationwide register. The registration shall, inter alia, ensure legal protection, clear responsibilities and create business security.
+What information we are processing
+In connection with the businesses registered in the Register of Business Enterprises, we register information about
+• general manager
+• owner
+• partners with unlimited liability for the company’s obligations
+• general partner
+• limited partners
+• board members
+• deputy board members
+• observer
+• auditor
+• power of procuration
+• signature right
+• official receiver
+In addition, the Register of Business Enterprises stores information about founders in all new limited companies.
+For persons mentioned above, the register contains information about name, place of residence and national ID number or D-number.
+All documents sent to the Register of Business Enterprises in connection with a notification will be filed and stored in the case processing system. The form and attachments that are on paper will be scanned. The same applies to documents that are submitted in connection with complaints about the decision of the Register of Business Enterprises. These documents will allow you to find personal information.
+We will obtain the information from the documents we receive. The Register of Business Enterprises receives updated information relating to individuals from the National Population Register.
+It is regulated in Law which information is to be registered, but volunteers are allowed to take on tasks or roles in the enterprises that are registered.
+Disclosure of information
+Everyone has the right to get access to and transcript of information that is registered in this register. This does not apply to your national ID number or D-number.
+The Register of Business Enterprises transfers registered information to
+
+The Business Register of Business Enterprises
+The Corporate Taxation Data Register
+The Norwegian Foundation Register
+The Register of Bankruptcies
+The Value Added Tax Regiser
+The NAV Aa Register
+The Central Coordinating Register for Legal Entities
+The District Courts
+
+Deletion and archiving
+We will delete the information based on changes or deletions from the business. Businesses may also be deleted by the Registrar if we assume that they have been terminated.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Register of the Non-Profit Organisations                            
+
+
+
+Legal basis and purpose
+The legal basis for the processing of personal data in this register is the Regulations relating to the Register of Non-profit Organisations Act.
+The purpose of the register is to improve and simplify interaction between voluntary activities and public authorities, and to facilitate public policy on voluntary activities. Further, the purpose of the register is to strenghten and maintain the basement for voluntary activities.
+What information we are processing
+In order to be registered with the Register of Non-Profit Organisations, the enterprise must have a board registered in the Central Coordinating Register for Legal Entities. This implies that information about individuals is not registering in the Register of Non-Profit Organisations, but that personal information is processed through interaction with the Central Coordinating Register for Legal Entities. This register will then contain information about name, place of resedence and national ID-number or D-number.
+All documents submitted in connection with a notification will be filed and stored in the case processing system. The form and attachments that are on paper will be scanned. The same applies to documents that are submitted in connection with complaints about the decision from the Register of Non-Profit Organisations. These documents will allow you to find personal information.
+We will obtain the information from the documents we receive, and from the Central Coordinating Register for Legal Entities. It is also possible to report information to the Register of Non-Profit Organisations through the Integration Solution.
+It is regulated in Law what information we are to register, but volunteers are allowed to take on tasks or roles in the enterprises that are registered.
+Disclosure of information
+The Register of Non-Profit Organisations does not deliver personal information. Information about the board and contact person may be provided from the Central Coordinating Register for Legal Entities.
+Deletion and archiving
+We will delete the information from the register based on a notification of changes or deletion. They may also be deleted by the Registrar if we assume that the enterprise has been discontinued.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Norwegian Register of Hunters                            
+
+
+
+Legal basis and purpose
+The Brønnøysund Register Centre is the data processor for the information in the Register of Hunters, while the Norwegian Environment Agency is responsible for processing.
+The legal basis for the processing of personal data in this register is the Wildlife Act. The purpose of the register is to register hunters who have passed the hunting licence test and use the information to send out hunting licence fees. The register also contains information about hunters who have been sentenced to loose their hunting rights. In this way the register will provide a complete list of persons who meet the conditions for hunting in Norway.
+What information we are processing
+The personal information being processed in the Norwegian Register of Hunters is the name, address, date of birth and national ID number or D-number.
+We will retrieve the information from the registered person. Those who go hunting in Norway must be registered with this register. It is regulated by law which information we will register.
+Information about loss of rights will be submitted by the prosecuting authority.
+Disclosure of information
+The register provides information to anyone wishing to know if a person is registered in this register and if the person in question has paid the hunting licence fee. In order to obtain the information, the national ID number must be stated.
+The Norwegian Environment Agency as data controller, writes this on its website about the processing of personal data:
+The Environment Agency is covered by the Freedom of Information Act, which means that our case documents, records and the like are, as a general rule, open to be accessed. Access may also be required in compilations of information that is electronically stored in the Register of Hunters when this can be done with simple procedures. The Agency will hand over document and compilations in accordance with the Freedom of Information Act when access is required, except when the document, record or compilation contains information that is confidential by law or regulation, or should be exempted from public access pursuant to the Freedom of information Act. In such cases, the agency will assess whether partly access to the information can be granted, cf. the obligation to public access government papers. Confidential information will not be disclosed.
+You can read more about how the Environmental Agency processes personal data on their website.
+Deletion and archiving
+If the registered hunter does not pay the hunting licence fee, or is sentenced to loose the hunting rights, the information about the person in question will be deleted from the register. We will also delete any information about criminal matters. By taking a new hunting test, we will delete any information about criminal matters.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Register of Bankruptcies                            
+
+
+
+Legal basis and purpose
+The legal basis for processing personal data in this register is the Bankruptcy Act and its Regulations.
+The purpose of processing personal data in the register is to facilitate access to information about bankruptcy proceedings, assist the district court and the official receiver, and combat financial crime.
+What information we are processing
+We register information about bankruptcy estate which is being processed by the district court. We register
+• owner
+• general manger
+• board members
+• founders
+• shareholder who owns more than 20 percent
+• official receiver
+• auditor
+• accountant
+Individuals who have been disqualified from running a business are registered in the Register of Bankruptcy.
+Personal information processed in the register is the name, national ID number or D-number, address, telephone number and e-mail address.
+We will retrieve the information from the district court which gives the verdict about liquidation proceedings or disqualification. In addition, we retrieve information about role holders from the Central Coordinating Register for Legal Entities.
+Disclosure of information
+Regulations relating to the Bankruptcy Act regulates what information we can deliver and how long they will be publicly available. This information is provided to all who contact us and enter their national ID number, D-number or organisation number.
+In addition, we provide information about whether a person has an active disqualification in a search service on our website. Everyone can log on through the ID-porten and search on a national ID-number, D-number or name.
+Credit information agencies can subscribe to information about bankruptcy proceedings, debt settlements and disqualifications.
+Information to be announced pursuant to the Bankruptcy Act is announced on our website.
+Deletion and archiving
+If a ruling about bankruptcy order or disqualification is reversed or terminated by appeal, the registered information will be deleted. There will be announcement about this which will be available for three weeks.
+Information about bankruptcy estates or compulsory liquidation estates regarding natural persons will be deleted one year after the final order or distribution.
+Information about bankruptcy estates or compulsory liquidation estates regarding legal persons will be deleted three years after final order or distribution.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Municipal Reporting Register                            
+
+
+
+Legal basis and purpose
+The legal basis for processing personal data in this register is the Local Government Act. The purpose of the register is to provide an electronic overview of the overall reporting obligations that municipalities and county municipalities have according to law or resolution. The register shall be a means of coordination and simplification.
+What information we are processing
+When the businesses that manage reporting obligations directed at the local government sector must register information in this register, they must obtain user access. To get user access to the register, the representative of the business must register through the ID-porten. In the registration process, the professionals must be reported for each reporting obligation.
+The Municipal Reporting Register records the roles
+• case workers or registrars at the individual businesses
+• professionals for each reporting obligation
+Information we register about the individual person is
+• agency affiliation
+• first name
+• surname
+• telephone number
+• e-mail address
+We also record the date of last update of the personal information.
+The Municipal Reporting Register uses the contact information in the work of guidance to assist the businesses in fulfilling the requirements of the Local Government Act, as well as contributing to the quality of information related to the individual reporting obligation.
+It is the representative of the businesses that will register the information in the register. It is regulated by law which information is to be registered.
+Disclosure of information
+Personal data relating to case workers, registrars and professionals at the individual business are not shown in open data or in other products from the register. However, the names of the professionals are stated in the register transcript from the register. This is only available to case workers and registrars of all businesses recorded in the register.
+Deletion and archiving
+The personal data will not be deleted from the register, as historical data may be retrieved on the individual reporting obligations.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Register of Mortgaged Movable Property, the Register of Marriage Settlement and the Register of Private Debt Amnesty                            
+
+
+
+Legal basis and purpose
+The legal basis for the processing of personal data in the Register of Mortgaged Movable Property is given in the Property Rights Registration Act and statutory regulations. The legal basis for the registration of access to the register is contained in several laws, including the Mortgage Act, The Enforcement Act, The Dispute Act, the Marriage Act, the Debt Settlement Act, the Bankruptcy Act, The Consolidation Act, the Creditors Security Act, the Criminal Procedure Act and the Guardinship Act.
+Registration of liens and other rights
+The purpose of processing personal data relating to liens and other rights in the Register of Mortgaged Movable Property is to provide legal protection in movable property against competing licenses.
+Nothing for distraint and distraint deduction
+The purpose of registering information about nothing for distraint and distraint deduction is to improve grounds for decision making for additional distraint or distraint deduction, as well as an improvement in the credit information basis.
+The Register of Private Dept Amnesty
+The purpose of the registration in this register is the disclosure of information about who has been granted a debt settlement or a debt settlement has been processed. It is important that the information is publicly available throughout the debt settlement proceedings and the debt settlement period, primarily for the sake of the creditors.
+The Register of Marriage Settlements
+The purpose of the registration of marriage settlements in this register is to establish legal protection against the spouses’ creditors.
+What information we are processing
+In the Register of Mortgaged Movable Property, we register the person who has sent a notification. This may be either of the parties or a representative of these. We also register the parties of the case, which may be debtor, creditor, mortgagor, mortgagee, plaintiff, defendant, spouses, tenant or lessor.
+The personal data we process is the name, national ID number or D-number and address.
+We retrieve the information from the submitted documents.
+Disclosure of information
+The information in the Register of Mortgaged Movable Property is handed out to all who provide the national ID number, D-number, organisation number, journal number or the registration number of a motor vehicle to which the court of law is registered.
+Credit information agencies may subscribe to information from the register.
+Information about distraint deduction and nothing for distraint can only be provided to lawyers, financial institutions, debt collection agencies, credit information agencies and public authorities with confidentiality under the Public Administration Act or other law.
+A copy of a debt settlement agreement can only be handed to the district court, execution and enforcement commissioner, public authority, the debtor and his or her spouse, creditors and other parties.
+Liens in motor vehicles are publicly available to all on our website.
+Delition and archiving
+The registered information in the Register of Mortgaged Movable Property will be deleted according to the rules of the Land Registration Act.
+The legal foundations will be deleted upon petition from the licensee or if the evidence indicates that they have fallen away.
+If the legal foundations are not deleted on this basis, the information will be deleted automatically when the effect of the registration has expired after the termination of legal protection period. Expired legal protection period entails automatically deletion due to the following deadlines:
+
+Leasing of a motor vehicle is deleted 30 years upon registration
+Liens in operating equipments, liens in inventories, liens on motor vehicles and construction equipments, liens in railway equipment, liens in agricultural chattels, liens in fishing tackels, security interest in motor vehicles and factoring agreements are erased 20 years upon registration.
+Distraint are deleted 5 years upon registration
+Nothing for distraint are deleted 3 years upon registration
+Seizure and criminal procedure encumbrance are deleted 2 years upon registration.
+Distraint deduction is deleted when the deduction period has expired.
+Abandonment is deleted when the termination of the bankruptcy or the compulsory liquidation is noted in the Register of Mortgaged Movable Property.
+Proceeding of debt settlement is deleted when the debt settlement has been registered.
+Other document types, such as marriage settlement, debt settlements, guardianships and private seizure bans, have no automatic delete date. However, marriage settlements may be erased upon petition if it is proved that they have lost their legal effect.
+
+Once the composition has been confirmed, the debtor’s chair shall ensure that the registration in the Register of Mortgaged Movable Property/the Register of Business Enterprises is deleted.
+The information will not be physical deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Register of Reporting Obligations of Enterprises                            
+
+
+
+Legal basis and purpose
+The register shall ensure efficient coordination and utilisation of business duties and reporting obligations imposed by public bodies on business operators. The register shall contain an updated overview of all such obligations and provide information about these and the coordination that takes place.
+When businesses or agencies that manage reporting obligations directed at the business sector must register information in the register, they need to obtain user access. To get user access to the register, the representative of the business must register through the ID-porten. In the registration process, the professionals must be reported for each reporting obligation.
+Registered information is used for identification and authorisation for access to the Register of Reporting Obligations of Enterprises.
+Furthermore, the register uses the contact information in the work of guidance to assist the businesses in meeting the requirements of the Register of Reporting Obligations of Enterprises Act, as wll as contributing to good quality of the information related to the individual reporting obligation.
+What information we are processing
+The Register of Reporting Obligations of Enterprises register the roles
+
+case workers and registrars with the individual businesses
+professionals for each reporting obligation
+
+Information we register about the individual person is
+
+agency affiliation
+first name
+surname
+telephone number
+e-mail address
+
+We also record the date of last update of the personal information.
+It is the representative of the businesses or agencies that must record information in the register.
+Disclosure of information
+Personal data relating to case workers, registrars and professionals at the individual businesses are not shown in open data or in other products from the register.
+However, the names of the professionals are stated in the register transcript from the registrer. This is only available to case workers and registrars of businesses recorded in the register.
+Deletion and archiving
+The personal data will not be deleted from the register, as historical data may be retrieved on the individual reporting obligations.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Religious and faith community                            
+
+
+
+Legal basis and purpose
+The legal basis for the processing of personal data is given in the Act on Religious Communities and the Act on Grants to Faith Communities. The Ministry of Culture is liable for the processing, and the Brønnøysund Register Centre is computer operator.
+We check the member lists to religious and faith communities so that they can form the basis for payment of grants to communities outside the Norwegian Church. The purpose of the check is to ensure the most accurate basis for payment of grants.
+What information we are processing
+The personal information we register is the name, faith, address, national ID number and status with the National Population Register.
+All religious and faith communities must submit an overview to the State Administrator about the national ID number for which a grant is required. The State Administrator sends the overview to us. We make checks with regard to the National Population Register, the Norwegian Church’s Membership Register and overviews from other religious and faith communities.
+Disclosure of information
+In addition to what follows from the case processing with the State Administrator and the ministry, the personal information is not disclosed to anyone other than the one in question. If a person is listed as a member of more than one religious or faith community, the individual religious or faith communities will not indicate what other community the particular person is listed. The communities will only be notified about which members are listed in more than one faith community.
+Deletion and archiving
+Once the annual check has been completed and the personal data no longer is important to the case processing, the Brønnøysund Register Centre and the State Administrator shall delete all overviews containing the national ID number. The Ministry of Culture reports to us when the information can be deleted. All information related to the national ID number will be deleted once a year. This includes content in database, on paper, diskettes and stored files. Backup will be deleted after one month.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Register of Political Parties                            
+
+
+
+Legal basis and purpose
+Legal basis for processing personal data in this register is the Political Parties Act and the Political Parties Act Regulations.
+The purpose of the registration is to ensure notoriety and clarity of who can represent the party outwards.
+In the register we report information about contact person registerted with the Central Coordinating Register for Legal Entities, and information about the party’s executive body. For these persons, the register contains information about the name, place of residence and national ID number or D-number.
+As a supporting documentation, initial registration shall be accompanied by statements from at least 5,000 persons entitled to vote at parliamentary elections stating that they wish to register the party name. The name, birth date and address must appear in the statement. It must be personally signed and dated by the person who has issued the statement. This information will not be registered in any system, but filed as a supporting documentation.
+We will retrieve the information from the submitted documents that we receive from a contact person or equivalent.
+It is regulated by law what information we are going to register, but it is volunatary to take on assignments or roles in a party and to issue a statement on the signature list.
+Disclosure of information
+All information in the Register of Political Parties, including information about members of the party’s executive body and contact person in the Central Coordinating Register for Legal Entities, is public. This does not, however, apply to information about national ID number or D number and residence addressess of the members of the party’s executive body. For contact persons, no information about the national ID number and D-number is publicly available.
+The signature lists are exempted from public disclosures, and are not being filed electronically. These are stored in our archive.
+Deletion and archiving
+The effect of the registration expires and the party name becomes available when the party has not made a list in any electoral district at two subsequent parliamentary elections. The party name must then be deleted from the Register of Political Parties. The same applies four years after the party is dissolved or has changed the name. The information about the party’s executive body will then be deleted from the register.
+The executive body and the contact person will as well be deleted from the register if a new executive body or contact person is reported.
+The information is not being physically deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Voluntary Register of Complementary Practitioners                            
+
+
+
+Legal basis and purpose
+Legal basis for the processing of personal data in this register is the Act relating to the alternative treatment of disease, illness, etc. and Regulations on voluntary registry for alternative treatment.
+The purpose of the register is to contribute to increased care of patient safety and consumer rights for those seeking a registered alternative therapist, as well as to contribute to seriousness and businessoriented relationship among practioners of alternative treatment.
+What information we are processing
+The personal information processed in the register is the name, date of birth, address, national ID number or D-number. In addition, we register work place, membership, telephone and e-mail address.
+We will retrieve the information from the documents we receive for registration. It is voluntary to register, but it is regulated by law which information is to be registered.
+Disclosure of information
+We provide the information to all who state the national ID-number or D-number to a practioner of alternative treatment. It is possible to apply for registered information on our website.
+Deletion and archiving
+All documentation submitted in connection with registration is stored automatically in the case processing system. The originals are stored for approximately 3 months before they are shredded.
+We will delete the information upon requiry from the registered person, as well as in cases where the person no longer fulfills the terms of registration. Practitoners are automatically deleted when they no longer meet the requirements to be registered.
+The information are not being physically deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Register of Company Accounts                            
+
+
+
+Legal basis and purpose
+Legal basis for processing personal data in this register is The Accounting Act with regulations.
+The purpose of the register is to receive and publish the annual accounts, the annual report and, if any, the audit report, so that everyone can be acquainted with the content of the documents with the register.
+What information we are processing
+If the annual accounts are not being submitted within the applicable deadlines, the enterprises with accounting obligations will be charged with a late filing penalty. If the enterprise does not pay, board members, possibly participants or members and general manager will be jointly and severally liable for the late filing penalty. In connection with this we obtain information about these role holders from the Central Coordinating Register for Legal Entities and the Register of Business Enterprises in order to claim fees. The fine will be done automatically according to current rules. The information that will be registered is the national ID number or D-number, name and address, as these are necessary to identify the right person.
+It is possible to apply for a waiver of the late filing penalty, and to appeal for any decision to refuse such cancellation. In this connection, the submitted documents often contain sensitive personal information. As a basis for reclaiming the late filing penalty, information about illness, criminal offences, personal finances and other social conditions will often be stated as a reason for failure to comply with the submission deadline for the annual accounts.
+All documents submitted to the Register of Company Accounts will be filed electronically.
+Personal data may also be found in the annual accounts being submitted. The annual accounts and the annual report should be signed by the board, possibly the general manager and participants or members. The notes should contain information about shareholders. The annual accounts are submitted by the representative of the enterprise with accounting obligations.
+The register retrieves information from the Supervisory Council for Legal Practice, the Norwegian Medicines Agency, the Gaming and Foundation Authority, the Financial Supervisory Authority of Norway and the Norwegian Tax Administration in order to determine whether the enterprise with accounting obligation, has auditing obligations. This information may in some cases be personal data, for example, if the enterprise with accounting obligation is a sole proprietorship. In addition, we may retrieve information from other public businesses, such as the National Collection Agency and the Register of Bankruptcies.
+Disclosure of information
+The annual accounts, the annual report and the audit report are public information, with certain exceptions laid down in the Accounting Act.
+The National Collection Agency receives information about imposed penalty charge and jointly and severally liables in connection with the collection of penalty charge. In addition, the district courts receive information in connection with compulsory liquidation.
+Deletion and archiving
+The information is registered as long as the enterprise with accounting obligations exists.
+The information is not being physically deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The Central Marketing Exclusion Register                            
+
+
+
+Legal basis and purpose
+Legal basis for the processing of personal data in this register is the Marketing Control Act and Regulations about the Central Marketing Exclusion Register.
+The purpose of the processing is to register consumers’ desire to reserve themselves against telephone sales and addressed advertisements, with the aim of making this available to direct marketing managers. Businesses that use directories for mailing lists have an independent responsibility for updating mailing lists against the Central Marketing Exclusion Register.
+What information we are processing
+In the register we register natural persons. The register contains information about the national ID number and D-number, name, postal address and telephone number. The user itself record the information. We also retrieve information from the National Population Register. It is voluntary to be registered, and the user chooses what information beyond publicly-registered information that should be registered.
+Disclosure of information
+Information in the register is only provided to business operators who market directly, to NGOs’ fundraising actions and to those who will update address registers for direct marketing managers.
+The personal ID code of the personal ID number is not provided.
+Deletion and archiving
+The information will be deleted if the registered requests this. In case of death, the information will be deleted one year after the declaration of death from the National Population Register.
+
+
+
+
+Personal data we also process
+ 
+
+
+
+
+
+
+
+ 
+                                The National Fee Collection Office                            
+
+
+
+Legal basis and purpose
+Legal basis for processing personal information in this register is the Court Fees Act and the Court Fees Regulation.
+The purpose of the register is to register and invoice vouchers as the basis for accounting and collection of court fees on behalf of the district courts.
+The register also records vouchers for the payment of side expenses for Execution and Enforcement Commissioners and district courts, such as expenses related to enforcement proceedings.
+What information we are processing
+The personal information we register in the register is the name and address of the person paying the fee. The person is registered as a customer in the customer register.
+The documentation that is being sent contains in some cases other personal information.
+This information is obtained from the district courts and the Execution and Enforcement Commissioners.
+Disclosure of information
+The personal information is only handed to the relevant district court, Execution and Enforcement Commissioner or invoice recipient.
+Deletion and archiving
+The registered information will be filed in accordance with the Bookkeeping Act and the Archive Act. The paper vouchers are stored for 3 months before they are shredded. The accounting vouchers are kept for 10 years before they are shredded.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Compensation scheme for the business community                            
+
+
+
+Legal base and purpose
+In connection with the corona pandemic, the government has decided to introduce a scheme that will provide grants to enterprises with a large drop in turnover due to the pandemic.
+The scheme is regulated in the Act regarding temporary grant scheme for businesses with a large drop in turnover after August 2020 and regulations for filling in and implementing the Act on temporary grant schemes for businesses with a large drop in turnover after August 2020.
+The purpose of the processing of personal data is to collect and check information in order to assess whether terms for grants are present, so that grants can be awarded and paid out. The granting authority may carry out follow-up checks and impose infringement fines and administrative sanctions for several years after the decision about the grant has been made.
+In addition, the granting authority is to publish information about grants for general inspection.
+What information we are processing
+In conncection with the compensation scheme, the following personal data is processed: Name, national ID number, e-mail, mobile number, bank account number and IP addresses and any disqualifications.
+The information is related to the contact person for general partnerships in a group, who has signed the application, role holders and true owners. In addition, information on income is processed for personal partners in general partnerships and owners of sole proprietorships.
+Information about whether owners of a sole proprietorship and personal partners in general partnerships are disqualified will also be considered.
+In order to check whether the terms for receiving grant has been met, information will be obtained and used from, among others, the Register of Business Enterprises, The Register of Bankruptcies, The Tax Administration, NAV, the Financial Supervisory Authority of Norway and Økokrim.
+Data processors
+The Brønnøysund Register Centre uses two auditing companies to carry out further control of certain applications at the request of the granting authority and they will in this connection process personal data. Through, among other tings, data processor agreements, the two auditing companies are subject to requirements for confidentiality and to comply with the privacy in accordance with the same regulations as the granting authority.
+The Agency for Public Management and eGovernment manages Altinn. An application for compensation must be submitted through a form in Altinn. In connection with the login, the login information will be processed. Altinn’s privacy statement provides information about which personal data is processed in connection with login, application form and signing.
+Disclosure of information
+Information about who has been awarded a grant, will be published on our website and will be available to anyone who wants access to this information.
+Deletion and archiving
+The information in the application and any underlying documention will be stored for as long as the information is needed to meet the purpose of the processing. Then, the information will be archived in accordance with the Archives Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                The compensation scheme for entry quarantine                            
+
+
+
+Legal base and purpose
+In connection with the corona pandemic, the government has decided to introduce a scheme that will provide grant to enterprises that have incurred expenses due to the entry quarantine related to the use of foreign manpower.
+The scheme is regulated in the Act on temporary grant scheme for enterprises with expenses due to the entry quarantine when using foreign labour, and regulations to fill in and implement the Act on temporary grant scheme for enterprises with expenses related to the entry quarantine when using foreign labour.
+The purpose of the processing of personal data is to collect and check information in order to assess whether terms for grants are present, so that grants can be awarded and paid out. The granting authority may carry out follow-up checks and impose infringement fines and administrative sanctions for several years after the decision about the grant has been made.
+In addition, the granting authority is to publish information about grants for general inspection.
+What information we are processing
+In conncection with the quarantine compensation scheme, the following personal data is processed: Name, national ID number, international identification number used in the A-notification, e-mail, mobile number, bank account number and IP addresses and any disqualifications.
+The information is related to employees and contractors, the contact person for general partnerships in a group, who has signed the application, role holders and true owners. In addition, information on income is processed for personal partners in general partnerships and owners of sole proprietorships.
+Information about whether owners of a sole proprietorship and personal partners in general partnerships are disqualified will also be considered.
+In order to check whether the terms for receiving grant has been met, information will be obtained and used from, among others, the Register of Business Enterprises, The Register of Bankruptcies, The Tax Administration, the National Authority for Investigation and Prosecution of Economic and Environmental Crime, the Financial Supervisory Authority of Norway and the Norwegian Labour Inspection Authority.
+Data processors
+The Brønnøysund Register Centre uses three auditing companies to carry out further control of certain applications at the request of the granting authority and they will in this connection process personal data. Through, among other tings, data processor agreements, the two auditing companies are subject to requirements for confidentiality and to comply with the privacy in accordance with the same regulations as the granting authority.
+Altinn is managed by the Agency for Public Management and eGovernment and an application for compensation must be submitted through a form in Altinn. In connection with the login, the login information will be processed. Altinn’s privacy statement provides information about which personal data is processed in connection with login, application form and signing.
+Disclosure of information
+Information about who has been awarded a grant, will be published on our website and will be available to anyone who wants access to this information.
+Deletion and archiving
+The information in the application and any underlying documention will be stored for as long as the information is needed to meet the purpose of the processing. Then, the information will be archived in accordance with the Archives Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Registration of rights loss                            
+
+
+
+Legal basis and purpose
+Legal basis for prossessing the information about loss of rights is the Penal Code, the Act relating to the Central Coordinating Register for Legal Rights and the Business Enterprise Registration Act.
+The purpose of the registration is to prevent persons who, pursuant to section 56 of the Penal Code has been deprived the right to pursue business or activity, to be registered with new roles in the Register of Business Enterprises and the Central Coordinating Register for Legal Rights, and that they are removed from existing roles. In addition, we use the information in the Norwegian Register of Hunters for cases where the person in question has been deprived the hunting right. It is the Register of Bankruptcy which has the overview of loss of rights.
+What information we are processing
+The personal information we process is the name, the national ID number or D-number and address.
+We collect the information from the prosecuting authority, which submits the conclusion of judgement.
+Disclosure of information
+The information is for internal use with us, and is not publicly available. The information may be given to whom it may concern, the police and the prosecuting authority, and to others if there is a legal basis.
+Deletion and archiving
+We delete the information when the period for the loss of rights has expired. The original documents will be shredded at the same time.
+The information will not be physically deleted, but filed in accordance with the Archive Act.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Job applicants                            
+
+
+
+If you apply for a job with us, we need to process information about you to consider your application. The hiring process involves processing the information you provide to us in submitted documents, such as your application, CV, diplomas and certificates. In addition to any interviews, we may also conduct our own surveys, typically interviews with your references.
+We use the job search portal JobbNorge to manage submitted applications for our vacancies.
+To assess the submitted documentation, conduct interviews and call references, the basis for processing is Article 6 (1) (b) of the General Data Protection Regulation. This provision allows us to process personal data when it is necessary to take steps at the request of the job applicant’s prior to entering into an agreement. By applying for the position and uploading the documents, we consider that the job applicant asks us to review the submitted documentation, conduct interviews and call references with the intention of concluding an employment contract.
+If we carry out our own investigations beyond this, for example contacting someone who has issued a certificate, but who is not provided as a reference, the basis for such surveys is the General Data Protection Regulation Article 6 (1) (f), which allows us to process information that is necessary to protect a legitimate interest that overrides the consideration of the individual’s interests or fundamental rights and freedoms. The legitimate interest is to find the right candidate for the position.
+You do not need to provide special categories of personal data in your application or in an interview. However, you can choose to do so. If you state that you have a disability that will require adaptations at the workplace or of the employment conditions, we are obliged to call at least one applicant with such disability in for an interview, cf. the Regulations to the Civil Service Act, section 6. Therefore, our basis for processing this information is Article 6 (1) (c) of the General Data Protection Regulation, and the processing is necessary to:
+
+be in compliance with a legal obligation, cf. Article 9 (2) (b),
+fulfil our obligations in the field of employment legislation in accordance with the law.
+
+In other cases, our basis for processing is Article 6 (1) (a) of the General Data Protection Regulation, i.e. your explicit consent, cf. Article 9 (2) (a). You can withdraw this consent at any time. Withdrawing your consent will not affect the lawfulness of the processing of personal data that took place before you withdrew your consent.
+Job applications are stored in JobbNorge’s job searching system. General applications are deleted within 365 days and applications with employee or interview status are deleted within 540 days. Lists of applicants and recommendations, as well as job applications, are transferred to our case and archive system and are kept and stored in accordance with archiving legislation.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Newsletter                            
+
+
+
+By registering your e-mail address, you agree that we send you newsletters and that we use your e-mail address to do so. You can at any time unsubscribe the newsletter.
+The e-mail address is stored in a separate database operated by our data processor Make AS, and it is not shared with others.
+
+
+
+
+Use of cookies
+A cookie is a small text file that is stored on your computer when you load a website. At brreg.no we use cookies to store information about the choises you have made on the site, and to distribute trafic on our servers. We will automatically delete these when you quit browsing.
+We use Google analytics to review and improve the site by registering the visitor pattern. The cookies contain general information such as browser, language, continent and which website you came from. You can find more information about these in the information from Google.
+ 
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

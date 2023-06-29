@@ -1,0 +1,409 @@
+
+
+
+
+Stikkord – Kommunalt rapporteringsregister
+
+Sist oppdatert: 16. desember 2022.
+
+
+
+
+
+Nedenfor finner du en liste over stikkord som har en sammenheng med kommunale rapporteringsplikter.
+ 
+
+
+
+
+
+
+
+ 
+                                A                            
+
+
+
+Arbeidsbyrde
+
+Tiden som går med til å fylle ut rapporteringsplikter. KOR innhenter belastningstall for hver enkelt rapporteringsplikt og beregner en total arbeidsbyrde for alle rapporteringene. Se også belastning.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                B                            
+
+
+
+Belastning
+
+Med belastning mener vi den pålagte belastning for kommunesektoren i forbindelse med utfylling av rapporteringsplikter. Beregningen av belastningstall gjøres på bakgrunn av medgått tid til utfylling av rapporteringsplikter, inkludert forarbeid til innhenting av opplysningene. I tillegg vil antall innrapporteringer og antall innsendere inngå i beregningen av den totale belastningen. Se også belastningsstatistikk.
+
+Belastningsstatistikk
+
+En statistisk oversikt over utviklingen i det belastningsnivået som pålegges kommunesektoren i forbindelse med statlige rapporteringsplikter. Statistikken viser effekten av forenklings- og samordningstiltak som de statlige virksomhetene gjennomfører, og effekten av nye rapporteringsplikter. Se også belastning.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                E                            
+
+
+
+Elektronisk arbeidsbyrde
+
+Beskriver den tid som går med til innsenderne sitt arbeid med rapporteringsplikter som blir levert i  maskinlesbart format. Skjema i pdf-eller wordformat som skal fylles ut og sendes inn på e-post, blir ikke regnet som elektronisk skjema. Se elektronisk levering.
+
+Elektronisk levering
+
+Innsendelse av informasjon knyttet til rapporteringsplikt via web-løsninger eller fagsystemer, uten bruk av papir eller brev.
+
+Estimert tid
+
+Antatt tid som går med til innsenderne sitt arbeid med rapporteringsplikten. Denne kan være basert på oppgaveforvalterens egne estimater eller på tall innhentet fra innsenderne selv.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                F                            
+
+
+
+Fagansvarlig departement
+
+Departementet som er ansvarlig for rapporteringsplikten, det vil si som gir lovgrunnlaget for rapporteringsplikten.
+
+Forenkling
+
+Reduksjon i innsenderne sitt arbeid med rapporteringsplikter som følge av mindre omfattende rapporteringer, redusert utvalg av innsendere, færre innsendelser pr år eller lignende.
+
+Formål
+
+Beskrivelse av bakgrunnen for rapporteringsplikten hva den innhentede informasjonen skal bli brukt til, for eksempel statistikk og økonomiske beregninger.
+
+Forskrift
+
+En rapporteringsplikt kan være hjemlet i en eller flere lover samt eventuelle forskrifter.
+
+Forskriftshenvisning 
+
+Henvisning til paragraf, ledd, bokstav eller lignende som presiserer hvilke deler av forskriften som ligger til grunn for rapporteringsplikten.
+
+Forutsetninger
+
+Rapporteringspliktene kan vanligvis bli avgrenset til å gjelde bestemte organisasjonsformer, for eksempel kommune eller fylkeskommune, og rapporteringsområder, for eksempel barnehage, grunnskole eller landbruk. Hvis det også gjelder andre forutsetninger for rapporteringsplikten, for eksempel antall ansatte eller omsetningsgrenser, er disse listet ut på egne sider. Du får de fram ved å trykke på linken «Rapporteringsplikter som pålegges under gitte forutsetninger» nederst på siden.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                H                            
+
+
+
+Hendelse
+
+Endringer i drift eller tilstand som kan utløse rapporteringsplikter.
+
+Hendelsesstyrt
+
+Når rapporteringsplikter blir utløst av endringer i drift eller tilstand, for eksempel styreendringer eller arbeidsulykker.
+
+Hjemmel
+
+Hjemmelsgrunnlag for en rapporteringsplikt kan være lover, forskrifter eller vedtak truffet av statlig organ.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                I                            
+
+
+
+Innsender
+
+Kommuner, fylkeskommuner, kommunale foretak eller fylkeskommunale foretak som via skjema eller andre rapporteringer sender inn informasjon til statlig myndighet.
+
+Innsendelsesfrekvens
+
+For rapporteringsplikter med faste rapporteringstidspunkt eller intervaller, for eksempel månedlig eller årlig, framgår det hvor ofte innsendelsene skal skje. Hvis rapporteringen er hendelsesstyrt, angis dette.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                K                            
+
+
+
+Kommunesektorens kontakt
+
+Opplysninger om hvor innsenderne skal henvende seg for å få hjelp til utfylling m.m.
+
+KOR
+
+Forkortelse for Kommunalt rapporteringsregister.
+
+KOSTRA
+
+KOmmune-STat-RApportering. Et nasjonalt informasjonssystem som gir styringsinformasjon om kommunal virksomhet. Systemet skal forenkle rapporteringen fra kommunene til staten ved at data bare rapporteres én gang.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                L                            
+
+
+
+Lov
+
+En rapporteringsplikt kan være hjemlet i en eller flere lover samt eventuelle forskrifter.
+
+Lovhenvisning
+
+Henvisning til paragraf, ledd, bokstav eller lignende som presiserer hvilke deler av loven som ligger til grunn for rapporteringsplikten.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                M                            
+
+
+
+Manuell arbeidsbyrde
+
+Beskriver den tid som går med til innsenderne sitt arbeid med rapporteringsplikter som blir levert i papirform.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                N                            
+
+
+
+Næringsvirksomhet
+Kommuner og fylkeskommuner kan til en viss grad drive næringsvirksomhet, men vær oppmerksom på at det er egne rapporteringsplikter knyttet til alminnelig næringsvirksomhet. Disse finner du i oversikten under «Næringslivets oppgaveplikter».
+
+
+
+
+
+
+
+
+
+
+ 
+                                O                            
+
+
+
+Oppgaveforvalter
+
+Statlig myndighet som forvalter rapporteringsplikten,det vil si den som organiserer innhentingen av opplysningene og som utformer rapporteringsplikten mv. Dette kan være et departement, men blir ofte ivaretatt av direktorater eller tilsynsmyndigheter.
+
+Oppgaveregisteret
+
+Ett av registrene ved Brønnøysundregistrene. Oppgaveregisteret holder oversikt over næringslivets rapporteringsplikter og arbeider med samordning og forenkling av disse.
+
+Organisasjonsform
+
+Organisasjonsformen forteller hvordan en virksomhet er juridisk organisert, for eksempel aksjeselskap, kommunalt foretak eller interkommunalt selskap.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                R                            
+
+
+
+Rapportering
+
+Opplysninger som kommunesektoren eller deler av kommunesektoren er pålagt å sende inn for å dekke informasjonsbehovet til en offentlig virksomhet, og som er knyttet til en gitt forvaltningsoppgave. Virksomheten innhenter opplysningene gjennom ulike rapporteringsplikter og/eller registre.
+
+Rapporteringsområde
+
+Rapporteringspliktene er fordelt på 19 ulike rapporteringsområder. Dette gjør det enklere å finne fram til rapporteringsplikter som en og samme innsender må ta hensyn til.
+
+Rapporteringsplikt
+
+Standardisert informasjon som kommunesektoren ifølge lov er pliktig å sende inn til staten. Se rapportering.
+
+Rapporteringspliktens nummer
+
+Rapporteringspliktens nummer er virksomheten sitt eget identifikajsonsnummer for skjemaet eller rapporteringsplikten.
+
+Register
+
+Elektroniske databaser eller registre som lagrer informasjon som blir innhentet i rapporteringspliktene, eller som leverer tilleggsinformasjon utover det som blir innhentet i rapporteringspliktene.
+
+Registeransvarlig
+
+Virksomheten eller myndigheten som er ansvarlig for etablering og drift av elektroniske databaser eller registre som blir oppdatert av rapporteringsplikter.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                S                            
+
+
+
+Samordning
+
+Forenkling av innrapporteringer som følge av at flere rapporteringsplikter blir slått sammen eller innhenter opplysninger fra eksisterende databaser og registre.
+
+Skjema
+
+Skjema betyr her all strukturert innrapportering av data. Innrapporteringen kan skje på flere formater. Begrepet er erstattet med rapporteringsplikt.
+
+Skjemanummer
+
+Skjemanummer betyr her virksomhetens eget identifikasjonsnummer for skjemaet eller rapporteringsplikten. Begrepet er erstattet med rapporteringspliktens nummer.
+
+Skjematittel
+
+Skjemtittel betyr her tittelen/navnet til skjemaet eller rapporteringsplikten.
+
+Statistikk
+
+Statistikk som offentliggjøres fra Kommunalt rapporteringsregister består av en oversikt over antall rapporteringsplikter som staten pålegger kommunene og den belastning dette påfører kommunene. Se belastningsstatistikk.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                V                            
+
+
+
+Vedlegg
+
+Enkelte rapporteringer krever vedlegg i form av attester, sertifikater eller regnskap. Dette skal registreres i forbindelse med selve rapporteringsplikten.
+
+Virksomhet
+
+I noen tilfeller driver en enhet med flere typer aktiviteter, eller på flere adresser. Husk å ta med alle de aktuelle rapporteringsområdene, når du søker etter pålagte rapporteringer.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Ø                            
+
+
+
+Øremerkede tilskudd
+
+En bestemt type søknadsskjema rettet mot tilskuddsordninger.
+
+
+
+
+
+
+
+
+
+
+
+

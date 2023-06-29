@@ -1,0 +1,104 @@
+
+
+
+
+Varslingsadresser til bruk for offentleg forvaltning
+
+Sist oppdatert: 26. oktober 2021.
+
+
+
+
+
+Varslingsadressene for verksemder er tilgjengeleg for oppslag i eit maskinelt grensesnitt. Det er berre offentleg forvaltning som kan bruke dei. 
+
+Varslingsadresser er e-postadresser eller mobiltelefonnummer. Desse blir brukt av det offentlege for å varsle om viktige meldingar som blir levert digitalt. For at verksemda skal kunne få enkeltvedtak og andre viktige meldingar digitalt, pålegg eForvaltningsforskrifta det offentlege å varsle om utsending av slike meldingar. Du finn retningslinjene til høgre på denne sida.
+Opplysingane er ikkje offentlege, men tenesta gir offentleg forvaltning tilgang til varslingsadressene som er registrert i Einingsregisteret. Tenesta er gratis å bruke. Oppslag på eit organisasjonsnummer hentar alle varslingsadressene som er registert på ei verksemd. Namn og organisasjonsform blir også presentert. Om du gjer oppslag på ei undereining som ikkje har registrert varslingsadresse, presenterer vi varslingsadressene som er registrert på hovudeininga.
+Korleis får eg tilgang?
+For å nytte tenesta treng du eit X.509 verksemdssertifikat for autentisering . Dette kan du lese meir om i den tekniske beskrivinga av tenesta. Verksemder i offentleg forvaltning med organisasjonsform staten, fylkeskommune, kommune, administrativ eining i offentleg sektor og organisasjonsledd kan gjere oppslag. Det er mogleg å søke om tilgang for verksemder som høyrer til offentleg forvaltning, men som har ei anna organisasjonsform enn dei nemnde. Søknaden, som du sender oss på e-post, må innehalde dokumentasjon som viser at de treff enkeltvedtak eller driv myndigheitsutøving.
+Kva verksemder har varslingsadresser?
+Alle som er registrert i Einingsregisteret har plikt til å melde minst ei varslingsadresse. Undereiningar er ikkje pålagd å oppgi varslingsadresse, men kan gjere det om dei har behov for det.
+Korleis melder eg frå om feil i varslingsadresser for verksemder?
+Alle som er registrert i Einingsregisteret har plikt til å halde eigne varslingsadresser korrekte. Adressene blir oppdatert i eininga sin profil i Altinn. Om du oppdagar at ei varslingsadresse er feil og verksemda ikkje retter ho, kan du sende ein e-post til oss. Du må oppgi namn og organisasjonsnummer på verksemda endringa gjeld. Du må også fortelje kva adresse som er feil og kva de har gjort for å få verksemda sjølv til å rette ho. Legg ved kopi av for eksempel e-post frå dykk der verksemda er bedt om å rette opp feil.
+ 
+
+
+
+
+Nyttige lenker
+
+API beskriving
+
+
+
+
+eForvaltningsforskrifta
+
+
+
+
+
+Forvaltningslova
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

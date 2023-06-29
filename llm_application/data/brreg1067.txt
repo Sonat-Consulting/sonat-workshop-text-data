@@ -1,0 +1,729 @@
+
+
+
+
+Skjema og veiledning for NUF
+
+Sist oppdatert: 9. mai 2023.
+
+
+
+
+
+Alle nyregistreringer av NUF må meldes på papirskjema.
+
+Endringer på allerede registrerte opplysninger kan du registrere elektronisk via Samordnet registermelding, hvis din virksomhet oppfyller kravene for å kunne gjøre dette. Du finner mer informasjon under Nyttige lenker til høyre på denne siden.
+Papirskjema for nedlasting
+Samordnet registermelding, for norskregistrert utenlandsk foretak (NUF) – BR1080B, bokmål (PDF)
+Veiledning til enkeltposter i skjemaet
+ 
+
+
+
+
+
+
+
+ 
+                                1 Innsender/gebyransvarlig                            
+
+
+
+Innsenderen vil bli brukt som mottaker for tilbakemeldinger om saken – det vil si bekreftelser, brev, registerutskrift og lignende. Innsenderen er også ansvarlig for å betale gebyr til Foretaksregisteret.
+Hvis feltet ikke er utfylt, blir tilbakemeldinger, krav om gebyr og lignende sendt til virksomheten. Hvis innsenderen tidligere har fått tildelt kundenummer av Brønnøysundregistrene, oppgir du dette nummeret.
+Saksreferanse/attention for innsender:
+Her kan du oppgi egen referanse for saken hvis det er ønskelig.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Meldingen gjelder                            
+
+
+
+I dette feltet angir du hva meldingen gjelder. En melding kan gjelde ett av følgende forhold:
+2.1 Virksomhet som ikke er registrert tidligere
+2.2 Endringer/nye opplysninger
+2.3 Sletting av virksomhet
+2.1 Virksomhet som ikke er registrert tidligere
+Her skal du kun krysse av hvis virksomheten ikke er registrert i Enhetsregisteret tidligere.
+2.2 Endringer/nye opplysninger
+Hvis virsomheten er registrert i Enhetsregisteret fra før, skal du i de fleste tilfeller krysse av i felt 2.2, «Endringer/nye opplysninger». Dette gjelder selv om virksomheten gjennom meldingen søker registrering i ett av Enhetsregisterets tilknyttede registre.
+Oppgi alltid enhetens organisasjonsnummer og registrerte navn/foretaksnavn i felt 4.1. Fyll for øvrig bare ut de felt endringen gjelder. Innebærer endringen at en registrert opplysning skal slettes uten at den erstattes med en ny opplysning, skriver du «utgår» i det aktuelle feltet. For virksomheter registrert i Foretaksregisteret, er det gebyr på endring av foretaksnavn for virksomheten i Norge, se forskrift om gebyr for tjenester fra Brønnøysundregistrene, § 6.
+2.3 Sletting av virksomhet
+Kryss av hvis virksomheten skal slettes fra alle registre (Enhetsregisteret og de tilknyttede registrene).
+Sletting bare fra tilknyttede registre 
+Det er fullt mulig å slette virksomheten fra ett av Enhetsregisterets tilknyttede registre uten å slette virksomheten fra Enhetsregisteret og/eller øvrige tilknyttede registre.
+Sletting i Foretaksregisteret
+Hvis virksomheten ikke lengre driver næringsaktivitet i Norge, har den verken plikt eller rett til å være registrert i Foretaksregisteret. Hvis virksomheten fremdeles ønsker, eller må være registrert i Enhetsregisteret, må du melde særskilt sletting fra Foretaksregisteret i felt 27 – «Andre merknader/opplysninger». Du skal i så fall ikke krysse av for sletting.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registrering i Norge                            
+
+
+
+Feltet skal fylles ut når virksomheten skal registreres i et tilknyttet register den ikke er registrert i fra før. Felt 3.1 gjelder registrering i Foretaksregisteret. Felt 3.2 gjelder spørsmål om virksomheten har omsetning som kommer inn under merverdiavgiftslovens bestemmelser. Felt 3.3 gjelder registrering av opplysninger i NAV Aa-registeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.1 Registrering i Foretaksregisteret                            
+
+
+
+Foretaksregisteret er i hovedsak et register for næringsdrivende virksomheter i Norge. Registrering i Foretaksregisteret er gebyrbelagt. Satsene er fastsatt i forskrift av 16.12.2003 nr. 1551, om gebyr for tjenester fra Brønnøysundregistrene.
+Hvis virksomheten driver næringsaktivitet i Norge eller på norsk kontinentalsokkel, medfører dette registreringsplikt i Foretaksregisteret. Det er to forhold som må være tilstede for at virksomheten har registreringsplikt eller -rett i Foretaksregisteret; at det drives næringsaktivitet og at denne aktiviteten drives i Norge.
+Næringsaktivitet
+For at aktiviteten skal karakteriseres som næringsaktivitet, må den være av økonomisk karakter og egnet til å gi avkastning. Videre må aktiviteten ha en viss varighet og omfang; det vil i utgangspunktet si at aktiviteten må vare i mer enn 90 dager og omsetningen må være på minimum NOK 50 000 i løpet av en periode på 12 måneder.
+Drives i Norge
+For å avgjøre om aktiviteten drives i Norge, må det gjøres en helhetsvurdering. Momenter som kan legges til grunn for dette er blant annet:
+
+Utføres aktiviteten fra et driftssted i Norge?
+Utføres aktiviteten på norsk jord, eksempelvis innen byggebransjen eller helsesektoren?
+Har kunden inntrykk av å handle med en virksomhet i Norge?
+Hvor inngås det kontrakter
+Hvor lagres varebeholdningen
+Hvor skjer betalingen?
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.2 Har omsetning som kommer inn under merverdiavgiftslovens bestemmelser                            
+
+
+
+En virksomhet som har omsetning som kommer inn under merverdiavgiftslovens bestemmelser og som ikke har fast forretningsadresse/driftssted i Norge, må melde en norsk representant. Norsk representant meldes i skjemaets felt 19. Dette kravet gjelder ikke for foretak hjemmehørende i en EØS-stat eller Storbritannia, som Norge har inngått avtale med om utveksling av opplysninger og gjensidig bistand til innfordring av merverdiavgiftskrav.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3.3 Arbeidstakere – registrering i NAV Aa-registeret                            
+
+
+
+Som arbeidstaker regnes enhver som er ansatt i annens tjeneste for lønn eller annen godtgjørelse. Her skal det krysses ja hvis virksomheten forventer å få egne ansatte eller kommer til engasjere andre som skal motta lønn eller honorar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Navn/ foretaksnavn i hjemlandet                            
+
+
+
+4.1 Virksomhetens fullstendige navn/foretaksnavn
+Feltet skal alltid fylles ut.
+Oppgi virksomhetens fullstendige navn/ foretaksnavn og norsk organisasjonsnummer. Ved nyregistrering, tildeler Enhetsregisteret organisasjonsnummer. Navn/foretaksnavn for virksomheten i Norge oppgir du i felt 16.
+4.2 Eventuelt nytt navn/ foretaksnavn
+Feltet skal bare fylles ut hvis virksomheten melder inn endring av registrert navn/foretaksnavn.
+Husk at navnet/foretaksnavnet før endring skal oppgis i felt 4.1 sammen med organisasjonsnummeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Hovedkontorets adresse i hjemlandet (forretningsadresse/ besøksadresse)                            
+
+
+
+Oppgi forretningsadresse/besøksadresse. Med dette mener vi hovedkontorets gateadresse eller stedsadresse. Her melder du også telefonnummer, telefaksnummer, mobiltelefonnummer og hjemmeside i hjemlandet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Postadresse i hjemlandet                            
+
+
+
+Virksomheter som har en særskilt postadresse, for eksempel postboks, oppgir denne i tillegg til hovedkontorets forretningsadresse/ besøksadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Stiftelse av virksomhet                            
+
+
+
+Her oppgir du virksomhetens stiftelsesdato. For eldre virksomheter som ikke har nøyaktige opplysninger om dato for stiftelse, er det tilstrekkelig å oppgi året for stiftelse.
+Feltet skal ikke fylles ut av andre enn virksomheter som har krav om stiftelse i henhold til hjemlandets lovgivning.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Virksomhetens gjeldende vedtekter                            
+
+
+
+Oppgi dato for når vedtektene ble fastsatt eller endret. Fylles bare ut hvis virksomheten skal registreres, eller er registrert i Foretaksregisteret.
+Vedtektene må vedlegges ved nyregistrering. Ved endringer av disse må det legges ved et oppdatert eksemplar.
+Feltet skal ikke fylles ut av andre enn virksomheter som har krav om vedtekter i henhold til hjemlandets lovgivning.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Kapital i aksjeselskap                            
+
+
+
+Hvis virksomheten er et aksjeselskap, oppgir du aksjekapitalen og hvor mye av den som er innbetalt. Angi kapitalen i landets valuta.
+Feltet fylles bare ut hvis virksomheten skal registreres i Foretaksregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Virksomhetens organisasjonsform i hjemlandet                            
+
+
+
+Oppgi offisiell betegnelse for organisasjonsformen i hjemlandet, og kryss av for om organisasjonsformen har begrenset ansvar, ubegrenset ansvar, blandet ansvar eller om virksomheten er et enkeltpersonforetak.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Registrering i hjemlandet                            
+
+
+
+11.1 Navn og adresse på foretaksregister i hjemlandet
+Hvis virksomheten er registrert i et offentlig foretaksregister i hjemlandet skal du oppgi registerets navn og adresse.
+11.2 Registreringsnummer/ ID-nummer i hjemlandet
+Oppgi virksomhetens registreringsnummer/ID-nummer i hjemlandets foretaksregister.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Eierforhold                            
+
+
+
+Oppgi om virksomheten er heleid av norske personer eller virksomheter.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Utøvelse av aktivitet                            
+
+
+
+Oppgi om virksomheten utelukkende driver aktivitet i Norge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Innehaver, styre, deltakere og annet i hjemlandet                            
+
+
+
+Feltet skal fylles ut hvis virksomheten har innehaver, styre, deltakere, komplementar eller andre roller.
+Innehaver i et enkeltpersonforetak skal oppgi navn, adresse og fødselsnummer/d-nummer (11 siffer). Informasjon om d-nummer finner du under nyttige lenker.
+Når enheten har styre:
+Oppgi hele styret (leder, nestleder, styremedlemmer, varamedlemmer og observatører) med navn, adresse og fødselsdato, både ved nyregistrering og ved endringer.
+Når enheten har deltakere:
+Oppgi alle deltakere med navn, adresse og fødselsdato, både ved nyregistrering og ved endringer.
+Hvis virksomheten har delt deltakeransvar, skal du oppgi ansvarsandel i prosent eller brøk.
+Når virksomheten har rolleinnehavere:
+Oppgi navn, adresse (postnummer og -sted) og organisasjonsnummer.
+Rolleinnehavere kan være personer eller i enkelte tilfeller juridiske personer. Eksempel på juridiske personer er aksjeselskap, allmennaksjeselskap og ansvarlig selskap.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Andre merknader/ opplysninger fra hjemlandet                            
+
+
+
+Her melder du opplysninger som ikke kan meldes i de andre feltene i blanketten. Eksempler på slike opplysninger er oppløsning og åpning av konkurs.
+Legg ved eget ark hvis det blir for liten plass.
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Navn/foretaksnavn i Norge                            
+
+
+
+16.1 Virksomhetens fullstendige navn/foretaksnavn
+Feltet skal alltid fylles ut.
+Oppgi virksomhetens fullstendige navn/ foretaksnavn i Norge. Virksomheten kan ha særskilt navn/foretaksnavn i Norge, eller benytte samme navn/ foretaksnavn som i hjemlandet.
+16.2 Eventuelt nytt navn/ foretaksnavn
+Feltet skal bare fylles ut hvis du melder endring av registrert navn/ foretaksnavn. Husk at navnet/ foretaksnavnet før endring skal oppgis i felt 16.1.
+For virksomheter registrert i Foretaksregisteret er det gebyr på endring av foretaksnavn i Norge, se forskrift om gebyr for tjenester fra Brønnøysundregistrene, § 6.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Adresse i Norge                            
+
+
+
+Oppgi forretnings-/besøksadresse i Norge. Hvis virksomheten ikke har eget forretningssted i Norge skal du krysse av for dette.
+Her melder du også telefonnummer, telefaksnummer, mobiltelefonnummer og hjemmeside i Norge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Postadresse i Norge                            
+
+
+
+Virksomheter som har en særskilt postadresse, for eksempel postboks, oppgir denne i tillegg til hovedkontorets forretnings-/besøksadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19 Norsk representant                            
+
+
+
+Merverdiavgiftspliktig virksomhet som ikke har eget forretningssted i Norge, skal melde norsk representant. Kravet til å ha norsk representant gjelder ikke for virksomheter hjemmehørende i en EØS-stat som Norge har avtale med om utveksling av opplysninger og gjensidig bistand til innfordring av merverdiavgiftskrav. Fra 1. juli 2021 har også Storbritannia, på samme måte som virksomheter hjemmehørende i en EØS-stat, unntak til krav om representant. Andre utenlandske virksomheter uten fast forretningsadresse i Norge kan også melde norsk representant.
+Feltet må fylles ut med representantens navn/foretaksnavn, adresse og fødsels-/organisasjonsnummer. Norsk representant må ha bosted/forretningssted i Norge. Merk at feltet har plass til representantens underskrift. Hvis representanten skriver under i dette feltet, er det ikke nødvending å legge ved en egen villighetserklæring. Den utenlandske virksomheten bekrefter oppnevning av representanten i eget vedlegg eller ved å underskrive i felt 29. Hvis representanten er en juridisk person, må du i tillegg oppgi en kontaktperson i skjemaets felt 20.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20 Daglig leder, kontaktperson eller forretningsfører                            
+
+
+
+Hvis virksomheten har daglig leder for virksomheten i Norge, skal du oppgi denne. Hvis virksomheten ikke har daglig leder eller forretningsfører, eller forretningsfører er en juridisk person, skal du oppgi en kontaktperson.
+Enkeltpersoner må oppgi fødselsnummer/d-nummer, navn og bostedsadresse.
+Juridiske personer må oppgi organisasjonsnummer, navn og forretningsadresse.
+Når du melder en kontaktperson må den utenlandske virksomheten bekrefte kontaktpersonens tilknytning til den utenlandske virksomheten i et eget vedlegg.
+Hvis du melder eller det er registrert en norsk representant, og den meldte kontaktpersonen er ansatt hos representanten, kan representanten bekrefte kontaktpersonens tilknytning til den utenlandske virksomheten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21 Aktivitet/bransje                            
+
+
+
+Gi en så nøyaktig beskrivelse som mulig av den aktiviteten som utføres eller skal utføres i Norge, eventuelt hva som er grunnlaget for registreringen. Vær oppmerksom på at det ikke er nok å oppgi et generelt overordnet formål. Oppgi derfor hva som eventuelt produseres/selges og/eller hvilke tjenester/aktiviteter som utføres. Pass spesielt på å få klart fram hvilken bransje aktiviteten tilhører.
+Her er det gitt eksempler på hvor detaljert beskrivelsen må være:
+Bygg og anlegg:
+
+Grunnarbeid
+Oppføring av bygninger
+VVS-arbeid
+
+Transport:
+
+Godstransport på vei
+Drosjebiltransport
+
+Handel:
+
+Agenturhandel med tømmer, trelast og byggevarer
+Engroshandel med elektriske husholdningsapparater
+Butikkhandel med kjøtt og kjøttvarer
+
+Konsulentvirksomhet:
+
+Bedriftsrådgivning
+Konsulenttjenester innen programutvikling av kundespesifiserte programmer.
+Konsulenttjenester tilknyttet utvinning av råolje og naturgass
+
+Dersom virksomheten driver aktivitet i flere bransjer, må du oppgi hver enkelt av dem i rekkefølge etter størrelsen på omsetning eller sysselsetting.
+Virksomheter som ikke driver næringsaktivitet, oppgir den aktiviteten som utøves. Eksempler på dette er virksomheter med fast eiendom i Norge, eiere med norske verdipapirer, rolleinnehavere i virksomheter med mer.
+Ved endring oppgir du den nye aktiviteten og dato for da denne trådte i kraft. Hvis virksomheten har startet med tilleggsaktivitet, angir du også aktiviteten som utøves fra før.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22 Signatur                            
+
+
+
+Oppgi hvem som er tildelt signatur. Signatur er en fullmakt til å opptre og underskrive på vegne av virksomheten i forretningsforhold. Det kan bare registreres signatur som er tildelt daglig leder, styre for foretakets virksomhet i Norge eller navngitte personer. Er signatur tildelt navngitte personer, må du oppgi navn, adresse og fødselsnummer/d-nummer til den/de som er tildelt signatur.
+Hvis flere har signatur, må det gå frem om det gjelder hver for seg eller i fellesskap. Andre begrensninger kan ikke registreres. For eksempel tidsmessige begrensninger, beløpsbegrensninger eller at retten kun gjelder for virksomheten i Norge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23 Prokura                            
+
+
+
+Oppgi hvem som er tildelt prokura.
+Prokura er en fullmakt på samme måte som signatur, men er ikke like omfattende. Prokuristen kan ikke uten uttrykkelig fullmakt overdra eller behefte virksomhetens faste eiendom eller løsøre som kan registreres i skipsregisteret eller luftfartøyregisteret, eller opptre på dens vegne i søksmål.
+Det kan bare registreres prokura som er tildelt daglig leder, styre for foretakets virksomhet i Norge eller navngitte personer. Er prokura tildelt navngitte personer, må du oppgi navn, adresse og fødselsnummer eller d-nummer til den som er tildelt prokura.
+Hvis flere har prokura, må det gå frem om det gjelder hver for seg eller i fellesskap. Andre begrensninger kan ikke registreres. For eksempel tidsmessige begrensninger, beløpsbegrensninger eller at retten kun gjelder for virksomheten i Norge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24 Revisor                            
+
+
+
+Feltet må fylles ut hvis virksomheten har revisor. Fyll ut med revisors navn/foretaksnavn, adresse og organisasjonsnummer, se enhetsregisterloven § 7.
+Spesielle krav:
+Revisor må være godkjent av Finanstilsynet og registrert i Revisorregisteret.
+Merk at feltet har plass for revisors underskrift. Hvis revisor skriver under i dette feltet, er det ikke nødvendig å legge ved særskilt villighetserklæring. Hvis det er nødvendig med bekreftelse av innbetalt kapital, må det imidlertid legges ved egen erklæring om dette.
+
+
+
+
+
+
+
+
+
+
+ 
+                                25 Regnskapsfører                            
+
+
+
+Feltet må fylles ut hvis virksomheten har regnskapsfører. Fyll ut med regnskapsførers navn/foretaksnavn, adresse og organisasjonsnummer.
+Spesielle krav:
+Regnskapsfører må være autorisert av Finanstilsynet og registrert i Regnskapsførerregisteret.
+Merk at feltet har plass for regnskapsførers underskrift. Hvis regnskapsfører skriver under i dette feltet er det ikke nødvendig å legge ved villighetserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                26 Styre i Norge                            
+
+
+
+Feltet skal fylles ut hvis virksomheten har særskilt styre for virksomheten i Norge. Oppgi hele styret med fullt fødselsnummer/d-nummer, navn og adresse. Informasjon om d-nummer finner du under nyttige lenker.
+
+
+
+
+
+
+
+
+
+
+ 
+                                27 Andre merknader/opplysninger                            
+
+
+
+Her melder du opplysninger som ikke kan meldes i de andre feltene i blanketten. Legg ved eget ark hvis det blir for liten plass. Eksempel på opplysninger som skal meldes er:
+
+Egenfratreden i henhold til foretaksregisterloven § 4–6. Angi hvilke(n) rolle(r) som fratres.
+Særskilt sletting fra Foretaksregisteret. Se veiledningen til felt 2.3.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                28 Varslingsadresser                            
+
+
+
+Varslingsadresse er en pliktig opplysning.
+Varslingsadresse skal bare legges inn på nye virksomheter.
+Varslingsadressene vil bli brukt av det offentlige for å varsle virksomheten når viktige meldinger er tilgjengelige i Altinn. Opplysningene er bare tilgjengelige for offentlige myndigheter.
+Skal du endre disse opplysningene senere, gjør du det under virksomhetens profil i Altinn.
+Virksomheten må ha minst én varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                29 Underskrifter                            
+
+
+
+Meldingen må være underskrevet for at den skal bli godkjent.
+Den/de som underskriver meldingen, må bekrefte at opplysningene som er gitt er riktige, og at de er kjent med at det er straffbart å gi uriktige opplysninger, se straffeloven § 189.
+Hvem som skal underskrive meldingen, avhenger av hvor virksomheten skal registreres, eller er registrert.
+Hvis meldingen bare gjelder Enhetsregisteret, skal den underskrives av styret, signaturberettiget, daglig leder, forretningsfører eller annen kontaktperson. Hvis norsk representant er en fysisk person, kan også denne skrive under.
+Melding til Foretaksregisteret skal underskrives av signaturberettiget eller av meldepliktige. Meldepliktige er styret for den norske virksomheten. Hvis slikt styre ikke finnes, er det daglig leder i den norske virksomheten som skal underskrive meldingen.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Norskregistrert utenlandsk foretak (NUF)
+
+
+
+
+Registrere et NUF
+
+
+
+
+Endre opplysninger for et NUF
+
+
+
+
+D-nummer
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

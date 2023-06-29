@@ -1,0 +1,85 @@
+
+
+
+
+Opplysningar om verksemder
+
+Sist oppdatert: 9. mars 2022.
+
+
+
+
+
+Her finn du datasett om verksemder som er tilgjengeleg som opne data.
+
+
+
+
+
+
+
+Søk på verksemder
+
+Data frå Einingsregisteret
+
+
+
+
+
+
+
+
+
+
+
+
+Roller i verksemda
+
+API - maskinell tilgang
+
+
+
+
+
+
+
+
+
+
+
+
+Data om signatur og prokura
+
+API - maskinell tilgang
+
+
+
+
+
+
+
+
+
+
+
+
+Søk i Registeret for offentleg støtte
+
+
+
+
+
+
+
+
+
+Dei fleste datasetta blir tilbydde i eit API (Application Programming Interface) som støttar både enkeltoppslag, samansette søk og nedlasting av komplett datasett. For enkelte av tenestene kan du også søke etter informasjon for presentasjon direkte på skjerm.
+Lisens
+Datasetta følgjer Norsk lisens for opne data (NLOD). Det er ikkje nødvendig å registrere seg for å ta datasettet i bruk.
+ 
+
+
+
+
+
+

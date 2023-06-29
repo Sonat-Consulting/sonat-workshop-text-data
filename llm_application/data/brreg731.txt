@@ -1,0 +1,911 @@
+
+
+
+
+Vedleggsveileder
+
+
+
+
+Ved nyregistrering og endring av virksomheter vil du ofte bli bedt om å levere vedlegg sammen med Samordnet registermelding.
+
+Vedleggsveilederen viser deg disse vedleggskravene ved registrering. Vennligst klikk på din organisasjonsform fra listen under. Du vil da få informasjon om hvilke vedleggskrav som følger de aktuelle registreringene og endringene.
+Alle vedlegg skal være på norsk.
+Noen virksomheter er registreringspliktige i Foretaksregisteret. Ønsker du at virksomheten skal registreres samtidig i både Enhetsregisteret og Foretaksregisteret, må du krysse av for dette i skjemaets felt 3. Virksomheten må da oppfylle de krav Foretaksregisteret stiller med hensyn til vedlegg.
+ 
+ 
+
+
+
+
+
+
+
+ 
+                                Aksjeselskap (AS)                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument
+Vedtekter
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis ved at regnskapsfører signerer i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis ved at revisor signerer i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, dersom de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor, finansinstitusjon, advokat eller regnskapsfører vedrørende innbetaling av aksjeinnskuddet. NB! Erklæringen må være i original.
+Eventuelt redegjørelse signert av stifterne og bekreftet av revisor
+Eventuelt godkjenning/konsesjon fra Finanstilsynet hvis selskapet har bank- eller forsikringsvirksomhet som formål
+
+Endring av navn/foretaksnavn, styre og  signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring.
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet
+Vedtekter, hvis endringen gjelder navn
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra generalforsamling som viser valget
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis ved at revisor signerer i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis ved at regnskapsfører signerer i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra generalforsamling som viser at selskapet er besluttet avviklet
+
+Ved trinn 2, sletting
+
+Protokoll fra generalforsamling som viser at sluttoppgjøret er godkjent.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Allmennaksjeselskap (ASA)                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument
+Vedtekter
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis ved at regnskapsfører signerer i skjemaet.  NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis ved at revisor signerer i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor,  finansinstitusjon, advokat eller regnskapsfører vedrørende innbetaling av aksjeinnskuddet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+Eventuelt redegjørelse signert av stifterne og bekreftet av revisor.
+Eventuelt godkjenning/konsesjon fra Finanstilsynet hvis selskapet har bank- eller forsikringsvirksomhet som formål.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet.
+Vedtekter, hvis endringen gjelder navn og/eller forretningskommune.
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+ Endring av revisor
+
+Protokoll fra generalforsamling som viser valget
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra generalforsamling som viser at selskapet er besluttet avviklet
+
+Ved trinn 2, sletting
+
+Protokoll fra generalforsamling som viser at revidert sluttoppgjør er godkjent
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Annen juridisk person                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument/vedtekter/annen dokumentasjon som viser at virksomheten er opprettet/stiftet
+Protokoll som viser valg av styre hvis dette meldes eller er påkrevd
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Protokoll/dokumentasjon som viser tildeling av signatur, hvis dette meldes eller er påkrevd.
+
+Endring av navn, styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+
+Endring av revisor
+
+Original erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet.
+
+Endring av regnskapsfører
+
+Original erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet.
+
+Sletting
+
+Dokumentasjon/protokoll som viser at virksomheten er opphørt/besluttet avviklet
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Ansvarlig selskap/selskap med delt ansvar                            
+
+
+
+Nyregistrering
+
+Undertegnet og datert selskapsavtale
+Protokoll som viser valg av styre og revisor hvis dette meldes
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra eventuelle styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur
+
+Protokoll fra selskapsmøte som viser vedtak av meldte endring
+Selskapsavtale, hvis endringen gjelder navn og/eller forretningskommune.
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av deltakere
+
+Selskapsavtale
+Protokoll fra selskapsmøte hvis ikke alle deltakerne har undertegnet selskapsavtalen
+Samtykkeerklæring fra uttredende/nye deltakere. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra selskapsmøte som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra selskapsmøte som viser at selskapet er besluttet avviklet, og valg av eventuelt avviklingsstyre
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Ved trinn 2, sletting
+
+Protokoll fra selskapsmøte som viser at sluttoppgjøret er godkjent
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Borettslag/Boligbyggerlag                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument
+Vedtekter
+Bygge- og finansieringsplan hvis det er et borettslag
+Åpningsbalanse
+Revisors bekreftelse av åpningsbalansen
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet.  Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet.
+Vedtekter, hvis endringen gjelder navn og/eller forretningskommune.
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra generalforsamling som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra to påfølgende generalforsamlinger som viser at selskapet er besluttet avviklet og valg av avviklingsstyre
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original
+
+Ved trinn 2, sletting
+
+Protokoll fra generalforsamling som viser at revidert sluttoppgjør er godkjent
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Eierseksjonssameie                            
+
+
+
+Nyregistrering
+
+Seksjoneringsbegjæring med tinglysingsdato
+Vedtekter
+Protokoll fra årsmøte som viser valg av styre og eventuelt revisor
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Ved registrering i Foretaksregisteret: Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet og foretaket skal registreres i Foretaksregisteret. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Vedtekter hvis endringen gjelder ny signatur, eller hvis den gjelder nytt navn og foretaket er registrert i Foretaksregisteret.
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet og foretaket er registrert i Foretaksregisteret. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+
+Protokoll fra årsmøte som viser at virksomheten er opphørt/besluttet avviklet.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Enkeltpersonforetak (ENK)                            
+
+
+
+Nyregistrering
+
+Tillatelse fra verge og samtykke fra statsforvalter, hvis innehaver er mellom 15 og 18 år.
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Endring av innehaver
+
+Ved endring av innehaver i uskifte, må du legge ved uskifteattest. Det er kun ektefelle som kan overta enkeltpersonforetaket.
+
+Sletting i Foretaksregisteret
+
+Du må legge ved skifte- eller uskifteattest, hvis innehaver er død.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Forening/lag/innretning                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument. Er foreningen stiftet langt tilbake i tid og du ikke kan fremskaffe stiftelsesdokument, kan du legge ved siste årsmøteprotokoll som dokumentasjon på at det er aktivitet i foreningen.
+Vedtekter
+Protokoll fra årsmøte som viser valg av styre og eventuelt revisor, hvis dette meldes eller er påkrevd.
+Protokoll som viser tildeling av signatur hvis dette meldes eller er påkrevd.
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+ Ved registrering i Foretaksregisteret: Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn, styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet.
+Vedtekter, hvis endringen gjelder nytt navn og foretaket er registrert i Foretaksregisteret.
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet og foretaket er registrert i Foretaksregisteret. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra årsmøte som viser vedtak av meldte endring, hvis foretaket er registrert i Foretaksregisteret.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original
+
+Sletting
+
+Protokoll fra årsmøte som viser at virksomheten er opphørt/besluttet avviklet.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Interkommunale selskap                            
+
+
+
+Nyregistrering
+
+Selskapsavtale
+Protokoll fra kommunestyre-/fylkestings-/representantskapsmøte som viser deltakernes vedtak av selskapsavtalen
+Protokoll fra representantskapsmøte som viser valg av styre og revisor
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra deltakere som ikke selv har signert i skjemaet om at de samtykker til registreringen. NB! Erklæringen må være i original.
+Erklæring fra revisor om innbetaling av innskuddskapitalen. NB! Erklæringen må være i original
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet
+Selskapsavtale hvis endringen gjelder navn og/eller forretningskommune
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra representantskapsmøte som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra kommunestyret/fylkestinget/representantskapsmøtet som viser beslutning om oppløsning
+Bekreftelse på at departementet har godkjent oppløsningen
+Protokoll fra representantskapsmøtet som viser valg av avviklingsstyre
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Ved trinn 2, sletting
+
+Protokoll fra representantskapsmøte som viser at avviklingsregnskapet er godkjent
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kommandittselskap                            
+
+
+
+Nyregistrering
+
+Selskapsavtale som er datert og signert av alle deltakerne
+Protokoll fra selskapsmøte som viser valg av styre og revisor hvis dette meldes eller er påkrevd
+Erklæring fra revisor eller finansforetak om innbetaling av selskapskapitalen. NB! Erklæringen må være i original.
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra kommandittist og ansvarlig deltaker som ikke har undertegnet i skjemaet, om at registreringen skjer med deres samtykke. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur 
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Selskapsavtale hvis endringen gjelder navn og/eller forretningskommune
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra selskapsmøte som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra selskapsmøte som viser vedtak om oppløsning og eventuelt av avviklingsstyre
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Ved trinn 2, sletting
+
+Protokoll fra selskapsmøte som viser at sluttoppgjør er godkjent
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kommunale/fylkeskommunale selskap                            
+
+
+
+Nyregistrering
+
+Protokoll fra kommunestyre- eller fylkestingsmøte som viser vedtak om å opprette foretaket
+Protokoll fra kommunestyre eller fylkesting som viser valg av styre og revisor
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur
+
+Protokoll fra kommunestyre- eller fylkestingsmøte som viser vedtak av meldte endring
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet.
+Vedtekter hvis endringen gjelder navn og/eller forretningskommune
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original
+
+Endring av revisor
+
+Protokoll fra kommunestyre- eller fylkestingsmøte som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+
+Protokoll fra kommunestyre- eller fylkestingsmøte som viser at virksomheten er opphørt/besluttet avviklet.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Norskregistrert utenlandsk foretak (NUF)                            
+
+
+
+Nyregistrering
+
+Registreringsbevis fra utenlandsk foretaksregister
+Stiftelsesdokumenter og vedtekter for det utenlandske foretaket, hvis foretaket skal registreres i Foretaksregisteret.
+ Protokoll fra kompetent organ som viser valg av styre hvis dette meldes eller er påkrevd
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av norsk representant
+
+Erklæring fra norsk representant om at han/hun har påtatt seg vervet. Hvis den norske representanten skriver under i feltet for underskrift, er det ikke nødvendige å legge ved en egen erklæring. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+
+Dokumentasjon/protokoll som viser at virksomheten er opphørt/besluttet avviklet.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Partrederi                            
+
+
+
+Nyregistrering
+
+Signert og datert selskapsavtale.
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av foretaksnavn, forretningskommune, formål og vedtekter
+
+Signert og datert rederiavtale
+Protokoll fra rederimøte som viser meldte opplysninger, hvis rederiavtalen ikke er undertegnet
+
+Endring av revisor
+
+Protokoll fra rederimøte som viser valg av revisor.
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original
+
+Endring av styre og signatur 
+
+Protokoll fra rederimøte som viser meldte opplysning
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+
+Protokoll fra rederimøte som viser at foretaket er vedtatt oppløst.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Samvirkeforetak                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument
+Vedtekter
+Åpningsbalanse signert av stifterne, hvis innskudd er gjort i annet enn penger
+Protokoll fra årsmøte som viser valg av revisor, hvis dette meldes eller er påkrevd.
+Erklæring fra revisor eller finansinstitusjon om innbetaling av eventuell innskuddskapital
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur 
+
+Protokoll fra årsmøte som viser vedtak av meldte endring
+Vedtekter hvis endringen gjelder navn og/eller forretningskommune
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra årsmøte som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra årsmøte som viser vedtak om oppløsning og valg av avviklingsstyre
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Ved trinn 2, sletting
+
+Protokoll fra årsmøte som viser at sluttoppgjør er godkjent
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Statsforetak                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument
+Vedtekter
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om innbetaling av innskuddskapital
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur 
+
+Protokoll fra foretaksmøte som viser vedtak av meldte endring
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet
+Vedtekter hvis endringen gjelder navn og/eller forretningskommune
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Endring av revisor
+
+Protokoll fra foretaksmøte som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+Ved trinn 1, oppløsning
+
+Protokoll fra foretaksmøte som viser vedtak om oppløsning og valg av avviklingsstyre
+Erklæring fra eventuelt nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+
+Ved trinn 2, sletting
+
+Protokoll fra foretaksmøte som viser at sluttoppgjør er godkjent
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Stiftelse                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument
+Vedtekter
+Protokoll som viser valg av styre og revisor
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at hele grunnkapitalen er stilt til stiftelsens rådighet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at eiendelene har en verdi som minst svarer til det beløpet som grunnkapitalen er fastsatt til, hvis grunnkapitalen består av andre eiendeler enn penger
+Åpningsbalanse og revisors bekreftelse av denne
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Protokoll fra styremøte som viser tildeling av signatur, hvis hele styret ikke har signert i skjemaet
+Vedtekter hvis endringen gjelder navn og/eller forretningskommune
+Erklæring fra nye styremedlemmer om at de mottar valget, hvis de ikke har signert i skjemaet. NB! Erklæringen må være i original
+
+Endring av revisor
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Tingsrettslig sameie                            
+
+
+
+Nyregistrering
+
+Stiftelsesdokument/sameieavtale/annen dokumentasjon som viser at virksomheten er opprettet/stiftet.
+Vedtekter
+Protokoll som viser valg av styre hvis dette meldes eller er påkrevd
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+Dokumentasjon som viser tildeling av signatur hvis dette meldes eller er påkrevd.
+
+Endring av navn/foretaksnavn, forretningskommune, styre og signatur 
+
+Protokoll/dokumentasjon som viser vedtak av meldte endring.
+
+Endring av revisor
+
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av regnskapsfører
+
+Erklæring fra regnskapsfører om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for regnskapsfører i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+
+Dokumentasjon/protokoll som viser at virksomheten er opphørt/besluttet avviklet.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Verdipapirfond                            
+
+
+
+Nyregistrering
+
+Godkjennelsen fra Finanstilsynet med vedtektene som er godkjent, se verdipapirfondloven § 4-1 tredje ledd.
+Erklæring fra revisor om at han/hun påtar seg vervet, hvis dette meldes. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Endring av navn/foretaksnavn og forretningskommune
+
+Godkjennelsen fra Finanstilsynet eller vedtekter med godkjennelse fra Finanstilsynet, hvor nytt navn fremgår.
+
+Endring av revisor
+
+Erklæring fra revisor om at han/hun påtar seg vervet. Erklæring kan også gis i feltet for revisor i skjemaet. NB! Erklæringen må være i original.
+
+Sletting
+
+Godkjennelsen fra Finanstilsynet hvor det fremgår at fondet er slettet
+
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Samordnet registermelding hovedskjema
+
+
+
+
+Veiledning til Samordnet registermelding (papirskjema)
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

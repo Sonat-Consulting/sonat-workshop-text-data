@@ -1,0 +1,25 @@
+
+
+
+
+Data about signature and power of procuration for enterprises
+
+Last updated: 10 September 2021.
+
+
+
+
+
+Public authorities and enterprises with a licence to conduct credit information services can perform machine searches on who has the signature and power of procuration. 
+
+Through the service you can make machineable searches about signature and power of procuration from the Central Coordinating Register for Legal Entities and the Register of Business Enterprises. If you want to make use of the service, you need a business certificate to be authenticated.
+We provide information about national ID number and d-number through the service and it is therefore not available to everyone. If you do not have access, you may still do machine search through the service to find information via open data about signature and power of procuration.
+Verification service
+Through the verification service you can find out whether one or several individuals have the right to sign on behalf of an enterprise. The service is based upon information about signature and power of procuration from the Central Coordinating Register for Legal Entities and the Register of Business Enterprises. You can read more about business certificate, how to do machineable searches and access to the services in the API description here. The usage of services is free of charge.
+ 
+
+
+
+
+
+

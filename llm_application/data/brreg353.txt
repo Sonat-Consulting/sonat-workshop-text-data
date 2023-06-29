@@ -1,0 +1,498 @@
+
+
+
+
+Oppbygging grunndataWS
+
+Sist oppdatert: 7. november 2021.
+
+
+
+
+
+Alle tenester som blir lagde ut under grunndataWS er bygd opp over same lest. Det vil seie at resultatet som blir sendt tilbake til det spørjande systemet er bygd opp av:
+
+responseheader
+melding
+
+RESponseheadar er ein generell header som blant anna inneheld informasjon om korleis spørjinga har gått. Meldingselementet er eit hovudelement som inneheld informasjon om eininga som det blir spurd på.
+RESponseheader
+Alle meldingar som blir returnerte til tenesta skal innehalde ein responseHeader. Denne headeren er bygd opp på følgande måte:
+<responseheader prossessDato=»2003-09-17″ tjeneste=»hentBasisdataMini»>
+<orgnr>980123456</orgnr>
+<hovedstatus>0</hovedStatus>
+<underStatus>
+<underStatusMelding kode=»0″>Data returnert</underStatusMelding>
+<underStatusMelding kode=»1020″>Enhet 980123456 har ikkje postadresse</underStatusMelding>
+</understatus>
+</responseheader>
+Statusar
+For kvar enkelt spørjing vil det bli sett ein status som seier korleis spørjinga har gått. Alle spørjingane som har gått bra vil ha hovudstatus sett til 0. I tillegg vil det også vere ein understatus som er ei vidare spesifisering på hovudstatusen. Ikkje all informasjon er registrert på alle organisasjonar. I dei tilfella informasjon manglar, vil dette gå fram her, for eksempel dersom ei eining ikkje har registrert postadresse. Understatusen seier ingenting om eininga etter lova skulle hatt opplysninga.
+I enkelte tilfelle blir det spurt på einingar der du ikkje får ut data. så lenge spørjinga har gått OK, vil hovudstatus bli sett til 1, mens understatus skildrar kvifor du ikkje har fått ut data. Dette kan vere fordi eininga er sletta.
+Hovudstatus
+Hovudstatus seier korleis spørjinga har gått. Følgande hovudstatusar er definerte:
+
+
+
+HovudstatusSkildring
+
+
+
+
+
+0Spørjinga har gått OK.
+
+
+1Spørjinga har gått OK, men data manglar. For detaljar, sjå understatus.
+
+
+
+-1 Det har oppstått feil knytt til tenesta.
+
+
+
+
+Understatus
+Understatus er ei nærmare forklaring av hovudstatus, eventuelt ei utfyllande forklaring av kvifor du ikkje har fått alle data, slik som for eksempel at postadressa manglar.
+
+
+
+KodeMelding
+
+
+
+
+0Data returnert.
+
+
+1Eining x er sletta som dublett - korrekt eining y er innført. 
+
+
+
+2Eining x er sletta som samanslått - korrekt eining y er innført. 
+
+
+3Eining x er registreringseininga til den eininga som blei bestilt.
+
+
+
+
+
+10Orgnr i input ikkje gitt. 
+
+
+
+10000Ikkje gyldig organisasjonsnummer. Organisasjonsnummer skal bestå av 9 siffer og berre tal. 
+
+
+
+
+
+100Eining x aldri oppretta. 
+
+
+110Eining x er sletta. 
+
+
+120Eining x er sletta som dublett eller samanslått - korrekt eining y er sletta. 
+
+
+130Eining x er ei bedrift/verksemd, juridisk eining er y.
+
+
+160Input er ikkje eit organisasjonsnummer eller eit fødselsnr.
+
+
+
+170x er ikkje eit gyldig organisasjonsnummer.
+
+
+
+180Personen x finst ikkje i databasen vår.
+
+
+181Personen x er registrert død.
+
+
+182Personen x er registrert ugyldig.
+
+
+183Personen x har verje.
+
+
+190Eining x er ikkje ei bedrift/verksemd.
+
+
+
+200Eining x som blir spurd på er ei registreringeining.
+
+
+210Eining x er ikkje registrert i Frivilligregisteret.
+
+
+
+2000Ingen endringar finst i siste periode (siste døgn/helg)
+
+
+
+
+
+1010Eining x har ikkje forretningsadresse.
+
+
+1020Eining x har ikkje postadresse.
+
+
+1030Eining x har ikkje adresse.
+
+
+1060Eining x har ikkje stiftelsesdato.
+
+
+1070Eining x har ikkje målform.
+
+
+1080Eining x har ikkje reklame.
+
+
+1090Eining x har ikkje verksemd/art/bransje.
+
+
+1100Eining x har ikkje formål.
+
+
+
+1111Eining x har ikkje vedtektsdato.
+
+
+
+1115Eining x har ikkje telefon.
+
+
+1116Eining x har ikkje telefax.
+
+
+1117Eining x har ikkje mobiltelefon.
+
+
+1118Eining x har ikkje e-postadresse.
+
+
+1119Eining x har ikkje heimeside.
+
+
+
+1120Eining  x har ikkje særlege opplysningar.
+
+
+1125Eining x har ikkje næringskode.
+
+
+1130Eining x har ikkje sektorkode.
+
+
+
+1135Eining x har ikkje tilsette.
+
+
+1140Eining  x har ikkje kapital.
+
+
+1145Eining x har ikkje bedrifter/verksemder.
+
+
+1150Eining x inngår ikkje i konsern.
+
+
+1155Eining x har ikkje dato for oppstart.
+
+
+1160Eining x har ikkje dato for eigarskifte.
+
+
+1165Eining x har ikkje hovudføretak.
+
+
+1180Eining x har ikkje rolleblokk n (eit sett av roller).
+
+
+1190Eining x har ikkje frivilligregisterdata.
+
+
+
+
+
+-100Brukar manglar autorisasjon for denne tenesta.
+
+
+-101Feil i brukarnamn og/eller passord.
+
+
+-1000Det har oppstått ein uventa feil. Ved framleis gjentaking, ta kontakt med Brønnøysundregistera.
+
+
+
+
+Lovlege kombinasjonar av statusar
+
+
+
+HovudstatusUnderstatus kodeUnderstatus Melding
+
+
+
+
+
+00Data returnert. 
+
+
+
+01 
+Eining x er sletta som dublett - korrekt eining y er innført
+
+
+02Eining x er sletta som samanslått - korrekt eining y er innført.
+
+
+03Eining x er registreringseininga til eininga som blei bestilt.
+
+
+
+
+
+110Orgnr i input ikkje gitt.
+
+
+120Valideringsfeil i inputstreng: feilmeldingstekst
+
+
+110000Ikkje gyldig organisasjonsnummer. Organisasjonsnummer skal bestå av 9 siffer og berre tal.
+
+
+
+
+
+1100Eining x aldri oppretta.
+
+
+1110Eining x er sletta.
+
+
+1120Eining x er sletta som dublett eller samanslått - korrekt eining y er sletta.
+
+
+1130Eining x er ei bedrift/verksemd, juridisk eining er y.
+
+
+
+1 160
+Input er ikkje et organisasjonsnummer eller eit fødselsnr.
+
+
+
+1170x er ikkje eit gyldig organisasjonsnummer.
+
+
+1180Personen x er ikkje i databasen vår.
+
+
+1181Personen x er registrert død
+
+
+1182Personen x er registrert ugyldig
+
+
+
+1183Personen x har verje.
+
+
+1190
+Eining x er ikkje ei bedrift/verksemd.
+
+
+1 200Eining x som blir spurd på er ei registreringseining.
+
+
+1210Eining x er ikkje registrert i Frivilligregisteret.
+
+
+12000Ingen endringar finst i siste periode (siste døgn/helg).
+
+
+
+
+
+01010Eining x har ikkje forretningsadresse.
+
+
+01020Eining x har ikkje postadresse.
+
+
+01030Eining x har ikkje adresse.
+
+
+01060Eining x har ikkje stiftelsesdato.
+
+
+01070Eining x har ikkje målform.
+
+
+0 1090Eining x har ikkje verksemd/art/bransje.
+
+
+01100Eining x har ikkje formål.
+
+
+
+01111Eining x har ikkje vedtektsdato.
+
+
+
+01115Eining x har ikkje telefon.
+
+
+01116Eining x har ikkje telefax.
+
+
+01117Eining x har ikkje mobiltelefon.
+
+
+0 1118Eining x har ikkje e-postadresse.
+
+
+0 1119Eining x har ikkje heimeside.
+
+
+0 1120Eining x har ikkje særlege opplysningar.
+
+
+0 1125Eining x har ikkje næringskode.
+
+
+0 1130Eining x har ikkje sektorkode.
+
+
+
+0 1135Eining x har ikkje tilsette.
+
+
+0 1140Eining x har ikkje kapital.
+
+
+0 1145Eining x har ikkje  bedrifter/verksemder.
+
+
+01150Eining x inngår ikkje i konsern.
+
+
+01155Eining x har ikkje dato for oppstart.
+
+
+0 1160Eining x har ikkje dato for eigarskifte.
+
+
+0 1165Eining x har ikkje hovudføretak.
+
+
+0 1180Eining x har rolleblokk n (eit sett av roller).
+
+
+
+
+
+-1-100Brukar manglar autorisasjon for tenesta.
+
+
+-1-101Feil i brukarnamn og/eller passord.
+
+
+-1-1000Det har oppstått ein uventa feil. Ved fortsatt gjentaking, ta kontakt med Brønnøysundregistera. 
+
+
+
+
+Melding
+I meldingselementet vil du finne all informasjon om ei eining som blir spurd på. Meldingselementet er berre til stades i dei tilfella når hovudstatus er 0. Meldinga vil byggast opp forskjellig alt etter kva tenester som blir spurd på, men vil ha dette generelle elementet:
+<melding tjeneste=»hentBasisdataMini»>
+Her vil informasjonen som det blir spurd på bli lagt.
+</melding>
+ 
+
+
+
+
+Nyttige lenker
+
+Teknisk dokumentasjon for maskinell tilgang til Einingsregisteret
+
+
+
+
+
+
+
+
+
+Informasjons- og behandlingstypar i Einingsregisteret
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

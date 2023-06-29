@@ -1,0 +1,180 @@
+
+
+
+
+Kontaktpersoner i etatens arbeidsområde
+
+Sist oppdatert: 14. februar 2018.
+
+
+
+
+
+ 
+
+
+Ved å trykke på «Kontaktpersoner» i Etatens arbeidsområde kommer du til administrasjonssiden for kontaktpersoner. Her har du mulighet til å opprette nye kontaktpersoner, endre opplysninger om eksisterende kontaktpersoner eller slette eksisterende kontaktpersoner.
+Vær oppmerksom på at kontaktpersoner må være opprettet før du lager nytt skjema/endrer skjema.
+ 
+
+
+I administrasjonssiden kan du opprette nye kontaktpersoner eller endre/slette eksisterende kontaktpersoner. I tillegg kan du velge om du vil ise aktive kontaktpersoner eller vise slettede kontaktpersoner.
+ 
+ 
+ 
+
+
+
+
+
+
+
+ 
+                                Ny kontaktperson                            
+
+
+
+For å lage ny kontaktperson trykk på «Ny kontaktperson» i Administrasjonsside – kontaktpersoner.
+
+Skriv inn informasjon om kontaktpersonen og klikk «Legg til» for å lagre. Alle felt, bortsett fra «Mellomnavn» er påkrevd.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Endre kontaktperson                            
+
+
+
+For å endre en kontaktperson klikker du på «pennen» til høyre i skjemaet. Her vil du også se en oversikt over alle skjema den aktuelle kontaktpersonen er knyttet til.
+
+Endre kontaktinformasjon og trykk «Legg til» for å lagre.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Slette kontaktperson                            
+
+
+
+For å slette en kontaktperson klikker du på «søppelboksen» til høyre i skjemaet. Vær oppmerksom på at kontaktpersonen vil bli slettet umiddelbart og den vil bli satt til inaktiv i tilknyttede skjemaer. Det kommer ikke opp bekreftelsesmelding.
+
+For å angre sletting trykk på «Vis slettede kontaktpersoner».
+
+
+
+
+
+
+
+
+
+
+
+
+Datakilder i etatenes arbeidsområder
+Registrere/endre kilder
+
+
+
+
+
+
+
+
+
+
+Skjemaer i etatens arbeidsområde
+Oversikt skjema
+
+
+
+
+
+
+
+
+
+
+Skjemaredigering
+Registrere/endre opplysninger
+
+
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,463 @@
+
+
+
+
+Veiledning
+
+Sist oppdatert: 16. desember 2022.
+
+
+
+
+
+Dette er en brukermanual for etatene ved registrering eller endring av skjema i Oppgaveregisterets nettløsning.
+
+Veiledningsfilmer:  Komme i gang     Saksgang     Målgruppe     Hjemmel
+Som en introduksjon anbefaler vi veiledningsfilmen Komme i gang
+ 
+ 
+
+
+
+
+
+
+
+ 
+                                Når skal et skjema registreres i Oppgaveregisteret?                            
+
+
+
+En etat som planlegger å lage et nytt skjema eller endre et eksisterende skjema, skal ta kontakt med Oppgaveregisteret. Oppgaveregisteret kan tilby hjelp til utformingen av skjemaet og sjekke om opplysningene allerede er tilgjengelige hos andre etater.
+Når skjemaet er ferdig utformet, skal etaten innrapportere dette i Oppgaveregisterets web-baserte løsning. Det er først når skjemaet er godkjent av Oppgaveregisteret at etaten kan ta det i bruk overfor de næringsdrivende.
+Skjemaet (oppgaveplikten) skal registreres i Oppgaveregisteret når den
+
+gjelder næringsdrivende
+er pålagt av statlig myndighet
+er hjemlet i offentlig hjemmelsgrunnlag
+inneholder spesifikke krav til informasjon
+
+Søknads- og registreringsskjema skal også registreres i Oppgaveregisteret, i den grad søknadene er avgjørende eller kritiske for næringsvirksomhetens eksistens eller daglige drift.
+Er du i tvil om oppgaveplikten skal registreres, ta kontakt med Oppgaveregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Saksgang i Oppgaveregisteret ved nye eller endrede oppgaveplikter                            
+
+
+
+Bildet viser saksgang i Oppgaveregisteret ved nye eller endrede oppgaveplikter
+
+Forberedelse
+En etat som planlegger å lage et nytt skjema eller endre et eksisterende skjema, skal ta kontakt med Oppgaveregisteret.
+Rådgivning
+Oppgaveregisteret kan tilby hjelp til utformingen av skjemaet og sjekke om opplysningene allerede er tilgjengelige hos andre etater.
+Utforming/Registrering
+Når skjemaet er ferdig utformet, skal etaten innrapportere dette i OR-klient, Oppgaveregisterets web-baserte løsning.
+Godkjenning
+Etter at registreringen er innsendt, vil saksbehandler ved Oppgaveregisteret gjennomføre en vurdering av skjemaet. I vurderingen inngår om alle formelle krav til innsending er oppfylt, og om det finnes muligheter for forenkling eller samordning med andre oppgaveplikter.
+Saksbehandlingen vil bli gjennomført så raskt som mulig, men tilbakemelding skal være gitt innen 21 dager. Saksbehandler ved Oppgaveregisteret vil ta kontakt med innsender via e-post.
+Når godkjenning foreligger vil opplysninger om skjemaet publiseres via «Mine rapporteringsplikter» og åpne data.
+Iverksettelse
+Det er først når skjemaet er godkjent av Oppgaveregisteret at etaten kan ta det i bruk overfor de næringsdrivende.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Forberedelser før registrering av oppgaveplikt/skjema                            
+
+
+
+Før man starter arbeidet med å registrere en oppgaveplikt/skjema i Oppgaveregisteret, kan det være formålstjenlig å ha skaffet til veie en del informasjon på forhånd.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Beregne tidsbruk                            
+
+
+
+Tidsbruk som etaten skal registrere i Oppgaveregisteret skal være et representativt estimat på den tiden det tar for den næringsdrivende å fylle ut ett eksemplar av et skjema. All tid den næringsdrivende bruker både på å fremskaffe opplysninger og på å rapportere disse skal legges til grunn. Det betyr at tiden som går med til nødvendig forarbeid også skal inkluderes. Dette kan være arbeid med intern registrering, tilrettelegging og uthenting av informasjon i tilknytning til rapporteringen. Se tabell under for flere eksempler på tidsbruk.
+En innrapportering av et skjema kan enten være digital eller papirbasert og tidsbruken kan variere stort fra bedrift til bedrift. Det er derfor viktig at tidsbruk representerer en normalt effektiv bedrift. Det er også viktig at det bare er tidsbruk direkte knyttet opp mot selve rapporteringskravet som inkluderes. Tidsbruk næringsdrivende ville gjort uavhengig av innrapporteringskravet skal ikke tas med.
+Det kan være hensiktsmessig å hente opplysninger om tidsbruk direkte fra de næringsdrivende. Ifølge § 8 i forskrift til oppgaveregisterloven, kan Oppgaveregisteret pålegge utreder å innhente belastningsestimater fra de næringsdrivende dersom et tiltak berører eller medfører oppgaveplikter som offentlige organer pålegger næringsdrivende.
+Under følger fire eksempler på hvordan estimere og registrere tidsbruken under ulike forutsetninger.
+Se HER for å finne regneeksempler på beregningene av tidsbruk beskrevet i eksemplene under.
+Eksempel 1 Estimere tidsbruk pr innsendelse
+Estimatet for tidsbruk som skal registreres i Oppgaveregisteret er gjennomsnittlig antall minutt en bedrift bruker pr innsending/skjema. Dette er summen av minutt brukt på forarbeid og minutt brukt til selve innrapporteringen. Dersom skjema kan sendes inn både elektronsikt og via papir skal tidsestimat for begge formene sendes inn.
+Med elektronsikt menes alle tekniske løsninger hvor data kan tas ut i maskinlesbar form både hos sender og mottaker. Med papir inkluderes også pdf som må fylles ut manuelt og som ikke kan behandles elektronsikt ved innkomst.
+Eksempel 2 Deler av målgruppen rapporterer via et system (maskin-til-maskin, fagsystem)
+En digital innrapportering av et skjema kan skje både via en manuell innsendelse og/eller via et system (maskin-til-maskin kommunikasjon, fagsystem el.). Tidsbruken for selve innrapporteringen kan variere stort avhengig av hvilken innsendelsesform som benyttes. Tidsbruken ved forarbeidet derimot kan være den samme.
+Dersom etaten har definert ulike skjema avhengig av innsendelsesform, skal de respektive skjemaene registreres i Oppgaveregisteret med tilhørende estimat for tidsbruk. Eksempel på slike skjema kan være A-meldingen, som er registeret med ett skjema for system innsending og ett for manuell innsending i Altinn.
+Dersom samme skjema benyttes uavhengig av innsendelsesform, skal tidsbruken estimeres som et veid gjennomsnitt av antall årlige innsendelser for de ulike innsendelsesformene.
+Merk at hver forsendelse av data som oversendes fra en virksomhet via et system skal telles som en innsendelse.
+Formel for å beregne veid gjennomsnittlig tidsbruk ved flere undergrupper:
+Eksempel 3 Målgruppen består av flere undergrupper/ segment med ulik tidsbruk
+En målgruppe kan bestå av flere ulike undergrupper som hver for seg bruker ulik tid på en rapportering. Eksempel på dette kan være små, mellomstore og store virksomheter som kan ha svært ulik ressursbruk ved en rapportering.
+Estimatet for tidsbruk som registreres i Oppgaveregisteret er et veid gjennomsnitt av antall innsendelser pr undergruppe/segment, se vedlegg for eksempler på utfylling.
+Eksempel 4 Deler av arbeidet gjennomføres av eksterne (outsourcet)
+Enkelte virksomheter har valgt å sette bort deler av rapporteringsarbeidet til eksterne. Eksempel på dette kan være bruk av regnskapsførere eller juridiske eksperter til å utføre deler av forarbeidet. Tidsbruken kan variere mellom virksomheter som har valgt å benytte eksterne og foretak som selv gjennomfører oppgavene. Målgruppen bør derfor deles inn i to undergrupper med hver sin tidsbruk og tilhørende antall årlige innsendelser.
+Estimatet for samlet tidsbruken som registreres i Oppgaveregisteret er dermed et gjennomsnitt basert på undergruppenes tidsbruk veid over antall innsendelser for de ulike undergruppene; gruppe 1: All tidsbruk intern og gruppe 2: deler av tidsbruken ekstern.
+Eksempel på tidsbruk
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Godkjenning av skjema i Oppgaveregisteret                            
+
+
+
+Når skjemaet er ferdig utformet, skal etaten registrere dette via Oppgaveregisterets nettløsning. Det er først når skjemaet er godkjent i Oppgaveregisteret at etaten kan ta det i bruk overfor de næringsdrivende.
+Etter at etaten har sendt inn skjema via Oppgaveregisterets nettløsning, vil saksbehandler ved Oppgaveregisteret gjennomføre en vurdering av skjemaet. I vurderingen inngår om alle formelle krav til innsending er oppfylt, og om det finnes muligheter for forenkling eller samordning med andre oppgaveplikter. Saksbehandler ved Oppgaveregisteret vil ta kontakt med innsender via e-post.
+Saksbehandler i Oppgaveregisteret kan enten godkjenne utkastet, tilbakesende utkastet eller underkjenne utkastet.
+Godkjent
+Når en sak har fått status godkjent betyr det at etaten kan iverksette oppgaveplikten. Saksbehandlerne ved Oppgaveregisteret har ikke funnet noen feilregistreringer i utkastet, og de har heller ikke funnet noen muligheter for å forenkle dette skjemaet.
+Tilbakesendt
+Når en sak har fått status tilbakesendt betyr det at saken må suppleres med mer informasjon. I disse tilfellene vil saksbehandlerne ved Oppgaveregisteret sende melding tilbake og be om den informasjonen som er nødvendig før de kan godkjenne skjemaet.
+Når en sak har fått status underkjent betyr det at etaten ikke kan iverksette oppgaveplikten.
+Underkjent
+Det kan hende at etaten er i ferd med å etterspørre opplysninger som allerede er tilgjengelig i offentlige registre eller databaser. Det kan også hende at skjemaet er utformet på en slik måte at det ikke oppfyller kravene til gode og brukervennlige nettskjema. Og det kan hende at etaten er i ferd med å innføre et skjema som kun er papirbasert, og som har et så stort innsendingsvolum at det strider mot kravene i digitaliseringsrundskrivet.
+Blir skjemaet tilbakesendt eller underkjent, må etaten gå inn i Oppgaveregisterets nettløsning og gjøre de nødvendige endringene. Utkastet må så sendes inn for ny godkjenning.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Innlogging i Oppgaveregisteret                            
+
+
+
+Systemkrav
+Løsningen er kompatibel med Internet Explorer 9, Edge, Firefox 23, Chrome 29 eller nyere versjoner av disse.
+Brukernavn og passord
+Innlogging skjer via ID-porten. ID-porten driftes av Direktoratet for forvaltning og IKT (Difi) og har egen brukerstøtte. Du finner kontaktinformasjon og hjelp til innlogging på ID-porten.no.
+Først gang må alle brukere registrere sine brukerdata ved pålogging. Registrerte brukerdata blir så fortløpende behandlet av OR-support, og du vil bli informert per epost når du er gitt tilgang til å registrere/endre skjema tilhørende din etat.
+Etter innlogging
+Etter innlogging vil du få en oversikt over alle etatene som er registrert i Oppgaveregisteret. Din etat står øverst i oversikten. Ved å velge denne kommer du inn i «Etatens arbeidsområde». Her kan du oppdatere opplysninger om etatens skjemaer, kontaktpersoner og datakilder. Du kan endre eller slette eksisterende informasjon, eller legge inn ny informasjon.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Definisjoner                            
+
+
+
+Bruksområde
+Et skjema kan brukes som en periodisk rapportering, en rapportering på bakgrunn av en hendelse eller en søknad/registrering.
+Hjemmel
+En hjemmel gir myndighet til å pålegge en oppgaveplikt. Hjemmelen kan være lov, forskrift til lov eller annet offentlig hjemmelsgrunnlag.
+Identifikator
+Det genereres en unik identifikator for hvert skjema som blir registrert i Oppgaveregisteret.
+Kontaktperson
+Kontaktperson er den person i etaten som Oppgaveregisteret kan kontakte for nærmere opplysninger om oppgaveplikten. Det trenger ikke være den samme som registrerer skjemaet.
+Målgruppe
+Målgruppen beskriver hvilke næringsdrivende som er pliktige til å innrapportere det enkelte skjema. Målgruppen defineres ut fra organisasjonsform og næring.
+Oppgaveplikt
+Opplysninger om egen næringsvirksomhet som en gitt gruppe næringsdrivende med hjemmel i lov, forskrift eller annet offentlig hjemmelsgrunnlag er pålagt å avgi til en gitt offentlig myndighet. Opplysningene avgis vanligvis på ett eller flere skjema.
+Rapporteringsskjema
+Et rapporteringsskjema er et skjema som bestemte grupper av næringsdrivende blir pålagt å sende inn for rapportering av gitte opplysninger. Rapporteringsskjema brukes enten dersom det foreligger krav om periodisk rapportering eller dersom det har oppstått en situasjon/hendelse som krever innsending av skjema.
+Registreringsskjema
+Et registreringsskjema er et skjema som brukes ved førstegangsregistrering av gitte opplysninger.
+Skjema
+Med skjema menes all strukturert innrapportering av data. Innrapporteringen kan skje på flere formater.
+Skjemainnhold
+Skjemainnhold gir en oversikt over hvilken type informasjon som innhentes via skjema.
+Skjemanummer
+Etatens eget identifikasjonsnummer for skjemaet.
+Status godkjent
+Når en sak har fått status godkjent etter behandling i Oppgaveregisteret betyr det at etaten kan iverksette oppgaveplikten.
+Status tilbakesendt
+Når en sak har fått status tilbakesendt etter behandling i Oppgaveregisteret betyr det at saken må suppleres med mer informasjon.
+Status underkjent
+Når en sak har fått status underkjent etter behandling i Oppgaveregisteret betyr det at etaten ikke kan iverksette oppgaveplikten.
+Søknadsskjema
+Et søknadsskjema er et skjema som brukes for å søke om en økonomisk ytelse, en tillatelse eller en annen rettighet.
+Tidsbruk
+Etaten oppgir en estimat på den tiden det tar for den næringsdrivende å fylle ut ett eksemplar av et skjema. Så langt det er mulig skal tidsbruken inkludere alt ekstraarbeid som skjemaet påfører den næringsdrivende, herunder den ekstra interne registrering, tilrettelegging og framhenting av data forut for skjemautfyllingen som ikke er strengt nødvendig av hensyn til andre bedriftsinterne eller eksterne krav.
+
+
+
+
+Nærmere om etatens arbeidsområder
+ 
+
+
+
+
+
+Datakilder i etatenes arbeidsområder
+Endre opplysninger om datakilder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Datakilder i etatenes arbeidsområder
+Endre opplysninger om datakilder
+
+
+
+
+
+
+
+
+
+
+
+
+Kontaktpersoner i etatens arbeidsområde
+Legge inn/endre kontaktinformasjon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kontaktpersoner i etatens arbeidsområde
+Legge inn/endre kontaktinformasjon
+
+
+
+
+
+
+
+
+
+
+
+
+Skjemaer i etatens arbeidsområde
+Oversikt skjema
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skjemaer i etatens arbeidsområde
+Oversikt skjema
+
+
+
+
+
+
+
+
+
+
+
+
+Skjemaredigering
+Registrere/endre/slette skjemaopplysninger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skjemaredigering
+Registrere/endre/slette skjemaopplysninger
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Mer om Oppgaveregisteret
+
+
+
+
+Kontakt Oppgaveregisteret
+
+
+
+
+Lov om Oppgaveregisteret
+
+
+
+
+
+Forskrift til Lov om Oppgaveregisteret
+
+
+
+
+
+Utredningsinstruksen
+
+
+
+
+
+ELMER-retningslinjene
+
+
+
+
+
+Lovdata
+
+
+
+
+
+Altinn.no
+
+
+
+
+
+Næringskoder
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

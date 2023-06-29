@@ -1,0 +1,110 @@
+
+
+
+
+Faktura direkte i innboksen i Altinn
+
+Sist oppdatert: 29. september 2022.
+
+
+
+
+
+Når du skal registrere noko i Føretaksregisteret som medfører gebyr, blir fakturaen send direkte til innboksen i Altinn.
+
+Det er innsendaren av Samordna registermelding som avgjer kven som skal få fakturaen. Dette kan vere
+
+verksemda registreringa gjeld
+den som har fylt ut Samordna registermelding
+anna verksemd som er registrert i Einingsregisteret
+
+Om fakturaen er send til ei verksemd, er det dei som representerer verksemda i Altinn som kan hente ut fakturaen.
+Desse Altinn-rollene gir tilgang til fakturaen i innboksen til verksemda:
+
+rekneskapsmedarbeidar
+signerar av Samordna registermelding
+
+Om du ikkje veit kven som har fått fakturaen, vil dette gå fram av meldinga som er send til Brønnøysundregistera. Dette kan innsendar av Samordna registermelding finne informasjon om i innboksen sin i Altinn.
+Varsling
+I Samordna registermelding finn du eit eige felt for varsling. Den som skal få fakturaen får varsling via SMS eller e-post når fakturaen blir send til innboksen. Om fakturaen ikkje blir lesen innan 7 dagar, sender vi ei påminning på SMS eller e-post. Er fakturaen framleis ikkje lesen etter 14 dagar, sender vi eit nytt varsel.
+Elektronisk handelsformat (EHF faktura)
+Før vi sender faktura for registrering, sjekkar vi om verksemda di er registrert i ELMA, som er eit offentleg register med opplysningar om kven som kan få EHF-faktura. EHF er ein offentleg standard for e-faktura.
+Om verksemda di kan få EHF-faktura, vil du ikkje få faktura i innboksen i Altinn, sjølv om du har kryssa av for det i Samordna registermelding.
+Du kan lese meir om ELMA og EHF-faktura på nettsidene til Direktoratet for forvaltning og IKT (Difi).
+Faktura i posten
+I nokre tilfelle vil faktura likevel bli send i posten. Dette gjeld
+
+meldingar der det er meld fisjon/fusjon
+purringar
+
+ 
+
+
+
+
+Nyttige lenker
+
+Altinn-roller
+
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

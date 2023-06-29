@@ -1,0 +1,146 @@
+
+
+
+
+API
+
+Sist oppdatert: 30. september 2016.
+
+
+
+
+
+Registeret for offentlig støtte tilbyr et REST-API for programmatisk uthenting av og søk i åpne data. Operasjoner som støtter flere formater leverer resultat basert på «Accept»- headeren i HTTP forespørselen.
+ 
+Tilgjengelige operasjoner
+ 
+Søk i støttetildelinger
+
+
+
+BeskrivelseHenter ut et utvalg støttetildelinger som samsvarer med oppgitte søkekriterier
+
+
+URLhttps://data.brreg.no/rofs/od/rofs/stottetildeling/search
+
+
+HTTP-metode  GET 
+
+
+Støttede formater• JSON
+• XML
+
+
+
+URL-parametre
+
+
+Request-parametre• Language - kode for ønsket språk
+• mottakerOrgnr - helt eller delvis organisasjonsnummer for støttemottaker (valgfritt)
+• ordningNavn - helt eller delvis navn på støtteordning (valgfritt)
+• fylkesnr (valgfritt)
+• fraDato - tildelt fra og med (format åååå-mm-dd) (valgfritt)
+• tilDato - tildelt til og med (format åååå-mm-dd) (valgfritt)
+• giverOrgnr - helt eller delvis organisasjonsnummer for støttegiver (valgfritt)
+• instrument - hel eller delvis beskrivelse av støtteinstrument (valgfritt)
+• formaal - hel eller delvis beskrivelse av formål (valgfritt)
+• naering - (valgfritt)
+
+
+
+Eksemplerhttps://data.brreg.no/rofs/od/rofs/stottetildeling/search?language=nob&mottakerOrgnr=987&fraDato=2016-11-20
+ Alle tildelinger fra og med 20. November 2016 hvor støttemottakers organisasjonsnummer inneholder 987, på norsk bokmål. 
+
+https://data.brreg.no/rofs/od/rofs/stottetildeling/search?language=nob&fraDato=2016-07-30&tilDato=2017-12-01 
+Alle tildelinger fra og med 30. juli 2016 til og med 1. desember 2017, på norsk bokmål. 
+
+https://data.brreg.no/rofs/od/rofs/stottetildeling/search?language=nob 
+Alle tildelinger på norsk bokmål. 
+
+
+Mulige statuskoder for HTTP-respons• 200 - OK
+• 400 - Bad Request (feil i utforming av forespørsel, for eksempel manglende språk)
+• 404 - Not Found
+• 500 - Intern serverfeil (en feil oppsto på serveren under behandling av forespørselen)
+
+
+
+
+
+ 
+Hent alle støttetildelinger
+
+
+
+Beskrivelse  Henter ut samtlige registrerte støttetildelinger som ikke er markert som utgått. 
+
+
+URLhttps://data.brreg.no/rofs/od/rofs/stottetildeling/{lang}
+
+
+HTTP-metodeGET 
+
+
+Støttede formater• JSON
+• XML
+
+
+
+URL-parametre• {lang} - kode for ønsket språk
+
+
+Request-parametre
+
+
+Mulige statuskoder for HTTP-respons• 200 - OK
+• 400 - Bad Request (feil i utforming av forespørsel, for eksempel manglende språk)
+• 404 - Not Found
+• 500 - Intern serverfeil (en feil oppsto på serveren under behandling av forespørselen)
+
+
+
+
+
+ 
+Hent spesifikk støttetildeling
+
+
+
+BeskrivelseHenter ut en enkelt støttetildeling med spesifisert id.
+
+
+URLhttps://data.brreg.no/rofs/od/rofs/stottetildeling/{id}/{lang}
+
+
+HTTP-metodeGET
+
+
+Støttede formater• JSON
+• XML
+
+
+
+URL-parametre• {id} - id for ønsket støttetildeling
+• {lang} - kode for ønsket språk
+
+
+
+Request-parametre
+
+
+Mulige statuskoder for HTTP-respons• 200 - OK
+• 400 - Bad Request (feil i utforming av forespørsel, for eksempel manglende id/språk)
+• 404 - Not Found
+• 500 - Intern serverfeil (en feil oppsto på serveren under behandling av forespørselen)
+
+
+
+
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+
+
+
+
+About the Central Coordinating Register for Legal Entities (CCR)
+
+Last updated: 27 October 2021.
+
+
+
+
+
+The CCR is an important national common component that collects, preserves and makes available basic data about enterprises. 
+
+Main task
+The CCR will promote efficient use and coordination of public information about various enterprises.  The CCR is a central register for basic data, which registers basic information about enterprises. The information is called basic data and is used on a large scale across the public administration and among private actors. This is how the CCR contributes to simplification for both the enterprises and public administration.
+What will be registered?
+The CCR assigns a nine-digit organisation number to everyone being registered. In this way each enterprise will receive a unique identifier that can be reused by everyone, as well as simplify the exchange of information.
+The basic data in the register may be described as central basic information used by many, such as business name, address, type of organisation, activity/branch and roles. The CCR contains basic data about various types of enterprises, sole proprietorship, companies, associations, municipalities, co-owners and others. The CCR is a condition for registration in many other registers, such as the Value Added Tax Register, the Register of Business Enterprises, the NAV Aa-register, the Foundation Register, the Business Register of Statistics Norway and the Register of Bankruptcies. Others may register voluntarily.
+All information in the CCR is public domain with the exception of national ID number and d-number. There is no charge of registration.
+How to use the information in the CCR?
+Many are dependent on the information contained in the CCR. They are used accross the public administration and elsewhere in the community, both commercial and otherwise. The organisation number is a unique identifier that simplifies the reuse and the exchange of information. We provide data in various ways, including real time and services of open data, at the same time as we deliver daily changes in the CCR to a number of actors within both public administration and the private sector.  Rights and roles in Altinn are based upon registered roles in the CCR.
+As a national common component, the CCR also contributes with basic information that is reused in the administration when establishing and operating digital services.
+The history behind the establishment
+The CCR was established in 1995 and represented one of the most important efficiency measures in public administration at that time. Basic data from several basic registers were collected, and a common identifier was established; organisation number. Instead of each public agency sending its own spesific form to the enterprises, the CCR ensures that the information is available from one register.
+ 
+
+
+
+
+Useful links
+
+Information about our products
+
+
+
+
+Our registers
+
+
+
+
+About the organisation number
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

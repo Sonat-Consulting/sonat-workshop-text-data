@@ -1,0 +1,179 @@
+
+
+
+
+Abonnement på kunngjeringar i xml-format
+
+Sist oppdatert: 18. januar 2023.
+
+
+
+
+
+Du kan abonnere på kunngjeringar av daglege registreringar.
+
+Du får kunngjeringar frå Føretaksregisteret, Konkursregisteret, Rekneskapsregisteret, Partiregisteret og Stiftelsestilsynet. Desse kunngjeringane er tilgjengelige i xml-format. Løysinga er bygd opp slik at du sjølv bestemmer kva kunngjeringstypar du ønsker å abonnere på.
+Ønsker du for eksempel å bygge opp ein database med dei same kunngjeringstekstane som inngår i kunngjeringsløysinga, kan du abonnere på dette.
+ 
+
+
+
+
+
+
+
+ 
+                                Bestilling                            
+
+
+
+For å teikne abonnement må du krysse av i abonnementsoversikta kva kunngjeringstypar som skal inngå i abonnementet. Abonnementsoversikta finn du under «Avtaler» saman med standardavtalen som må fyllast ut og sendast inn. Når vi tar imot avtale i utfylt/signert stand, startar leveringa.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Prisar og vilkår                            
+
+
+
+Prisen på abonnementet avheng av talet på kunngjøringstypar du abonnerer på. Dette går fram av abonnementsoversikta.
+Abonnementsoversikta inngår som vedlegg til avtalen som blir teikna mellom Brønnøysundregistera og abonnenten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Avtaler                            
+
+
+
+
+Vilkår for abonnement på kunngjeringar blir regulert av standard avtale.
+Du må signere og sende inn både standardavtale og Vedlegg 1 Abonnementsoversikt for å få tilgang til tenesta
+Du kan sende avtalene til oss enten via e-post eller post.
+
+Standardavtale kunngjeringar (PDF)
+Abonnementsoversikt (PDF)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Teknisk beskriving                            
+
+
+
+
+Vi leverer ei zippa fil som inneheld ei fil per kunngjering for kvar kunngjeringstype du abonnerer på. Blir det kunngjord ti nye føretak i Føretaksregisteret ein dag, vil vi levere ti filer av typen ”Nyregistrering” (NYFR).
+Levering går føre seg ved at vi opprettar ein sftp-konto for deg.
+
+Ønsker du teknisk beskriving av korleis filene er bygde opp, kan vi sende deg XSD-filer og XML-som viser dette.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+For meir informasjon om tenesta, ver vennleg å ta kontakt med oss på e-post.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Kunngjeringar/kreditorvarsel
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

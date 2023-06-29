@@ -1,0 +1,474 @@
+
+
+
+
+Guidelines – Simplified form for sole proprietorships
+
+Last updated: 27 January 2023.
+
+
+
+
+
+Guide to common form for sole proprietorship, BR1025, for registration in
+
+The Central Coordinating Register for Legal Entities
+The Register of Business Enterprises
+The NAV Aa register
+The Business Register of Statistics Norway
+
+How to fill in the form:
+ 
+
+
+
+
+
+
+
+ 
+                                1 Business name                            
+
+
+
+1.1 The sole proprietorship’s complete name
+The field must always be filled in.
+Enter the enterprise’s complete business name and organisation number. If it is in regards to a new registration, the Central Coordinating Register for Legal Entities will assign the organisation number.
+The name of sole proprietorships must always include the owner’s surname, for example Lars Holm or Holms Car Body Repairs.
+On the page How do I choose a name for my enterprise? you can read more about choice of names and what considerations you need to take.
+1.2 New business name
+This field is only to be filled in if you are reporting a change of the registered business name. Remember that the name prior to the change must be stated in field 1.1 together with the organisation number. If the sole proprietorship is registered in the Register of Business Enterprises, a change of the business name will be charged with a fee. Here you can see an overview of fees for registration.
+1.3 A separate name of the sub-entity
+This field must only be filled in if the business operates a sub-entity under a different name than the enterprise’s business name. If the complete name is, for example, Lars Holms Hot Dog Stand, and you only use Grill Stall in your marketing and correspondence, only the latter name must be filled in here.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Type of notification                            
+
+
+
+A notification can be made about the following matters:
+
+2.1 Registration of a sole proprietorship not registered previously
+2.2 Change in the registered information or new information
+2.3 Closure of a sole proprietorship
+
+If you want to report transfer, takeover or closure of your sub-entity, you need to fill in fields 8 and 9 in the form.
+2.1 Sole proprietorship not previously registered
+Only tick here if the enterprise previously has not been registered with the Central Coordinating Register for Legal Entities.
+You must enter the starting date of the activity in field 8a. If you take over an existing sub-entity, you must also tick for purchase/takeover of a sub-entity in field 8a. Field 9a must be filled in with information about the sub-entity’s previous owner.
+2.2 Changes/new information
+Tick here if you wish to make changes to the registered information. Registration in or striking off from one or more of our affiliated registers is considered to be a change.
+You only need to fill in the fields that apply for the change. If you want to delete registered information, please mark these fields in the form with “to be omitted”. Bear in mind that a change of name for sole proprietorships registered with the Register of Business Enterprises is subject to a fee. Here you can see an overview of fees for registration.
+2.3 Closure of sole proprietorship
+Tick here if the sole proprietorship is to be closed from all the registers (The Central Coordinating Register for Legal Entities and the affiliated registers).
+Remember to state in field 8b what happens to the sub-entity to which the sole proprietorship is related.
+Striking off only from affiliated registers
+It is fully possible to be struck off from other affiliated registers without having to strike off the enterprise from the Central Coordinating Register for Legal Entities.
+Striking off from the Register of Business Enterprises
+A sole proprietorship without registration obligation in the Register of Business Enterprises, can report a striking off from the Register of Business Enterprises in field 15.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registration in other registers                            
+
+
+
+You fill in field 3 if the sole proprietorship is to be registered in an affiliated register in which it is not previously registered. Field 3.3 and field 3.4 apply to registration of information in NAV Aa Register and The Business Register of Statistics Norway.
+3.1. The Register of Business Enterprises
+You are obliged to register your sole proprietorships in the Register of Business Enterprises if you
+
+are engaged in trade of goods bought for resale
+are going to operate as a state authorised accountant
+are going to operate as an state authorised auditor
+employ more than five employees who work more than 20 hours a week, or
+make liens in inventories, motor vehicles and others where mortgagees are required to be business operators
+
+If you are not under the obligation to register with the Register of Business Enterprises, you still have the right do so. The registration is subject to a fee. Here you can see an overview of fees for registration.
+3.2 Do you have employees or are you expecting to have
+An employee is any person employed in another’s service for salaries or other compensation.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Head office address                            
+
+
+
+You have to state the business address with the name of the street or road and the house number, as well as a letter, if any, possibly a location address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Postal address                            
+
+
+
+If you want the mail to be sent to another address than the business address, you can enter a postal address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 The sub-entity's location address                            
+
+
+
+Fill in this field if the activity is located at a different address than the business address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Submitter/in charge of the fee                            
+
+
+
+The submitter is the addressee for all types of feedback connected to the notification. The submitter is also responsible for paying any fee to the Register of Business Enterprises.
+If the field for the submitter has not been filled in, feedback and any fee requests will be sent to the address of the sole proprietorship. If the submitter has previously been assigned a customer number by the Brønnøysund Register Centre, please state this number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Takeover/transfer                            
+
+
+
+An activity will be regarded as taken over or transferred, if the same activity continues, but with a different main entity as owner/operator.
+These terms must be met:
+The assets that are included as  necessary components of the activity, such as raw materials, production equipment, inventories, contracts and other, must be transferred in their entirety or substantially as a whole. If the assets included in the activity are sold separately, so that the activity cannot continue, you must report the closure of the activity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8a Initial registration or takeover of a sub-entity                            
+
+
+
+Inital registration of a sub-entity
+Upon new registration of a sub-entity, you must enter the starting date of the acitivity, or will start.
+Takeover of a sub-entity
+If the notification applies to a takover of a sub-entity – for example if your sole proprietorship takes over a farm or a kiosk from a different enterprise, please enter the date of the takeover here.
+You can read more about initial registration or takeover of a sub-entity  here.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8b Transfer or closure of a sub-entity                            
+
+
+
+Transfer of a sub-entity
+If the notification relates to the transfer of a sub-entity, for example when a sole proprietorship transfers a shoe shop or a hairdresser salon to another enterprise, the date of takeover must be stated here.
+Closure of a sub-entity
+If the enterprise is closed down, tick the field for this and enter the date of the closure.
+An enterprise is closed down if its production of goods and/or services for some reason is ceased completely.
+The sub-entity also ceases if:
+
+a new owner launches a completely new activity in the same premises
+a new owner moves the entire former activity to a new location in another municipality
+the activity is moved to another municipality and a completely new activity starts with the same owner
+
+Please note that a notification of closure of a sub-entity does not mean that the enterprise is being struck off. If you wish the enterprise to be struck off, tick the box for «Striking off sole proprietorship» in field 2.3.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9a Takeover of a sub-entity                            
+
+
+
+Here you provide information about the previous owner. State the previous owner’s organisation number if there is such a number.
+Here you can find more about takeover of a sub-entity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9b Overdragelse av underenhet                            
+
+
+
+Here you provide information about the new owner. State the new owner’s organisation number, if any.
+Here you can find more about transfer of a sub-entity.
+Bear in mind that the inbox of the sub-entity in Altinn should be emptied before the transfer. Sensitive information, such as medical certificates, etc., shoud be stored in a separate case-/filing system before the transfer is registered. This may prevent the acquirer from gaining access to sensitive information contained in the sub-entity’s inbox.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Activity/branch                            
+
+
+
+10.1 Information about the activity
+Information about the activity of the business is the basis for assigning the enterprise an industrial code. The industrial code is assigned pursuant to Standard Industrial Classification (SN2007). The industrial code is used to prepare statistics describing the Norwegian business and industry/labour market according to business/trade.
+You have to give as accurate a description as possible of the activities carried out or to be carried out. Bear in mind that it is not sufficient to state a general overriding purpose. You must state what will be produced/sold and/or which services/activities will be carried out. Make sure that you make it clear which category the business/trade belongs to.
+Here are some examples of how detailed the description must be:
+
+Agriculture: Growing of cereals. Raising of dairy cattle
+Transport: Freight transport by road. Taxi operation.
+Industry:  Manufacture of household and sanitary goods and of toilet requisites. Manufacture of builders ware of plastic.
+Trade: Agents involved in the sale of timber and building materials. Wholesale of electrical household appliances and machines. Retail sale of meat and processed meat.
+Building and construction: Site preparation. Construction of residential and non-residential buildings.
+Consultancy: Business consultancy activities. Consultancy services in software development of customer- specified software
+
+If the sole proprietorship operates in several lines of business, you must enter each of these in order of priority according to the amount of turnover or employment. State the main activity first as this determines which industrial code you will receive.
+If you are submitting a notification of changes, you must state what the new activity is and state the date when it started. If you start another activitiy in addition to the prior activities, you must state both in the form.
+10.2 Confirmation of business operations
+You must confirm that the activity meets the requirements for business activity.
+A sole proprietorship conducts business operations when the activity
+
+has turnover that can yield a surplus
+has a certain time of duration, usually longer than one year
+is not a pastime activity or individual assignments
+
+Read more about the requirements for running business operations.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Owner, general manager, business manager                            
+
+
+
+In a sole proprietorship, you must always state the owner. By owner we mean the person who has unlimited personal liability for the sole proprietorship’s obligations. If the sole proprietorship has a general manager and/or a business manager, this should be stated as well.
+You must state the name, home address and national identity number or d-number for the persons who are to be registered.
+D-number is a number assigned to foreign nationals without a Norwegian national identity number, in need of some kind of identification to Norwegian authorities. Here you can find more information about d-number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Auditor                            
+
+
+
+This field must only be filled in if the enterprise has an auditor.
+Normally small sole proprietorships do not have auditing obligations. An auditing obligation begins only when
+
+the turnover exceeds NOK 6 million and
+the balance sheet shows assets of more than NOK 23 million, or
+the average number of employees exceed 10 full-time equivalents
+
+The auditing obligation enters into force the year after the business is liable to be audited.
+Some industries have an auditing obligation through special regulations, such as law practices.
+The auditor must be approved by the Financial Supervisory Authority of Norway and registered in the Register of Auditors.
+The field must be filled in with the auditor’s name or business name, address and organisation number.
+Note that the field has a line for the auditor’s signature. If the auditor signs in this field, the attachment of a separate declaration of acceptance is not required.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Accountant                            
+
+
+
+This field must be filled in if the enterprise has an accountant.
+The accountant must be approved by the Financial Supervisory Authority of Norway and registered in the Register of Accountants.
+The field must be filled in with the accountant’s name or business name, address and organisation number.
+Note that the field has a line for the accountant’s signature. If the accountant signs in this field, the attachment of a separate declaration of acceptance is not required.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Power of procuration                            
+
+
+
+Power of procuration is an authorisation to act and sign on behalf of the enterprise, associated with the daily operations.
+Here you specify who has been assigned the power of procuration. When you as the owner of a sole proprietorship assign a power of procuration, you give other proxy to act on behalf of your sole proprietorship. You can give power of procuration to the general manager or other persons.
+If several persons have been assigned a power of procuration, it must be made clear whether they have this authority separately or jointly. Restrictions beyond this cannot be registered. When changing the information about who has been assigned the power of procuration, all the proxies must be listed.
+You must state the name, home address and national identity number or d-number for the persons who are to be registered.
+D-number is a number assigned to foreign nationals without a Norwegian national identity number, in need of some kind of identification to Norwegian authorities. Here you can find more information about d-number.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Other remarks/information                             
+
+
+
+Here you report information that cannot be reported in the other fields of the form.
+
+Own resignation. State the role(s) resigned from.
+Separate closing down from the Register of Business Enterprises, see the instructions for field 2.3.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Requested type of written language                            
+
+
+
+Written communication with the enterprise will be in the selected language variant, nynorsk or bokmål.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Notification address                            
+
+
+
+It is obligatory to register a notification address.
+Only new enterprises have to register a notification address.
+The notification addresses will be used by public authorities to notify the enterprise whenever important information is available in Altinn. The addresses will only be available for public authorities. If you are going to change this information later, you have to do so in the enterprise’s profile in Altinn. The enterprise must have at least one notification address.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Signatures                            
+
+
+
+The notification must be signed by you as the owner in order to be approved.
+When you sign the notification, you confirm that the information provided is correct, and that you are aware that providing incorrect information is a punishable offence.
+
+
+
+
+
+
+
+
+
+
+

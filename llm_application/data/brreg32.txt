@@ -1,0 +1,161 @@
+
+
+
+
+Begrenset tilgang til Enhetsregisteret
+
+Sist oppdatert: 23. oktober 2019.
+
+
+
+
+
+Vi tilbyr en begrenset maskinell tilgang til Enhetsregisteret for private aktører.
+
+Når du benytter denne tjenesten, har du tilgang til følgende tjenester:
+
+Basisdata mini – inneholder organisasjonsnummer, organisasjonsform, navn, forretningsadresse og postadresse.
+Kontaktdata – inneholder telefonnummer, telefaksnummer, mobiltelefonnummer, e-postadresse og hjemmesideadresse.
+Navnesøk – gjør det mulig å finne et organisasjonsnummer ved å søke på navn eller foretaksnavn.
+Særlige opplysninger – inneholder statusinformasjon. Blant annet får du vite om enhetene er registrert i Foretaksregisteret eller Merverdiavgiftsregisteret, eller om enheten er under konkursbehandling.
+Opplysninger fra tilknyttet register – informasjon om næringskode, sektorkode, ansvarskapital og antall ansatte er en del av denne tjenesten.
+Frivillighetsregisteret – inneholder registreringsdato i Frivillighetsregisteret, kategori, kontonummer, sist registrerte vedtekter med registreringsdato, siste årsregnskap med registreringsdato og deltakelse i grasrotandelen.
+
+ 
+
+
+
+
+
+
+
+ 
+                                Priser                            
+
+
+
+Årlig fast pris for løsningen er kr 5 000,- inklusiv oppslag.
+Ønsker du tilgang til registerinformasjon fra Enhetsregisteret med web services?  Se under «Hvordan få tilgang» nedenfor.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Innhold i tjenesten og teknisk dokumentasjon                            
+
+
+
+Du må selv utvikle applikasjonene som skal importere data fra Enhetsregisteret. Vi bidrar ikke med teknisk bistand på dette området, men kan gi faglig rådgivning innen bruk av grunndata fra Enhetsregisteret.
+Her finner du mer informasjon
+
+
+
+
+
+
+
+
+
+
+ 
+                                Hvordan få tilgang                            
+
+
+
+For å få tilgang til løsningen, må du sende oss en e-post. Der skriver du hvilke tjenester du ønsker tilgang til. Samtidig godkjenner du ovenstående vilkår for bruk av web services-løsningen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+For mer informasjon om tjenestene, ta kontakt med oss på e-post.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Teknisk dokumentasjon for maskinell tilgang til Enhetsregisteret
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

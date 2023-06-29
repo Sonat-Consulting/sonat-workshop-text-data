@@ -1,0 +1,110 @@
+
+
+
+
+Faktura direkte i innboksen i Altinn
+
+Sist oppdatert: 29. september 2022.
+
+
+
+
+
+Når du skal registrere noe i Foretaksregisteret som medfører gebyr, blir fakturaen sendt direkte til innboksen i Altinn.
+
+Det er innsenderen av Samordnet registermelding som avgjør hvem som skal motta fakturaen. Dette kan være
+
+virksomheten registreringen gjelder
+den som har fylt ut Samordnet registermelding
+annen virksomhet som er registrert i Enhetsregisteret
+
+Hvis fakturaen er sendt til en virksomhet, er det de som representerer virksomheten i Altinn som kan hente ut fakturaen.
+Disse Altinn-rollene gir tilgang til fakturaen i virksomhetens innboks:
+
+regnskapsmedarbeider
+signerer av Samordnet registermelding
+
+Hvis du ikke vet hvem som har fått fakturaen, vil dette gå frem av meldingen som er sendt til Brønnøysundregistrene. Dette kan innsender av Samordnet registermelding finne informasjon om i sin innboks i Altinn.
+Varsling
+I Samordnet registermelding, finner du et eget felt for varsling. Den som skal motta fakturaen får varsling via SMS eller e-post når fakturaen blir sendt til innboksen. Hvis fakturaen ikke blir lest innen 7 dager, sender vi en påminnelse på SMS eller e-post. Er fakturaen fortsatt ikke lest etter 14 dager, sender vi et nytt varsel.
+Elektronisk handelsformat (EHF faktura)
+Før vi sender faktura for registrering, sjekker vi om virksomheten din er registrert i ELMA, som er et offentlig register med opplysninger om hvem som kan motta EHF-faktura. EHF er en offentlig standard for e-faktura.
+Hvis virksomheten din kan motta EHF-faktura, vil du ikke få faktura i innboksen i Altinn, selv om du har krysset av for det i Samordnet registermelding.
+Du kan lese mer om ELMA og EHF-faktura på nettsidene til Direktoratet for forvaltning og IKT (DIFI).
+Faktura i posten
+I noen tilfeller vil faktura bli sendt i posten. Dette gjelder
+
+meldinger der det er meldt fisjon/fusjon
+purringer
+
+ 
+
+
+
+
+Nyttige lenker
+
+Altinn-roller
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

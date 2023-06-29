@@ -1,0 +1,85 @@
+
+
+
+
+Data om signatur og prokura
+
+Sist oppdatert: 13. april 2023.
+
+
+
+
+
+I denne tjenesten kan du sjekke hvem som har signatur og prokura.
+
+Tjenesten består av to APIer: Oppslagstjenesten og kontrolltjenesten.
+Opplysningene om signatur og prokura er hentet fra Enhetsregisteret og Foretaksregisteret, og er strukturert etter tolkning basert på 17 ulike regler med grunnlag i de mest brukte signatur- og prokurabestemmelsene.
+Oppslagstjenesten
+I denne tjenesten får du navn og fødselsdato på daglig leder, styret og på dem som har signatur og prokura i virksomheten.
+APIet for oppslagstjenesten er åpent og gratis å bruke.
+Offentlige myndigheter og kredittopplysningsforetak vil, ved bruk av virksomhetssertifikat, i tillegg få fødselsnummer på dem som har signatur og prokura.
+Kontrolltjenesten
+Kontrolltjenesten krever bruk av virksomhetssertifikat, men er gratis å bruke og tilgjengelig for alle. Her legger du inn fødselsnummer og organisasjonsnummer, og får informasjon om personen har rett til å signere på vegne av virksomheten.
+Dokumentasjon til APIene, og informasjon om hvordan du får tilgang, finner du her.
+ 
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

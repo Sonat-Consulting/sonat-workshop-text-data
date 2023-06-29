@@ -1,0 +1,295 @@
+
+
+
+
+Undereining
+
+Sist oppdatert: 31. mai 2023.
+
+
+
+
+
+Lurer du på kvifor du har ei undereining med eige organisasjonsnummer? Når du registrerte verksemda di, registrerte vi i etterkant ei undereining også. 
+
+Det er fleire årsaker til dette. Du treng ei undereining om du:
+
+driv næringsaktivitet
+skal rapportere lønn eller honorar i a-meldinga
+
+Derfor får dei fleste nye verksemder, ikkje berre aksjeselskap og enkeltpersonføretak, men også foreiningar, eigarseksjonssameige og andre typar verksemder to eller fleire organisasjonsnummer; eitt for hovudeininga og eitt for undereininga.
+Sjølv om du ikkje har tilsette i dag, eller betalar styrehonorar, så ligg undereininga klar om du skulle ha behov for dette i framtida. Du ser kva undereiningar du har når du loggar deg inn i Altinn.
+Når skal eg bruke undereininga sitt organisasjonsnummer?
+Dette bruker du når du:
+
+rapporterer tilsettingsforhold til Arbeidsgivar- og arbeidstakerregisteret i a-meldinga
+rapporterer lønn, honorar og frilans i a-meldinga
+når Statistisk sentralbyrå spør etter opplysningar til statistiske forhold
+har fått ei digital sjukemelding
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+                                Kva er ei hovudeining?                            
+
+
+
+Hovudeininger er eit samlebegrep for selskap, foreiningar, personar og anna som er registrert i Einingsregisteret, og som ikkje er ei undereining.
+Hovudeining er verksemd på øvste nivå i registreringsstrukturen i Einingsregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kva er ei undereining?                            
+
+
+
+Ei undereining identifiserer den aktiviteten hovudeininga driv. Ei hovudeining kan ha ei eller fleire undereiningar. Undereiningane er ikkje sjølvstendige. Dei vil alltid vere knytte opp mot ei hovudeining.
+Undereining er verksemd på lågaste nivå i registreringsstrukturen i Einingsregisteret.
+Det er Statistisk sentralbyrå som avgjer kva undereiningar som skal registrerast, og klassifisering av dei. Registrering og klassifisering skjer etter standard som følger internasjonale statistikknormer.
+Ei hovudeining kan ikkje nekte eller krevje slik registrering.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Registrering av fleire undereiningar                            
+
+
+
+Det skal registrerast fleire undereiningar dersom eitt av følgande vilkår er oppfylt:
+
+Det blir drive næringsaktivitet i forskjellige bransjar. Kvar bransje må sysselsette minst fem personar
+
+
+Det blir drive næringsaktivitet med tilsette på fleire geografiske stader.
+
+Forskjellige bransjar
+Med forskjellige bransjar betyr det at aktivitetane fell inn under forskjellige næringskodar etter Standard for næringsgruppering (SN2007)
+Aktivitetar som blir utførte berre for å betene dei primære aktivitetane til hovudeininga, skal ikkje registrerast som ei eiga undereining. Eksempel på dette kan vere administrasjon, IT-avdeling og sal av eigenproduserte varer. Slike aktivitetar blir berre registrerte som eige undereining dersom dei går føre seg på ein annan geografisk stad enn der den primære aktiviteten til hovudeininga er.
+Fleire geografiske stader
+Det blir drive aktivitet på fleire geografiske stader når undereiningane er lokaliserte på ulike adresser. Det er ikkje nok å føre opp ulike postadresser for  å få registrert ei undereining.
+For ambulerande aktivitet blir berre fast bemanna avdelingskontor og liknande registrerte. Eksempel på dette er bygg- og anleggsarbeid, transport og utleige av arbeidskraft, vikarbyrå.
+Offentleg forvaltning
+Dei generelle reglane som er gjort greie for ovanfor gjeld også for offentleg forvaltning. Detaljert regelverk for registrering av undereiningar i kommunar, fylkeskommunar og helseføretak finn du på www.ssb.no under Innrapportering, Kostra, Veiledning
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis registrerer eg fleire undereiningar?                            
+
+
+
+Om du skal registrere fleire undereiningar fyller du ut Samordna registermelding, skjema for undereiningar – aktivitet på fleire adresser. Last opp vedlegget til Samordna registermelding i Altinn (kryss av for at føretaket skal registrere ein eller fleire nye undereiningar)
+
+
+
+
+
+
+
+
+
+
+ 
+                                Overtaking og overføring av undereining                            
+
+
+
+Ei undereining kan bli overteken eller overført frå ei hovudeining til ei anna. I slike tilfelle vil undereininga behalde organisasjonsnummeret sitt.
+For at ei undereining skal reknast som overteken eller overført, må følgande vilkår vere oppfylt:
+
+Den same aktiviteten held fram, men med ei anna hovudeining som ny eigar av undereininga
+
+
+Aktiviteten held fram i den same kommunen som tidlegare
+
+
+Dei nødvendige aktiva som inngår i aktiviteten må som regel blir overførte under eitt. Eksempel på dette er råvarer, produksjonsutstyr, varelager, kontraktar og tilsette.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis registrerer eg overføring av undereining?                            
+
+
+
+Om du skal melde overtaking eller overføring av ei undereining, kan du bruke skjemaet Samordna registermelding i Altinn. Dersom det er fleire undereiningar som skal bli overtekne eller overførte, må du fylle ut papirskjemaet Samordna registermelding, skjema for undereiningar – aktivitet på fleire adresser .
+Hugs at du bør rydde i innboksen til undereininga i Altinn før overdraginga. Sensitiv informasjon, som sjukemeldingar m.m, bør du lagre i eige sak-/arkivsystem før overdraginga blir registrert. Da unngår du at overtakar får tilgang til sensitiv informasjon som ligg i innboksen til undereininga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis meld eg sletting av undereining?                            
+
+
+
+Om du skal legge ned aktiviteten, kan du melde sletting av undereininga i Samordna registermelding i Altinn. Dersom hovoudeininga har fleire undereiningar og skal legge ned ein eller fleire, må du fylle ut papirskjemaet Samordna registermelding, skjema for undereiningar – aktivitet på fleire adresser.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Tal på tilsette                            
+
+
+
+Einingsregisteret inneheld opplysning om tal på tilsette for alle arbeidsgivarar som er registrerte i Einingsregisteret. Tal på tilsette er aktive arbeidsforhold registrerte i NAV sitt Aa-register. Alle arbeidsgivarar skal rapportere arbeidsforholda kvar månad i a-meldinga.
+Verksemder som har tilsette skal ha minst ei undereining. Undereiningane er identifisert med eit eige organisasjonsnummer som er tilknytt hovedeininga. Tal på tilsette er knytt til ei undereining og omfattar tal på unike personar som jobbar i verksemda. Om ein person har fleire arbeidsforhold knytt til den same verksemda, blir personen telt berre ein gong.
+Opplysninga om tal på tilsette er blant anna tilgjengeleg i tenesta Opne data. Du kan velje om du vil sjå talet på tilsette knytt til ei undereining eller totalt tal på tilsette på hovudeininga.
+
+
+
+
+
+
+
+
+
+
+
+Søk etter føretak
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Skjemaa våre
+
+
+
+
+Informasjon om produkta våre
+
+
+
+
+Nettbutikken
+
+
+
+
+NAV Aa-registeret
+
+
+
+
+
+Innboks i Altinn
+
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

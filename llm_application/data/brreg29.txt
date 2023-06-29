@@ -1,0 +1,155 @@
+
+
+
+
+Logo og profilfarger
+
+Sist oppdatert: 30. september 2019.
+
+
+
+
+
+På denne siden finner du logoen og fargeprofilen vår.
+
+Logoen finnes i versjonene bokmål, nynorsk og engelsk. Den skal kun brukes i svart eller hvitt, aldri med farger. For at logoen skal komme tydelig frem er det viktig å respektere sikkerhetsområdet rundt logoen. Du kan bruke høyden på logoikonet som huskeregel for å passe på at du holder deg innenfor reglene.
+For å være sikker på at logoen synes, opererer vi med minimum størrelse av logo for både utskrift og digitale flater. I utskrift tilsvarer dette 5 mm høyde, mens på skjerm er minimumsgrensen på 15 px høyde. EPS-filene er vektorfiler og brukes til trykk. PNG-filene kan brukes til skjermbaserte medier som nettsider og PowerPoint.
+All bruk av vår logo må du avklare med oss på forhånd.
+ 
+
+
+
+
+
+
+Brønnøysundregistrenes logo, bokmål - hvit (png)
+
+
+Brønnøysundregistrenes logo, bokmål - svart (png)
+
+
+Brønnøysundregistrenes logo, bokmål - hvit (eps)
+
+
+Brønnøysundregistrenes logo, bokmål - svart (eps)
+
+
+
+
+ 
+
+
+
+
+
+
+Brønnøysundregistera sin logo, nynorsk - kvit (png)
+
+
+Brønnøysundregistera sin logo, nynorsk - svart (png)
+
+
+Brønnøysundregistera sin logo, nynorsk - kvit (eps)
+
+
+Brønnøysundregistera sin logo, nynorsk - svart (eps)
+
+
+
+
+ 
+
+
+
+
+
+
+Brønnøysundregistrenes logo, English - white (png)
+
+
+Brønnøysundregistrenes logo, English - black (png)
+
+
+Brønnøysundregistrenes logo, English - white (eps)
+
+
+Brønnøysundregistrenes logo, English - black (eps)
+
+
+
+
+ 
+Fargeprofilen vår
+ 
+
+
+
+
+Hovedfarger
+
+
+
+primary 
+CMYK: 75/33/0/25
+RGB: 0/107/191
+HEX/WEB: #006bbf
+primary-darker
+CMYK: 47/25/0/48
+RGB: 13/67/132
+HEX/WEB: #0d4384
+select-darker
+CMYK: 31/11/0/68
+RGB: 1/53/81
+HEX/WEB: #013551
+primary-light
+CMYK: 5/1/0/0
+RGB: 242/252/254
+HEX/WEB: #f2fcfe
+
+
+Tilleggsfarger
+
+
+
+success
+CMYK: 49/0/29/34
+RGB: 44/168/94
+HEX/WEB: #2ca85e
+
+success lighter
+CMYK: 12/0/9/0
+RGB: 225/255/233
+HEX/WEB: #e1ffe9
+info
+CMYK: 0/34/62/6
+RGB: 239/152/80
+HEX/WEB: #ef9850
+
+info lighter
+CMYK: 0/4/16/0
+RGB: 255/244/215
+HEX/WEB: #fff4d7
+warning
+CMYK: 0/19/71/0
+RGB: 255/207/74
+HEX/WEB: #ffcf4a
+
+warning lighter
+CMYK: 0/0/14/0
+RGB: 255/254/220
+HEX/WEB: #fffedc
+danger
+CMYK: 0/60/60/10
+RGB: 229/76/76
+HEX/WEB: #e54c4c
+
+danger lighter
+CMYK: 0/10/10/0
+RGB: 255/229/229
+HEX/WEB: #ffe5e5
+
+
+
+ 
+
+

@@ -1,0 +1,618 @@
+
+
+
+
+Veiledning til samordnet registermelding – forenklet skjema for foreninger
+
+Sist oppdatert: 23. mai 2022.
+
+
+
+
+
+Slik fyller du ut skjemaet
+ 
+
+
+
+
+
+
+
+ 
+                                1 Foreningens navn                            
+
+
+
+1.1 Foreningens fullstendige navn
+Feltet skal alltid fylles ut. Oppgi foreningens fullstendige navn og organisasjonsnummer. Ved nyregistrering tildeler Enhetsregisteret organisasjonsnummer. Ved endring av foreningens navn må du oppgi registrert navn i felt 1.1.
+1.2 Eventuelt nytt navn på foreningen
+Dette feltet skal du bare fylle ut hvis foreningen melder endring av registrert navn. Er foreningen registrert i Foretaksregisteret, er endring av navn gebyrbelagt.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Meldingen gjelder                            
+
+
+
+En melding kan gjelde følgende:
+2.1 Registrering i Enhetsregisteret
+Her skal du bare krysse av hvis foreningen ikke er registrert i Enhetsregisteret fra før.
+2.2 Registrering i Frivillighetsregisteret
+Her skal du bare krysse av hvis foreningen skal registreres i Frivillighetsregisteret.
+2.3 Registrering i Foretaksregisteret
+Her skal du bare krysse av hvis foreningen skal registreres i Foretaksregisteret.
+Registrering i Foretaksregisteret er gebyrbelagt.
+2.4 Endringer/nye opplysninger
+Hvis foreningen er registrert i ett av registrene fra før og ønsker å melde endring i noen av de registrerte opplysningene eller har tilleggsopplysninger, krysser du av for «Endringer/nye opplysninger».
+Fyll alltid ut foreningens organisasjonsnummer og registrert navn i felt 1.1. I resten av blanketten fyller du bare ut de feltene endringen gjelder.
+Hvis du vil at en registrert opplysning skal slettes uten at den erstattes med nye opplysninger, skriver du «utgår» i det aktuelle feltet.
+2.5 Sletting fra samtlige registre
+Hvis du vil slette foreningen i Enhetsregisteret, vil den også bli slettet i alle tilknyttede registre, inkludert Frivillighetsregisteret og Foretaksregisteret.
+2.6 Sletting i Frivillighetsregisteret
+Hvis du vil slette foreningen kun fra Frivillighetsregisteret, krysser du av her.
+2.7 Sletting i Foretaksregisteret
+Hvis du vil slette foreningen kun fra Foretaksregisteret, krysser du av her. Foreninger skal slettes fra Foretaksregisteret hvis de ikke lenger driver med næringsvirksomhet. Det vil si foreninger som tidligere har drevet næringsvirksomhet og som har avsluttet dette forholdet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registrering i NAV AA-register                            
+
+
+
+Har eller forventer foreningen å få egne ansatte eller kommer dere til å engasjere andre som skal motta lønn eller honorar?
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Foreningens adresse                            
+
+
+
+Her skriver du inn foreningens forretnings/besøksadresse. Med dette menes gateadressen der foreningen holder til, eller stedsadresse på mindre steder. Næringsdrivende foreninger må ha forretnings/besøksadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Postadresse                            
+
+
+
+Her oppgir du foreningens postadresse. Riktig adresse er viktig for at posten skal komme raskt og effektivt fram. Les mer om dette hos Posten Norge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Innsender/gebyransvarlig                            
+
+
+
+Innsenderen vil bli brukt som adressat for alle typer tilbakemeldinger om meldingen – det vil si at bekreftelser og andre brev, registerutskrift og lignende blir sendt til den som er oppgitt som innsender. Innsenderen er også ansvarlig for å betale eventuelt gebyr til Foretaksregisteret.
+Hvis innsenderfeltet ikke er utfylt, blir tilbakemeldinger, krav om gebyr og lignende sendt til foreningens adresse. Hvis innsenderen tidligere har fått tildelt kundenummer av Brønnøysundregistrene, oppgir du dette nummeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Stiftelse av forening                            
+
+
+
+Dato for stiftelse
+Skriv dato da foreningen ble stiftet.
+Har du ikke nøyaktige opplysninger om dato for stiftelse, skriver du stiftelsesåret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Foreningens aktiviteter                            
+
+
+
+Opplysningene om foreningens aktiviteter er grunnlaget for å tildele næringskode.
+Næringskoden tildeles etter Standard for næringsgruppering (SN2007). Næringskoden blir blant annet brukt til å lage statistikk der norsk næringsliv/arbeidsmarked blir beskrevet etter næring/bransje.
+Gi en så nøyaktig beskrivelse som mulig av aktiviteten(e) som utføres eller skal utføres.
+Eksempler kan være musikkorps, idrettslag og så videre.
+Hvis foreningen driver flere aktiviteter, må du oppgi hver enkelt av dem i rekkefølge etter for eksempel tid og omfang.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Kontaktperson, daglig leder eller forretningsfører                            
+
+
+
+Hvis foreningen ikke har daglig leder/forretningsfører, oppgis en kontaktperson.
+Med daglig leder/forretningsfører mener vi den personen som har den administrative ledelsen av foreningen og som med dette har myndighet til å representere foreningen utad i forhold som faller inn under den daglige ledelsen.
+Er forretningsfører en juridisk person, skal du i tillegg oppgi en kontaktperson.
+Fødselsnummer/d-nummer/organisasjonsnummer
+Enkeltpersoner: Pass på å få med fødselsnummer i tillegg til navn og bostedsadresse.
+Juridiske personer: Oppgi organisasjonsnummer og forretningsadresse.
+Utenlandske personer: Personer uten norsk fødselsnummer må oppgi d-nummer.
+Les mer om tildeling av d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Ønsket målform                            
+
+
+
+Skriftlig kommunikasjon til foreningen vil foregå på valgt målform.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Foreningens vedtekter                            
+
+
+
+Dette feltet skal bare brukes hvis foreningen skal registreres i Foretaksregisteret.
+Oppgi datoen da vedtektene ble fastsatt eller endret.
+Vedtektene må alltid vedlegges ved nyregistrering. Ved endringer av vedtektene må det vedlegges et ajourført eksemplar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Foreningens styre                            
+
+
+
+Registrering i Enhetsregisteret:
+Hvis foreningen har et styre, skal alle medlemmer, med unntak av varamedlemmer, føres opp her.
+Registrering i Frivillighetsregisteret:
+Hvis foreningen skal registreres i Frivillighetsregisteret, må den ha et styre, se frivillighetsregisterloven § 5.
+Registrering i Foretaksregisteret:
+Foreningen må oppgi et styre, se foretaksregisterloven § 3-6 første ledd nr 5. Legg inn hele styret (leder, nestleder, styremedlemmer og varamedlemmer) i skjemaet.
+Du må oppgi fullt fødselsnummer, navn og adresse på medlemmene uavhengig av hvilket register foreningen skal registrere seg i. Personer uten norsk fødselsnummer må oppgi d-nummer.
+For å bekrefte at de som er oppført i blanketten, er valgt, må du legge ved protokoll som viser valget. Både ved nyregistrering og endringer må samtlige styremedlemmer oppgis.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Signatur                            
+
+
+
+Hvis noen er tildelt en slik fullmakt, må du opplyse om det her. Denne tildelingen må kunne dokumenteres, og legges ved meldingen. Fullmakten kan fremgå av bestemmelse i foreningens vedtekter eller som eget protokollført vedtak. Pass på at signaturbestemmelsen som meldes er i overenstemmelse med dette.
+At noen har signaturrett for foreningen, betyr at de har fullmakt til å forplikte foreningen med sin underskrift, for eksempel ved låneopptak, salg av fast eiendom eller lignende viktige avgjørelser. Hvis noen er tildelt slik fullmakt, må du opplyse om det her.
+Signaturrett kan enten gis til rolleinnehaver(e) eller navngitt(e) person(er). Hvis ingen av standardalternativene i blanketten passer, kan du oppgi signaturbestemmelsen under «Annen signaturbestemmelse».
+Er signaturrett gitt til navngitte personer, må du oppgi navnet, adressen og fødselsnummeret/d-nummeret deres i feltet «Annen signaturbestemmelse».
+Hvis flere har signaturrett, må det presiseres om de har retten hver for seg eller i fellesskap. Ved endringer av de registrerte opplysningene om signatur, må alle som skal ha signaturrett etter endringen oppgis.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Prokura                            
+
+
+
+Hvis noen er tildelt prokura, må du opplyse om det her. Denne tildelingen må kunne dokumenteres, og legges ved meldingen. Fullmakten kan framgå av bestemmelse i foreningens vedtekter eller som eget protokollført vedtak. Pass på at prokurabestemmelsen som meldes er i overenstemmelse med dette.
+Prokura omfatter forhold som har med den daglige driften av foreningen å gjøre. Den er en fullmakt til å skrive under og forplikte foreningen utad. Prokura brukes vanligvis bare av noen få næringsdrivende foreninger, og er en mer begrenset fullmakt enn signaturrett.
+Prokura kan enten gis til rolleinnehaver(e) eller navngitt(e) person(er). Hvis ingen av standardalternativene i blanketten passer, kan du oppgi prokura under «Annen prokurabestemmelse».
+Er prokura tildelt navngitte personer, må du oppgi navnet, adressen og fødselsnummeret/d-nummeret i feltet «Annen prokurabestemmelse».
+Hvis flere har prokura, må det presiseres om de har retten hver for seg eller i fellesskap. Ved endring av registrerte opplysninger om prokura, må samtlige som skal ha prokura etter endringen oppgis.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Revisor                            
+
+
+
+Hvis foreningen har en revisor som er godkjent av Finanstilsynet og er registrert i Revisorregisteret, må opplysninger om dette meldes her.
+Når det gjelder registrering i Foretaksregisteret, har foreningen revisorplikt hvis driftsinntektene av foreningens samlede virksomhet er 5 millioner kroner eller mer, og i tillegg enten har flere enn 20 ansatte eller samlede aktiva har en verdi på 20 millioner kroner eller mer, se revisorloven § 2-1 og regnskapsloven § 1-2.
+Revisor må bekrefte å ha påtatt seg oppdraget, enten ved å skrive under i feltet eller ved å legge ved en særskilt villighetserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Regnskapsfører                            
+
+
+
+Hvis foreningen har en regnskapsfører som er autorisert av Finanstilsynet og registrert i Regnskapsførerregisteret, må opplysninger om dette meldes her.
+Regnskapsfører må bekrefte å ha påtatt seg oppdraget, enten ved å skrive under i feltet eller ved å legge ved en egen villighetserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Feltene 17–21 gjelder opplysninger til Frivillighetsregisteret                            
+
+
+
+Vær oppmerksom på at de som ønsker å registrere foreningen i Frivillighetsregisteret må fylle ut feltene 17 -21.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Kategori                            
+
+
+
+I dette feltet må du gi opplysninger om hvilken kategori som passer for den aktiviteten foreningen driver.
+Du må oppgi kategorikode, se tilgjengelige kategorier under Nyttige lenker til høyre. NB! Det er ikke tilstrekkelig å angi hovedkode, for eksempel kode 1 «Kultur og rekreasjon». Opplysning må gis på underkodenivå, for eksempel: kode 1 100, «Kunst og kultur».
+Hvis foreningen driver flere typer aktiviteter, er det mulig å melde inntil tre ICNPO-kategorier. Kategoriene må rangeres etter omfang.
+Eksempel:
+Et grendelag driver med forskjellige aktiviteter knyttet til det lokalsamfunnet det hører hjemme i, nærmest som en velforening. I tillegg driver de nokså mye med teateroppsetninger.
+De melder kategori slik:
+6 100, Lokalsamfunnsutvikling, rangert som nummer 1
+1 100, Kunst og kultur, rangert som nummer 2
+Hvis du vil endre opplysninger om kategori, må du oppgi samtlige kategorier som skal registreres. Det vil si at kategorier som tidligere er meldt og som fortsatt skal være registrert, må oppgis på nytt.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Registrering av vedtekter for foreninger                            
+
+
+
+Når foreningen skal registreres i Frivillighetsregisteret første gang, må vedtektene alltid vedlegges.
+Opplysningene i vedtektene blir blant annet brukt for å kunne vurdere om foreningen har rett til å bli registrert.
+Foreninger kan velge om de vil registrere vedtektene sine. Ved å gjøre dette kan andre enkelt skaffe seg tilgang til og innsyn i de gjeldende vedtektene. Dette kan være med på å øke foreningens tillit.
+Velger foreningen å registrere vedtektene er det krav om et visst minimumsinnhold av opplysninger i vedtektene:
+
+foreningens navn
+formål
+årsmøte
+styre
+valg til styre
+vedtektsendringer
+opphør.
+
+Krav til innhold finner du i frivillighetsregisterloven § 6, 2. ledd
+Vi gjør oppmerksom på at det er egne regler for stiftelser og aksjeselskap i denne sammenhengen.
+18.1 Registrering av vedtekter
+Kryss av om du ønsker at foreningen skal registrere vedtektene sine. Det er viktig å være klar over at når dere har påtatt dere å registrere vedtektene, har dere også påtatt dere å registrere alle framtidige endringer av disse. Dette gjøres ved å sende oss en melding om endring, samtidig som nye, oppdaterte vedtekter legges ved. Det er mulig både å påta seg og si fra seg denne plikten ved en senere anledning.
+18.2 Gjeldende vedtekter er endret
+Har foreningen valgt å registrere vedtektene sine, har de samtidig påtatt seg en plikt til å registrere endringer/oppdateringer av disse. Ved innsendelse av melding om endring av de registrerte opplysningene, må du gjøre oss oppmerksom på at de gjeldene vedtektene er endret/oppdatert her.
+De endrede/oppdaterte vedtektene må legges ved.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19 Årsregnskap i Frivillighetsregisteret                            
+
+
+
+Det er mulig for foreningene selv å påta seg plikt til årlig innsendelse av årsregnskap. En grunn til å gjøre dette, kan være ønske om at andre enkelt skal få tilgang til regnskapsopplysningene. Enheter som har påtatt seg innsendingsplikt for årsregnskap vil fremstå som åpne og ryddige, siden regnskapsopplysningene da vil være tilgjengelig for enhver, via Regnskapsregisteret.
+Hvis foreningen velger å påta seg innsendingsplikt, må dere sende inn årsregnskap til Regnskapsregisteret hvert år.
+Kravene som stilles til årsregnskapet som skal sendes inn, er annerledes og enklere enn kravene som er stilt i regnskapsloven. Nærmere opplysninger om disse reglene finner du i forskrift om register for frivillig virksomhet. Vær oppmerksom på at foreninger som har alminnelig regnskapsplikt etter regnskapsloven ikke kan benytte seg av disse særreglene. Disse foreningene skal sende inn årsregnskap til Regnskapsregisteret etter de ordinære reglene.
+Svarer du «Ja» på spørsmålet om foreningen påtar seg plikt til å rapportere regnskap, må du oppgi avslutningsdato for årsregnskapet.
+Hvis regnskapsperioden endres, må du oppgi fra hvilket regnskapsår endringen gjelder, og ny avslutningsdato.
+Hvis foreningen ikke lenger har innsendingsplikt, kan du sende melding om dette til Frivillighetsregisteret.
+I Altinn finner du skjema for innsending av årsregnskap
+
+
+
+
+
+
+
+
+
+
+ 
+                                20 Grasrotandelen                            
+
+
+
+Registrering i Frivillighetsregisteret er et vilkår for å kunne motta midler fra grasrotandelen.
+Denne ordningen går ut på at spillere som benytter tjenester fra Norsk Tipping kan bestemme at inntil fem prosent av innsatsen skal gå til en bestemt forening eller annen frivillig organisasjon.
+Spilleren kan bare velge mellom de som er registrert i Frivillighetsregisteret. Registrering i Frivillighetsregisteret kan altså gi din forening mulighet for nye inntekter. Hvis foreningen vil delta i grasrotandelen, krysser du av for «Ja» i dette feltet.
+Vær oppmerksom på følgende: Hvis du krysser av for «Ja» i dette feltet, bekrefter du samtidig at foreningen din driver egen virksomhet kun på lokalt eller regionalt plan. Foreninger som er paraplyorganisasjoner for lokale lag kan ikke delta i grasrotandeen.
+Foreningen som ikke ønsker å delta i grasrotandelen, kan reservere seg ved å krysse av for «Nei» i dette feltet.
+For å være berettiget til deltakelse i grasrotandelen, må i tillegg den virksomheten som drives være av en bestemt art. Avgrensningene her er for det meste, men ikke utelukkende, basert på den kategoriseringen som registreres i Frivillighetsregistreret.
+Detaljerte regler
+Foreninger som driver virksomhet innenfor minst én av følgende kategorier, kan delta i grasrotandelen:
+1 – Kultur og rekreasjon
+2 – Utdanning og forskning
+Organisasjoner som bare driver virksomhet innenfor hovedkategorien utdanning og forskning kan ikke delta i grasrotandelen.
+3 – Helse
+Kan delta i grasrotandelen, men ikke de organisasjoner som driver sykehus, psykiatriske institusjoner, pleiehjem eller noen form for private helseklinikker.
+4 – Sosiale tjenester
+5 – Natur- og miljøvern
+6 – Bolig- og lokalmiljø
+Kan ikke delta i grasrotandelen. Unntak gjelder for velforeninger, som likevel har rett til å delta.
+7 – Politiske- og interesseorganisasjoner
+Kan delta i grasrotandelen, men ikke de organisasjoner som utgjør politiske partier. Politiske partiers ungdomsorganisasjoner kan likevel delta.
+8 – Legater og fremme av frivillighet
+9 – Internasjonale organisasjoner
+10 – Tros- og livssynsorganisasjoner
+11 – Yrkes-, bransje- og fagforeninger
+Kan ikke delta i grasrotandelen. Unntak gjelder for elev- og studentorganisasjoner, som likevel har rett til å delta.
+12 – Andre
+13 – Barne- og ungdomsorganisasjoner
+14 – Mangfold og inkludering
+Aktivitet i flere kategorier
+Det holder at organisasjonen er registrert i minst én kategori som gir rett til å delta i grasrotandelen. At de eventuelt også er registrert i en eller flere kategorier som ikke kan delta i ordningen, har ingen betydning.
+Kan ikke benytte seg av betalt reklame
+Foreninger som mottar grasrotmidler kan ikke benytte seg av betalt reklame for å få spillere til å gi sin andel til sin forening, se grasrotforskriften § 4. Likevel har alle lag og foreninger mulighet til å publisere i egne kanaler, henge opp materiell og dele ut vervekort og vervebrev.
+Fiktiv forening
+Det er ikke tillatt å opprette en forening bare for å få utbetalt grasrotmidler, se grasrotforskriften § 2. I slike tilfeller kan en slik «forening» bli pålagt å betale tilbake grasrotandelmidlene.
+Grasrotandelen forvaltes av Norsk Tipping, som har mer informasjon om ordningen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21 Kontonummer                            
+
+
+
+Hvis du har krysset av for at foreningen skal delta i grasrotandelen, må du oppgi foreningens kontonummer, se grasrotforskriften § 3, e.
+Er ikke kontonummer oppgitt, eller feil slik at Norsk Tipping ikke får utbetalt grasrotandelen, vil foreningen miste retten til opptjente midler, se grasrotforskriften § 4, tredje ledd.
+Andre kan velge å registrere kontonummeret sitt i Frivillighetsregisteret. Det gjør at de som måtte ha bruk for det, for eksempel givere, lett kan finne foreningens kontonummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22 Andre merknader                            
+
+
+
+Her melder du opplysninger som ikke kan meldes i de andre feltene på blanketten. Legg ved ekstra ark hvis det blir for liten plass.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23 Varslingsadresse                            
+
+
+
+Varslingsadresse er en pliktig opplysning.
+Varslingsadresse skal bare legges inn på nye virksomheter.
+Varslingsadressene vil bli brukt av det offentlige for å varsle virksomheten når viktige meldinger er tilgjengelige i Altinn. Opplysningene er bare tilgjengelige for offentlige myndigheter.
+Skal du endre disse opplysningene senere, gjør du det under virksomhetens profil i Altinn.
+Virksomheten må ha minst én varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24 Underskrift                            
+
+
+
+Meldingen må være underskrevet for at den skal bli godkjent. Den/de som skriver under på meldingen, bekrefter med sin underskrift at opplysningene som er gitt i blanketten, er riktige.
+Hvem som skal skrive under, avhenger av hvilke registre foreningen skal registreres i: Hvis meldingen bare gjelder Enhetsregisteret eller Frivillighetsregisteret, skal den underskrives av enten daglig leder, forretningsfører eller kontaktperson, eller av samtlige styremedlemmer.
+Hvis meldingen gjelder Foretaksregisteret, skal den underskrives av signaturberettiget eller samtlige styremedlemmer. Nyvalgte styremedlemmer som ikke har underskrevet meldingen, må vedlegge villighetserklæring som bekrefter at de har påtatt seg vervet.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Vedleggsveileder
+
+
+
+
+Tilgjengelige kategorier for aktiviteten
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

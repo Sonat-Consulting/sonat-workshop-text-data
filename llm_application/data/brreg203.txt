@@ -1,0 +1,290 @@
+
+
+
+
+Veiledning til skjema for underenhet – aktivitet på flere adresser
+
+Sist oppdatert: 6. september 2021.
+
+
+
+
+
+Dette skjemaet skal du bruke hvis du driver aktivitet på flere steder, eller av stort omfang i ulike bransjer på samme sted.
+
+Reglene for registrering av underenheter 
+Hvis en hovedenhet (AS, enkeltpersonforetak, kommune og lignende) driver aktivitet, og har ansatte, på flere lokalt adskilte steder (adresser), skal du registrere en underenhet, med eget organisasjonsnummer, for hver adresse.
+Tilsvarende skal det være registrert flere underenheter, hvis en hovedenhet driver aktivitet i ulike bransjer på samme sted og hver bransje sysselsetter minst fem personer på heltid eller deltid. Unntatt fra denne regelen er blant annet transport- og bygge- og anleggsbransjen. For disse næringene skal det bare registreres en underenhet for hver adresse der det er faste avdelings-/administrasjonskontorer.
+Slik fyller du ut skjemaet
+Fyll ut ett skjema for hver av underenhetene.
+ 
+
+
+
+
+
+
+
+ 
+                                1 Organisasjonsnummer                            
+
+
+
+Hvis en allerede registrert hovedenhet melder at den skal registrere ny underenhet, oppgir du organisasjonsnummeret til hovedenheten.
+Om meldingen gjelder endring i de opplysningene som er registrert om en underenhet, oppgir du organisasjonsnummeret til både hovedenheten og underenheten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Navn på underenheten                            
+
+
+
+Fyll ut feltet hvis aktiviteten i underenheten utøves under et annet navn enn hovedenhetens offisielle navn/foretaksnavn eller om underenheten har en egen avdelingsbetegnelse.
+Om meldingen gjelder endring av navn, må du oppgi både nytt og tidligere navn.
+Når underenheten ikke lenger skal ha eget navn, skal feltet Underenhetens fullstendige navn fylles ut med teksten: Drives ikke lenger under eget navn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3. Overtakelse/overdragelse                            
+
+
+
+For at en aktivitet skal regnes som overtatt eller overdratt, skal samme aktivitet fortsette, men med en annen hovedenhet som eier.
+Disse vilkårene må være oppfylt:
+De aktiva som inngår som nødvendige bestanddeler i aktiviteten, for eksempel råvarer, produksjonsutstyr, varelager, kontrakter og annet, må i sin helhet eller i det alt vesentlige overdras under ett. Om de aktiva som inngår i aktiviteten selges særskilt, slik at aktiviteten ikke kan fortsette, melder du nedleggelse av aktiviteten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3a  Nyregistrering eller overtakelse av underenhet                            
+
+
+
+Nyregistrering av underenhet
+Ved nyregistrering av underenhet, må du oppgi dato for når aktiviteten startet eller skal starte.
+Overtakelse av underenhet
+Gjelder meldingen overtakelse av en underenhet, for eksempel når et aksjeselskap overtar en skobutikk eller frisørsalong fra et annet aksjeselskap, skal du oppgi dato for overtakelsen her. Tidligere eier oppgir du i felt 4a.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3b Overdragelse eller sletting av underenhet                            
+
+
+
+Overdragelse av underenhet
+Gjelder meldingen overdragelse av en underenhet, for eksempel når et aksjeselskap, overdrar en skobutikk eller frisørsalong til et annet aksjeselskap, skal du oppgi dato for overdragelse her. Ny eier oppgir du i felt 4b.
+Sletting av underenhet
+Gjelder meldingen sletting av underenhet, kryss av for nedleggelse av aktiviteten og oppgi dato for dette.
+En underenhet blir slettet hvis produksjon av varer og/eller tjenester av en eller annen grunn opphører fullstendig.
+Underenheten opphører også hvis:
+
+en ny eier starter en helt ny aktivitet i de samme lokalene
+en ny eier flytter hele den tidligere aktiviteten til en ny adresse i en annen kommune
+aktiviteten blir flyttet til en annen kommune og det startes en helt ny aktivitet med samme eier
+
+Vær oppmerksom på at meldingen om nedleggelse av underenhet ikke betyr at hovedenheten blir slettet. Ønsker du å slette hovedenheten, melder du dette i Samordnet registermelding i Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4a Overtakelse av underenhet fra                            
+
+
+
+Oppgi tidligere eiers organisasjonsnummer, hvis det finnes.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4b Overdragelse av underenhet til                            
+
+
+
+Oppgi ny eiers organisasjonsnummer, hvis det finnes.
+Husk at det bør ryddes i innboksen til underenheten i Altinn før overdragelse. Sensitiv informasjon, som sykemeldinger m.m, bør lagres i eget sak-/arkivsystem før overdragelsen blir registrert. Slik unngår du at overtaker får tilgang til sensitiv informasjon som ligger i innboksen til underenheten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Underenhetens beliggenhetsadresse                            
+
+
+
+Hvis aktiviteten foregår på en annen adresse enn forretningsadressen til hovedenheten, oppgir du denne adressen her. Om aktiviteten ikke foregår i bestemte lokaler eller på faste plasser, for eksempel bygge-, anleggs eller transportaktivitet, skal du oppgi adressen på det stedet aktiviteten blir administrert fra.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Underenhetens postadresse                            
+
+
+
+Har underenheten en egen postadresse, det vil si en annen enn den som er oppgitt for hovedenheten, skriver du denne her.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Aktivitet/bransje                            
+
+
+
+Gi en så nøyaktig/presis beskrivelse som mulig av den aktiviteten du utfører eller skal utføre.
+Vær oppmerksom på at det ikke er nok å oppgi et generelt overordnet formål.
+Oppgi derfor hva du eventuelt produserer/selger og/eller hvilke tjenester/aktiviteter du utfører.
+Her er eksempler på hvor detaljert beskrivelsen må være:
+
+Jordbruk:
+– Dyrking av korn
+– Melkeproduksjon på storfe
+Transport:
+– Godstransport på vei
+– Drosjebiltransport
+Industri:
+– Produksjon av husholdnings-, sanitær- og toalettartikler av papir
+– Produksjon av byggevarer av plast
+Handel:
+– Agenturhandel med tømmer, trelast og byggevarer
+– Engroshandel med elektriske husholdningsapparater
+– Butikkhandel med kjøtt og kjøttvarer
+Bygg og anlegg:
+– Grunnarbeid
+– Oppføring av bygninger
+– VVS-arbeid
+Konsulentvirksomhet:
+– Bedriftsrådgivning
+– Konsulenttjenester innen programutvikling av kundespesifiserte programmer
+
+Hvis underenheten driver aktivitet i flere bransjer, må du oppgi hver enkelt av dem i prioritert rekkefølge etter størrelse på omsetning eller sysselsetting.
+Ved endring oppgir du den nye aktiviteten og dato for da den startet. Om virksomheten har startet med tilleggsaktivitet, oppgir du også aktivteten som utøves fra før.
+Hva blir opplysningene om aktivitet/bransje brukt til?
+Opplysningene om aktivitet/bransje er grunnlaget for å tildele næringskode. Næringskoden tildeles etter Standard for næringsgruppering (SN2007). Næringskoden blir blant annet brukt til å lage statistikk der norsk næringsliv/arbeidsmarked blir beskrevet etter næring/bransje.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Innsender                            
+
+
+
+Feltet fylles bare ut hvis du sender inn skjemaet for seg selv (ikke sammen med hovedblanketten) og innsender er en annen enn hovedenheten. Enhetsregisteret sender tilbakemeldinger om meldingen, det vil si at bekreftelser, registerutskrifter og andre brev til den som er oppgitt som innsender.
+Hvis innsenderfeltet ikke er utfylt, blir tilbakemeldinger og annet sendt til hovedenheten. Vi ber om at innsendere som tidligere har fått tildelt kundenummer av Brønnøysundregistrene, oppgir dette nummeret.
+Saksreferanse/attention for innsender
+Her kan innsender oppgi egen referanse for saken.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Andre merknader/ opplysninger                            
+
+
+
+Tilleggsopplysninger som kan være av betydning for registreringen. Legg ved eget ark hvis det blir for liten plass.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Underskrift                            
+
+
+
+For å bli godkjent må meldingen være underskrevet av innehaver i enkeltpersonforetak, daglig leder eller kontaktperson for andre virksomheter.
+Er det meldt overtakelse/overdragelse, må begge parter skrive under meldingen.
+Den som underskriver meldingen, bekrefter at de opplysningene som er gitt, er riktige, og at han/hun er kjent med at det er straffbart å gi uriktige opplysninger.
+
+
+
+
+
+
+
+
+
+
+

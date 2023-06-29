@@ -1,0 +1,611 @@
+
+
+
+
+Information- and processing issues in the Central Coordinating Register for Legal Entities
+
+Last updated: 13 March 2023.
+
+
+
+
+
+Type of case
+
+
+
+Main type of issueDocument type
+DescriptionXML element
+
+
+
+
+EADMEChange - Administrative change
+Case
+
+
+EALFVCancellation of deletion in the Register of Non-Profit OrganisationsCase
+
+
+EANFR
+Cancellation of registration in the Register of Business EnterprisesCase
+
+
+EANFVCancellation of registration in the Register of Non-Profit OrganisationsCase
+
+
+EANOP
+Cancellation of dissolutionCase
+
+
+EANSLCancellation of deletion in the Register of Business Enterprises Case
+
+
+EEADRChange - Change of postal code Case
+
+
+EEBTCChange - Received per batchCase
+
+
+EENChange - CommonCase
+
+
+EETYP
+Change - Correction of type of organisationCase
+
+
+EKORRChange - Administrative correctionCase
+
+
+ENYFRRegistration in the Register of Business Enterprises (already registered in the Central Coordinating Register for Legal Entities)Case
+
+
+ENYFVRegistration in the Register of Non-Profit Organisations, already registered in the Central Coordinating Register of Legal Entities and/or in the Register of Business EnterprisesCase
+
+
+ENYPRChange - Initial registration in the Register of Political PartiesCase
+
+
+EOMDAConversion of type of organisation 
+Case
+
+
+EOOConversion of dissolution Case
+
+
+EREGNRelocation of accounting clients (machinable) Case
+
+
+EREVIRelocation of audit clients (machinable) Case
+
+
+ESAFVChange - administrative deletion from the Register of Non-Profit OrganisationsCase
+
+
+ESBTC
+Under deletion - received per batch Case
+
+
+ESLUnder deletion - deletion registered in SAKSYS Case
+
+
+ESLFRDeletion from the Register of Business Enterprises 
+Case
+
+
+ESLFVDeletion from the Register of Non-Profit OrganisationsCase
+
+
+ESLPRChange - Deletion in the Register of Political Parties Case
+
+
+ETVOPCompulsory dissolutionCase
+
+
+LANSLCancellation of deletion Case
+
+
+LLIVRestore a deleted enterpriseCase
+
+
+NNYInitial registration - new case Case
+
+
+SADMDeletion - Administrative (of own enterprise) Case
+
+
+SANNUDeletion - Cancellation 
+Case
+
+
+SBEDRDeletion of sub-entity Case
+
+
+SDUBLDeletion - Duplicate Case
+
+
+SFISJDeletion due to demerger Case
+
+
+SFUSJDeletion due to merger Case
+
+
+SSBTCDeletion - ordinary deletion received per batch 
+Case
+
+
+SSLClosure - OrdinaryCase
+
+
+SSMSLDeletion upon merger (of enterprises) Case
+
+
+
+Type of information
+
+
+
+Type of changeType of information
+DescriptionXML elementWeb Service
+
+
+
+
+EAKKONotification of public debt settlement in the Register of Business Enterprises ChangeSpecial information 
+
+
+EBADRThe enterprise's office address ChangeAll enterprises and One enterprise
+
+
+EBDAT
+Starting date of the enterprise ChangeOne enterprise
+
+
+EDELEThe foundation decides to demergeChangeSpecial information 
+
+
+EEDATDate of changing ownership  ChangeAn enterprise
+
+
+EEPOSE-mail address
+ChangeContact data
+
+
+EFADRBusiness addressChangeBasic data, Basic data mini, -all enterprises and one enterprise 
+
+
+EFORMObjective (Activity/branch) ChangeBasic data
+
+
+EFVRPAccounting periodChangeInformation from the Register of Non-Profit Organisations
+
+
+EFVRRHas committed to report annual accounts to the Register of Non-Profit OrganisationsChangeInformation from the Register of Non-Profit Organisations
+
+
+EFVÅRLast submitted annual accounts to the Register of Non-Profit OrganisationsChangeInformation from the Register of Non-Profit Organisations
+
+
+EGRDTWant to participate/not participate in the Grassroot Allotment ProgrammeChangeInformation from the Register of Non-Profit Organisations
+
+
+EGRUNIs exempted from participation in the Grassroot Allotment ProgrammeChangeInformation from the Register of Non-Profit Organisations
+
+
+EGRVTWant to participate in the Grassroot Allotment Programme - statutes is requiredChangeInformation from the Register of Non-Profit Organisations
+
+
+EIADRHome pageChangeContact data
+
+
+EINSOUnder cross-border insolvency proceedingsChangeSpecial information 
+
+
+EISEKSectoral classificationChangeInformation from affiliated register 
+
+
+EKAPICapital ChangeInformation from affiliated register 
+
+
+EKJRPGender representationChange
+
+
+EKONKBankruptcy orderChangeSpecial information 
+
+
+EKTOBank account numberChangeOpplysninger fra Frivillighetsregisteret
+
+
+EMPVTHas committed to report the articles of associationChangeInformation from the Register of Non-Profit Organisations
+
+
+EMTLFMobiltelefonnummer
+ChangeContact data
+
+
+EMÅLLanguage variantChangeBasic data
+
+
+ENAVNBusiness nameChangeAll the groups
+
+
+ENACENace code ChangeInformation from affiliated register 
+
+
+E OPHEThe foundation has decided to dissolveChangeSpecial information 
+
+
+EOPPLDissolvedChangeSpecial information 
+
+
+EOSDLSubmitted to the district court from the Register of Business Enterprises due to general manager 
+ChangeSpecial information 
+
+
+EOSEDSubmitted to the district court from the Register of Business Enterprises due to EØFG partnersChangeSpecial information 
+
+
+EOSEFSubmitted to the district court from the Register of Business Enterprises due to EØFG business manager 
+ChangeSpecial information 
+
+
+EOSEVSubmitted to the district court from the Register of Business Enterprises due to EØFG duration 
+ChangeSpecial information 
+
+
+EOSKPSubmitted to the district court from the Register of Business Enterprises due to capital ChangeSpecial information 
+
+
+EOSRESubmitted to the district court from the Register of Business Enterprises due to auditorChangeSpecial information 
+
+
+EOSSTSubmitted to the district court from the Register of Business Enterprises due to board
+
+ChangeSpecial information 
+
+
+EPADRPostal addressChangeBasic data, Basic data mini, -all enterprises and one enterprise 
+
+
+EPLFRObligation to register in the Register of Business Enterprises 
+ChangeSpecial information 
+
+
+EREFOReconstruction negotiationsChangeSpecial information 
+
+
+ER-FRRegistered in the Register of Business EnterprisesChangeSpecial information 
+
+
+ER-MVRegistered in the VAT RegisterChangeSpecial information 
+
+
+EFMVA Voluntary VAT registrationChangeSpecial information 
+
+
+ER-FVRegistered in the Register of Non-Profit OrganisationsChangeSpecial information 
+
+
+ER-PRRegistered in the Register of Political Parties ChangeSpecial information 
+
+
+ER-SRRegistered in the Register of Foundation
+ChangeSpecial information 
+
+
+ESAMM The foundation has decided to mergeChangeSpecial information 
+
+
+ESKRRSubmitted to the district court from the Register of Company Accounts 
+ChangeSpecial information 
+
+
+ESTIDDate of foundationChangeBasic data
+
+
+ESYSSNumber of employeesChangeInformation from affiliated register and one enterprise
+
+
+ETFAXFax numberChangeContact data
+
+
+ETFONTelephone numberChangeContact data
+
+
+ETVDLConpulsory liquidation due to general manager ChangeSpecial information 
+
+
+ETVOVCompulsory liquidation - taken over by the district court ChangeSpecial information 
+
+
+ETVRECompulsory liquidation due to auditorChangeSpecial information 
+
+
+ETVRRCompulsory liquidation due to annual accountsChangeSpecial information 
+
+
+ETVSTCompulsory liquidation due to the boardChangeSpecial information 
+
+
+EUSLUnder terminationChangeSpecial information 
+
+
+EVNAVThe name of the enterpriseChangeInformation from affiliated register and one enterprise
+
+
+EÅRSOLast submitted annual accounts ChangeSpecial information 
+
+
+
+Type of processing
+
+
+
+Type of change Type of processing
+DescriptionXML element
+
+
+
+
+BAKKONotification of debt settlement in the Register of Business Enterprises 
+
+Change
+
+
+BFISJDemerger is registered/changed
+Change
+
+
+BFORHRegistration in the Central Coordinating Register for Legal Entities in advanceChange
+
+
+BFUSJ
+Merger is registered/changedChange
+
+
+BMANRCadastral numberChange
+
+
+BOSDL
+Submitted to the district court from the Register of Business Enterprises due to general manager
+Change
+
+
+BOSEDSubmitted to the district court from the Register of Business Enterprises due to general manager
+
+Change
+
+
+BOSEFSubmitted to the district court from the Register of Business Enterprises due to EØFG business manager
+Change
+
+
+BOSEVSubmitted to the district court from the Register of Business Enterprises due to EØFG duration
+
+Change
+
+
+BOSKP
+Submitted to the district court from the Register of Business Enterprises due to capital
+Change
+
+
+BOSRE
+Submitted to the district court from the Register of Business Enterprises due to auditorChange
+
+
+BOSSTSubmitted to the district court from the Register of Business Enterprises due to boardChange
+
+
+BSLSMUnder deletion after mergingChange
+
+
+
+Type of interaction change
+
+
+
+Type of changeType of interaction change
+DescriptionXML elementWeb Service
+
+
+
+
+EBEDREnterprise for self-employed persons
+
+ChangeAll enterprises and one sub-entity
+
+
+EBESTManaging shipownerChangeBasic data and Roles 
+
+
+
+EBOBE
+Official receiverChangeBasic data and Roles 
+
+
+
+EDAGL
+General manager/Managing director
+
+ChangeBasic data and Roles 
+
+
+
+EDELTParticipants
+
+ChangeRoles 
+
+
+
+EFFØRBusiness managerChangeBasic data and Roles 
+
+
+
+EFGRPEnterprise group
+
+ChangeSpecial information
+
+
+EINNH
+OwnerChangeBasic data and Roles 
+
+
+
+EKDATSubsidiaryChangeSpecial information
+
+
+EKGRLGroup relationshipChangeSpecial information
+
+
+EKMOR
+Parent company
+
+
+ChangeSpecial information
+
+
+EKOMP
+General partnerChangeRoles 
+
+
+
+EKONTContact personChangeBasic data and Roles 
+
+
+
+EPROKPower of procurationChangePower of procuration and signature rights
+
+
+EREGNAccountantChangeRoles 
+
+
+
+EREPRNorwegian representative of foreign enterprise
+ChangeBasic data and Roles 
+
+
+
+EREVIAuditorChangeRoles 
+
+
+
+ESIGNSignatureChangePower of procuration and signature rights
+
+
+ESTYR
+BoardChangeRoles 
+
+
+
+
+Historical types of processing and types of cases
+
+
+
+TypeType of changeCase or information typeDescriptionXML elementWeb service
+
+
+
+
+Type of informationETVOPCompulsory dissolution ChangeSpecial information
+
+
+Type of informationEOSKASubmitted to the district court due to low share capitalChangeSpecial information
+
+
+Type of informationETVKACompulsory liquidation due to capital <100000ChangeSpecial information
+
+
+Type of informationETVUKCompulsory dissolution pursuant to the rules of the Bankruptcy ActChangeSpecial information
+
+
+Type of informationER-FSRegistered in the county governor's foundation registerChangeSpecial information
+
+
+Type of processingBOSKASubmitted to the district court due to low share capitalChange
+
+
+Type of interaction changeSAMCo-owners
+
+
+
+Explanation to XML
+
+The element “period” contains two attributes, “dateFrom” and “datTo”, that specify the time periods in which the cases are published.
+The attribute “run no.” under the element “log” incremented by one for each production, which is once a day on working days.
+The organisation number of the individual enterprises will be found in the attribute “organisation number” under the element “enterprise”. The contents of the xml file are sorted by organisation number.
+The columns Main case type and Sub case type are attributes to the element “case” which also has the attribute “public” that indicates when the case was  published.
+The column Change type is the attribute “type” under the element “changing”, where type is either “E” for change or “B” for processing type.
+The element “change” contains the codes for information type, interaction type and processing type.
+
+ 
+
+
+
+
+Useful links
+
+Technical documentation for machineable access to the Central Coordinating Register for Legal Entities
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

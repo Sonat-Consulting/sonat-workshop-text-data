@@ -1,0 +1,32 @@
+
+
+
+
+Om organisasjonsnummeret
+
+Sist oppdatert: 22. februar 2023.
+
+
+
+
+
+Alle som blir registrert i Einingsregisteret og Føretaksregisteret får eit organisasjonsnummer.
+
+Organisasjonsnummeret identifiserer juridiske personar m.m. og er nøkkelen til opplysningane som er lagra om dei i Brønnøysundregistera. Alle som er registrert i Einingsregisteret skal  for sørge for at organisasjonsnummer står på forretningsdokument. Om du er registrert i Meirverdiavgiftsregisteret, er mva-nummeret ditt det same som organisasjonsnummeret ditt.
+Teknisk oppbygging av organisasjonsnummeret
+Organisasjonsnummeret inneheld 9 siffer der det siste sifferet er eit kontrollsiffer rekna med standard vekter, modulus 11. Etter dette blir vektene 3, 2, 7, 6, 5, 4 , 3 og 2 rekna frå første siffer.
+Modulus 11
+Eksempel:
+ 
+
+
+Siffera i feltet blir multiplisert med vekttala 2, 3, 4, 5, 6, 7, 2, 3 osv. rekna frå høgre mot venstre. Produktsummen (i dette tilfellet 138) blir dividert med 11. Resten etter divisjonen (i dette tilfellet 6) blir trekt frå 11 og resultatet blir kontrollsifferet (i dette tilfellet 5).
+Om divisjonen går opp (rest = 0) blir kontrollsifferet 0. Om kontrollsifferet blir 10 (rest = 1) må kontrollsifferet erstattast med minus-teikn (-).
+Minus-teikn (-) er ikkje lovleg kontrollsiffer for organisasjonsnummer.
+ 
+
+
+
+
+
+

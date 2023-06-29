@@ -1,0 +1,161 @@
+
+
+
+
+Avgrensa tilgang til Einingsregisteret
+
+Sist oppdatert: 7. november 2021.
+
+
+
+
+
+Vi tilbyr ein avgrensa maskinell tilgang til Einingsregisteret for private aktørar.
+
+Når du nyttar denne tenesta, har du tilgang til følgande tenester:
+
+basisdata mini – inneheld organisasjonsnummer, organisasjonsform, namn, forretningsadresse og postadresse.
+kontaktdata – inneheld telefonnummer, telefaksnummer, mobiltelefonnummer, e-postadresse og heimesideadresse.
+namnesøk – gjer det mogleg å finne eit organisasjonsnummer ved å søke på namn eller føretaksnamn.
+særlege opplysningar – inneheld statusinformasjon. Blant anna får du vite om einingane er registrerte i Føretaksregisteret eller Meirverdiavgiftsregisteret, eller om eininga er under konkursbehandling.
+opplysningar frå tilknytta register– informasjon om næringskode, sektorkode, ansvarskapital og tal på tilsette er ein del av denne tenesta.
+Frivilligregisteret – inneheld registreringsdato i Frivilligregisteret, kategori, kontonummer, sist registrerte vedtekter med registreringsdato, siste årsrekneskap med registreringsdato og deltaking i grasrotdelen.
+
+ 
+
+
+
+
+
+
+
+ 
+                                Prisar                            
+
+
+
+Årleg fast pris for løysinga er kr 5 000,- inklusiv oppslag.
+Ønsker du tilgang til registerinformasjon frå Einingsregisteret med web services? Sjå under «Korleis få tilgang» nedanfor.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Innhald i tenesta og teknisk dokumentasjon                            
+
+
+
+Du må sjølv utvikle applikasjonane som skal importere data frå Einingsregisteret. Vi bidrar ikkje med teknisk bistand på dette området, men kan gi fagleg rådgiving når det gjeld bruk av grunndata frå Einingsregisteret.
+Her finn du meir informasjon.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis få tilgang                            
+
+
+
+Du får tilgang til løysinga ved å sende oss ein e-post. I den gir du opp kva tenester du ønsker tilgang til. Samtidig godkjenner du vilkåra ovanfor for bruk av web services-løysinga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kontakt oss                            
+
+
+
+For meir informasjon om tenesta, ta kontakt med oss på e-post.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Teknisk dokumentasjon for maskinell tilgang til Einingsregisteret
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

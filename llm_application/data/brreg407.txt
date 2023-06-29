@@ -1,0 +1,268 @@
+
+
+
+
+Group notification
+
+Last updated: 1 February 2022.
+
+
+
+
+
+Group notification shall only be submitted if the enterprise is part of a group or group of businesses.
+
+Note: If the parent company submits a common group notification, the subsidiaries are not required to submit a separate group notification.
+ 
+
+
+
+
+
+Register information
+The Coordinated register notification
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Register information
+The Coordinated register notification
+
+
+
+
+
+
+
+
+Paper form for downloading
+Group notification – BR1019 (PDF)
+ 
+How to fill in the form
+ 
+
+
+
+
+
+
+
+ 
+                                1. Submitter                            
+
+
+
+Enter the submitter if it is other than the enterprise listed in field 2. The submitter will receive feedback about the registrations in the Central Coordinating Register for Legal Entities. The same will apply to the other enterprises of the group structure.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2. Notification for                            
+
+
+
+Here you state the organisation number and the business name to which the notification applies.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3. Information about the parent company                            
+
+
+
+If the enterprise has a parent company, state the parent company with its organisation number, name and ownership.
+Tick the box for “new enterprise in the group” if the notification applies to new enterprises in an existing group or a new group that is not previously registered in the Central Coordinating Register for Legal Entities.
+Tick the box for “change in group relationship” if the notification applies to other changes in the group structure, such as changed ownership or basis.
+Tick the box for “the group relationship has been terminated” if the enterprise has left the group.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4. Information about subsidiaries                            
+
+
+
+If the enterprise has subsidiaries, you must state these with organisation number, name and ownership. Use multiple forms if there are too few fields. If the enterprise is to notify second tier subsidiary and possibly several levels in descending order, you must use a new form for each level.
+Tick the box for “new enterprise in the group” if the notification applies to new enterprises in an existing group or a new group that has not been previously registered in the Central Coordinating Register for Legal Entities.
+Tick the box for “change in group relationship” if the notification applies to other changes in the group structure, such as changed ownership or basis.
+Tick the box for “the group relationship has been terminated” if the enterprise has left the group.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5. Other remarks                            
+
+
+
+Space for any notes, such as information about indirect ownership or agreement.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6. Signature                            
+
+
+
+The notification must be signed by the general manager, business manager or another representative for the enterprise listed in field 2 of the form.
+The form must either be submitted by post with original signature, or uploaded as an attachment in the form Coordinated register notification.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Enterprises without organisation number                            
+
+
+
+If the parent company and/or the subsidiary is not registered with the Central Coordinating Register for Legal Entities, nor is compulsory registered, such as foreign enterprises not operating in Norway, the following information must be reported in field 5 or on a separate sheet of paper
+
+business name
+business address
+type of organisation
+incorporation date
+objective/activity/branch
+the general manager, business manager or another contact person with national identity number or d-number
+
+You will find information about d-numbers under Useful links on this page.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Enclosures                            
+
+
+
+If the enterprise has an organisation chart showing the group structure, you can attach this instead of filling in the form.
+Remember to state the organisation number of the enterprise and ownership or shares on the organisation chart.
+
+
+
+
+
+
+
+
+
+Useful links
+
+D-number
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

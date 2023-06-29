@@ -1,0 +1,583 @@
+
+
+
+
+Recordbeskrivelse periodiske utskrifter
+
+Sist oppdatert: 30. september 2015.
+
+
+
+
+
+Recordbeskrivelse – periodiske utskrifter fra Løsøreregisteret    
+
+
+
+ Feltnr. 
+ Posisjon 
+ Ant. tegn 
+ Beskrivelse 
+
+
+1
+1-1
+1
+Recordtyper:
+1 Fødselsnr. -record
+2 Foretaksnr. –record
+3 Motorvogn-record
+4 Påtegnings-record
+5 Slettings-record
+6 Småbåt-record
+8 Sumrecord
+
+
+2
+2-7
+6
+Fødselsdato (Recordtype 1)
+Foretaksnr. (6 første) (Recordtype 2)
+Registreringsnr (6 første) (Recordtype 3)
+Registreringsnr (Recordtype 6)
+
+
+3
+8-12
+5
+Personnr. (Recordtype 1)
+Foretaksnr. (Siste) (Recordtype 2)
+Registreringsnr (Resten) (Recordtype 3)
+Blank (Recordtype 6)
+
+
+4
+13-48
+36
+Navn (Utfylt ved recordtype 1 og 2)
+
+
+5
+49-78
+30
+Adresse (Utfylt ved recordtype 1 og 2)
+
+
+6
+79-82
+4
+Postnr (Utfylt ved recordtype 1 og 2)
+
+
+7
+83-88
+6
+Dagboknr (nnnnnn)
+
+
+8
+89-96
+8
+Dagbokdato (ååååmmdd)
+
+
+9
+97-98
+2
+Dokumenttype (Ikke utfylt ved recordtype 5)
+
+
+10
+99-112
+14
+Beløp i øre (Ikke utfylt ved recordtype 5)
+
+
+11
+113-122
+10
+Dagbok-nr-link (Utfylt ved recordtype 4)
+Dagboknr. for hoveddokumentet som dette underdokumentet er knyttet til.
+
+
+12
+123-126
+4
+Embedsnr. hvor hoveddokumentet er tinglyst.
+
+
+13
+127-176
+50
+Kreditorinformasjon. (Ikke utfylt ved recordtype 4 og5)
+For konkursåpning og konkursavslutning: Bostyrernavn og adresse
+
+
+14
+177-212
+36
+Innsendernavn / Skifterett hvis det er konkursåpning eller konkursavslutning
+
+
+15
+213-242
+30
+Innsenderadresse
+
+
+16
+243-246
+4
+Innsenders postnr.
+
+
+
+SUMRECORD-beskrivelse (recordtype 8)
+
+
+
+ Feltnr. 
+ Posisjon 
+ Ant. tegn 
+ Beskrivelse 
+
+
+1
+1-1
+1
+Verdi=8
+
+
+2
+2-12
+11
+Ikke utfylt
+
+
+3
+13-20
+8
+Fra og med dato (ååååmmdd)
+
+
+4
+21-22
+2
+Ikke utfylt
+
+
+5
+23-30
+8
+Til og med dato (ååååmmdd)
+
+
+6
+31-32
+2
+Ikke utfylt
+
+
+7
+33-40
+8
+Antall records
+
+
+8
+41-246
+206
+Ikke utfylt
+
+
+
+   Recordbeskrivelse – periodiske utskrifter fra Akvakulturregisteret 
+
+
+
+ Feltnr. 
+ Posisjon 
+ Ant. tegn 
+ Beskrivelse 
+
+
+1
+1-1
+1
+Recordtyper:
+1 Fødselsnr. -record
+2 Foretaksnr. –record
+3 Tillatelsesnummer-record
+4 Påtegnings-record
+5 Slettings-record
+6 Småbåt-record
+8 Sumrecord
+
+
+2
+2-7
+6
+Fødselsdato (Recordtype 1)
+Foretaksnr. (6 første) (Recordtype 2)
+Tillatelsesnr (6 første) (Recordtype 3)
+Registreringsnr (Recordtype 6)
+
+
+3
+8-12
+5
+Personnr. (Recordtype 1)
+Foretaksnr. (Siste) (Recordtype 2)
+Tillatelsesnr (Resten) (Recordtype 3)
+Blank (Recordtype 6)
+
+
+4
+13-48
+36
+Navn (Utfylt ved recordtype 1 og 2)
+
+
+5
+49-78
+30
+Adresse (Utfylt ved recordtype 1 og 2)
+
+
+6
+79-82
+4
+Postnr (Utfylt ved recordtype 1 og 2)
+
+
+7
+83-88
+6
+Dagboknr (nnnnnn)
+
+
+8
+89-96
+8
+Dagbokdato (ååååmmdd)
+
+
+9
+97-98
+2
+Dokumenttype (Ikke utfylt ved recordtype 5)
+
+
+10
+99-112
+14
+Beløp i øre (Ikke utfylt ved recordtype 5)
+
+
+11
+113-122
+10
+Dagbok-nr-link (Utfylt ved recordtype 4)
+Dagboknr. for hoveddokumentet som dette underdokumentet er knyttet til.
+
+
+12
+123-126
+4
+Embedsnr. hvor hoveddokumentet er tinglyst.
+
+
+13
+127-176
+50
+Kreditorinformasjon. (Ikke utfylt ved recordtype 4 og5)
+For konkursåpning og konkursavslutning: Bostyrernavn og adresse
+
+
+14
+177-212
+36
+Innsendernavn / Skifterett hvis det er konkursåpning eller konkursavslutning
+
+
+15
+213-242
+30
+Innsenderadresse
+
+
+16
+243-246
+4
+Innsenders postnr.
+
+
+
+SUMRECORD-beskrivelse (recordtype 8)
+
+
+
+ Feltnr. 
+ Posisjon 
+ Ant. tegn 
+ Beskrivelse 
+
+
+1
+1-1
+1
+Verdi=8
+
+
+2
+2-12
+11
+Ikke utfylt
+
+
+3
+13-20
+8
+Fra og med dato (ååååmmdd)
+
+
+4
+21-22
+2
+Ikke utfylt
+
+
+5
+23-30
+8
+Til og med dato (ååååmmdd)
+
+
+6
+31-32
+2
+Ikke utfylt
+
+
+7
+33-40
+8
+Antall records
+
+
+8
+41-246
+206
+Ikke utfylt
+
+
+
+  Løsøreregisteret – dokumenttyper 
+
+
+
+ Doktype 
+ Tekst 
+
+
+AB
+ABANDONERING
+
+
+AR
+ARREST
+
+
+AV
+AVSETNING
+
+
+DT
+PANT I DRIFTSTILBEHØR
+
+
+FA
+FACTORINGAVTALE
+
+
+FG
+FRIVILLIG GJELDSORDNING
+
+
+FP
+PANT I FISKEREDSKAP
+
+
+GF
+ÅPNING AV GJELDSFORHANDLING
+
+
+HF
+HEFTELSE AV FORMUEN
+
+
+JB
+PANT I JERNBANEMATERIELL
+
+
+K1
+KONKURSÅPNING
+
+
+K2
+KONKURSAVSLUTNING
+
+
+KA
+PANT I MOTORVOGNER/ANLEGGSMASKINER
+
+
+LA
+LEASINGAVTALE
+
+
+LP
+PANT I LANDBRUKSNÆRING
+
+
+MA
+MELDING OM OFFENTLIG AKKORD
+
+
+MF
+MIDLERTIDIG FORFØYNING
+
+
+MK
+MELDING OM KONKURS
+
+
+PE
+PÅTEGNING OM ENDRING AV GJELDSORDNING
+
+
+PF
+PÅTEGNING OM FORHØYELSE
+
+
+PG
+PÅTEGNING OM FORLENGELSE AV GJELDSFORHANDLINGSPERIODE
+
+
+PN
+PÅTEGNING OM NEDKVITTERING
+
+
+PS
+PÅTEGNING OM SIKRING AV EIENDELER
+
+
+SD
+DELVIS SLETTING
+
+
+SL
+SLETTING
+
+
+SP
+SALGSPANT I MOTORVOGN
+
+
+TG
+TVUNGEN GJELDSORDNING
+
+
+UA
+UTLEGG/AVSETNING
+
+
+UL
+UTLEGG
+
+
+UP
+UTPANTING
+
+
+VL
+PANT I VARELAGER
+
+
+T1
+TVANGSAVVIKLING
+
+
+T2
+SLETTING AV TVANGSAVVIKLING
+
+
+
+  Akvakulturregisteret – dokumenttyper 
+
+
+
+ Doktype
+ Tekst
+
+
+AT
+Pantsettelse av akvakulturtillatelse
+
+
+AR
+Arrest
+
+
+UL
+UTLEGG
+
+
+MF
+Midlertidig forføyning
+
+
+MA
+MELDING OM OFFENTLIG AKKORD
+
+
+PT
+Påtegning om
+
+
+PN
+Påtegning om nedkvittering
+
+
+PF
+Påtegning om forhøyelse
+
+
+SL
+Sletting
+
+
+K1
+KONKURSÅPNING
+
+
+K2
+KONKURSAVSLUTNING
+
+
+T1
+TVANGSAVVIKLINGSBO
+
+
+T2
+SLETTING AV TVANGSAVVIKLINGSBO
+
+
+
+ 
+
+
+
+
+
+

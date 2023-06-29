@@ -1,0 +1,171 @@
+
+
+
+
+Easier public procurement with eDocumentation
+
+Last updated: 10 November 2022.
+
+
+
+
+
+eDocumentation is a data sharing service from the Brønnøysund Register Centre that simplifies procurement for all parties in the public sector.
+
+Real-time information directly from the data source
+eDocumentation makes information available from various data sources for purchasing managers in the public sector through the client’s tools for competition implementation (KGV). eDocumentation is based upon technical components in Altinn.
+The Brønnøysund Register Centre and the Agency for Public and Financial Management (DFØ) have in close collaboration specified the information elements that are included in the eDocuments. They contain both open data and data that requires a consent or authorisation from the individual supplier.
+The Brønnøysund Register Centre and the Tax Administration are the data sources used today. We plan to expand with more information elements and data sources.
+What are the benefits of eDocumentation?
+
+simplifies the suppliers’ requirements to deliver certificates from the public sector
+information directly from the data owner in real-time – cannot be manipulated
+makes it easier to develop automatic control routines
+always delivers updated information/documentation, also during the contract period
+
+ 
+
+
+
+
+
+
+
+ 
+                                Information about the service                            
+
+
+
+eDocumentation is a service that has been developed in a collaboration between the Brønnøysund Register Centre, the Agency for Public and Financial Management (DFØ) and the Digitalisation Agency.
+If you would like to know more about eDocumentation, you will find the technical description and content of the service on Altinn’s website.
+Professional information about procurements will be found at DFØ’s website. 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Who can use the service?                            
+
+
+
+eDocumentation does not have its own user interface, but provide KGV suppliers free access to information from public data sources. Access to information from eDocumentation implies that you as a client have a KGV tool or equivalent.
+
+
+
+
+
+
+
+
+
+
+ 
+                                How to get started?                            
+
+
+
+If you have questions, or wish to use eDocumentation, please contact us through our contact form.
+For technical questions, please have a look at the development guide for eDocumentation in Altinn. 
+
+
+
+
+
+
+
+
+
+
+ 
+                                Contact us                            
+
+
+
+You may submit your inquiries through our contact form.
+
+
+
+
+
+
+
+
+
+Useful links
+
+Professional information about procurements - DFØ
+
+
+
+
+
+Development guide - data.altinn.no
+
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

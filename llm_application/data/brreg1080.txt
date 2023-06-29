@@ -1,0 +1,288 @@
+
+
+
+
+Sub-entity
+
+Last updated: 31 May 2023.
+
+
+
+
+
+Would you like to know why you have a sub-entity with a separate organisation number? When you registered your enterprise, we also registered a sub-entity. 
+
+There are several reasons for this. You need a sub-entity if you
+
+conduct business activity
+report salary or remuneration in the a-ordning scheme
+
+For that reason, most of the new enterprises, not only limited companies and sole proprietorships, but also associations, condominium flat owners and other types of organisation, will receive two or more organisation numbers, one for the main entity and one for the sub-entity.
+Even if you do not have employees today, or pay board remunerations, the sub-entity is all set if you need it in the future. You can see which sub-entities you have by logging in to Altinn.
+When should I use the sub-entity’s organisation number?
+You use this when
+
+you report employment conditions to the Aa Register through the a-ordning scheme
+you report wages, remuneration and freelance in the a-ordning scheme
+the Statistics Norway requests information for statistical purposes
+a digital medical certificate has been received
+
+ 
+
+
+
+
+
+
+
+ 
+                                What is a main entity?                            
+
+
+
+A main entity is a collective term for companies, associations, persons and others registered in the Central Coordinating Register for Legal Entities, and which is not a sub-entity.
+The main entity is an enterprise at the highest level in the registration structure in the Central Coordinating Register for Legal Entities.
+
+
+
+
+
+
+
+
+
+
+ 
+                                What is a sub-entity?                            
+
+
+
+The sub-entity defines the activity operated by the main entity. A main entity can have one or several sub-entities. The sub-entities are not independent enterprises. They will always be connected to a main entity.
+A sub-entity is an enterprise at the lowest level in the registration structure in the Central Coordinating Register for Legal Entities.
+Statistics Norway decides which sub-entities that are to be registered, as well as classification of these. Registration and classification takes place according to international statistical standards.
+A main entity may not refuse or require such registration.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Registration of multiple sub-entities                            
+
+
+
+Multiple sub-entities are to be registered if one of the following terms are met:
+
+Business activity is conducted in various branches. Each branch must employ at least 5 persons
+Business activity is run with employees in several geographical locations
+
+Different branches
+Variuos branches mean that the activities fall under different industrial codes in accordance with the Standard for industrial grouping (SN2007)
+Activities performed only to serve the primary activity of the main entity, should not be registered as a separate sub-entity. Examples of this may be administration, IT department and sale of self-produced goods. Such activities should only be registered as a separate sub-entity if it operates in another geographical location than the main entity’s primary activity takes place.
+Multiple geographical locations
+When the sub-entities are located at different addresses, this means that activity is conducted in several geographical locations. Entering different postal addresses is not sufficient to register a sub-entity.
+For ambulatory activity, only permanently staffed branch offices and the like are registered. Examples of this are building and construction, transport and hiring of manpower, and temporary staff recruitment agencies.
+Public administration
+The general rules described above, also apply to public administration. Detailed regulations for registration of sub-entities in municipalities, county municipalities and health trusts are available at www.ssb.no under reporting, Kostra, Guidance.
+
+
+
+
+
+
+
+
+
+
+ 
+                                How do I register several sub-entities?                            
+
+
+
+If you are going to register multiple sub-entites, you need to fill in the Form for sub-entities –  activity at multiple addresses, and upload this as an attachment to the form Coordinated register notification in Altinn (tick for the enterprise to register one or multiple new sub-entities).
+
+
+
+
+
+
+
+
+
+
+ 
+                                Takeover and transfer of sub-entity                            
+
+
+
+A sub-entity can be taken over or transferred from one main entity to another. In such cases, the sub-entity will retain its organisation number.
+For a sub-entity to be regarded as taken over or transferred, the following conditions must apply:
+
+The same activity continues, but with a different main entity as the new owner of the sub-entity
+The activity continues in the same municipality as previously
+As a rule, the necessary assets included in the activity must be transferred as a whole. Examples of this are raw materials, production equipment, inventory, contracts and employees.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                How do I register transfer of a sub-entity?                            
+
+
+
+If you want to register takeover or transfer of a sub-entity, you can use the form Coordinated register notification in Altinn. If several sub-entities are to be taken over or transferred, you have to fill in the paper form Form for sub-entities – acitivty at multiple addresses.
+Remember to clear the inbox of the sub-entity in Altinn before the transfer. Sensitive information, such as medical certificates, ought to be stored in a separate case/filing system before the transfer is being registered. This prevents the acquirer from gaining access to sensitive information contained in the inbox of the sub-entity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                How do I report closing of a sub-entity?                            
+
+
+
+If the activity is discontinued, you can report closing the sub-entity in the form Coordinated register notification. If the main entity has several sub-entities, and is about to close down one or more, you must fill in the paper Form for sub-entities – activity at multiple addresses.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Number of employees                            
+
+
+
+The Central Coordinating Register for Legal Entities contains information about number of employees for all employers registered in this register. The number of employees refers to active working conditions registered in the Aa-register of NAV.  All employers must report the working conditions every moth in the  form Aa-notification.
+Enterprises with employees must have at least one sub-entity. The sub-entities are identified with a separate organisation number associatied with the main entity. The number of employees is connected to a sub-entity and comprises the number of unique individuals working for the sub-entity. If an individual has several employment connections related to the same enterprise, this individual is counted only once.
+Information about number of employees is available, among other things, through the service Open data. You can choose whether to see the number of employees connected to one sub-entity, or the total number of employees for the main entity.
+
+
+
+
+
+
+
+
+
+
+
+Company search
+
+
+
+
+
+
+
+
+
+Useful links
+
+Our forms
+
+
+
+
+Information about our products
+
+
+
+
+The web shop
+
+
+
+
+NAV Aa-register
+
+
+
+
+
+Inbox in Altinn
+
+
+
+
+
+
+
+
+Did you find what you were looking for?
+
+Choose your response
+
+Yes
+No
+
+
+
+
+
+
+Good! What do you think of the page?
+We are sorry to hear that! What were you looking for?
+
+Please enter your comment here, avoid personal data.
+
+
+Please do not write here, this is a robot trap            
+
+                Oh no, there is a limit of 255 characters! Do you have more to comment on? Please send your comment in our contact form.            
+
+                Oops! It seems like you have entered a telephone number or a personal identification number. Please remove this from the comment and submit. We are only interested in your honest feedback of the page. We cannot accept personal data here.            
+
+            We do not respond to this comment. If you need help, please contact our  support.            
+Submit
+
+
+
+Thank you!
+
+                    Your feedback will help us improve our website.                
+
+
+
+Sorry! We have problems with our systems.
+
+                        Your reply was not sent.                        Please try once more or try later. You can also                        
+                            check our operating messages for more information.
+                    
+
+
+
+
+
+                    Please reload the page                
+
+
+
+
+
+
+
+
+

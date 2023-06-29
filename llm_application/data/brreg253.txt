@@ -1,0 +1,264 @@
+
+
+
+
+Rettleiing til registrering av rapporteringsplikter
+
+Sist oppdatert: 26. oktober 2021.
+
+
+
+
+
+Rettleiinga gir deg hjelp til å komme i gang med å registrere, endre eller slette rapporteringsplikter i Kommunalt rapporteringsregister (KOR).
+
+Vi har samla nokre spørsmål som du kanskje lurer på når du skal registrere rapporteringsplikter.
+ 
+
+
+
+
+
+
+
+ 
+                                Korleis loggar eg inn i KOR?                            
+
+
+
+Skal du registrere eller endre rapporteringsplikter, må du logge inn på KOR gjennom ID-porten. Treng du hjelp til å logge inn, tar du kontakt med ID-porten.
+Registrering i ID-porten
+Om du ikkje har brukt ID-porten før, må du registrere dine brukardata. Registrerte brukardata blir overført til KOR, og du får ein e-post når vi har gitt deg tilgang til å registrere rapporteringsplikter for verksemda di.
+Oversikt over verksemda sitt arbeidsområde
+Når du har logga inn, vil du sjå ei oversikt over verksemda di sine rapporteringsplikter og kven som er kontaktperson for pliktene. I tillegg får du lesartilgang til dei andre verksemdene.
+Kva nettlesar skal eg bruke?
+Registreringsløysinga er støtta av Internet Explorer, Edge, Firefox og Chrome.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis registrerer, endrar eller slettar eg rapporteringsplikter?                            
+
+
+
+Registrere ny rapporteringsplikt
+For å registrere ei ny rapporteringsplikt, vel du «Registrer ny rapporteringsplikt». Fyll ut felta og send inn. Du finn rettleiing ved felta i skjemaet.
+Endre rapporteringsplikt
+Skal du endre ei rapporteringsplikt, vel du namnet til rapporteringa. Vel så «Endre rapporteringsplikt». Fyll ut endringane og send inn skjemaet til godkjenning.
+Slette rapporteringsplikt
+Først trykker du på namnet til rapporteringsplikta. Vel så «Slett rapporteringsplikt» Fyll inn grunn for sletting og bekreft.
+Arkiverte versjonar
+Om du ønsker å sjå tidlegare versjonar av rapporteringspliktene, vel du arkiverte versjonar. Her vil du sjå korleis rapporteringsplikta var registert tidlegare.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Kva betyr dei ulike statusane til ei rapporteringsplikt?                            
+
+
+
+En rapporteringsplikt kan ha følgende status
+
+Publisert – betyr at rapporteringsplikta er registrert og godkjend
+Må oppdaterast – betyr at det er meir enn tolv månader sidan du oppdaterte rapporteringsplikta sist. Du må oppdatere eller eventuelt sende inn utan endringar minimum ein gang i året.
+Under arbeid – betyr at du har lagt inn endringar som ikkje er sende inn til godkjenning enno.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis skal eg berekne tidsbruk?                            
+
+
+
+Du kan lese meir om korleis du bereknar tidsbruk i vår rettleiar for berekning av administrative kostnader.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis registrerer, endrar eller slettar eg kontaktpersonar?                            
+
+
+
+Registrere ny kontaktperson
+Du kan registrere ny kontaktperson via menyen «Kontaktpersonar» øvst eller du kan registrere ny kontaktperson når du opprettar ei ny rapporteringsplikt. Vel «Registrer ny kontaktperson». Fyll ut alle felt og lagre når du er ferdig.
+Endre kontaktperson
+Skal du endre kontaktperson for ei rapporteringsplikt, må du endre rapporteringsplikta. Vel den aktuelle rapporteringsplikta i hovudoversikta, vel så «Endre rapporteringsplikt». Finn fram til kontaktpersonar og vel ein ny kontaktperson frå lista, eller registrer ein ny. Når du er ferdig, lagrar du og sender inn rapporteringsplikta saman med eventuelle andre endringar.
+Slette kontaktperson
+For å slette ein kontaktperson vel du «Kontaktpersonar» i menyen øvst. Trykk på «Slett» til høgre for aktuell person.
+Om knappen «Slett» ikkje er aktivert, må du først endre tilknytte rapporteringsplikter og legge til ny kontaktperson. Deretter kan du slette den aktuelle kontaktpersonen.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Andre verksemder                            
+
+
+
+Andre verksemder viser kva statlege verksemder som har rapporteringsplikter i KOR.
+Når du trykker på ei verksemd, vil rapporteringsplikter som er registrert på aktuell verksemd dukke opp.
+Vel du ei rapporteringsplikt, vil du kunne få fram ei detaljert oversikt over kva opplysningar som er registrert på den aktuelle rapporteringsplikta.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Korleis er saksgangen når eg skal registrere ei rapporteringsplikt?                            
+
+
+
+1. Førebuing
+Statleg verksemd som planlegg å lage ei ny rapporteringsplikt tar kontakt med KOR.
+2. Rådgiving
+KOR tilbyr hjelp knytt til mogleg gjenbruk av offentlege data.
+3. Utforming og registrering
+Når rapporteringsplikta er ferdig utforma, skal verksemda registrere ho i KOR.
+4. Godkjenning
+Etter at du har registrert rapporteringsplikta vil ho bli behandla hos oss. Du vil få tilbakemelding på e-post.
+5. Sette i verk
+Når rapporteringsplikta er godkjent hos oss, er ho juridisk gjeldande ovanfor kommunal sektor.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+
+
+
+
+
+Kommunelova
+
+
+
+
+
+Forskrift om Kommunalt rapporteringsregister
+
+
+
+
+
+KOSTRA
+
+
+
+
+
+Utgreiingsinstruksen
+
+
+
+
+
+Rettleiar, utgreiingsinstruksen (PDF)
+
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

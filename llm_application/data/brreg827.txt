@@ -1,0 +1,301 @@
+
+
+
+
+Rettleiing – tillegg for registrering i Frivilligregisteret
+
+Sist oppdatert: 2. desember 2022.
+
+
+
+
+
+Slik fyller du ut skjemaet
+ 
+
+
+
+
+
+
+
+ 
+                                1 Innsendar                            
+
+
+
+Innsendar vil bli nytta som kontaktperson for tilbakemeldingar knytte til denne blanketten.
+Om innsendarfeltet ikkje er utfylt, vil alle tilbakemeldingar bli sende til adressa til verksemda.
+Om innsendar tidlegere har fått tildelt kundenummer av Brønnøysundregistra, fører du opp dette nummeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Namnet til verksemda                            
+
+
+
+Før opp det fulle namnet/føretaksnamnet og organisasjonsnummer til verksemda.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Meldinga gjeld                            
+
+
+
+3.1 Registrering av ny verksemd
+Om verksemda ønsker registrering i Frivilligregisteret, kryssar du av her.
+3.2 Endringar/nye opplysningar
+Om verksemda ønsker å melde endring i nokre av dei registrerte opplysningane eller har tilleggsopplysningar, kryssar du av for «Endringar/nye opplysningar». Fyll alltid ut organisasjonsnummeret, og det registrerte namnet til verksemda i felt 2.1, og dei felta endringa gjeld. Om du vil at ein registrert opplysning skal slettast utan at ho blir bytta ut med nye opplysningar, skriv du «utgår» i det aktuelle feltet.
+3.3 Sletting
+Om du berre vil slette verksemda frå Frivilligregisteret, kryssar du av her. Skal verksemda derimot slettast også frå Einingsregisteret, Føretaksregisteret eller Stiftingsregisteret, må du bruke «Samordna registermelding Del 1 – Hovudblankett» eller «Forenkla registermelding Del 1 – Blankett for sletting». Ved sletting i Einingsregisteret vil verksemda også bli sletta i alle tilknytte registre, inkludert Stiftingsregisteret og Føretaksregisteret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Kategori                            
+
+
+
+I dette feltet må du gje opplysningar om kva kategori som passar for den aktiviteten verksemda driv.
+Du må føre opp kategorikode, sjå tilgjengelege kategoriar under Nyttige lenker til høgre. NB! Det er ikkje nok å føre opp hovudkode. Opplysning må førast opp på underkodenivå, til dømes: kode 1 100, Kunst og kultur.
+Om verksemda driv fleire typar aktivitetar, er det mogleg å melde inntil tre ICPNO -kategoriar. Kategoriane må rangerast etter omfang.
+Eksempel:
+Eit grendelag driv med forskjellige aktivitetar knytt til det lokalsamfunnet det hører heime i, nærmast som ei velforeining. I tillegg driv dei nokså mykje med teateroppsetjingar.
+De melder då kategori slik:
+
+6 100, Lokalsamfunnsutvikling, rangert som nummer 1
+1 100, Kunst og kultur, rangert som nummer 2
+
+Om du vil endre opplysningar om kategori, må du føre opp alle kategoriar. Det vil seie at kategoriar som tidligare er meld og som framleis skal vere registrerte, må førast opp på nytt.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5.1 Registrering av vedtekter                            
+
+
+
+Kryss av om du ønsker at foreininga skal registrere vedtektene sine. Det er viktig å vere klar over at når de har tatt på dykk å registrere vedtektene, har de også tatt på dykk å registrere alle framtidige endringar av desse. Dette blir gjerast ved å sende oss ei melding om endring, samtidig som nye, oppdaterte vedtekter leggast ved. Det er mogleg både å ta på seg og seie ifrå seg denne plikta ved eit seinare høve.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5.2 Gjeldande vedtekter er endra                            
+
+
+
+Har foreninga vald å registrere vedtektene sine, har dei samtidig påtatt seg ei plikt til å registrere endringar/oppdateringar av desse. Ved innsending av melding om endring av dei registrerte opplysningane, må du gjere oss merksam på at dei gjeldande vedtektene er endra/oppdaterte her.
+Dei endra/oppdaterte vedtektene må leggast ved.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Årsrekneskap i Frivilligregisteret                            
+
+
+
+Det er mogleg for foreiningane å ta på seg plikt til årleg innsending av årsrekneskap. Ein grunn til å gjere dette, kan vere ønskje om at andre enkelt skal få tilgang til rekneskapsopplysningeae. Foreiningar som har tatt på seg innsendingsplikt for årsrekneskap vil framstå som opne og ryddige, ettersom rekneskapsopplysningane då vil vere tilgjengelege for alle, via Rekneskapsregisteret.
+Om foreininga vel å ta på seg innsendingsplikt, må de sende inn årsrekneskap til Rekneskapsregisteret kvart år.
+Krava som blir stilte til årsregnskapen som skal sendast inn, er annleis og enklare enn krava som er stilte i rekneskapsloven. Nærmare opplysningar om desse reglane finn du i forskrift om register for frivillig verksemd. Ver merksam på at foreiningar som har alminneleg rekneskapsplikt etter rekneskapsloven ikkje kan nytte seg av desse særreglane. Desse foreiningane skal sende inn årsrekneskap til Rekneskapsregisteret etter dei ordinære reglane.
+Svarer du «Ja» på spørsmålet om foreininga tar på seg plikt til å rapportere rekneskap, må du føre opp avslutningsdato for årsrekneskapen.
+Om rekneskapsperioden blir endra, må du føre opp frå kva rekneskapsår endringa gjeld, og ny avslutningsdato.
+Om foreininga ikkje lenger ønsker innsendingsplikt, kan de sende melding om dette til Frivilligregisteret.
+Du kan laste ned skjema for innsending av årsrekneskap i Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Grasrotdelen                            
+
+
+
+Registrering i Frivilligregisteret er eit vilkår for at ein organisasjon skal kunne ta imot midlar gjennom grasrotdelen. Denne ordninga går ut på at spelarar som bruker tenester frå Norsk Tipping skal kunne fastsette at delar av innsatsen skal gå til ei bestemt verksemd.
+Spelaren kan berre velje mellom dei som er registrerte i Frivilligregisteret. Registrering i Frivilligregisteret kan altså gi verksemda di høve til nye inntekter. Om verksemda vil delta i grasrotdelen, kryssar du av for «Ja» i dette feltet.
+Ver merksam på følgande: Om du kryssar av for «Ja» i dette feltet, stadfestar du samtidig at verksemda di oppfyller kriteria i grasrotforskrifta, for å kunne ta del i grasrotordninga. Verksemda må blant anna berre bli driven på lokalt eller regionalt plan. Verksemder som er paraplyorganisasjonar for lokale lag kan ikkje delta i grasrotdelen.
+Verksemder som ikkje ønsker å delta i grasrotdelen kryssar av for «Nei» i dette feltet.
+For å ha rett til å delta i grasrotdelen, må i tillegg den hovudaktiviteten som blir driven vere av ein bestemt art. Avgrensingane her er for det meste, men ikkje berre, basert på den kategoriseringa som blir registrert i Frivilligregisteret.
+Detaljerte reglar
+Verksemder som er registrert i Frivilligregisteret med hovudaktiviteten sin innanfor følgande kategoriar, kan ikkje delta i grasrotdelen:
+1– Utdanning og forskning
+2– Helse
+Verksemder som driv sjukehus, rehabilitering, sjukeheim, psykiatriske institusjonar, pleieheim eller nokon form for privat helseklinikk.
+3– Bustad- og lokalmiljø
+Velforeiningar der aktiviteten ikkje kjem privatøkonomiske interesser til gode, kan ta del i ordninga.
+4 –Politiske- og interesseorganisasjonar
+Politiske og interesseorganisasjonar som er politiske parti. Dei politiske partia sine ungdomsorganisasjonar kan likevel ta del i ordninga.
+5– Yrkes-, bransje- og fagforeiningar
+Unntak gjeld for elev- og studentorganisasjonar som likevel har rett til å ta del i ordninga.
+Kan ikkje nytte seg av betalt reklame
+Verksemder som får grasrotmidlar kan ikkje nytte seg av betalt reklame for å få spelarar til å gi andelen sin til verksemda si, sjå grasrotforskrifta § 9, b. Likevel har alle høve til å publisere i eigne kanalar, henge opp materiell og dele ut vervekort og vervebrev.
+Fiktiv verksemd
+Det er ikkje tillatt å opprette ei verksemd berre for å få utbetalt grasrotmidlar, sjå grasrotforskrifta § 9, c. I slike tilfelle kan ei slik «verksemd» bli pålaga å betale attende grasrotmidlane.
+Grasrotdelen blir forvalta av Norsk Tipping, som har meir informasjon om ordninga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Kontonummer                            
+
+
+
+Om du har kryssa av for «Ja» til deltaking i grasrotdelen, må kontonummeret til verksemda førast opp, sjå grasrotforskrifta § 3, e.
+Er ikkje kontonummer ført opp, eller feil slik at Norsk Tipping ikkje får betalt ut grasrotdelen, vil verksemda miste retten til opptjente midlar, sjå grasrotforskrifta § 4, tredje ledd.
+Dei som ikkje deltek i grasrotdelen vel sjølve om dei vil registrere kontonummeret sitt i Frivilligregisteret. Det gjer at dei som måtte ha bruk for det, for eksempel gjevarar eller andre etatar, lett kan finne kontonummeret til verksemda.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Underskrift                            
+
+
+
+Meldinga må vere underskriven for at ho skal bli godkjend. Den/dei som skriv under på meldinga, stadfestar med underskrifta si at opplysningane som er gjevne i blanketten, er riktige.
+Meldinga skal underteiknast av anten dagleg leiar, forretningsførar, kontaktperson eller styreleiar.
+
+
+
+
+Ved nyregistrering i Frivilligregisteret må du legge ved
+
+vedtekter
+
+Ved endring av opplysningar må du legge ved
+
+ajourførte vedtekter, dersom du skal registrere endringar i vedtektene
+ajourførte vedtekter, dersom du søker deltaking i grasrotdelen
+
+ 
+
+
+
+
+Nyttige lenker
+
+Tilgjengelege kategoriar for aktiviteten
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

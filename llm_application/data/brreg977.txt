@@ -1,0 +1,622 @@
+
+
+
+
+Informasjons- og behandlingstypar i Einingsregisteret
+
+Sist oppdatert: 13. mars 2023.
+
+
+
+
+
+Sakstype
+
+
+
+HovudsakstypeUndersakstype
+SkildringXML-element
+
+
+
+
+EADMEEndring - Administrativ endring
+
+Sak
+
+
+EALFVAnnulering av sletting i FrivilligregisteretSak
+
+
+EANFR
+Annullering av registrering i Føretaksregisteret
+Sak
+
+
+EANFVAnnulering av registrering i FrivilligregisteretSak
+
+
+EANOP
+Annullering av oppløysing
+Sak
+
+
+EANSLAnnullering av sletting i FøretaksregisteretSak
+
+
+EEADREndring - Endring av postnummerSak
+
+
+EEBTC Endring - Motteken pr. batch Sak
+
+
+EENEndring - OrdinærSak
+
+
+EETYP
+Endring - Retting av organisasjonsformSak
+
+
+EKORREndring - Administrativ korreksjonSak
+
+
+ENYFRRegistrering i Føretaksregisteret (finst frå før i Einingsregisteret)Sak
+
+
+ENYFVRegistrering i Frivilligregisteret, finst frå før i Einingsregisteret og/eller FøretaksregisteretSak
+
+
+ENYPREndring - Nyregistrering i PartiregisteretSak
+
+
+EOMDAOmdanning av organisasjonsform
+Sak
+
+
+EOOOmgjering av oppløysingSak
+
+
+EREGNFlytting av rekneskapsførarklientar (maskinelt)Sak
+
+
+EREVIFlytting av revisorklientar (maskinelt)Sak
+
+
+ESAFVEndring - administrativ sletting frå FrivilligregisteretSak
+
+
+ESBTC
+Under sletting - sletting motteken pr batchSak
+
+
+ESLUnder sletting - sletting registrert i SAKSYSSak
+
+
+ESLFRSletting frå Føretaksregisteret
+Sak
+
+
+ESLFVSletting frå FrivilligregisteretSak
+
+
+ESLPREndring - Sletting i PartiregisteretSak
+
+
+ETVOPTvangsoppløysingSak
+
+
+LANSLAnnullering av slettingSak
+
+
+LLIVVekkjer til live ei eining som er slettaSak
+
+
+NNYNyregistrering - Ny sakSak
+
+
+SADMSletting - Administrativ (av eigne tiltak) Sak
+
+
+SANNUSletting - Annullering
+Sak
+
+
+SBEDRSletting av verksemd Sak
+
+
+SDUBLSletting - DublettSak
+
+
+SFISJSletta etter fisjonSak
+
+
+SFUSJSletta etter fusjonSak
+
+
+SSBTCSletting - ordinær sletting motteken pr. batch
+Sak
+
+
+SSLSletting - ordinærSak
+
+
+SSMSLSletting av einingar ved samanslåingSak
+
+
+
+Informasjonstype
+
+
+
+EndringstypeInformasjonstype
+SkildringXML-elementWeb Service
+
+
+
+
+EAKKOMeldt akkord i Føretaksregisteret
+
+EndringSærlege opplysninger
+
+
+EBADRVerksemda si gateadresse
+EndringAlle bedrifter/verksemder og Ei bedrift/verksemd
+
+
+EBDAT
+Dato for oppstart/begynning av verksemd
+EndringEi bedrift/verksemd
+
+
+EDELEStiftelsen er vedtatt deltEndringSærlege opplysningar
+
+
+EEDATDato for eigarskifte
+EndringEi bedrift/verksemd
+
+
+EEPOSE-postadresse
+EndringKontaktdata
+
+
+EFADRForretningsadresseEndringBasisdata, Basisdatamini, Alle bedrifter/verksemder og Ei bedrift/verksemd
+
+
+EFORMFormål (art/bransje)
+EndringBasisdata
+
+
+EFVRPRekneskapsperiodeEndringOpplysningar frå Frivilligregisteret
+
+
+EFVRRHar tatt på seg å rapportere årsrekneskap til FrivilligregisteretEndringOpplysningar frå Frivilligregisteret
+
+
+EFVÅRSiste årsrekneskap som er send inn til FrivilligregisteretEndringOpplysningar frå Frivilligregisteret
+
+
+EGRDTVil delta/ikkje delta i grasrotdelordningaEndringOpplysningar frå Frivilligregisteret
+
+
+EGRUNEr unntatt frå deltaking i grasrotdelordningaEndringOpplysningar frå Frivilligregisteret
+
+
+EGRVTVil delta i grasrotdelordninga - krav om vedtekterEndringOpplysningar frå Frivilligregisteret
+
+
+EIADRHeimeside EndringKontaktdata 
+
+
+EINSOUnder utanlandsk insolvensbehandlingEndringSærlege opplysningar
+
+
+EISEKInstitusjonell sektorkodeEndringOpplysningar frå tilknytt register
+
+
+EKAPIKapitalEndringOpplysningar frå tilknytt register
+
+
+EKJRPKjønnsrepresentasjonEndring
+
+
+EKONKÅpna konkursEndringSærlege opplysningar
+
+
+EKTOKontonummerEndringOpplysningar frå Frivilligregisteret
+
+
+EMPVTHar tatt på seg å melde vedtekterEndringOpplysningar frå Frivilligregisteret
+
+
+EMTLFMobiltelefonnummer
+EndringKontaktdata
+
+
+EMÅLMålformEndringBasisdata
+
+
+ENAVNNamn/føretaksnamnEndringAlle gruppene
+
+
+ENACENacekodeEndringOpplysningar frå tilknytt register
+
+
+EOPHEStiftelsen er vedtatt opphevaEndringSærlege opplysningar
+
+
+EOPPLOppløystEndringSærlege opplysningar
+
+
+EOSDLSend til tingretten frå Føretaksregisteret pga dagleg leiar
+EndringSærlege opplysningar
+
+
+EOSEDSend til tingretten frå Føretaksregisteret pga EØFG deltakararEndringSærlege opplysningar
+
+
+EOSEFSend til tingretten frå Føretaksregisteret  pga EØFG forretningsførar
+EndringSærlege opplysningar
+
+
+EOSEVSend til tingretten frå Føretaksregisteret  pga EØFG varigheit
+EndringSærlege opplysningar
+
+
+EOSKPSend til tingretten frå Føretaksregisteret pga kapitalEndringSærlege opplysningar
+
+
+EOSRESend til tingretten frå Føretaksregisteret  pga revisor
+EndringSærlege opplysningar
+
+
+EOSSTSend til tingretten frå Føretaksregisteret pga styre
+
+EndringSærlege opplysningar
+
+
+EPADRPostadresseEndringBasisdata, Basisdatamini, Alle bedrifter/verksemder og Ei bedrift/verksemd
+
+
+
+EPLFRRegistreringspliktig i Føretaksregisteret
+EndringSærlege opplysningar
+
+
+EREFORekonstruksjonsforhandlingEndringSærlege opplysningar
+
+
+ER-FRRegistrert i FøretaksregisteretEndringSærlege opplysningar
+
+
+ER-FVRegistrert i FrivilligregisteretEndringSærlege opplysningar
+
+
+ER-MVRegistrert i MeirverdiavgiftsregisteretEndringSærlege opplysningar
+
+
+EFMVA Frivillig registrering i MVAEndringSærlege opplysningar
+
+
+ER-PRRegistrert i PartiregisteretEndringSærlege opplysningar
+
+
+ER-SRRegistrert i Stiftelsesregisteret
+EndringSærlege opplysningar
+
+
+ESAMMStiftelsen er vedtatt oppløystEndringSærlege opplysningar
+
+
+ESKRRSend til tingretten frå Rekneskapsregisteret
+EndringSærlege opplysningar
+
+
+ESTIDStiftelsestidspunktEndringBasisdata
+
+
+ESYSSTal på ansatteEndringOpplysningar frå tilknytt register og Ei bedrift/verksemd
+
+
+ETFAXTelefaksnummerEndringKontaktdata
+
+
+ETFONTelefonnummerEndringKontaktdata
+
+
+ETVDLTvangsavvikling i samband med dagleg leiarEndringSærlege opplysningar
+
+
+ETVOVTvangsavvikling - Overtatt av tingrettenEndringSærlege opplysningar
+
+
+ETVRETvangsavvikling i samband med revisorEndringSærlege opplysningar
+
+
+ETVRRTvangsavvikling i samband med årsrekneskapEndringSærlege opplysningar
+
+
+ETVSTTvangsavvikling ifbm styreEndringSærlege opplysningar
+
+
+EUSLUnder slettingEndringSærlege opplysningar
+
+
+EVNAVVerksemda sitt namn
+EndringAlle bedrifter/verksemder og Ei bedrift/verksemd
+
+
+EÅRSOSiste årsoppgjer som er send inn
+EndringSærlege opplysningar
+
+
+
+Behandlingstype
+
+
+
+EndringstypeBehandlingstype
+SkildringXML-element
+
+
+
+
+BAKKOMeld akkord i Føretaksregisteret
+
+Endring
+
+
+BFISJFisjon blir registrert/endret
+Endring
+
+
+BFORHForhåndsregistrering i EiningsregisteretEndring
+
+
+BFUSJ
+Fusjon blir registrert/endretEndring
+
+
+BMANRMatrikkelnummerEndring
+
+
+BOSDL
+Send til tingretten frå FR pga dagleg leiarEndring
+
+
+BOSEDSend til tingretten frå FR pga EØFG deltakarar
+
+Endring
+
+
+BOSEFSend til tingretten frå FR pga EØFG forretningsførar
+Endring
+
+
+BOSEVSend til tingretten frå FR pga EØFG varigheit
+
+Endring
+
+
+BOSKP
+Send til tingretten frå FR pga kapital
+Endring
+
+
+BOSRE
+Send til tingretten frå FR pga revisor
+Endring
+
+
+BOSSTSend til tingretten frå FR pga styreEndring
+
+
+BSLSMUnder sletting etter samanslåingEndring
+
+
+
+Samendringstype
+
+
+
+EndringstypeSamendringstype
+SkildringXML-elementWeb Service
+
+
+
+
+EBEDRVerksemda til næringsdrivande person
+
+EndringAlle bedrifter/verksemder og Ei bedrift/verksemd
+
+
+
+EBESTStyrande reiarEndringBasisdata og Roller
+
+
+
+EBOBE
+BustyrarEndringBasisdata og Roller
+
+
+EDAGL
+Dagleg leiar/administrerande direktør
+
+EndringBasisdata og Roller
+
+
+EDELTDeltakararEndringRoller
+
+
+EFFØRForretningsførar EndringBasisdata og Roller
+
+
+EFGRPFøretaksgruppe
+
+EndringSærlege opplysningar
+
+
+EINNH
+InnehavarEndringBasisdata og Roller
+
+
+
+EKDATKonserndotterEndringSærlege opplysningar
+
+
+EKGRLKonserngrunnlagEndringSærlege opplysningar
+
+
+EKMOR
+Konsernmor
+
+EndringSærlege opplysningar
+
+
+EKOMP
+KomplementarEndringRoller
+
+
+EKONTKontaktpersonEndringBasisdata og Roller
+
+
+EPROKProkuraEndringProkura og Signatur
+
+
+EREGNRekneskapsførarEndringRoller
+
+
+EREPRNorsk representant for utenlandsk eining
+EndringBasisdata og Roller
+
+
+EREVIRevisorEndringRoller
+
+
+ESIGNSignaturEndringProkura og Signatur
+
+
+ESTYR
+StyreEndringRoller
+
+
+
+Historiske informasjons- og behandlingstypar
+
+
+
+TypeEndringstypeInformasjons- og behandlingstypeSkildringXML-elementWeb service
+
+
+
+
+InformasjonstypeETVOPTvangsoppløysingEndringSærlege opplysningar
+
+
+InformasjonstypeEOSKAOversend tingretten pga for låg aksjekapitalEndringSærlege opplysningar
+
+
+InformasjonstypeETVKATvangsavvikling pga kapital <100000EndringSærlege opplysningar
+
+
+InformasjonstypeETVUKTvangsoppløyst etter konkurslova sine reglarEndringSærlege opplysningar
+
+
+InformasjonstypeER-FSRegistrert i Fylkesmennene sitt stiftelsesregisterEndringSærlege opplysningar
+
+
+BehandlingstypeBOSKAOversend tingretten pga for låg aksjekapitalEndring
+
+
+SamendringstypeSAMSameigarar
+
+
+
+Forklaring til XML
+
+Elementet «periode» inneheld to attributt, «datoFra» og «datoTil», som melder i kva tidsrom sakene er offentleggjort.
+Attributtet «kjorenr» under elementet «logg» blir inkrementert med ein for kvar produksjon, som er ein gong pr. dag på kvardagar.
+Organisasjonsnummer til dei einskilde einingane finst i attributtet «organisasjonsnummer» under elementet «enhet». Innhaldet i xml fila er sortert på organisasjonsnummer.
+Kolonnane Hovedsakstype og Undersakstype er attributt til elementet «sak» som også har attributtet «offentlig» som angir når saka blei offentleggjord.
+Kolonnen Endringstype er attributtet «type» under elementet «endring», der type enten er «E» for endring eller «B» for behandlingstype.
+Elementet «endring» inneheld kodane for infotype, samendringstype og behandlingstype.
+
+ 
+
+
+
+
+Nyttige lenker
+
+Teknisk dokumentasjon for maskinell tilgang til Einingsregisteret
+
+
+
+
+Bestillingsparametrar
+
+
+
+
+Oppbygging grunndataWS
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

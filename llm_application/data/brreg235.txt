@@ -1,0 +1,308 @@
+
+
+
+
+Guide to sub-entity form – activity at multiple addresses
+
+Last updated: 10 October 2021.
+
+
+
+
+
+You must use this form if you are doing business in multiple locations, or run a large-scale business activity in different industries in one place. 
+
+The rules for registration of sub-entities
+If a main entity (limited company, sole proprietorship, municipality and the like) conducts activity, and has employees, at multiple separated locations (addresses), you must register a sub-entity, with its own organisation number, for each address.
+Correspondingly, several sub-entities must be registered, if one main entity conducts activity in different businesses at the same location and each branch employs at least five persons full-time or part-time. Exceptions to this rule include the transport and constructing industry. For these industries, only one sub-entity is to be registered for each address where there are permanent premises.
+How to fill in the form
+Fill in the form for each of the enterprises.
+ 
+
+
+
+
+
+
+
+ 
+                                1 Organisation number                             
+
+
+
+If an already registered main entity wish to report a new sub-entity, please state the organisation number of the main entity.
+If the notification concerns changes of information registered about a sub-entity, please state the organisation number of both the main entity and the sub-entity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Name of the sub-entity                            
+
+
+
+Fill in the field if the activity is carried out with another name than the main entity’s official name, or whether the activity has a separate designation of the sub-entity.
+If the notification concerns change of name, both the new and the former name must be stated.
+If the notification is about a business that no longer want to have its own name that is different from the main entity’s official name, the field “the subentity’s full name” need to be filled in with the text: Operates no longer with a separate name.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Takeover/transfer                            
+
+
+
+If an activity is to be considered taken over or transferred, the same activity must continue, but with another main entity as owner.
+These terms must be met
+The assets that are included as necessary components of the activity, such as raw materials, production equipment, inventories, contracts and other, must be transferred in their entirety or substantially. If the assets included in the activity are sold separately, so that the activity cannot continue, you must report the termination of the activity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3a Start or takeover of sub-entity                            
+
+
+
+Start of sub-entity
+Upon initial registration of a sub-entity, you must state the starting date of the activity, or when it is to start.
+Takeover of a sub-entity
+If a notification concerns takeover of a sub-entity – for example when a limited company takes over a shoe shop or hairdressing salon from another limited company, the date of takeover must be entered here. Former owner must be stated in 4a.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3b Transfer or closure of a sub-entity                            
+
+
+
+Transfer of a sub-entity
+If the notification concerns transfer of a sub-entity, for example when a limited company is transferring a shoeshop or hairdressing salon to another limited company, the date of transfer must be entered here. New owner must be stated in field 4b.
+Closure of a sub-entity
+If the notification concerns deletion of a sub-entity, tick the box for closure and enter the date for this.
+A sub-entity is to be closed if the production of goods and/or services for some reason ceases completely.
+The sub-entity also ceases if:
+
+a new owner starts a completely new business in the same premises
+a new owner moves the entire former business to a new address in another municipality
+the activity moves to another municipality and starts a completely new business with the same owner
+
+Please note that the closure of the sub-entity does not mean that the main entity is being closed. If the main entity is to be closed, this must be reported in the Coordinated register notification through Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4a Takeover of sub-entity from                            
+
+
+
+Enter the previous owner’s organisation number, if available.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4b Transfer of sub-entity to                            
+
+
+
+Enter the new owner’s organisation number, if available.
+Remember to clear the inbox of the sub-entity in Altinn before the transfer. Sensitive information, such as medical certificates, ought to be stored in a separate case/filing system before the transfer is being registered. This prevents the acquirer from gaining access to sensitive information contained in the inbox of the sub-entity.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 The sub-entity's location address                            
+
+
+
+If the activity is located at an address other than that of the head office, you must enter this address here. If the activities are not bound to fixed premises or locations, such as construction, civil engineering or transport activity,  the address of the administrative location of attendance, must be entered.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 The sub-entity's postal address                            
+
+
+
+Sub-entities that have a special postal address, that is, another than the one specified for the main entity, enter this her.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Type of activity/branch                            
+
+
+
+Provide as accurate a description as possible of the activities carried out or to be carried out.
+Bear in mind that it is not sufficient to state a general overriding purpose.
+Therefore, you must state what will be produced/sold and/or which services/activities will be carried out.
+Here are some examples of how detailed the description must be:
+
+Agriculture:
+
+Growing of cereals
+Raising of dairy cattle
+
+
+ Transport:
+
+Freight transport by road
+Taxi operation
+
+
+Industry:
+
+Manufacture of household and sanitary goods and of toilet requisites
+Manufacture of builders ware of plastic
+
+
+Trade:
+
+Agency trade in timber, lumber and building materials
+Wholesale of electrical household appliances
+Retail sale of meat and meat products
+
+
+Building and construction:
+
+Site preparation
+Construction of buildings
+Plumbing, heat an airconditioning installation
+
+
+Consultancy:
+
+Business consultancy activities
+Consultancy services in software development of customer- specified software
+
+
+
+If the sub-entity operates in several lines of business, you must enter each of these in order of priority according to the amount of turnover or employment.
+In case of change, please state the new business activity and the date when this entered into force. If the enterprise has started additional activities, you must also state the prior activities.
+What do we use the information about activity/branch for?
+Information about the activity of the business is the basis for assigning an industrial code. The industrial code is assigned pursuant to Standard Industrial Classification (SN2007). The industrial code is used to prepare statistics describing the Norwegian business and industry/labour market according to business/trade.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Submitter                            
+
+
+
+The field is only to be filled in if the form is submitted separately (not along with the main form) and the submitter is another than the main entity. The Central Coordinating Register for Legal Entities will use the submitter as addressee for all types of feedback on the notification, which means that confirmations, letters, register printouts and other letters will be sent to the submitter.
+If the field for the submitter has not been filled in, feedback and similar will be sent to the main entity. If the submitter has previously been assigned a customer number by the Brønnøysund Register Centre, this must be stated.
+Case reference/attention for the submitter
+Here the submitter can state a separate reference for the case.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Other remarks/information                            
+
+
+
+Additional information that may be of importance for the registration. Add a separate sheet if there is too little space.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Signatures                            
+
+
+
+The notification must be signed in order to be approved. The notification must be signed by the owner of a sole proprietorship, general manager or contact person for other enterprises.
+If a takeover or transfer has been reported, both parties must sign the notification.
+The person who signs the notification confirms that the information provided is correct, and that he or she is aware that providing incorrect information is a punishable offence.
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,126 @@
+
+
+
+
+Om tjenesten
+
+Sist oppdatert: 29. september 2022.
+
+
+
+
+
+Registeret for offentlig støtte ble opprettet 1. juli 2016 med bakgrunn i EØS-avtalens regler om offentlig støtte. 
+
+Formålet med registeret er blant annet å skape mer åpenhet rundt offentlig støtte.
+I tjenesten kan du:
+
+søke på foretak som har mottatt offentlig støtte fra og med 1. juli 2016
+laste ned søkeresultat og/eller et komplett datasett fra Registeret for offentlig støtte (JSON, XML og CSV-format)
+
+Registeret omfatter enkelttildelinger av offentlig støtte til foretak på 500 000 euro eller mer, men det er også mulig for støttegivere å melde tildelinger under dette beløpet.
+Det er støttegiverne som har plikt til å registrere støttetildelinger. På grunn av støttegivers meldefrist, vil registeret først vise en fullstendig oversikt over meldepliktige støttetildelinger senest innen 6 måneder etter at tildelingen er vedtatt. Støtte som er gitt i form av skatte- eller avgiftsfordel, meldes inn til registeret innen ett år fra det tidspunkt kravet om innlevering av selvangivelse forfaller.
+Filene som inneholder komplett datasett blir produsert hver gang du gjør en nedlastning. Søket gjøres direkte mot Brønnøysundregistrenes databaser. Dette betyr at du til enhver tid kan finne oppdaterte opplysninger fra Registeret for offentlig støtte.
+ 
+Lisensvilkår
+Dataene i tjenesten er lisensiert med Norsk lisens for offentlige data (NLOD). Når du bruker informasjon som er gjort tilgjengelig i tjenesten vår, aksepterer du vilkårene i denne lisensen.
+ 
+Feltnavn og feltbeskrivelser
+Se tabell under nyttige lenker til høyre på siden.
+ 
+Korrigere formatfeil i CSV-dokumentet
+Hvis du laster ned datasettet i CSV-format vil det i noen tilfeller bli feil i formatet i dokumentet. For eksempel kan opplysning om NACE-kode bli vist i datoformat. Hvis du konverterer CSV-filen som Excel-regneark, kan du bruke tekstimportveiviseren til å justere formatene før filen vises, slik at visningen er tilpasset opplysningene i datasettet:
+Etter at du har lagret CSV-filen lokalt hos deg selv:
+
+Åpne Excel
+Klikk på «Data» i Excel og velg «Fra tekst» for å hente CSV-filen du lagret lokalt
+Velg «Importer» når riktig fil er merket
+Tekstimportveiviseren vises nå og her kan dataformatet i filen tilpasses:
+
+Trinn 1: (Valg av filtype) Velg «Data med skilletegn» og klikk «Neste»
+Trinn 2: (Angi hvilke skilletegn dataene inneholder) Velg kun «Semikolon» og klikk «Neste»
+Trinn 3: (Merke hver kolonne og angi datatypen) Hver kolonne kan markeres under «Forhåndsvisning av data» ved å klikke på den aktuelle kolonnen.
+ 
+Tips:
+Velg format «Dato» i kolonnen «tildelingsdato» og format «Tekst» i kolonnen «nacekode». Øvrige kolonner skal ha format «Standard» og trenger dermed ikke endres. Klikk deretter «Fullfør» for å få opp datasettet. Du kan eventuelt endre kolonnebredden og/eller formatere celler i de ulike kolonnene i datasettet hvis du ønsker ytterligere tilpasninger.
+ 
+Varsel om endringer (RSS-feed) 
+Vi har opprettet en abonnementstjeneste via RSS-feed (se RSS-symbolet under «Følg oss» nederst på siden), hvor vi legger ut nyheter, meldinger om endringer i tjenesten, m.m som du kan abonnere på. Vi melder fra om eventuelle endringer i god tid før endringene settes i drift.
+ 
+Innspill
+Vi ønsker å forbedre og videreutvikle tjenesten for åpne data, og tar gjerne imot innspill. Det kan være ris eller ros, innspill til forbedringer eller andre ønsker. Du kan sende inn innspill i vårt kontaktskjema. Dette vil være til stor hjelp for oss i arbeidet med å gjøre tjenesten enda bedre.
+ 
+
+
+
+
+Nyttige lenker
+
+Feltnavn og feltbeskrivelser
+
+
+
+
+API
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+
+
+
+
+Opplysninger om virksomheter
+
+Sist oppdatert: 6. oktober 2022.
+
+
+
+
+
+Her finner du datasett om virksomheter som er tilgjengelig som åpne data.
+
+
+
+
+
+
+
+Søk på virksomheter
+
+Data fra Enhetsregisteret
+
+
+
+
+
+
+
+
+
+
+
+
+Roller i virksomheten
+
+API - maskinell tilgang
+
+
+
+
+
+
+
+
+
+
+
+
+Data om signatur og prokura
+
+API - maskinell tilgang
+
+
+
+
+
+
+
+
+
+
+
+
+Søk i Registeret for offentlig støtte
+
+
+
+
+
+
+
+
+
+De fleste datasettene blir tilbudt i et API (Application Programming Interface) som støtter både enkeltoppslag, sammensatte søk og nedlasting av komplett datasett. For enkelte av tjenestene kan du også søke etter informasjon for presentasjon direkte på skjerm.
+Lisens
+Datasettene følger Norsk lisens for åpne data (NLOD). Det er ikke nødvendig å registrere seg for å ta datasettet i bruk.
+ 
+
+
+
+
+
+

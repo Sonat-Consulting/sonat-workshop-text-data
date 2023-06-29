@@ -1,0 +1,477 @@
+
+
+
+
+Rettleiing – forenkla registermelding for enkeltpersonføretak
+
+Sist oppdatert: 26. januar 2023.
+
+
+
+
+
+Rettleiing til fellesskjema for enkeltpersonføretak, BR1025N, for registrering i
+
+Einingsregisteret
+Føretaksregisteret
+NAV Aa-registeret
+Statistisk sentralbyrå sitt Verksemds- og føretaksregister
+
+Slik fyller du ut skjemaet:
+ 
+
+
+
+
+
+
+
+ 
+                                1 Namn/føretaksnamn                            
+
+
+
+1.1 Fullstendig namn/føretaksnamn på enkeltpersonføretaket
+Feltet skal alltid fyllast ut.
+Her legg du inn enkeltpersonføretaket sitt fullstendige føretaksnamn og organisasjonsnummer. Gjeld det nyregistrering, tildeler Einingsregisteret organisasjonsnummer.
+Føretaksnamn på enkeltpersonføretak skal innehalde etternamnet til innehavaren, til dømes Lars Holm, Holms Bilskadeservice eller Bilskadeservice Holm.
+På sida Korleis vel eg namn på selskapet mitt? kan du lese meir om val av namn og kva omsyn du må ta.
+1.2 Eventuelt nytt namn/føretaksnamn
+Feltet skal du berre fylle ut dersom du skal melde endring av registrert føretaksnamn. Hugs at det tidlegare registrerte føretaksnamnet skal førast opp i felt 1.1 saman med organisasjonsnummeret. Er enkeltpersonføretaket registrert i Føretaksregisteret, kjem det gebyr på namneendringa. Sjå oversikt over gebyr.
+1.3 Eige namn på undereininga
+Feltet skal du berre fylle ut dersom føretaket driv undereining under eit anna namn enn namnet til føretaket. Dersom til dømes det fullstendige føretaksnamnet er Lars Holms Pølsebu, og du berre bruker Grillbua i marknadsføring, korrespondanse og liknande, er det berre sistnemnde namn som skal fyllast inn her.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Meldinga gjeld                            
+
+
+
+Ei melding kan gjelde eitt av desse forholda:
+
+2.1 Registrering av enkeltpersonføretak som ikkje er registrert frå før
+2.2 Endring av registrerte opplysningar eller nye opplysningar
+2.3 Sletting av enkeltpersonføretak
+
+Skal du melde overdraging, overtaking eller sletting av undereininga di fyller du ut felt 8 og 9 i skjemaet.
+2.1 Enkeltpersonføretak som ikkje er registrert tidlegare
+Her skal du berre krysse av dersom enkeltpersonføretaket ditt ikkje er registrert i Einingsregisteret tidlegare.
+Du må legge inn dato for start av aktivitet i felt 8a. Overtek du ei eksisterande undereining, må du i tillegg krysse av for kjøp/overtaking av undereinig i felt 8a. Felt 9a fyller du ut med opplysningar om den tidlegare eigaren i undereininga.
+2.2 Endringar/nye opplysningar
+Kryss av her dersom du ønsker å gjere endringar i dei registrerte opplysningane. Registrering eller sletting i eitt eller fleire av Einingsregisteret sine tilknytte register er også ei endring.
+Du fyller berre ut felta for dei opplysningane som skal endrast. Ønsker du å slette registrerte opplysningar, må du merke desse felta i skjemaet med «går ut».
+Vi gjer merksam på at det skal betalast gebyr for endring av føretaksnamn for enkeltpersonføretak som er registrerte i Føretaksregisteret. Sjå oversikt over gebyr.
+2.3 Sletting av enkeltpersonføretak
+Kryss av her dersom enkeltpersonføretaket skal slettast frå alle registera (Einingsregisteret og dei tilknytte registera).
+Hugs å føre opp i felt 8b kva som skjer med den undereininga som enkeltpersonføretaket er registrert med.
+Sletting berre frå tilknytte register
+Det er fullt mogleg å melde sletting frå andre tilknytte register, utan å bli sletta frå Einingsregisteret.
+Sletting i Føretaksregisteret
+Eit enkeltpersonføretak som ikkje har registreringsplikt i Føretaksregisteret, kan melde sletting i Føretaksregisteret i felt 15.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registrering i andre register                            
+
+
+
+Du fyller ut felt 3 når enkeltpersonføretaket skal registrerast i eit tilknytt register det ikkje er registrert i frå før. Felt 3.3 og 3.4 gjeld registrering av opplysningar i høvesvis NAV Aa-registeret og Statistisk sentralbyrå sitt Verksemds- og føretaksregister.
+3.1. Føretaksregisteret
+Du har plikt til å registrere enkeltpersonføretaket ditt i Føretaksregisteret dersom du
+
+driv handel med varer som er innkjøpte til vidare sal
+skal drive som statsautorisert rekneskapsførar
+skal drive som statsautorisert revisor
+har fleire enn fem tilsette i stilling der dei jobbar meir enn 20 timar per veke
+skal ta pant i varelager, motorvogner og anna der det blir kravt at pantsettar er næringsdrivande, eller
+
+Har du ikkje plikt kan du likevel registrere føretaket i Føretaksregisteret. Det kjem eit gebyr på registreringa. Sjå oversikt over gebyr.
+3.2 Arbeidstakarar/andre som mottek vederlag
+Som arbeidstakarar reknar ein alle som er tilsette i teneste hos andre for løn eller anna godtgjersle.
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Adressa til hovudkontoret                            
+
+
+
+Du må føre opp norsk forretningsadresse med namn på gate eller veg og husnummer samt bokstav om det finst, eventuelt stadnamn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Postadresse                            
+
+
+
+Om du ønsker at posten skal sendast til ei anna adresse enn forretningsadressa di, kan du føre opp den som postadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Gateadressa til undereininga                            
+
+
+
+Fyll ut dette feltet om aktiviteten går føre seg på ei anna adresse enn forretningsadressa.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Innsendar/gebyransvarleg                            
+
+
+
+Innsendaren er mottakar av alle typar tilbakemeldingar som gjeld meldinga. Innsendar er også ansvarleg for å betale eventuelt gebyr til Føretaksregisteret.
+Dersom innsendar-feltet ikkje er utfylt, blir tilbakemeldingar og eventuelt krav om gebyr sendt til enkeltpersonføretaket si adresse.
+Dersom du tidlegare har fått kundenummer av oss, fører du opp dette nummeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Overtaking/overdraging                            
+
+
+
+For at ein aktivitet skal bli rekna som overtatt eller overdratt, skal same aktivitet fortsette, men med ein anna hovudeining som eigar/drivar.
+Desse vilkåra må vere oppfylt:
+Dei aktiva som inngår som nødvendige bestanddelar i aktiviteten, for eksempel råvarer, produksjonsutstyr, varelager, kontraktar og anna, må fullt ut eller i det alt vesentlege blir overdratt under eitt. Om dei aktiva som inngår i aktiviteten blir selde særskild, slik at aktiviteten ikkje kan fortsette, melder du nedlegging av aktiviteten.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8a Nyregistrering eller overtaking av undereining                            
+
+
+
+Nyregistrering av undereining
+Ved nyregistrering av undereining, må du legge inn dato for når aktiviteten starta eller skal starte.
+Overtaking av undereining
+Gjeld meldinga overtaking av ei undereining – til dømes ved at enkeltpersonføretaket ditt tek over eit gardsbruk eller ein kiosk frå eit anna foretak, legg du inn dato for overtakinga her.
+Her kan du lese meir om nyregistrering eller overtaking av undereining
+
+
+
+
+
+
+
+
+
+
+ 
+                                8b. Overdraging eller sletting av undereining                            
+
+
+
+Overdraging av undereining
+Gjeld meldinga overdraging av ei undereining, til dømes ved at eit enkeltpersonføretak overdreg ein skobutikk eller frisørsalong til eit anna foretak, legg du inn opp dato for overtaking her.
+Sletting av undereining
+Gjeld meldinga sletting av undereining, kryss av for nedlegging av aktiviteten og legg inn dato for dette.
+Ei undereining blir sletta om produksjon av varer og/eller teneste av ein eller anna grunn blir avslutta heilt.
+Ei undereining blir også sletta om:
+
+Ein ny eigar startar ein heilt ny aktivitet i dei same lokala
+ein ny eigar flytter heile den tidlegare aktiviteten til ei ny adresse i ein annan kommune
+aktiviteten blir flytta til ein annan kommune og det blir starta ein heilt ny aktivitet med same eigar.
+
+Ver merksam på at melding om sletting av undereining ikkje betyr at føretaket blir sletta. Vil du slette enkeltpersonføretaket, må du krysse av for Sletting av enkeltpersonføretak i felt 2.3.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9a Overtaking av undereinig                            
+
+
+
+Her gir du opplysningar om den tidlegare eigaren/drivaren. Før opp organisasjonsnummeret til den tidlegare eigaren/drivaren dersom det finst.
+Her kan du lese meir om overtaking av undereining.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9b Overdraging av undereining                            
+
+
+
+Her gir du opplysningar om den nye eigaren/drivaren. Før opp organisasjonsnummeret til den nye eigaren/drivaren dersom det finst.
+Her kan du lese meir om overdraging av undereining.
+Hugs at du bør rydde i innboksen til undereininga i Altinn før overdraginga. Sensitiv informasjon, som sjukemeldingar m.m, bør du lagre i eige sak-/arkivsystem før overdraginga blir registrert. Då unngår du at overtakar får tilgang til sensitiv informasjon som ligg i innboksen til undereininga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Aktivitet/bransje                            
+
+
+
+10.1 Opplysningar om aktivitet
+Opplysningane om verksemda sine aktivitetar er grunnlaget for å gi næringskode. Næringskoden blir tildelt etter Standard for næringsgruppering (SN2007). Næringskoden blir mellom anna brukt til å lage statistikk der norsk næringsliv/ arbeidsmarknad blir omtalt etter næring/bransje.
+Du må gi ei så nøyaktig utgreiing som råd er om den aktiviteten som blir utført eller skal utførast. Ver merksam på at det ikkje er nok å oppgi eit generelt overordna føremål. Du må derfor fylle ut kva slag varer verksemda produserer, kva slag varer ho sel og/eller tenester ho utfører. Pass særleg på å få klart fram kva for bransje verksemda tilhøyrer.
+Her er det gitt døme på kor detaljert framstillinga må vere:
+
+Jordbruk: Dyrking av korn. Melkeproduksjon på storfe.
+Transport: Godstransport på veg. Drosjebiltransport.
+Industri: Produksjon av hushaldnings-, sanitær- og toalettartiklar av papir. Produksjon av byggevarer av plast.
+Handel: Agenturhandel med tømmer, trelast og byggevarer. Engroshandel med elektriske hushaldningsapparat. Butikkhandel med kjøtt og kjøttvarer.
+Bygg og anlegg: Grunnarbeid. Oppføring av bygningar.
+Konsulentverksemd: Bedriftsrådgjevning. Konsulenttenester innan programutvikling av kundespesifiserte program.
+
+Dersom enkeltpersonføretaket driv aktivitet i fleire bransjar, må du føre opp kvar einskild av dei i prioritert rekkefølge etter storleiken på omsetning eller sysselsetting. Set hovudaktiviteten først då denne fastset kva næringskode du vil få.
+Ved endring må du føre opp den nye aktiviteten og dato for start. Dersom du starter annan aktivitet i tillegg til aktiviteten du driv frå før, må du føre opp begge i skjemaet.
+10.2 Stadfesting av næringsaktivitet
+Du må stadfeste at aktiviteten oppfyller krava til næringsaktivitet. Eit enkeltpersonføretak driv næringsaktivitet når aktiviteten:
+
+har omsetning som over tid kan gi overskot
+har ei viss varigheit, vanlegvis lengre enn eitt år
+ikkje er hobbyverksemd eller enkeltståande oppdrag
+
+Les meir om krava for å drive næringsaktivitet.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Innehavar, dagleg leiar, forretningsførar                            
+
+
+
+I eit enkeltpersonføretak skal du alltid føre opp innehavaren. Med innehavar meiner vi den personen som har ubegrensa personleg ansvar for pliktene til enkeltpersonføretaket. Før òg opp dagleg leiar og/eller forretningsførar dersom enkeltpersonføretaket ditt har det.
+Fyll ut namn, bustadadresse og fødselsnummer eller d-nummer for dei personane som skal registrerast.
+D-nummer er eit nummer som kan tildelast utanlandske personar som ikkje har norsk fødselsnummer, men har eit behov for identifisering overfor norske myndigheiter. Her finn du meir informasjon om d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Revisor                            
+
+
+
+Dette feltet fyller du ut dersom enkeltpersonføretaket har revisor.
+Små enkeltpersonføretak har normalt ikkje revisjonsplikt. Revisjonsplikt startar først når
+
+omsetninga er på meir enn 6 millionar kroner og
+balansen viser eigedelar på over 23 millionar, eller
+gjennomsnittleg tal på tilsette er på over 10 årsverk
+
+Revisjonsplikta trer i kraft året etter at føretaket blir revisjonspliktig.
+Nokre bransjar har revisjonsplikt gjennom særreglar.
+Revisoren må vere godkjent av Finanstilsynet og registrert i Revisorregisteret.
+Fyll ut revisoren sitt namn eller føretaksnamn, adresse og organisasjonsnummer.
+Merk at feltet har plass for underskrifta til revisoren. Dersom revisoren skriv under i dette feltet, er det ikkje nødvendig å legge ved særskild viljeserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Reknskapsførar                            
+
+
+
+Dette feltet skal du berre fylle ut dersom enkeltpersonføretaket har rekneskapsførar.
+Rekneskapsføraren må vere autorisert av Finanstilsynet og registrert i Rekneskapsførarregisteret.
+Feltet må fyllast ut med rekneskapsføraren sitt namn eller føretaksnamn, adresse og organisasjonsnummer.
+Merk at feltet har plass for underskrifta til rekneskapsføraren. Dersom rekneskapsføraren skriv under i dette feltet, er det ikkje nødvendig å legge ved særskild viljeserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Prokura                            
+
+
+
+Prokura er ei fullmakt til å opptre og underskrive på vegner av føretaket i samband med den daglege drifta.
+Her fyller du ut kven som er tildelt prokura. Når du som innehavar av eit enkeltpersonføretak tildeler prokura, gir du andre fullmakt til å opptre på vegner av enkeltpersonføretaket. Du kan gi prokura til dagleg leiar eller andre personar.
+Dersom fleire har prokura, må det gå klart fram om dei har retten kvar for seg eller i fellesskap. Avgrensingar utover dette kan ikkje registrerast. Ved endring i prokura må du føre opp alle prokuristar.
+Fyll ut namn bustadadresse og fødselsnummer eller d-nummer for dei personane som skal registrerast.
+D-nummer er eit nummer som kan tildelast utanlandske personar som ikkje har norsk fødselsnummer, men har eit behov for identifisering overfor norske myndigheiter. Her finn du meir informasjon om d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Andre merknader/opplysningar                            
+
+
+
+Her melder du opplysningar som ikkje kan meldast i dei andre felta i skjemaet.
+
+Egenavgang. Før opp kva for rolle(r) du melder avgang frå.
+Særskild sletting frå Føretaksregisteret, sjå rettleiinga til felt 2.3.
+
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Ønske om målform                            
+
+
+
+Vel om skriftleg kommunikasjon med enkeltpersonføretaket skal gå føre seg på nynorsk eller bokmål.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Varslingsadresse                            
+
+
+
+Varslingsadresse er ei pliktig opplysning.
+Varslingsadresse skal berre leggast inn på nye føretak.
+Varslingsadressene vil bli brukt av det offentlege for å varsle føretaket når viktige meldingar er tilgjengelege i Altinn. Opplysningane er berre tilgjengelege for offentlege myndigheiter.
+Skal du endre desse opplysningane seinare, gjer du det under profilen til føretaket i Altinn.
+Føretaket må ha minst ei varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Underskrifter                            
+
+
+
+Meldinga må vere underskriven av deg som innehavar for å bli godkjend.
+Når du skriv under meldinga, stadfestar du at opplysningane som er gitt er rette, og at du er kjend med at det er straffbart å gi urette opplysningar.
+
+
+
+
+
+
+
+
+
+
+

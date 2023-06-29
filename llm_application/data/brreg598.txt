@@ -1,0 +1,619 @@
+
+
+
+
+Rettleiing til samordna registermelding –  forenkla skjema for foreiningar
+
+Sist oppdatert: 23. mai 2022.
+
+
+
+
+
+Slik fyller du ut skjemaet
+ 
+
+
+
+
+
+
+
+ 
+                                1 Foreininga sitt namn                            
+
+
+
+1.1 Foreininga sitt fulle namn
+Feltet skal alltid fyllast ut.
+Før opp foreininga sitt namn og organisasjonsnummer. Ved nyregistrering deler Einingsregisteret ut organisasjonsnummer.
+Ved endring av foreininga sitt namn må du føre opp registrert namn i felt 1.1.
+1.2 Eventuelt nytt namn på foreininga
+Dette feltet skal du berre fylle ut dersom foreininga melder endring av registrert namn.
+Er foreininga registrert i Føretaksregisteret, kjem det gebyr på endring av namn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                2 Meldinga gjeld                            
+
+
+
+I dette feltet fører du opp du kva meldinga gjeld. Ei melding kan gjelde følgande:
+2.1 Registrering i Einingsregisteret
+Her skal du berre krysse av dersom foreninga ikkje er registrert i Einingsregisteret frå før.
+2.2 Registrering i Frivilligregisteret
+Her skal du berre krysse av om foreininga skal registrere seg i Frivilligregisteret.
+2.3 Registrering i Føretaksregisteret
+Her skal du berre krysse av dersom foreininga skal registrere seg i Føretaksregisteret. Det kjem gebyr på registrering.
+2.4 Endringar/nye opplysningar
+Dersom foreininga er registrert i eitt av registra frå før og ønsker å melde endring i nokre av dei registrerte opplysningane eller har tilleggsopplysningar, kryssar du av for «Endringar/nye opplysningar».
+Fyll alltid ut organisasjonsnummeret til foreininga og registrert namn i felt 1.1. I resten av blanketten fyller du berre ut dei felta endringa gjeld.
+Om du vil at ei registrert opplysning skal slettast utan at den blir erstatta med nye opplysningar, skriv du «utgår» i det aktuelle feltet.
+2.5 Sletting frå alle register
+Om du vil slette foreininga i Eniningsregisteret, vil ho også bli sletta i alle tilknytte register, inkludert Frivilligregisteret og Føretaksregisteret.
+2.6 Sletting i Frivilligregisteret
+Om du vil slette foreininga berre frå Frivilligregisteret, kryssar du av her.
+2.7 Sletting i Føretaksregisteret
+Om du vil slette foreininga berre frå Føretaksregisteret, kryssar du av her. Foreiningar skal slettast frå Føretaksregisteret dersom dei ikkje lenger driv med næringsverksemd. Det vil seie foreiningar som tidlegare har drive næringsverksemd og som har slutta med dette.
+
+
+
+
+
+
+
+
+
+
+ 
+                                3 Registrering NAV AA-register                            
+
+
+
+Har foreninga ansatte, reknar de med å få det, eller er det nokon andre som skal få lønn eller honorar?
+
+
+
+
+
+
+
+
+
+
+ 
+                                4 Adressa til foreininga                            
+
+
+
+Her skriv du inn forretnings/besøksadresse til foreininga. Med dette meiner vi gateadressa der foreininga held til, eller stadsadresse på mindre stader. Næringsdrivande foreiningar må ha forretnings-/besøksadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                5 Postadresse                            
+
+
+
+Her fører du opp postadressen til foreininga. Riktig adresse er viktig for at posten skal kome raskt og effektivt fram. Les meir om dette hos Posten Norge.
+
+
+
+
+
+
+
+
+
+
+ 
+                                6 Innsendar/gebyransvarleg                            
+
+
+
+Innsendaren vil bli brukt som adressat for alle typar tilbakemeldingar om meldinga – det vil seie at stadfestingar og andre brev, registerutskrift og liknande blir sende til den som er ført opp som innsendar. Innsendaren er også ansvarleg for å betale eventuelt gebyr til Føretaksregisteret.
+Om innsendarfeltet ikkje er utfylt, blir tilbakemeldingar, krav om gebyr og liknande sende til foreninga si adresse.
+Dersom innsendaren tidlegare har fått tildelt kundenummer av Brønnøysundregistra, fører du opp dette nummeret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                7 Stiftelse av foreining                            
+
+
+
+Dato for stiftelse
+Før opp datoen då foreininga blei stifta.
+Foreiningar som ikkje har nøyaktige opplysningar om dato for stiftelse, fører opp stiftelsesåret.
+
+
+
+
+
+
+
+
+
+
+ 
+                                8 Foreininga sine aktivitetar                            
+
+
+
+Opplysningane om foreininga sine aktivitetar er grunnlaget for gi foreininga næringskode.
+Næringskoden blir tildelt etter Standard for næringsgruppering (SN2007). Næringskoden blir mellom anna brukt til å lage statistikk der norsk næringsliv/arbeidsmarknad blir omtalt etter næring/bransje.
+Gi ei så nøyaktig framstilling som mogeleg av aktiviteten/aktivtetane som blir utført eller skal utførast.
+Døme kan vere musikkorps, idrettslag og så vidare. Ved endring må ein melde frå om alle aktivitetane som blir utøvde. Dette betyr at aktivitetar som tidlegare er melde og som framleis blir utøvd må førast opp.
+Om foreining driv fleire aktivitetar, må du føre opp kvar enkelt av dei i rekkefølge etter for eksempel tid og omfang.
+
+
+
+
+
+
+
+
+
+
+ 
+                                9 Kontaktperson, dagleg leiar eller forretningsførar                            
+
+
+
+Om foreininga ikkje har dagleg leiar/forretningsførar, gir du opp ein kontaktperson.
+Med dagleg leiar/forretningsførar meiner vi den personen som har den daglege administrative leiinga av foreininga, og som har myndigheit til å representere foreininga utetter i forhold som fell inn under den daglege leiinga.
+Om forretningsførar er ein juridisk person, skal du i tillegg føre opp ein kontaktperson.
+Fødselsnummer/d-nummer/organisasjonsnummer
+Enkeltpersonar: Pass på å få med fødselsnummer i tillegg til namn og bustadadresse.
+Juridiske personar: Gi opp organisasjonsnummer og forretningsadresse.
+Utanlandske personar: Personar utan norsk fødselsnummer må gi opp d-nummer.
+Les meir om tildeling av d-nummer.
+
+
+
+
+
+
+
+
+
+
+ 
+                                10 Ønske om målform                            
+
+
+
+Skriftleg kommunikasjon til foreininga vil skje på vald målform.
+
+
+
+
+
+
+
+
+
+
+ 
+                                11 Foreninga sine vedtekter                            
+
+
+
+Dette feltet skal berre brukast dersom foreininga skal registrerast i Føretaksregisteret. Gi opp datoen då vedtektene blei fastsette eller endra.
+Vedtektene må alltid vedleggast ved nyregistrering. Ved endringar av vedtektene må det vedleggast eit ajourført eksemplar.
+
+
+
+
+
+
+
+
+
+
+ 
+                                12 Styret i foreininga                            
+
+
+
+Registrering i Einingsregisteret
+Dersom foreininga har eit styre, skal alle medlemer, med unnatak av varamedlemer, førast opp her.
+Registrering i Frivilligregisteret:
+Dersom foreininga skal registrerast i Frivilligregisteret, må ho ha eit styre, sjå frivilligregisterlova § 5.
+Registrering i Føretaksregisteret:
+Foreininga må oppgi eit styre, sjå føretaksregisterlova § 3-6 fyrste ledd nr 5. Legg inn heile styret (leiar, nestleiar, styremedlemer og varamedlemer) i skjemaet. Du må føre opp fullt fødselsnummer, namn og adresse på medlemmene uavhengig av kva register foreininga skal registrere seg i. Personar utan norsk fødselsnummer må føre opp d-nummer.
+For å stadfeste at dei som er oppførde i blanketten er vald, må du legge ved protokoll som viser valet. Både ved nyregistrering og endringar må alle styremedlemer førast opp.
+
+
+
+
+
+
+
+
+
+
+ 
+                                13 Signatur                            
+
+
+
+Om nokon er tildelt ei slik fullmakt, må du opplyse om det her. Denne tildelinga må kunne dokumenterast, og leggast ved meldinga.  Fullmakta kan framgå av føresegnene i vedtektene til foreininga eller som eige protokollført vedtak. Pass på at signaturføresegner som blir melde er i samsvar med dette.
+At nokon har signaturrett for foreininga betyr at dei har fullmakt til å forplikte foreininga med underskrifta si, til dømes ved låneopptak, sal av fast eigedom eller liknande viktige avgjerder. Dersom nokon er gitt slik fullmakt, må du opplyse om det her.
+Signaturrett kan anten bli gitt til rolleinnehavar(ar) eller namngjeven/namngjevne person(ar). Om ingen av standardalternativa i blanketten passar, kan du gi opp signaturføresegna under «Anna signaturføresegn».
+Er signaturrett gitt til namngjevne personar, må du gi opp namnet, adressa og fødselsnummeret/D- nummeret deira i feltet «Anna signaturføresegn».
+Dersom fleire har signaturrett, må det presiserast om dei har retten kvar for seg eller i fellesskap. Ved endring av dei registrerte opplysningane om signatur, må du føre opp alle som skal ha signatur etter endringa.
+
+
+
+
+
+
+
+
+
+
+ 
+                                14 Prokura                            
+
+
+
+Om nokon er tildelt prokura, må du opplyse om det her. Denne tildelinga må kunne dokumenterast, og leggast ved meldinga.  Fullmakten kan framgå av føresegn i vedtektene til foreininga eller som eige protokollført vedtak. Pass på at prokuraføresegnene som blir melde er i samsvar med dette.
+Prokura omfattar forhold som har med den daglege drifta av foreininga å gjere. Den er ei fullmakt til å skrive under og forplikte foreininga utetter. Prokura blir vanlegvis berre brukt av nokre få næringsdrivande foreiningar, og er ei meir avgrensa fullmakt enn signaturrett.
+Prokura kan anten bli gitt til rolleinnehavar(ar) eller namngjeven/namngjevne person(ar). Dersom ingen av standardalternativa i blanketten høver, kan du gi opp prokura under «Anna prokuraføresegn».
+Er prokura gitt namngitte personar, må du føre opp namnet, adressa og fødselsummeret/D-nummeret i feltet for «Anna prokuraføresegn».
+Om fleire har prokura, må det presiserast om dei har retten kvar for seg eller i fellesskap. Ved endring av registrerte opplysningar om prokura, må du gi opp alle som skal ha prokura etter endringa.
+
+
+
+
+
+
+
+
+
+
+ 
+                                15 Revisor                            
+
+
+
+Dersom foreininga har ein revisor som er godkjend av Finanstilsynet og er registrert i Revisorregisteret, må opplysningar om dette meldast her.
+Når det gjeld registrering i Føretaksregisteret, har foreininga revisorplikt dersom driftsinntektene av foreininga si samla verksemd er 5 millionar kroner eller meir, og i tillegg anten har fleire enn 20 tilsette eller samla aktiva har ein verdi på 20 millionar kroner eller meir, sjå revisorlova § 2-1 og regnskapslova § 1-2.
+Revisor må stadfeste å ha påteke seg oppdraget, anten ved å skrive under i feltet eller ved å legge ved ei særskild viljeserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                16 Rekneskapsførar                            
+
+
+
+Om foreininga har ein rekneskapsførar som er autorisert av Finanstilsynet og registrert i Rekneskapsførarregisteret, må opplysningar om dette meldast her.
+Rekneskapsføraren må stadfeste å ha påteke seg oppdraget, anten ved å skrive under i feltet eller ved å legge ved ei eiga viljeserklæring.
+
+
+
+
+
+
+
+
+
+
+ 
+                                Felta 17–21 gjeld opplysningar til Frivilligregisteret                            
+
+
+
+Dei som ønsker å registrere foreininga i Frivilligregisteret må fylle ut felta 17–21.
+
+
+
+
+
+
+
+
+
+
+ 
+                                17 Kategori                            
+
+
+
+I dette feltet må du gi opplysningar om kva kategori som høver for den aktiviteten foreininga driv.
+Du må oppgi kategorikode, sjå tilgjengelege kategoriar under Nyttige lenker til høgre. NB! Det er ikkje tilstrekkeleg å melde hovudkode, til dømes kode 1 «Kultur og rekreasjon». Opplysning må bli gitt på underkodenivå, til dømes: kode 1 100, «Kunst og kultur».
+Om foreininga driv fleire slag aktivitetar, er det mogeleg å melde inntil tre ICNPO-kategoriar. Kategoriane må rangerast etter omfang.
+Døme:
+Eit grendelag driv med forskjellige aktivitetar knytta til det lokalsamfunnet det høyrer heime i, nærmast som ei velforeining. I tillegg driv dei nokså mykje med teateroppsetjingar.
+Dei melder kategori slik:
+
+6 100, Lokalsamfunnsutvikling, rangert som nummer 1
+1 100, Kunst og kultur, rangert som nummer 2
+
+Om du vil endre opplysningar om kategori, må du gi opp alle kategoriar som skal registrerast. Det vil seie at kategoriar som tidlegare er melde og som framleis skal vere registrerte, må gis opp på nytt.
+
+
+
+
+
+
+
+
+
+
+ 
+                                18 Registrering av vedtekter for foreiningar                            
+
+
+
+Når foreininga skal registrerast i Frivilligregisteret fyrste gong, må vedtektene alltid vedleggast.
+Opplysningane i vedtektene blir blant anna brukt for å kunne vurdere om foreininga har rett til å bli registrert.
+Foreiningar kan velje om dei vil registrere vedtektene sine. Ved å gjere dette kan andre enkelt skaffe seg tilgang til og innsyn i dei gjeldande vedtektene. Dette kan vere med å auke tilliten til foreininga.
+Om foreininga vel å registrere vedtektene, er det krav om eit visst minimumsinnhald av opplysningar i vedtektene:
+
+namnet til foreininga
+føremål
+årsmøte
+styre
+val til styre
+vedtektsendringar
+opphøyr
+
+Krav til innhald finn du i frivillighetsregisterlova § 6, 2. ledd
+Vi gjer merksam på at det er eigne reglar for stiftelsar og aksjeselskap i denne samanhengen.
+18.1 Registrering av vedtekter
+Kryss av om du ønsker at foreninga skal registrere vedtektene sine. Det er viktig å vere klar over at når de har påteke dykk å registrere vedtektene, har de også påteke dykk å registrere alle framtidige endringar av desse. Dette gjer du ved å sende oss ei melding om endring, samtidig som nye – oppdaterte vedtekter blir vedlagde. Det er mogeleg både å påta seg og seie ifrå seg seg denne plikta ved eit seinare høve.
+18.2 Gjeldande vedtekter er endra
+Har foreininga vald å registrere vedtektene sine, har dei samtidig teke på seg ei plikt til å registrere endringar/oppdateringar av desse. Ved innsending av melding om endring av dei registrerte opplysningane, må du gjere oss merksame på at dei gjeldande vedtektene er endra/oppdaterte her.
+Dei endra/oppdaterte vedtektene må leggast ved.
+
+
+
+
+
+
+
+
+
+
+ 
+                                19 Årsrekneskap i Frivilligsregisteret                            
+
+
+
+Det er mogeleg for foreiningane sjølv å ta på seg plikt til årleg innsending av årsrekneskap. Ein grunn til å gjere dette, kan vere ønske om at andre enkelt skal få tilgang til rekneskapsopplysningane. Einingar som har påteke seg innsendingsplikt for årsrekneskap vil framstå som opne og ryddige, ettersom rekneskapsopplysningane då vil vere tilgjengeleg for alle gjennom Rekneskapsregisteret.
+Om foreininga vel å ta på seg innsendingsplikt, må de sende inn årsrekneskap til Rekneskapsregisteret kvart år.
+Krava som blir stilte til årsrekneskapen som skal sendast inn, er annleis og enklare enn krava som er stilte i rekneskapslova. Nærmare opplysningar om desse reglane finn du i forskrift om register for frivillig verksemd. Ver merksam på at foreiningar som har alminneleg rekneskapsplikt etter rekneskapslova ikkje kan nytte seg av desse særreglane. Desse foreiningane skal sende inn årsrekneskap til Rekneskapsregisteret etter dei ordinære reglane.
+Svarer du «Ja» på spørsmålet om foreininga påtar seg plikt til å rapportere rekneskap, må du gi opp avslutningsdato for årsrekneskap.
+Om rekneskapsperioden blir endra, må du oppgi kva for eit rekneskapsår endringa gjeld ifrå, og ny avslutningsdato. Dersom foreininga ikkje lenger vil ha innsendingsplikt, kan de sende melding om dette til Frivilligregisteret.
+Du finn skjema for innsending av årsrekneskap i Altinn.
+
+
+
+
+
+
+
+
+
+
+ 
+                                20 Grasrotdelen                            
+
+
+
+Registrering i Frivilligregisteret er eit vilkår for å kunne ta imot midlar via grasrotandelen.
+Denne ordninga går ut på at spelarar som nyttar tenester frå Norsk Tipping kan fastsetje at inntil 5 prosent av innsatsen skal gå til ei bestemt foreining eller annan frivillig organisasjon.
+Spelaren kan berre velje mellom dei som er registrerte i Frivilligregisteret.Registrering i Frivilligregisteret kan altså gi foreininga di høve til å få nye inntekter. Om foreininga vil delta i grasrotandelen, kryssar du av for «Ja» i dette feltet.
+Ver merksam på følgjande: Dersom du kryssar av for «Ja» i dette feltet, stadfestar du samtidig at foreininga di driv eiga verksemd berre på lokalt eller regionalt plan. Foreiningar som er paraplyorganisasjonar for lokale lag kan ikkje delta i grasrotandelen.
+Foreiningar som ikkje ønsker å delta i grasrotandelen, kan de reservere seg ved å krysse «Nei» i dette feltet.
+For å ha rett til å ta del i grasrotandelen, må dessutan den verksemda som blir driven være av ein særskild art. Avgrensingane her er for det meste, men ikkje berre, baserte på den kategoriseringa som blir registrert i Frivilligregistreret.
+Detaljerte reglar
+Foreiningar som driv verksemd innanfor minst ein av desse kategoriane, kan delta i grasrotandelen:
+1 – Kultur og rekreasjon
+2 – Utdanning og forskning
+Organisasjonar som driv si primærverksemd innanfor hovudkategorien utdanning og forsking kan ikkje delta i grasrotdelen.
+3 – Helse
+Kan delta i grasrotdelen, men ikkje dei organisasjonane som driv sjukehus, rehabilitering, sjukeheim, psykiatriske institusjonar, pleieheim eller nokon form for private helseklinikkar.
+4 – Sosiale tenester
+5 – Natur- og miljøvern
+6 – Bustad- og lokalmiljø
+Kan ikkje delta i grasrotandelen. Unnatak gjeld for velforeningar, som likevel har rett til å delta.
+7 –Politiske- og interesseorganisasjonar
+Kan delta i grasrotandelen, men ikkje dei organisasjonane som utgjer politiske parti. Dei politiske partia sine ungdomsorganisasjonar kan likevel delta.
+8 – Legat og fremje av frivilligheit
+9 – Internasjonale organisasjonar
+10 – Trus- og livssynsorganisasjonar
+11 – Yrkes-, bransje- og fagforeiningr
+12 – Andre
+13 – Barne- og ungdomsorganisasjonar
+14 – Mangfald og inkludering
+Aktivitet i fleire kategoriar
+Det er nok at organisasjonen er registrert i minst ein kategori som gir rett til å delta i grasrotandelen. At dei eventuelt også er registrerte i ein eller fleire kategoriar som ikkje kan delta i ordninga, har inga betydning.
+Kan ikkje nytte seg av betald reklame
+Foreningar som mottar pengar frå grasrotandelen kan ikkje nytte seg av betald reklame for å få spillarar til å gje delen sin foreninga si, sjå grasrotforskrifta § 4. Likevel har alle lag og foreiningar høve til å publisere i eigne kanalar, henge opp materiell og dele ut vervekort og vervebrev.
+Fiktiv foreining
+Det er ikkje lov å opprette ei forening berre for å få utbetald grasrotandelen, sjå grasrotforskrifta § 2. I slike tilfelle kan ei slik «foreining» bli pålagd å betale tilbake grasrotmidlane.
+Grasrotandelen blir forvalta av Norsk Tipping, som har meir informasjon om ordninga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                21 Kontonummer                            
+
+
+
+Har du kryssa av for at foreininga skal vere med i grasrotandelen, må du gi opp kontonummeret til foreininga, sjå grasrotforskrifta § 3,e.
+Er ikkje kontonummer gitt opp, eller feil slik at Norsk Tipping ikkje får utbetalt grasrotandelen, vil foreining miste retten til opptjente pengar, sjå grasrotforskrifta § 4, tredje ledd..
+Andre kan velje å registrere kontonummeret sitt i Frivilligregisteret. Det gjer at dei som måtte ha bruk for det, for eksempel gjevarar, lett kan finne kontonummeret til foreninga.
+
+
+
+
+
+
+
+
+
+
+ 
+                                22 Andre merknader                            
+
+
+
+Her melder du opplysningar som ikkje kan meldast i dei andre felta i blanketten. Legg ved ekstra ark dersom det blir for liten plass.
+
+
+
+
+
+
+
+
+
+
+ 
+                                23 Varslingsadresse                            
+
+
+
+Varslingsadresse er ei pliktig opplysning.
+Varslingsadresse skal berre leggast inn på nye verksemder.
+Varslingsadressene vil bli brukt av det offentlege for å varsle verksemda når viktige meldingar er tilgjengelege i Altinn. Opplysningane er berre tilgjengelege for offentlege myndigheiter.
+Skal du endre desse opplysningane seinare, gjer du det under profilen til verksemda i Altinn.
+Verksemda må ha minst ei varslingsadresse.
+
+
+
+
+
+
+
+
+
+
+ 
+                                24 Underskrift                            
+
+
+
+Meldinga må vere underskriven for at ho skal bli godkjend. Den/dei som skriv under på meldinga, stadfestar med underskrifta si at opplysningane som er gitt i blanketten er riktige.
+Kven som skal skrive under, kjem an på kva registre foreininga skal bli registrert i: Om meldinga berre gjeld Einingsregisteret eller Frivilligregisteret, skal ho underskrivast av anten dagleg leiar, forretningsførar eller kontaktperson, eller av alle styremedlemene.
+Om meldinga gjeld Føretaksregisteret, skal ho underskrivast av den/dei som har signaturrett eller alle styremedlemer. Nyvalde styremedlemer som ikkje har underskrive meldinga, må legge ved viljeserklæring som stadfestar at dei har påteke seg vervet.
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Rettleiing til samordna registermelding -  forenkla skjema for foreiningar
+
+
+
+
+Maskinell saksbehandling
+
+
+
+
+
+
+
+Fann du det du leita etter?
+
+Vel tilbakemeldinga di
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Kva synst du om sida?
+Det var dumt! Kva leita du etter?
+
+Skriv kommentaren din her. Ikkje legg inn personopplysningar.
+
+
+Ikkje skriv her, det er ei robotfelle            
+
+                Uff, her er det ikkje plass til meir enn 255 teikn! Har du meir du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn eit telefonnummer eller fødselsnummer. Ta bort dette frå kommentaren og send inn. Vi vil berre ha den ærlege meininga di om sida, vi kan ikkje ta i mot personopplysningar her.            
+
+            Vi svarer ikkje på denne kommentaren. Treng du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldinga di hjelper oss med å forbetre nettsida vår.                
+
+
+
+Beklagar! Vi har problem med systema våre.
+
+                        Tilbakemeldinga di blei ikkje send.                        Prøv ein gong til eller prøv igjen seinare. Du kan også                        
+                            sjekke driftsmeldingane våre for meir informasjon.
+                    
+
+
+
+
+
+                    Last inn sida på nytt                
+
+
+
+
+
+
+
+
+

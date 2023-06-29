@@ -1,0 +1,126 @@
+
+
+
+
+Næringskoder
+
+Sist oppdatert: 31. mai 2023.
+
+
+
+
+
+Næringskoden skal vise virksomhetens hovedaktivitet, og den skal primært dekke statistiske behov for Statistisk sentralbyrå (SSB).
+
+Registrering av næringskode
+Enhetsregisteret registrerer næringskode ved nyregistrering av en virksomhet, og endrer næringskoden hvis en virksomhet melder ny aktivitet eller bransje. Innen finansnæringene, store foretak, foretaksgrupper og offentlig forvaltning er det SSB som registrerer næringskodene, og de blir deretter overført til Enhetsregisteret.
+De fleste virksomheter skal bare ha én næringskode, og denne skal vise virksomhetens hovedaktivitet.
+Endring av næringskode – feil næringskode
+Hvis virksomheten har feil næringskode, kan du endre aktivitet/bransje i skjemaet Samordnet registermelding i Altinn. Husk å skrive hovedaktiviteten først, da det er denne som bestemmer hvilken næringskode virksomheten vil få.
+Næringskoder
+Næringskodene skal primært dekke statistiske behov for Statistisk sentralbyrå (SSB), og fastsettes etter Standard for næringsgruppering. Fra 2008 er gjeldende standard betegnet SN2007 og bygger på EUs næringsstandard Nace Rev. 2.
+Standarden er i første rekke en statistisk standard. Den danner grunnlag for koding av virksomheter etter viktigste aktivitet i Statistisk sentralbyrås virksomhet- og foretaksregister, og for virksomheter i Enhetsregisteret. Den er en av de viktigste standardene i økonomisk statistikk, og gjør det mulig å sammenligne og analysere statistiske opplysninger både nasjonalt og internasjonalt, og over tid.
+Strukturen i NACE
+Næringshovedområde – første nivå identifisert ved en bokstavkode
+Næring                            – andre nivå identifisert ved en tosifret tallkode
+Næringshovedgruppe  – tredje nivå identifisert ved en tresifret tallkode
+Næringsgruppe             – fjerde nivå identifisert ved en firesifret tallkode (NACE-kode)
+Næringskode                 – femte nivå identifisert ved en femsifret tallkode (Næringskode)
+ 
+Eksempel på strukturering av næringskodene
++ F Bygge- og anleggsvirksomhet
+–41 Oppføring av bygninger
+–41.1 Utvikling av byggeprosjekter
+–41.10 Utvikling av byggeprosjekter
+–41.101 Boligbyggelag
+–41.109 Utvikling og salg av egen fast eiendom ellers
+Bokstavkoden for næringshovedområde vises ikke i selve NACE-koden. I tillegg til den firesifrede NACE-koden (EUs firesifrede kode) er mange koder splittet opp på nasjonalt nivå ved hjelp av et femte siffer.
+Den femsifrede koden som brukes i Norge heter næringskode.
+ 
+
+
+
+
+
+
+Foretakssøk
+
+
+
+
+
+
+
+
+
+Nyttige lenker
+
+Oversikt over næringskoder
+
+
+
+
+
+Samordnet registermelding
+
+
+
+
+
+
+
+Fant du det du lette etter?
+
+Velg din tilbakemelding
+
+Ja
+Nei
+
+
+
+
+
+
+Så bra! Hva synes du om siden?
+Det var dumt! Hva lette du etter?
+
+Skriv kommentaren din her. Ikke legg inn personopplysninger.
+
+
+Ikke skriv her, det er en robotfelle            
+
+                Uff, her er det ikke plass til mer enn 255 tegn! Har du mer du vil kommentere? Send oss gjerne kommentaren din i kontaktskjemaet vårt.            
+
+                Oi sann! Det ser ut til at du har lagt inn et telefonnummer eller fødselsnummer. Ta bort dette fra kommentaren, og send inn. Vi vil bare ha din ærlige tilbakemelding om siden, vi kan ikke ta imot personopplysninger her.            
+
+            Vi svarer ikke på denne kommentaren. Trenger du hjelp, kontakt kundeservicen vår.            
+Send inn
+
+
+
+Takk!
+
+                    Tilbakemeldingen din hjelper oss med å forbedre nettsiden vår.                
+
+
+
+Beklager! Vi har problemer med systemene våre.
+
+                        Tilbakemeldingen din ble ikke sendt inn.                        Forsøk en gang til eller prøv igjen senere. Du kan også                        
+                            sjekke driftsmeldingene våre for mer informasjon.
+                    
+
+
+
+
+
+                    Last inn siden på nytt                
+
+
+
+
+
+
+
+
+
