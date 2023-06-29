@@ -1,4 +1,4 @@
-# PLACEHOLDER
+# Sonat LLM og tekstanalyse repository
 
 ## Slik kjører du prosjektet:
 
